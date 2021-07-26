@@ -27,9 +27,9 @@
 
 ***
   <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=suvraneel&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,php">
-  <img src = "https://github-readme-stats.vercel.app/api?username=suvraneel&show_icons=true&theme=radical&hide_border=true" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=suvraneel&theme=radical&hide_border=true" width = 400>
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=suvraneel&layout=compact&hide_border=true&theme=vision-friendly-dark&langs_count=6&hide=jupyter%20notebook,tex,php">
+  <img src = "https://github-readme-stats.vercel.app/api?username=suvraneel&show_icons=true&theme=vision-friendly-dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=suvraneel&theme=vision-friendly-dark&hide_border=true" width = 400>
   </p>
 
 ***
