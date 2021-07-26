@@ -5,10 +5,13 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently pursuing B.Tech in Computer Science Engineering at the University of Calcutta.
-- 🌱 I’m currently learning on Responsive Web Design, JavaScript, SQL
-- 📫 You can reach me at **bsuvraneel@gmail.com**
-- 😄 Pronouns: He/Him
+- ✨ My name is **Suvraneel Bhuin**
+- 🔭 I’m currently pursuing B.Tech in **Computer Science Engineering** at the **University of Calcutta**
+- 🌱 I’m currently working on Responsive Web Design, JavaScript, SQL
+- :mailbox: You can reach me at **bsuvraneel@gmail.com**
+- :jack_o_lantern: Pronouns: He/Him
+- :package: **Competencies**: C++, Java, JavaScript, C, HTML5, CSS3, SQL, Flutter, Dart, Arduino UNO
+- :soccer: **Hobbies**: PC Gaming, Coding, Reading, Soccer
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
