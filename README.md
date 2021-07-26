@@ -24,11 +24,11 @@ Here are some ideas to get you started:-->
 </p>-->
 
 - **Gmail**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; bsuvraneel@gmail.com
-- **LinkedIn**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.linkedin.com/in/suvraneel-bhuin/
-- **Facebook**: &nbsp;&nbsp;&nbsp; https://www.facebook.com/suvraneel.bhuin
-- **Instagram**: &nbsp;&nbsp; https://www.instagram.com/el_diablo_suvraneel
-- **Discord**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://discord.com/users/851345743935045652/
-- **WhatsApp**: &nbsp; [+91 7001967224](https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!)
+- **LinkedIn**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.linkedin.com/in/suvraneel-bhuin/
+- **Facebook**: &nbsp;&nbsp;&nbsp;&nbsp; https://www.facebook.com/suvraneel.bhuin
+- **Instagram**: &nbsp;&nbsp;&nbsp; https://www.instagram.com/el_diablo_suvraneel
+- **Discord**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://discord.com/users/851345743935045652/
+- **WhatsApp**: &nbsp;&nbsp; [+91 7001967224](https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!)
 
 ***
 
