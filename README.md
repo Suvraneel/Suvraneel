@@ -1,6 +1,6 @@
 <p align="left"><img src="https://profile-counter.glitch.me/{Suvraneel}/count.svg"></p>
 
-## Hey there, I'm Suvraneel Bhuin <img src="https://media1.tenor.com/images/4484710ca58feba446bca78bfc8b1b0b/tenor.gif" width="40">
+## Hey there, I'm Suvraneel Bhuin <img src="https://media.tenor.com/images/043986fe5f470eeb6d86515e6cda30fe/tenor.gif" width="40">
 - 🔭 I’m currently pursuing B.Tech in **Computer Science Engineering** at the **University of Calcutta**
 - 🌱 I’m currently working on Responsive Web Design, JavaScript, SQL
 - :mailbox: You can reach me at **bsuvraneel@gmail.com**
