@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/{Suvraneel}/count.svg)
+<p align="center">![Visitor Count](https://profile-counter.glitch.me/{Suvraneel}/count.svg)</p>
 
 ## Hey there, I'm Suvraneel Bhuin <img src="https://media1.tenor.com/images/4484710ca58feba446bca78bfc8b1b0b/tenor.gif" width="50" > 
 - 🔭 I’m currently pursuing B.Tech in **Computer Science Engineering** at the **University of Calcutta**
