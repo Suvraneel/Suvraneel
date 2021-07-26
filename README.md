@@ -1,13 +1,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/{Suvraneel}/count.svg)
 
-## Hi there 👋
-
-<!--
-**Suvraneel/Suvraneel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
-
-- ✨ My name is **Suvraneel Bhuin**
+## Hey there, I'm Suvraneel Bhuin <img src="https://media.tenor.com/images/dde00ef959f44dc5279786fc7f20fe5b/tenor.gif" width="50" > 
 - 🔭 I’m currently pursuing B.Tech in **Computer Science Engineering** at the **University of Calcutta**
 - 🌱 I’m currently working on Responsive Web Design, JavaScript, SQL
 - :mailbox: You can reach me at **bsuvraneel@gmail.com**
