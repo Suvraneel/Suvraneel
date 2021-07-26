@@ -24,7 +24,7 @@ Here are some ideas to get you started:-->
 </p>-->
 
 - **Gmail**:     bsuvraneel@gmail.com
-- **LinkedIn**:  https://www.linkedin.com/in/suvraneel-bhuin/
+- **LinkedIn**:&nbsp&nbsphttps://www.linkedin.com/in/suvraneel-bhuin/
 - **Facebook**:  https://www.facebook.com/suvraneel.bhuin
 - **Instagram**: https://www.instagram.com/el_diablo_suvraneel
 - **Discord**:   https://discord.com/users/851345743935045652/
