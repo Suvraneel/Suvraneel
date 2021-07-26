@@ -1,6 +1,6 @@
-<p align="center"><img src="https://profile-counter.glitch.me/{Suvraneel}/count.svg"></p>
+<p align="left"><img src="https://profile-counter.glitch.me/{Suvraneel}/count.svg"></p>
 
-## Hey there, I'm Suvraneel Bhuin <img src="https://media1.tenor.com/images/4484710ca58feba446bca78bfc8b1b0b/tenor.gif" width="20">
+## Hey there, I'm Suvraneel Bhuin <img src="https://media1.tenor.com/images/4484710ca58feba446bca78bfc8b1b0b/tenor.gif" width="40">
 - 🔭 I’m currently pursuing B.Tech in **Computer Science Engineering** at the **University of Calcutta**
 - 🌱 I’m currently working on Responsive Web Design, JavaScript, SQL
 - :mailbox: You can reach me at **bsuvraneel@gmail.com**
@@ -26,7 +26,7 @@
 - **WhatsApp**: &nbsp;&nbsp;&nbsp; [+91 7001967224](https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!)
 
 ***
-  <p align="center">
+  <p align="left">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=suvraneel&layout=compact&hide_border=true&theme=vision-friendly-dark&langs_count=6&hide=jupyter%20notebook,tex,php" width = 400><br>
   <img src = "https://github-readme-stats.vercel.app/api?username=suvraneel&show_icons=true&theme=vision-friendly-dark&hide_border=true" width = 400><br>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=suvraneel&theme=vision-friendly-dark&hide_border=true" width = 400>
