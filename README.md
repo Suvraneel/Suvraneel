@@ -23,11 +23,11 @@ Here are some ideas to get you started:-->
 <a href="https://discord.com/users/851345743935045652/" id="discord"><img style="filter: invert(1);"  src="https://raw.githubusercontent.com/Suvraneel/Suvraneel.github.io/main/resources/Social-Dark-icons/discord.svg" height="30" width="40"></a>
 </p>-->
 
-- **Gmail**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; bsuvraneel@gmail.com
+- **Gmail**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; bsuvraneel@gmail.com
 - **LinkedIn**: &nbsp;&nbsp; https://www.linkedin.com/in/suvraneel-bhuin/
 - **Facebook**: &nbsp;&nbsp; https://www.facebook.com/suvraneel.bhuin
-- **Instagram**: &nbsp; https://www.instagram.com/el_diablo_suvraneel </p>
-- **Discord**: &nbsp;&nbsp;&nbsp; https://discord.com/users/851345743935045652/ </p>
+- **Instagram**: &nbsp; https://www.instagram.com/el_diablo_suvraneel
+- **Discord**: &nbsp;&nbsp;&nbsp; https://discord.com/users/851345743935045652/
 - **WhatsApp**: &nbsp;&nbsp; [+91 7001967224](https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!)
 
 ***
