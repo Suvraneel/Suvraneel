@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **Suvraneel/Suvraneel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,14 +13,22 @@ Here are some ideas to get you started:-->
 - :package: **Competencies**: C++, Java, JavaScript, C, HTML5, CSS3, SQL, Flutter, Dart, Arduino UNO
 - :soccer: **Hobbies**: PC Gaming, Coding, Reading, Soccer
 
-<h3 align="left">Connect with me on:</h3>
+##Connect with me on:
+<!--
 <p align="left">
 <a href="https://www.linkedin.com/in/suvraneel-bhuin" target="_blank"><img style="filter: invert(1);" src="https://raw.githubusercontent.com/Suvraneel/Suvraneel.github.io/main/resources/Social-Dark-icons/linkedin.svg" height="30" width="40"></a>
 <a href="https://www.instagram.com/el_diablo_suvraneel" target="_blank"><img style="filter: invert(1);" src="https://raw.githubusercontent.com/Suvraneel/Suvraneel.github.io/main/resources/Social-Dark-icons/instagram.svg" height="30" width="40"></a>
 <a href="https://github.com/Suvraneel" target="_blank"><img style="filter: invert(1);"  src="https://raw.githubusercontent.com/Suvraneel/Suvraneel.github.io/main/resources/Social-Dark-icons/github.svg" height="30" width="40"></a>
 <a href="https://www.facebook.com/suvraneel.bhuin" target="_blank"><img style="filter: invert(1);"  src="https://raw.githubusercontent.com/Suvraneel/Suvraneel.github.io/main/resources/Social-Dark-icons/facebook.svg" height="30" width="40"></a>
-<a id="discord"><img style="filter: invert(1);"  src="https://raw.githubusercontent.com/Suvraneel/Suvraneel.github.io/main/resources/Social-Dark-icons/discord.svg" height="30" width="40">Diablo#1147</a>
-</p>
+<a href="https://discord.com/users/851345743935045652/" id="discord"><img style="filter: invert(1);"  src="https://raw.githubusercontent.com/Suvraneel/Suvraneel.github.io/main/resources/Social-Dark-icons/discord.svg" height="30" width="40"></a>
+</p>-->
+
+- **Gmail**: bsuvraneel@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/suvraneel-bhuin/
+- **Facebook**: https://www.facebook.com/suvraneel.bhuin
+- **Instagram**: https://www.instagram.com/el_diablo_suvraneel
+- **Discord**: https://discord.com/users/851345743935045652/
+- **WhatsApp**: [+91 7001967224](https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!)
 
 ***
 
