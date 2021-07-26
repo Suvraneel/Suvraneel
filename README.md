@@ -34,8 +34,8 @@ Here are some ideas to get you started:-->
 
 ***
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suvraneel&langs_count=8)](https://github.com/suvraneel/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=suvraneel&langs_count=8)](https://github.com/suvraneel/github-readme-stats)
 
-![Rajarshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=suvraneel&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=suvraneel&show_icons=true&theme=radical)
 
 ***
