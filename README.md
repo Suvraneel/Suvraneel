@@ -10,6 +10,12 @@ Here are some ideas to get you started:-->
 - 📫 You can reach me at **bsuvraneel@gmail.com**
 - 😄 Pronouns: He/Him
 
+<style>
+	.social{
+  filter: invert(1);
+}
+</style>
+
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/suvraneel-bhuin" target="_blank"><img class="social" src="https://raw.githubusercontent.com/Suvraneel/Suvraneel.github.io/main/resources/Social-Dark-icons/linkedin.svg" height="30" width="40"></a>
