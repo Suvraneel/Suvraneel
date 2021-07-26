@@ -1,6 +1,6 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{Suvraneel}/count.svg"></p>
 
-<h2 align="center">Hey there, I'm Suvraneel Bhuin <img src="https://media1.tenor.com/images/4484710ca58feba446bca78bfc8b1b0b/tenor.gif" width="50" ></h2>
+## Hey there, I'm Suvraneel Bhuin <img src="https://media1.tenor.com/images/4484710ca58feba446bca78bfc8b1b0b/tenor.gif" width="20">
 - 🔭 I’m currently pursuing B.Tech in **Computer Science Engineering** at the **University of Calcutta**
 - 🌱 I’m currently working on Responsive Web Design, JavaScript, SQL
 - :mailbox: You can reach me at **bsuvraneel@gmail.com**
@@ -8,7 +8,7 @@
 - :package: **Competencies**: C++, Java, JavaScript, C, HTML5, CSS3, SQL, Flutter, Dart, Arduino UNO
 - :soccer: **Hobbies**: PC Gaming, Coding, Reading, Soccer
 
-<h2 align="center">Connect with me on:</h2>
+## Connect with me on:
 <!--
 <p align="left">
 <a href="https://www.linkedin.com/in/suvraneel-bhuin" target="_blank"><img style="filter: invert(1);" src="https://raw.githubusercontent.com/Suvraneel/Suvraneel.github.io/main/resources/Social-Dark-icons/linkedin.svg" height="30" width="40"></a>
