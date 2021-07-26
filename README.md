@@ -13,7 +13,7 @@ Here are some ideas to get you started:-->
 - :package: **Competencies**: C++, Java, JavaScript, C, HTML5, CSS3, SQL, Flutter, Dart, Arduino UNO
 - :soccer: **Hobbies**: PC Gaming, Coding, Reading, Soccer
 
-##Connect with me on:
+## Connect with me on:
 <!--
 <p align="left">
 <a href="https://www.linkedin.com/in/suvraneel-bhuin" target="_blank"><img style="filter: invert(1);" src="https://raw.githubusercontent.com/Suvraneel/Suvraneel.github.io/main/resources/Social-Dark-icons/linkedin.svg" height="30" width="40"></a>
@@ -23,12 +23,12 @@ Here are some ideas to get you started:-->
 <a href="https://discord.com/users/851345743935045652/" id="discord"><img style="filter: invert(1);"  src="https://raw.githubusercontent.com/Suvraneel/Suvraneel.github.io/main/resources/Social-Dark-icons/discord.svg" height="30" width="40"></a>
 </p>-->
 
-- **Gmail**: bsuvraneel@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/suvraneel-bhuin/
-- **Facebook**: https://www.facebook.com/suvraneel.bhuin
+- **Gmail**:     bsuvraneel@gmail.com
+- **LinkedIn**:  https://www.linkedin.com/in/suvraneel-bhuin/
+- **Facebook**:  https://www.facebook.com/suvraneel.bhuin
 - **Instagram**: https://www.instagram.com/el_diablo_suvraneel
-- **Discord**: https://discord.com/users/851345743935045652/
-- **WhatsApp**: [+91 7001967224](https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!)
+- **Discord**:   https://discord.com/users/851345743935045652/
+- **WhatsApp**:  [+91 7001967224](https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!)
 
 ***
 
