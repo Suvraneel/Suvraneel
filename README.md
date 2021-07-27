@@ -1,12 +1,12 @@
 <p align="left"><img src="https://profile-counter.glitch.me/{Suvraneel}/count.svg"></p>
 
 ## Hey there, I'm Suvraneel Bhuin <img src="https://media.tenor.com/images/043986fe5f470eeb6d86515e6cda30fe/tenor.gif" width="40">
-- 🔭 I’m currently pursuing B.Tech in **Computer Science Engineering** at the **University of Calcutta**
-- 🌱 I’m currently working on Responsive Web Design, JavaScript, SQL
+- :computer: I’m currently pursuing B.Tech in **Computer Science Engineering** at the **University of Calcutta**
+- :crystal_ball: I’m currently working on Responsive Web Design, JavaScript, SQL
 - :mailbox: You can reach me at **bsuvraneel@gmail.com**
-- :jack_o_lantern: Pronouns: He/Him
+- :bowtie: Pronouns: He/Him
 - :package: **Competencies**: C++, Java, JavaScript, C, HTML5, CSS3, SQL, Flutter, Dart, Arduino UNO
-- :soccer: **Hobbies**: PC Gaming, Coding, Reading, Soccer
+- :video_game: **Hobbies**: PC Gaming, Coding, Reading, Soccer
 
 ## Connect with me on:
 <!--
