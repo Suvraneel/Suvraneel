@@ -11,6 +11,7 @@
 ## Connect with me on:
 
 <p>
+&nbsp;
 <a href="https://www.linkedin.com/in/suvraneel-bhuin" target="_blank">
 <img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/main/res/linkedin.png" height="35" width= auto></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
