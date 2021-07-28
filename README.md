@@ -9,22 +9,27 @@
 - :video_game: **Hobbies**: PC Gaming, Coding, Reading, Soccer
 
 ## Connect with me on:
-<!--
-<p align="left">
-<a href="https://www.linkedin.com/in/suvraneel-bhuin" target="_blank"><img style="filter: invert(1);" src="https://raw.githubusercontent.com/Suvraneel/Suvraneel.github.io/main/resources/Social-Dark-icons/linkedin.svg" height="30" width="40"></a>
-<a href="https://www.instagram.com/el_diablo_suvraneel" target="_blank"><img style="filter: invert(1);" src="https://raw.githubusercontent.com/Suvraneel/Suvraneel.github.io/main/resources/Social-Dark-icons/instagram.svg" height="30" width="40"></a>
-<a href="https://github.com/Suvraneel" target="_blank"><img style="filter: invert(1);"  src="https://raw.githubusercontent.com/Suvraneel/Suvraneel.github.io/main/resources/Social-Dark-icons/github.svg" height="30" width="40"></a>
-<a href="https://www.facebook.com/suvraneel.bhuin" target="_blank"><img style="filter: invert(1);"  src="https://raw.githubusercontent.com/Suvraneel/Suvraneel.github.io/main/resources/Social-Dark-icons/facebook.svg" height="30" width="40"></a>
-<a href="https://discord.com/users/851345743935045652/" id="discord"><img style="filter: invert(1);"  src="https://raw.githubusercontent.com/Suvraneel/Suvraneel.github.io/main/resources/Social-Dark-icons/discord.svg" height="30" width="40"></a>
-</p>-->
 
+<p align="left">
+<a href="https://www.linkedin.com/in/suvraneel-bhuin" target="_blank">
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/main/res/linkedin.png" height="30" width="40"></a>
+<a href="https://www.instagram.com/el_diablo_suvraneel" target="_blank">
+<img src="https://github.com/Suvraneel/Suvraneel/blob/main/res/instagram%20(1).png" height="30" width="40"></a>
+<a href="https://github.com/Suvraneel" target="_blank">
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/main/res/github.png" height="30" width="40"></a>
+<a href="https://www.facebook.com/suvraneel.bhuin" target="_blank">
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/main/res/facebook.png" height="30" width="40"></a>
+<a href="https://discord.com/users/851345743935045652/" id="discord">
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/main/res/discord.png" height="30" width="40"></a>
+</p>
+<!--
 - **Gmail**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; bsuvraneel@gmail.com
 - **LinkedIn**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.linkedin.com/in/suvraneel-bhuin/
 - **Facebook**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.facebook.com/suvraneel.bhuin
 - **Instagram**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.instagram.com/el_diablo_suvraneel
 - **Discord**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://discord.com/users/851345743935045652/
 - **WhatsApp**: &nbsp;&nbsp;&nbsp; [+91 7001967224](https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!)
-
+-->
 ***
   <p align="left">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=suvraneel&layout=compact&hide_border=true&theme=vision-friendly-dark&langs_count=6&hide=jupyter%20notebook,tex,php" width = 400><br>
