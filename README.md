@@ -28,6 +28,7 @@
 <img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/main/res/discord.png" height="35" width= auto></a>
 </p>
 
+<!-- Attribution: "Icon made by Freepik from www.flaticon.com"-->
 <!--
 - **Gmail**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; bsuvraneel@gmail.com
 - **LinkedIn**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.linkedin.com/in/suvraneel-bhuin/
