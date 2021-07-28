@@ -11,19 +11,18 @@
 ## Connect with me on:
 
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/suvraneel-bhuin" target="_blank">
 <img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/main/res/linkedin.png" height="35" width= auto></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/el_diablo_suvraneel" target="_blank">
 <img src="https://github.com/Suvraneel/Suvraneel/blob/main/res/instagram%20(1).png" height="35" width= auto></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Suvraneel" target="_blank">
 <img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/main/res/github.png" height="35" width= auto></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/suvraneel.bhuin" target="_blank">
 <img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/main/res/facebook.png" height="35" width= auto></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/users/851345743935045652/" id="discord">
 <img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/main/res/discord.png" height="35" width= auto></a>
 </p>
