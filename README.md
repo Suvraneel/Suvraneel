@@ -28,6 +28,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/users/851345743935045652/" id="discord">
 <img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/main/res/discord.png" height="35" width= auto></a>
+<a href="(https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!)" id="whatsapp">
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/main/res/whatsapp.png" height="35" width= auto></a>
 </p>
 
 <!-- Attribution: "Icon made by Freepik from www.flaticon.com"-->
