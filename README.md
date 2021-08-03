@@ -24,7 +24,7 @@
 <img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/main/res/github.png" height="35" width= auto></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/suvraneel.bhuin" target="_blank">
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/main/res/facebook.png" height="35" width= auto></a>
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/main/res/facebook_1.png" height="35" width= auto></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/users/851345743935045652/" id="discord">
 <img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/main/res/discord.png" height="35" width= auto></a>
