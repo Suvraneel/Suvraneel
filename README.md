@@ -1,8 +1,11 @@
 [![Header](https://raw.githubusercontent.com/Suvraneel/Suvraneel/main/res/Github%20readme%20Header.png "Portfolio Website")](https://suvraneel.github.io/)
 
-<p align="left"><img src="https://profile-counter.glitch.me/{Suvraneel}/count.svg"></p>
+<p align="left">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://profile-counter.glitch.me/{Suvraneel}/count.svg"></p>
 
-## Hey there, I'm Suvraneel Bhuin <img src="https://media.tenor.com/images/043986fe5f470eeb6d86515e6cda30fe/tenor.gif" width="40">
+<img align="left" src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&color=F70000&size=30&center=true&vCenter=true&multiline=true&weight=100&height=100&lines=Hey+there%2C;I'm+Suvraneel+!"><br>
+<img src="https://media.tenor.com/images/043986fe5f470eeb6d86515e6cda30fe/tenor.gif" width="40"><br><br>
 - :computer: I’m currently pursuing B.Tech in **Computer Science Engineering** at the **University of Calcutta**
 - :crystal_ball: I’m currently working on Responsive Web Design, JavaScript, SQL
 - :mailbox: You can reach me at **bsuvraneel@gmail.com**
