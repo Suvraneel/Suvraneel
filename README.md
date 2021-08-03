@@ -15,22 +15,22 @@
 <p>
 &nbsp;
 <a href="https://www.linkedin.com/in/suvraneel-bhuin" target="_blank">
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/main/res/ln.png" height="35" width= auto></a>
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/main/res/in_splash.png" height="70" width= auto></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/el_diablo_suvraneel" target="_blank">
-<img src="https://github.com/Suvraneel/Suvraneel/blob/main/res/ig.png" height="35" width= auto></a>
+<img src="https://github.com/Suvraneel/Suvraneel/blob/main/res/ig_splash.png" height="70" width= auto></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!--<a href="https://github.com/Suvraneel" target="_blank">
 <img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/main/res/github.png" height="35" width= auto></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
 <a href="https://www.facebook.com/suvraneel.bhuin" target="_blank">
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/main/res/fb.png" height="35" width= auto></a>
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/main/res/fb_splash.png" height="70" width= auto></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/users/851345743935045652/" id="discord">
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/main/res/dc.png" height="35" width= auto></a>
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/main/res/dc_splash.png" height="70" width= auto></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!" id="whatsapp">
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/main/res/wp.png" height="35" width= auto></a>
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/main/res/wp_splash.png" height="70" width= auto></a>
 </p>
 
 <!-- Attribution: "Icon made by Freepik from www.flaticon.com"-->
