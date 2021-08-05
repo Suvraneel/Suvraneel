@@ -30,7 +30,7 @@
 <img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/main/res/fb.png" height="70" width= auto></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/users/851345743935045652/" id="discord">
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/main/res/dc.png" height="70" width= auto></a>
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/main/res/dc.jpg" height="70" width= auto></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!" id="whatsapp">
 <img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/main/res/wp.png" height="70" width= auto></a>
