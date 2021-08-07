@@ -6,7 +6,7 @@
 
 <img align="left" src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&color=F70000&size=30&center=true&vCenter=true&multiline=true&weight=100&height=100&lines=Hey+there%2C;I'm+Suvraneel+!"><br>
 <img src="https://media.tenor.com/images/043986fe5f470eeb6d86515e6cda30fe/tenor.gif" width="40"><br><br>
-<img align='right' src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="250" height="210">
+<img align='right' src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/coder.gif" width="250" height="210">
 - :computer: I’m currently pursuing B.Tech in **Computer Science Engineering** at the **University of Calcutta**
 - :crystal_ball: I’m currently working on Responsive Web Design, JavaScript, SQL
 - :mailbox: You can reach me at **bsuvraneel@gmail.com**
