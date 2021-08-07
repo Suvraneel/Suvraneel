@@ -6,6 +6,7 @@
 
 <img align="left" src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&color=F70000&size=30&center=true&vCenter=true&multiline=true&weight=100&height=100&lines=Hey+there%2C;I'm+Suvraneel+!"><br>
 <img src="https://media.tenor.com/images/043986fe5f470eeb6d86515e6cda30fe/tenor.gif" width="40"><br><br>
+<img align='right' src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="250" height="210">
 - :computer: I’m currently pursuing B.Tech in **Computer Science Engineering** at the **University of Calcutta**
 - :crystal_ball: I’m currently working on Responsive Web Design, JavaScript, SQL
 - :mailbox: You can reach me at **bsuvraneel@gmail.com**
@@ -13,7 +14,13 @@
 - :package: **Competencies**: C++, Java, JavaScript, C, HTML5, CSS3, SQL, Flutter, Dart, Arduino UNO
 - :video_game: **Hobbies**: PC Gaming, Coding, Reading, Soccer
 
-## Connect with me on:
+<br>
+<h2 align=left>
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/Social.gif" height="40" width= auto>
+&nbsp;&nbsp;&nbsp;&nbsp;
+Connect with me on:
+<br></h2>
+
 
 <p>
 &nbsp;
@@ -63,4 +70,4 @@
 
 
 <!--END_SECTION:activity-->
-
+<img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=black&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
