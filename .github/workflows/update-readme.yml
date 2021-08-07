@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -12,6 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: jamesgeorge007/github-activity-readme@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
