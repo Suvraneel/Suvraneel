@@ -2,13 +2,12 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Update this README with recent activity
 
     steps:
       - uses: actions/checkout@v2
