@@ -71,3 +71,6 @@ Connect with me on:
 
 <!--END_SECTION:activity-->
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=black&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
+
+## Now Playing
+[![Spotify](https://spotify-diablo.vercel.app/api/spotify)](https://open.spotify.com/user/4bio4arq8izb9sba4ly6al54v)
