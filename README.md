@@ -68,6 +68,15 @@ Connect with me on:
   </p>
 
 ## :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+
+
+
+
+<!--END_SECTION:activity-->
+
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=black&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!-- START gadpp -->
