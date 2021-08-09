@@ -58,6 +58,13 @@ Connect with me on:
 - **WhatsApp**: &nbsp;&nbsp;&nbsp; [+91 7001967224](https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!)
 -->
 
+<br>
+<h2 align=left>
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/laptop.gif" height="50" width= auto>
+&nbsp;&nbsp;&nbsp;&nbsp;
+Github Stats :
+<br></h2>
+
   <p align="left"> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=suvraneel&layout=compact&hide_border=true&theme=vision-friendly-dark&langs_count=6&hide=jupyter%20notebook,tex,php" width = 400><br>
