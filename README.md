@@ -95,7 +95,7 @@ Recent Activity :
 `[08/09 15:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)  
 `[08/09 15:38]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1`](https://github.com//Suvraneel/Diablo-Music/issues/1 'GH Action test') in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)  
 
-<details><summary> ⚙️ Show More</summary>
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
 
 `[08/09 15:38]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//Suvraneel/Diablo-Music/issues/1 'GH Action test') in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)  
 `[08/09 15:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)  
@@ -177,7 +177,7 @@ Recent Activity :
 <!--END_SECTION:activity-->
 
 <details>
-<summary><b> :octocat: Recent Repo-wise Commits </b></summary>
+<summary> <b>  :octocat: Recent Repo-wise Commits </b></summary>
   
 <!-- START gadpp -->
 - Suvraneel/Diablo-Music, [refs/heads/main@b637d381b7dd1fedfbb46a2c62b1f0b728374e5e](https://github.com/Suvraneel/Diablo-Music/commit/b637d381b7dd1fedfbb46a2c62b1f0b728374e5e)
