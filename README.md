@@ -80,6 +80,7 @@ Connect with me on:
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=black&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <details>
+<summary><b>⚙️ Recent Commits</b></summary>
 <!-- START gadpp -->
 - Suvraneel/Diablo-Music, [refs/heads/main@bfa830bd2d8502b21cee970ae30c7a68f0111645](https://github.com/Suvraneel/Diablo-Music/commit/bfa830bd2d8502b21cee970ae30c7a68f0111645)
 - Suvraneel/C-programming, [refs/heads/main@5c1771e6e8e58b9458e5e0b47dad1925c1164065](https://github.com/Suvraneel/C-programming/commit/5c1771e6e8e58b9458e5e0b47dad1925c1164065)
