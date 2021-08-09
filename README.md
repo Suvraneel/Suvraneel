@@ -85,20 +85,14 @@ Recent Activity :
 
 <!--START_SECTION:activity-->
 `[08/09 20:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[08/09 18:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)  
-`[08/09 18:55]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#2`](https://github.com//Suvraneel/Diablo-Music/issues/2 'Upload Dart files') in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)  
 `[08/09 18:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[08/09 18:48]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme) to [Suvraneel/github-activity-readme](https://github.com/Suvraneel/github-activity-readme)  
 `[08/09 16:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)  
 `[08/09 16:41]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#705`](https://github.com//JessicaLim8/JessicaLim8/issues/705 'wordcloud|add|Diablo') in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)  
 `[08/09 15:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[08/09 15:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)  
-`[08/09 15:38]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1`](https://github.com//Suvraneel/Diablo-Music/issues/1 'GH Action test') in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
-`[08/09 15:38]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//Suvraneel/Diablo-Music/issues/1 'GH Action test') in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)  
-`[08/09 15:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)  
 `[08/09 15:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[08/09 15:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/C-programming](https://github.com/Suvraneel/C-programming)  
 `[08/09 15:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
@@ -127,9 +121,7 @@ Recent Activity :
 `[08/06 07:45]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//Suvraneel/Codechef/issues/1 'Add more contests') in [Suvraneel/Codechef](https://github.com/Suvraneel/Codechef)  
 `[08/06 07:43]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1`](https://github.com//Suvraneel/Suvraneel.github.io/issues/1 'Workflow Test') in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[08/06 07:42]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//Suvraneel/Suvraneel.github.io/issues/1 'Workflow Test') in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
-`[08/06 07:29]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//Suvraneel/Diablo-Music/issues/1 'GH Action test') in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)  
 `[08/06 07:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme)  
-`[08/06 07:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)  
 `[08/06 07:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[08/05 07:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Siddhartha-Dhar/Siddhartha-Dhar](https://github.com/Siddhartha-Dhar/Siddhartha-Dhar)  
 `[08/05 07:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Siddhartha-Dhar/Digital_Circuits_VHDL](https://github.com/Siddhartha-Dhar/Digital_Circuits_VHDL)  
@@ -180,7 +172,7 @@ Recent Activity :
 <summary> <b>  :octocat: Recent Repo-wise Commits </b></summary>
   
 <!-- START gadpp -->
-- Suvraneel/Diablo-Music, [refs/heads/main@b637d381b7dd1fedfbb46a2c62b1f0b728374e5e](https://github.com/Suvraneel/Diablo-Music/commit/b637d381b7dd1fedfbb46a2c62b1f0b728374e5e)
+- Suvraneel/Diablo-Music, [refs/heads/main@1f4fe0f60189c58124ffee397e512c5fe4642750](https://github.com/Suvraneel/Diablo-Music/commit/1f4fe0f60189c58124ffee397e512c5fe4642750)
 - Suvraneel/C-programming, [refs/heads/main@5c1771e6e8e58b9458e5e0b47dad1925c1164065](https://github.com/Suvraneel/C-programming/commit/5c1771e6e8e58b9458e5e0b47dad1925c1164065)
 - Suvraneel/Codechef, [refs/heads/main@128921ea53b2e71b7975dea673f06314af6ab528](https://github.com/Suvraneel/Codechef/commit/128921ea53b2e71b7975dea673f06314af6ab528)
 - Suvraneel/Suvraneel.github.io, [refs/heads/main@7418e28dd86205f54450cb6a6d81ee07f8bfba78](https://github.com/Suvraneel/Suvraneel.github.io/commit/7418e28dd86205f54450cb6a6d81ee07f8bfba78)
