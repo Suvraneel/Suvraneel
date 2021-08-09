@@ -67,6 +67,8 @@ Connect with me on:
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=suvraneel&theme=vision-friendly-dark&hide_border=true" width = 400>
   </p>
 
+<img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=black&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
+
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
@@ -81,7 +83,7 @@ Connect with me on:
 `[08/09 15:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)  
 `[08/09 15:38]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1`](https://github.com//Suvraneel/Diablo-Music/issues/1 'GH Action test') in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)  
 
-<details><summary>Show More</summary>
+<details><summary><b>⚙️ Show More</b></summary>
 
 `[08/09 15:38]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//Suvraneel/Diablo-Music/issues/1 'GH Action test') in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)  
 `[08/09 15:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)  
@@ -161,8 +163,6 @@ Connect with me on:
 
 </details>
 <!--END_SECTION:activity-->
-
-<img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=black&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <details>
 <summary><b>⚙️ Recent Commits</b></summary>
