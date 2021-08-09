@@ -21,7 +21,7 @@
 
 <br>
 <h2 align=left>
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/Social.gif" height="40" width= auto>
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/social.gif" height="40" width= auto>
 &nbsp;&nbsp;&nbsp;&nbsp;
 Connect with me on:
 <br></h2>
@@ -67,12 +67,17 @@ Connect with me on:
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=suvraneel&theme=vision-friendly-dark&hide_border=true" width = 400>
   </p>
 
+<br>
+<h2 align=left>
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/hourglass1.gif" height="50" width= auto>
+&nbsp;&nbsp;&nbsp;&nbsp;
+Recent Activity :
+<br></h2>
+
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=black&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
-## :zap: Recent Activity
-
 <!--START_SECTION:activity-->
-`[08/09 19:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
+`[08/09 19:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[08/09 18:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)  
 `[08/09 18:55]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#2`](https://github.com//Suvraneel/Diablo-Music/issues/2 'Upload Dart files') in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)  
 `[08/09 18:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
@@ -83,7 +88,7 @@ Connect with me on:
 `[08/09 15:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)  
 `[08/09 15:38]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1`](https://github.com//Suvraneel/Diablo-Music/issues/1 'GH Action test') in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)  
 
-<details><summary>Show More</summary>
+<details><summary><b>⚙️ Show Older Activity</b></summary>
 
 `[08/09 15:38]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//Suvraneel/Diablo-Music/issues/1 'GH Action test') in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)  
 `[08/09 15:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)  
@@ -165,7 +170,7 @@ Connect with me on:
 <!--END_SECTION:activity-->
 
 <details>
-<summary><b>⚙️ Recent Commits</b></summary>
+<summary><b> :octocat: Recent Repo-wise Commits </b></summary>
   
 <!-- START gadpp -->
 - Suvraneel/Diablo-Music, [refs/heads/main@b637d381b7dd1fedfbb46a2c62b1f0b728374e5e](https://github.com/Suvraneel/Diablo-Music/commit/b637d381b7dd1fedfbb46a2c62b1f0b728374e5e)
