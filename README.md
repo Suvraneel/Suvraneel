@@ -10,7 +10,8 @@
   <img align="left" src="https://media.tenor.com/images/043986fe5f470eeb6d86515e6cda30fe/tenor.gif" width="40">
 </p>
 <br>
-<img align='right' src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/readme_banner.gif" width="250" height="210">
+<img align='right' src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/readme_banner.gif" width="260" height="auto">
+<br>
 
 - :computer: I’m currently pursuing B.Tech in **Computer Science Engineering** at the **University of Calcutta**
 - :crystal_ball: I’m currently working on Responsive Web Design, JavaScript, SQL
