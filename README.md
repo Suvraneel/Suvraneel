@@ -29,7 +29,6 @@ Connect with me on:
 
 
 <p>
-&nbsp;
 <a href="https://www.linkedin.com/in/suvraneel-bhuin" target="_blank">
 <img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/in.png" height="70" width= auto></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
