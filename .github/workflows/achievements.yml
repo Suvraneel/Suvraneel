@@ -9,10 +9,10 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: Suvraneel/metrics@latest
         with:
           # Your GitHub token
-          API_TOKEN_GITHUB: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: Suvraneel
