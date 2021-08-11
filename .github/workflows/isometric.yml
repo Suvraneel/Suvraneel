@@ -1,4 +1,4 @@
-name: Achievements
+name: Isometric Calender
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
