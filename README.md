@@ -86,14 +86,16 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
-`[08/11 16:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
+`[08/11 19:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
+`[08/11 18:37]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [lowlighter/metrics](https://github.com/lowlighter/metrics) to [Suvraneel/metrics](https://github.com/Suvraneel/metrics)  
+`[08/11 18:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[08/10 19:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/github-activity-readme](https://github.com/Suvraneel/github-activity-readme)  
 `[08/10 18:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[08/09 20:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)  
-`[08/09 20:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `20` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[08/09 20:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)  
+`[08/09 20:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `20` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[08/09 18:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)  
 `[08/09 18:55]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#2`](https://github.com//Suvraneel/Diablo-Music/issues/2 'Upload Dart files') in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)  
 `[08/09 18:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
@@ -176,8 +178,6 @@ Recent Activity :
 `[05/12 15:40]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#6948`](https://github.com//TesseractCoding/NeoAlgo/pull/6948 'Lee Algorithm [Shortest path length in maze (BFS)] [C++]') in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)  
 `[05/12 15:27]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6945`](https://github.com//TesseractCoding/NeoAlgo/issues/6945 'Lee\'s Algorithm') in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)  
 `[05/12 15:27]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#6945`](https://github.com//TesseractCoding/NeoAlgo/issues/6945 'Lee\'s Algorithm') in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)  
-`[05/12 15:22]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6517`](https://github.com//TesseractCoding/NeoAlgo/issues/6517 'Add Lee\'s Algorithm in C++ to find shortest path in maze') in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)  
-`[05/12 15:20]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6517`](https://github.com//TesseractCoding/NeoAlgo/issues/6517 'Add Lee\'s Algorithm in C++ to find shortest path in maze') in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)  
 
 </details>
 <!--END_SECTION:activity-->
