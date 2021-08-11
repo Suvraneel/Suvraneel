@@ -1,4 +1,4 @@
-name: Achievements
+name: Metrics
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
@@ -19,6 +19,10 @@ jobs:
           template: classic
           base: ""
           config_timezone: Asia/Calcutta
+          # Achievements
           plugin_achievements: yes
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
+          # Isometric Calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
