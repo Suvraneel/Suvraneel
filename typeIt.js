@@ -1,3 +1,5 @@
+//https://codesandbox.io/s/readme-intro-gif-forked-4srsq?file=/src/App.vue
+
 import Vue from "vue";
 import App from "./App.vue";
 import TypeIt from "typeit";
