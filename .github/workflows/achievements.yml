@@ -12,9 +12,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
-          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          API_TOKEN_GITHUB: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: Suvraneel
