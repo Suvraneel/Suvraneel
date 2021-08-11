@@ -84,11 +84,11 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/Suvraneel/Diablo-Music/issues/2) in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)
-2. ❗️ Opened issue [#705](https://github.com/JessicaLim8/JessicaLim8/issues/705) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
-3. ❗️ Closed issue [#1](https://github.com/Suvraneel/Diablo-Music/issues/1) in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)
-4. 🗣 Commented on [#1](https://github.com/Suvraneel/Diablo-Music/issues/1) in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)
-5. 💪 Opened PR [#2](https://github.com/Siddhartha-Dhar/Operating_System_Programs/pull/2) in [Siddhartha-Dhar/Operating_System_Programs](https://github.com/Siddhartha-Dhar/Operating_System_Programs)
+`[08/10 19:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
+`[08/10 19:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/github-activity-readme](https://github.com/Suvraneel/github-activity-readme)  
+`[08/10 18:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
+`[08/09 20:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)  
+`[08/09 20:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `20` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
