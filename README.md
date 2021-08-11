@@ -191,4 +191,4 @@ Recent Activity :
 
 <details>
 <summary> <b>  :trophy: GitHub Achievements </b></summary>
-<img src="https://metrics.lecoq.io/Suvraneel?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FCalcutta">
+<img src=""https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/github-metrics.svg"">
