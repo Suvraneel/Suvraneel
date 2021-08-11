@@ -11,6 +11,7 @@ jobs:
     steps:
       - uses: Suvraneel/metrics@latest
         with:
+          filename: metrics.plugin.achievements.svg
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
