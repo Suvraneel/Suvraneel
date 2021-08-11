@@ -191,4 +191,4 @@ Recent Activity :
 
 <details>
 <summary> <b>  :trophy: GitHub Achievements </b></summary>
-<img src=""https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/github-metrics.svg"">
+<img src="https://github.com/Suvraneel/Suvraneel/blob/master/github-metrics.svg">
