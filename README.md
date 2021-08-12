@@ -100,10 +100,10 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
-`[08/11 21:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[08/11 20:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[08/11 20:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[08/11 19:41]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter) to [Suvraneel/lowlighter](https://github.com/Suvraneel/lowlighter)  
+1. ❗️ Opened issue [#2](https://github.com/Suvraneel/Diablo-Music/issues/2) in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)
+2. ❗️ Opened issue [#705](https://github.com/JessicaLim8/JessicaLim8/issues/705) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
+3. ❗️ Closed issue [#1](https://github.com/Suvraneel/Diablo-Music/issues/1) in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)
+4. 🗣 Commented on [#1](https://github.com/Suvraneel/Diablo-Music/issues/1) in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)
 `[08/11 19:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
