@@ -69,10 +69,13 @@ Competencies:
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&labelColor=e65c00&color=FE7D37)
 ![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&labelColor=black&color=red)
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&labelColor=006199)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&labelColor=black&color=7952B3)
 ![JavaScript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=DFA200)
 ![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&labelColor=0a97c2&color=0dbdf2)
 ![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&labelColor=1f7a7a&color=2eb8b8)
-
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&labelColor=black&color=red)
+![Arduino](https://img.shields.io/badge/Arduino-blue?style=for-the-badge&logo=arduino&labelColor=black&color=00979D)
+![GNUbash](https://img.shields.io/badge/GNU_Bash-blue?style=for-the-badge&logo=gnubash&labelColor=black&color=4EAA25)
 
 <br>
 <h2 align=left>
