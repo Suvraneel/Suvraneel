@@ -27,7 +27,6 @@
 Connect with me on:
 <br></h2>
 
-
 <p>
 <a href="https://www.linkedin.com/in/suvraneel-bhuin" target="_blank">
 <img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/in.png" height="70" width= auto></a>
@@ -57,6 +56,23 @@ Connect with me on:
 - **Discord**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://discord.com/users/851345743935045652/
 - **WhatsApp**: &nbsp;&nbsp;&nbsp; [+91 7001967224](https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!)
 -->
+
+<br>
+<h2 align=left>
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/social.gif" height="40" width= auto>
+&nbsp;&nbsp;&nbsp;&nbsp;
+Competencies:
+<br></h2>
+
+![C++](https://img.shields.io/badge/CPP-blue?style=for-the-badge&logo=cplusplus&labelColor=006199)
+![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&labelColor=black&color=404040)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&labelColor=e65c00&color=FE7D37)
+![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&labelColor=black&color=red)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&labelColor=006199)
+![JavaScript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=DFA200)
+![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&labelColor=0a97c2&color=0dbdf2)
+![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&labelColor=1f7a7a&color=2eb8b8)
+
 
 <br>
 <h2 align=left>
