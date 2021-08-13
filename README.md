@@ -59,7 +59,7 @@ Connect with me on:
 
 <br>
 <h2 align=left>
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/social.gif" height="40" width= auto>
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/ufo.gif" height="40" width= auto>
 &nbsp;&nbsp;&nbsp;&nbsp;
 Competencies:
 <br></h2>
