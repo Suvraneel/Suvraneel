@@ -74,8 +74,8 @@ Competencies:
 ![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&labelColor=0a97c2&color=0dbdf2)
 ![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&labelColor=1f7a7a&color=2eb8b8)
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&labelColor=black&color=red)
-![VHDL](https://img.shields.io/badge/VHDL-red?style=for-the-badge&logo=xilinx&labelColor=ff0000&color=ff6666)
 ![Arduino](https://img.shields.io/badge/Arduino-blue?style=for-the-badge&logo=arduino&labelColor=black&color=00979D)
+![VHDL](https://img.shields.io/badge/VHDL-red?style=for-the-badge&logo=xilinx&labelColor=cc0000&color=ff4d4d)
 ![GNUbash](https://img.shields.io/badge/GNU_Bash-blue?style=for-the-badge&logo=gnubash&labelColor=black&color=4EAA25)
 
 <br>
