@@ -1,5 +1,3 @@
-	    # Google PageSpeed insight website audit, with additional metrics (token option but advised)
-      # This use website linked to GitHub account
       - name: ⏱️ PageSpeed plugin (detailed)
         uses: Suvraneel/metrics@master
         with:
