@@ -1,7 +1,7 @@
 <!--
 [![Header](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/Github%20readme%20Header.png "Portfolio Website")]
--->
 (https://suvraneel.github.io/)
+-->
 <p align="center">
 <img src="https://profile-counter.glitch.me/{Suvraneel}/count.svg"></p>
 
@@ -10,7 +10,7 @@
    <img align="right" src="https://spotify-diablo.vercel.app/api/spotify" height=auto width="400">
   </a>
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&color=F70000&size=30&center=true&vCenter=true&multiline=true&weight=100&height=100&width=220&lines=Hey+there%2C;I'm+Suvraneel+!">
-  <img align="left" src="https://media.tenor.com/images/043986fe5f470eeb6d86515e6cda30fe/tenor.gif" width="40">
+  <img align="left" src="https://media.tenor.com/images/043986fe5f470eeb6d86515e6cda30fe/tenor.gif" width="50">
 </p>
 <br>
 <a href="https://suvraneel.github.io" target="_blank"><img align='right' src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/readme_banner.gif" width="260" height="auto"></a>
