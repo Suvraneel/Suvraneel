@@ -1,0 +1,13 @@
+	    # Google PageSpeed insight website audit, with additional metrics (token option but advised)
+      # This use website linked to GitHub account
+      - name: ⏱️ PageSpeed plugin (detailed)
+        uses: Suvraneel/metrics@master
+        with:
+          filename: metrics.plugin.pagespeed.detailed.svg
+          token: NOT_NEEDED
+          plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_url: ${{ secrets.WEBSITE_URL }}
+          output_action: pull-request
+          delay: 120
