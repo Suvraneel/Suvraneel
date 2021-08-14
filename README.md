@@ -1,4 +1,7 @@
-[![Header](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/Github%20readme%20Header.png "Portfolio Website")](https://suvraneel.github.io/)
+<!--
+[![Header](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/Github%20readme%20Header.png "Portfolio Website")]
+-->
+(https://suvraneel.github.io/)
 <p align="center">
 <img src="https://profile-counter.glitch.me/{Suvraneel}/count.svg"></p>
 
