@@ -1,24 +1,23 @@
-
-name: ⏱️ PageSpeed plugin (detailed)
+name: Website Analysis Metrics
 on:
-  schedule:
-    - cron: '*/30 * * * *'
-  #workflow_dispatch:
-
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
-
     steps:
-      - uses: actions/checkout@v2
-      - uses: Suvraneel/metrics@master
+      - uses: Suvraneel/metrics@latest
         with:
-          filename: metrics.plugin.pagespeed.detailed.svg
-          token: NOT_NEEDED
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: Suvraneel
+          template: classic
+          base: ""
+          config_timezone: Asia/Calcutta
           plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed_url: ${{ secrets.WEBSITE_URL }}
-          output_action: pull-request
-          delay: 120
+          plugin_pagespeed_url: .user.website
