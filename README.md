@@ -19,7 +19,7 @@
 - :computer: I’m currently pursuing B.Tech in **Computer Science Engineering** at the **University of Calcutta**
 - :crystal_ball: I’m currently working on Responsive Web Design, JavaScript, SQL
 - :mailbox: You can reach me at **bsuvraneel@gmail.com**
-- :package: Find me on **https://suvraneel.github.io**
+- :package: Feel free to check out my website - [**suvraneel.github.io**](https://suvraneel.github.io/)
 - :bowtie: Pronouns: He/Him
 - :video_game: **Hobbies**: PC Gaming, Coding, Reading, Soccer
 
