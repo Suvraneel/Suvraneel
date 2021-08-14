@@ -16,8 +16,8 @@
 - :computer: I’m currently pursuing B.Tech in **Computer Science Engineering** at the **University of Calcutta**
 - :crystal_ball: I’m currently working on Responsive Web Design, JavaScript, SQL
 - :mailbox: You can reach me at **bsuvraneel@gmail.com**
+- :package: Find me on **https://suvraneel.github.io**
 - :bowtie: Pronouns: He/Him
-- :package: **Competencies**: C++, Java, JavaScript, C, HTML5, CSS3, SQL, Flutter, Dart, Arduino UNO
 - :video_game: **Hobbies**: PC Gaming, Coding, Reading, Soccer
 
 <br>
@@ -228,7 +228,12 @@ Recent Activity :
   
 </details>
 
+<details>
+<summary> <b>  :trophy: Website Performance </b></summary>
+<img src="https://github.com/Suvraneel/Suvraneel/blob/master/metrics.plugin.achievements.svg">
+</details>
 
 <details>
 <summary> <b>  :trophy: GitHub Achievements </b></summary>
 <img src="https://github.com/Suvraneel/Suvraneel/blob/master/metrics.plugin.achievements.svg">
+</details>
