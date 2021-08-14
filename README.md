@@ -126,14 +126,11 @@ Recent Activity :
 `[08/14 19:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `24` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[08/12 20:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [NishkarshRaj/Design-and-Analysis-of-Algorithms](https://github.com/NishkarshRaj/Design-and-Analysis-of-Algorithms)  
 `[08/12 19:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[08/12 19:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Codechef](https://github.com/Suvraneel/Codechef)  
 `[08/12 19:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
-`[08/12 19:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Codechef](https://github.com/Suvraneel/Codechef)  
 `[08/12 19:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[08/12 19:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Codechef](https://github.com/Suvraneel/Codechef)  
 `[08/12 06:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[08/11 20:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[08/11 20:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
@@ -159,7 +156,6 @@ Recent Activity :
 `[08/09 15:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[08/09 15:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/C-programming](https://github.com/Suvraneel/C-programming)  
 `[08/09 15:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[08/09 15:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Codechef](https://github.com/Suvraneel/Codechef)  
 `[08/09 15:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[08/09 15:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[08/09 15:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
@@ -177,11 +173,6 @@ Recent Activity :
 `[08/07 12:42]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/Suvraneel/Suvraneel/tree/master) in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[08/07 12:42]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `main` from [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[08/07 12:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[08/06 07:46]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//Suvraneel/Codechef/issues/1 'Add more contests') in [Suvraneel/Codechef](https://github.com/Suvraneel/Codechef)  
-`[08/06 07:46]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1`](https://github.com//Suvraneel/Codechef/issues/1 'Add more contests') in [Suvraneel/Codechef](https://github.com/Suvraneel/Codechef)  
-`[08/06 07:45]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//Suvraneel/Codechef/issues/1 'Add more contests') in [Suvraneel/Codechef](https://github.com/Suvraneel/Codechef)  
-`[08/06 07:45]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//Suvraneel/Codechef/issues/1 'Add more contests') in [Suvraneel/Codechef](https://github.com/Suvraneel/Codechef)  
-`[08/06 07:45]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//Suvraneel/Codechef/issues/1 'Add more contests') in [Suvraneel/Codechef](https://github.com/Suvraneel/Codechef)  
 `[08/06 07:43]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1`](https://github.com//Suvraneel/Suvraneel.github.io/issues/1 'Workflow Test') in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[08/06 07:42]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//Suvraneel/Suvraneel.github.io/issues/1 'Workflow Test') in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[08/06 07:29]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//Suvraneel/Diablo-Music/issues/1 'GH Action test') in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)  
@@ -221,7 +212,7 @@ Recent Activity :
 <summary> <b>  :octocat: Recent Repo-wise Commits </b></summary>
   
 <!-- START gadpp -->
-- Suvraneel/Codechef, [refs/heads/main@921c0b4f4b5a874f0478ade16265d8410bda500e](https://github.com/Suvraneel/Codechef/commit/921c0b4f4b5a874f0478ade16265d8410bda500e)
+- Suvraneel/Codechef, [refs/heads/main@fa74d1ca2fd7c3f2a52c3281fc16492e6c9f576c](https://github.com/Suvraneel/Codechef/commit/fa74d1ca2fd7c3f2a52c3281fc16492e6c9f576c)
 - Suvraneel/Diablo-Music, [refs/heads/main@1f4fe0f60189c58124ffee397e512c5fe4642750](https://github.com/Suvraneel/Diablo-Music/commit/1f4fe0f60189c58124ffee397e512c5fe4642750)
 - Suvraneel/C-programming, [refs/heads/main@5c1771e6e8e58b9458e5e0b47dad1925c1164065](https://github.com/Suvraneel/C-programming/commit/5c1771e6e8e58b9458e5e0b47dad1925c1164065)
 - Suvraneel/Suvraneel.github.io, [refs/heads/main@7418e28dd86205f54450cb6a6d81ee07f8bfba78](https://github.com/Suvraneel/Suvraneel.github.io/commit/7418e28dd86205f54450cb6a6d81ee07f8bfba78)
