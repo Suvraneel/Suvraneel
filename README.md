@@ -229,7 +229,7 @@ Recent Activity :
 </details>
 
 <details>
-  <summary> <b>  :trophy: Website Performance </b></summary>
+  <summary> <b>  :maple_leaf: Website Performance </b></summary>
 <img src="https://metrics.lecoq.io/Suvraneel?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta">
 </details>
 
