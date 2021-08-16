@@ -214,7 +214,7 @@ Recent Activity :
 `[07/26 10:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)  
 `[07/26 10:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[07/26 08:19]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [rudrakshi99/rudrakshi99](https://github.com/rudrakshi99/rudrakshi99) to [Suvraneel/rudrakshi99](https://github.com/Suvraneel/rudrakshi99)  
-`[07/26 08:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `21` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
+`[07/26 08:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `20` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 
 </details>
 <!--END_SECTION:activity-->
