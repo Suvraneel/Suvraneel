@@ -1,6 +1,6 @@
 name: Website Analysis Metrics
 on:
-  # Lines below let you run workflow manually and on each commit
+  # Lines below let you run workflow manually
   workflow_dispatch:
 jobs:
   github-metrics:
