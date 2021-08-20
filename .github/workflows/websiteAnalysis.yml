@@ -8,6 +8,7 @@ jobs:
     steps:
       - uses: Suvraneel/metrics@latest
         with:
+          filename: metrics.plugin.pgspeed.svg
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
