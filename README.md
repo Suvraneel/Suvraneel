@@ -292,8 +292,6 @@ Recent Activity :
 `[08/05 07:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Siddhartha-Dhar/Siddhartha-Dhar](https://github.com/Siddhartha-Dhar/Siddhartha-Dhar)  
 `[08/05 07:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Siddhartha-Dhar/Digital_Circuits_VHDL](https://github.com/Siddhartha-Dhar/Digital_Circuits_VHDL)  
 `[08/05 07:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[08/03 19:51]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007) to [Suvraneel/jamesgeorge007](https://github.com/Suvraneel/jamesgeorge007)  
-`[08/03 19:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 
 </details>
 <!--END_SECTION:activity-->
