@@ -123,14 +123,15 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[09/13 17:11]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [AlgoFriki/winter-of-contributing](https://github.com/AlgoFriki/winter-of-contributing) to [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 `[09/04 10:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter)  
 `[09/03 20:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[09/02 19:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [brim-borium/spotify_sdk](https://github.com/brim-borium/spotify_sdk)  
 `[09/02 08:01]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#76`](https://github.com//jeromexiong/audio_manager/pull/76 'null-safety fix in example app') in [jeromexiong/audio_manager](https://github.com/jeromexiong/audio_manager)  
-`[09/02 07:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/audio_manager](https://github.com/Suvraneel/audio_manager)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[09/02 07:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/audio_manager](https://github.com/Suvraneel/audio_manager)  
 `[09/02 07:54]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [jeromexiong/audio_manager](https://github.com/jeromexiong/audio_manager) to [Suvraneel/audio_manager](https://github.com/Suvraneel/audio_manager)  
 `[09/02 07:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[08/31 16:29]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#75`](https://github.com//jeromexiong/audio_manager/issues/75 'Update example (null-safety issues)') in [jeromexiong/audio_manager](https://github.com/jeromexiong/audio_manager)  
@@ -296,7 +297,6 @@ Recent Activity :
 `[08/07 13:07]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//Siddhartha-Dhar/Operating_System_Programs/pull/2 'Create readme.md') in [Siddhartha-Dhar/Operating_System_Programs](https://github.com/Siddhartha-Dhar/Operating_System_Programs)  
 `[08/07 13:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Operating_System_Programs](https://github.com/Suvraneel/Operating_System_Programs)  
 `[08/07 13:05]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Siddhartha-Dhar/Operating_System_Programs](https://github.com/Siddhartha-Dhar/Operating_System_Programs) to [Suvraneel/Operating_System_Programs](https://github.com/Suvraneel/Operating_System_Programs)  
-`[08/07 12:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 
 </details>
 <!--END_SECTION:activity-->
