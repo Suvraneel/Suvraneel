@@ -123,14 +123,24 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[09/18 21:56]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#39`](https://github.com//Suvraneel/Automated-assign-labeler/issues/39 'Super Finishing Final Merge Test') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
+`[09/18 21:55]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#39`](https://github.com//Suvraneel/Automated-assign-labeler/issues/39 'Super Finishing Final Merge Test') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
+`[09/18 21:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
+`[09/18 21:49]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `merge-test` from [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
+`[09/18 21:49]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#8`](https://github.com//Suvraneel/winter-of-contributing/pull/8 'sample PR test') in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[09/18 21:48]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#8`](https://github.com//Suvraneel/winter-of-contributing/issues/8 'sample PR test') in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
+`[09/18 21:46]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#8`](https://github.com//Suvraneel/winter-of-contributing/pull/8 'sample PR test') in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
+`[09/18 21:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
+`[09/18 21:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`merge-test`](https://github.com/Suvraneel/winter-of-contributing/tree/merge-test) in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
+`[09/18 21:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 `[09/18 21:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[09/18 20:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 `[09/18 16:12]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#717`](https://github.com//girlscript/winter-of-contributing/pull/717 'Integrating Auto-assigner/labeler bot') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/18 12:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `94` commits in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 `[09/18 11:53]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `final-test` from [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[09/18 11:53]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#7`](https://github.com//Suvraneel/winter-of-contributing/pull/7 'Add files via upload') in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 `[09/18 11:52]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#7`](https://github.com//Suvraneel/winter-of-contributing/pull/7 'Add files via upload') in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 `[09/18 11:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
@@ -368,13 +378,6 @@ Recent Activity :
 `[08/15 16:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Merubokkusu/discord-spam-bots](https://github.com/Merubokkusu/discord-spam-bots)  
 `[08/15 13:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[08/15 13:19]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1`](https://github.com//Siddhartha-Dhar/Operating_System_Programs/issues/1 'Add Deadlock Code') in [Siddhartha-Dhar/Operating_System_Programs](https://github.com/Siddhartha-Dhar/Operating_System_Programs)  
-`[08/15 08:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[08/14 20:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Codechef](https://github.com/Suvraneel/Codechef)  
-`[08/14 20:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[08/14 20:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Codechef](https://github.com/Suvraneel/Codechef)  
-`[08/14 20:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[08/14 20:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Codechef](https://github.com/Suvraneel/Codechef)  
-`[08/14 20:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 
 </details>
 <!--END_SECTION:activity-->
