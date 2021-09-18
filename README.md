@@ -123,14 +123,15 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[09/18 11:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 `[09/18 11:06]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#4`](https://github.com//Suvraneel/winter-of-contributing/pull/4 'Add files via upload') in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 `[09/18 11:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 `[09/18 11:05]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`PR-labeler-template-test`](https://github.com/Suvraneel/winter-of-contributing/tree/PR-labeler-template-test) in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 `[09/18 11:04]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#3`](https://github.com//Suvraneel/winter-of-contributing/pull/3 'Delete Android_Development directory') in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
-`[09/18 10:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[09/18 10:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 `[09/18 10:56]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `labeler-test` from [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[09/18 10:56]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#34`](https://github.com//Suvraneel/Automated-assign-labeler/pull/34 'Add files via upload') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[09/18 10:54]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#38`](https://github.com//Suvraneel/Automated-assign-labeler/issues/38 'test') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
@@ -357,8 +358,6 @@ Recent Activity :
 `[08/12 19:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[08/12 19:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Codechef](https://github.com/Suvraneel/Codechef)  
 `[08/12 19:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[08/12 19:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Codechef](https://github.com/Suvraneel/Codechef)  
-`[08/12 19:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 
 </details>
 <!--END_SECTION:activity-->
