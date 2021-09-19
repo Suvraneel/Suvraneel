@@ -123,14 +123,18 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[09/19 16:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
+`[09/19 16:49]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing) to [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
+`[09/19 16:27]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#860`](https://github.com//girlscript/winter-of-contributing/issues/860 'C_CPP: Constructor') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[09/19 16:24]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#868`](https://github.com//girlscript/winter-of-contributing/issues/868 'Constructor Types and Destructors(documentation)') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/19 15:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `111` commits in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[09/19 15:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/19 15:07]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#985`](https://github.com//girlscript/winter-of-contributing/pull/985 'update readme.md') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/19 14:03]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#938`](https://github.com//girlscript/winter-of-contributing/pull/938 'Add Tree Traversals') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/19 14:03]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#938`](https://github.com//girlscript/winter-of-contributing/issues/938 'Add Tree Traversals') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[09/19 14:01]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#882`](https://github.com//girlscript/winter-of-contributing/pull/882 'Question on Strings C++ Index of leftmost character in a given string') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/19 14:01]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#882`](https://github.com//girlscript/winter-of-contributing/issues/882 'Question on Strings C++ Index of leftmost character in a given string') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/19 13:54]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#899`](https://github.com//girlscript/winter-of-contributing/issues/899 'Add Sorting Algorithms') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
@@ -370,9 +374,7 @@ Recent Activity :
 `[08/20 07:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[08/19 20:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[08/19 19:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[08/19 19:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
-`[08/19 19:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [goldfire/howler.js](https://github.com/goldfire/howler.js)  
-`[08/19 18:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
+`[08/19 19:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 
 </details>
 <!--END_SECTION:activity-->
