@@ -123,14 +123,23 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[09/20 06:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
+`[09/20 05:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#55`](https://github.com//Suvraneel/Automated-assign-labeler/issues/55 'once more') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
+`[09/20 05:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Issue_Watcher](https://github.com/Suvraneel/Issue_Watcher)  
+`[09/20 05:54]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#54`](https://github.com//Suvraneel/Automated-assign-labeler/issues/54 'v2 test') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
+`[09/20 05:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Issue_Watcher](https://github.com/Suvraneel/Issue_Watcher)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[09/20 05:52]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#53`](https://github.com//Suvraneel/Automated-assign-labeler/issues/53 'v2.0 init_test') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
+`[09/20 05:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Issue_Watcher](https://github.com/Suvraneel/Issue_Watcher)  
+`[09/20 05:46]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#52`](https://github.com//Suvraneel/Automated-assign-labeler/issues/52 'v2 init_test') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
+`[09/20 05:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Issue_Watcher](https://github.com/Suvraneel/Issue_Watcher)  
 `[09/19 17:31]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Reopened issue [`#50`](https://github.com//Suvraneel/Automated-assign-labeler/issues/50 '10') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[09/19 17:31]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Reopened issue [`#51`](https://github.com//Suvraneel/Automated-assign-labeler/issues/51 '24') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[09/19 17:10]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#51`](https://github.com//Suvraneel/Automated-assign-labeler/issues/51 '24') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[09/19 17:10]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#50`](https://github.com//Suvraneel/Automated-assign-labeler/issues/50 '10') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[09/19 17:10]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#49`](https://github.com//Suvraneel/Automated-assign-labeler/issues/49 '2') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[09/19 17:09]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#48`](https://github.com//Suvraneel/Automated-assign-labeler/issues/48 '5') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[09/19 17:09]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#47`](https://github.com//Suvraneel/Automated-assign-labeler/issues/47 '4') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[09/19 17:09]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#46`](https://github.com//Suvraneel/Automated-assign-labeler/issues/46 '3') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
@@ -367,16 +376,6 @@ Recent Activity :
 `[08/25 18:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[08/25 18:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[08/24 11:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[08/24 11:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
-`[08/24 07:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[08/24 07:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/C-programming](https://github.com/Suvraneel/C-programming)  
-`[08/24 07:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/web-design](https://github.com/Suvraneel/web-design)  
-`[08/24 07:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[08/24 07:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)  
-`[08/23 05:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nemreid/Fair-Share-Scheduler](https://github.com/nemreid/Fair-Share-Scheduler)  
-`[08/22 14:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[08/22 14:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
-`[08/22 13:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 
 </details>
 <!--END_SECTION:activity-->
