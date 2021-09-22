@@ -131,10 +131,8 @@ Recent Activity :
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
-`[09/22 05:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Codechef](https://github.com/Suvraneel/Codechef)  
 `[09/22 05:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kashyap1905/winter-of-contributing](https://github.com/kashyap1905/winter-of-contributing)  
 `[09/22 05:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[09/22 05:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Codechef](https://github.com/Suvraneel/Codechef)  
 `[09/22 05:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/22 05:42]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1157`](https://github.com//girlscript/winter-of-contributing/issues/1157 'Classes & Objects in CPP') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/22 05:39]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`revert-1157-C_CPP`](https://github.com/girlscript/winter-of-contributing/tree/revert-1157-C_CPP) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
@@ -353,7 +351,7 @@ Recent Activity :
 <summary> <b>  :octocat: Recent Repo-wise Commits </b></summary>
   
 <!-- START gadpp -->
-- Suvraneel/Codechef, [refs/heads/main@abb7141ff763928d49c7a43fcbc77f8f69eba12b](https://github.com/Suvraneel/Codechef/commit/abb7141ff763928d49c7a43fcbc77f8f69eba12b)
+- Suvraneel/Codechef, [refs/heads/main@671c7c02984ce311984d83caf1dfcdbb1b5ec8a2](https://github.com/Suvraneel/Codechef/commit/671c7c02984ce311984d83caf1dfcdbb1b5ec8a2)
 - Suvraneel/Suvraneel.github.io, [refs/heads/main@83afa49cbded54c978d3dcc3008cf3c42e2f263e](https://github.com/Suvraneel/Suvraneel.github.io/commit/83afa49cbded54c978d3dcc3008cf3c42e2f263e)
 - Suvraneel/diablo-music-app, [refs/heads/main@bfaacb2f30a349e5b5fa27ad38950343c891f155](https://github.com/Suvraneel/diablo-music-app/commit/bfaacb2f30a349e5b5fa27ad38950343c891f155)
 - Suvraneel/Diablo-Music, [refs/heads/main@f98ff8dc390a563fa5a9dc0645c6c1a32ca110c4](https://github.com/Suvraneel/Diablo-Music/commit/f98ff8dc390a563fa5a9dc0645c6c1a32ca110c4)
