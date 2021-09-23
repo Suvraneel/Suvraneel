@@ -123,14 +123,15 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
-`[09/23 15:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
+`[09/23 16:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[09/23 16:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 `[09/23 15:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/23 13:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `234` commits in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 `[09/23 13:04]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#10`](https://github.com//Suvraneel/winter-of-contributing/pull/10 'C cpp') in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
-`[09/23 13:04]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#10`](https://github.com//Suvraneel/winter-of-contributing/pull/10 'C cpp') in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[09/23 13:04]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#10`](https://github.com//Suvraneel/winter-of-contributing/pull/10 'C cpp') in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 `[09/23 13:03]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`patch1`](https://github.com/Suvraneel/winter-of-contributing/tree/patch1) in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 `[09/23 12:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `443` commits in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 `[09/23 12:52]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#9`](https://github.com//Suvraneel/winter-of-contributing/pull/9 'C cpp') in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
@@ -346,9 +347,6 @@ Recent Activity :
 `[09/21 15:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[09/21 14:48]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#135`](https://github.com//Suvraneel/Automated-assign-labeler/issues/135 '[Create New Issue]: ') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[09/21 14:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
-`[09/21 14:45]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#134`](https://github.com//Suvraneel/Automated-assign-labeler/issues/134 '[Create New Issue]: ') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
-`[09/21 14:45]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#133`](https://github.com//Suvraneel/Automated-assign-labeler/issues/133 '[Create New Issue]: ') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
-`[09/21 14:44]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#132`](https://github.com//Suvraneel/Automated-assign-labeler/issues/132 '[Create New Issue]: ') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 
 </details>
 <!--END_SECTION:activity-->
