@@ -123,7 +123,7 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
-`[09/23 06:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ankushsingh24/winter-of-contributing](https://github.com/ankushsingh24/winter-of-contributing)  
+`[09/23 06:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [ankushsingh24/winter-of-contributing](https://github.com/ankushsingh24/winter-of-contributing)  
 `[09/23 06:09]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2097`](https://github.com//girlscript/winter-of-contributing/pull/2097 'priority queue #1612') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/23 06:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `29` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/23 06:05]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2027`](https://github.com//girlscript/winter-of-contributing/pull/2027 'Fixed Issue Number - 1084 - Pointers and One Dimensional Arrays') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
@@ -342,7 +342,6 @@ Recent Activity :
 `[09/21 11:28]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#122`](https://github.com//Suvraneel/Automated-assign-labeler/issues/122 'gsfgdfg') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[09/21 11:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[09/21 11:10]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#121`](https://github.com//Suvraneel/Automated-assign-labeler/issues/121 'vgfklsnjgfkl') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
-`[09/21 11:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 
 </details>
 <!--END_SECTION:activity-->
