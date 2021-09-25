@@ -123,7 +123,7 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
-`[09/24 20:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `19` commits in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
+`[09/25 06:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `21` commits in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 `[09/24 18:58]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2186`](https://github.com//girlscript/winter-of-contributing/issues/2186 'CPP: Classes and object concept c++ in video form #981') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/24 18:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/24 18:56]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2186`](https://github.com//girlscript/winter-of-contributing/pull/2186 'CPP: Classes and object concept c++ in video form #981') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
@@ -342,7 +342,6 @@ Recent Activity :
 `[09/21 20:57]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1717`](https://github.com//girlscript/winter-of-contributing/issues/1717 'Stack implementation #854') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/21 20:45]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1596`](https://github.com//girlscript/winter-of-contributing/pull/1596 'C cpp') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/21 20:42]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1487`](https://github.com//girlscript/winter-of-contributing/issues/1487 'C_CPP : Introduction to Friend function with examples ') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[09/21 20:34]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1288`](https://github.com//girlscript/winter-of-contributing/pull/1288 'C/c++run file using cmd') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
