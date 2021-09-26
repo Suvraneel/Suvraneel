@@ -123,14 +123,18 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[09/26 11:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[09/26 11:11]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1911`](https://github.com//girlscript/winter-of-contributing/pull/1911 'Insertion and Extraction Operators in C++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[09/26 11:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1911`](https://github.com//girlscript/winter-of-contributing/issues/1911 'Insertion and Extraction Operators in C++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[09/26 11:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [achsahxavier/winter-of-contributing](https://github.com/achsahxavier/winter-of-contributing)  
 `[09/26 06:54]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#835`](https://github.com//girlscript/winter-of-contributing/issues/835 'CPP : POLYMORPHISM IN DOCUMENT') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[09/26 06:52]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1902`](https://github.com//girlscript/winter-of-contributing/pull/1902 'Create polymorphism.md file which contain polymorphism in document form') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/26 06:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/26 06:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1902`](https://github.com//girlscript/winter-of-contributing/issues/1902 'Create polymorphism.md file which contain polymorphism in document form') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/26 06:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `325` commits in [Pranshu321/winter-of-contributing](https://github.com/Pranshu321/winter-of-contributing)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[09/26 06:36]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#864`](https://github.com//girlscript/winter-of-contributing/issues/864 'C_CPP : Two-pointer Algorithm popular questions') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/25 20:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/25 20:57]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2752`](https://github.com//girlscript/winter-of-contributing/pull/2752 'Shifted SSTL/Stack') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
@@ -328,9 +332,7 @@ Recent Activity :
 `[09/23 07:18]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2067`](https://github.com//girlscript/winter-of-contributing/pull/2067 'C_CPP : Structure in C++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/23 07:18]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2067`](https://github.com//girlscript/winter-of-contributing/issues/2067 'C_CPP : Structure in C++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/23 07:17]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2067`](https://github.com//girlscript/winter-of-contributing/pull/2067 'C_CPP : Structure in C++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[09/23 06:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [ankushsingh24/winter-of-contributing](https://github.com/ankushsingh24/winter-of-contributing)  
-`[09/23 06:09]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2097`](https://github.com//girlscript/winter-of-contributing/pull/2097 'priority queue #1612') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[09/23 06:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `29` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[09/23 06:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ankushsingh24/winter-of-contributing](https://github.com/ankushsingh24/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
