@@ -123,14 +123,15 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[09/27 14:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ikavyajain/winter-of-contributing](https://github.com/ikavyajain/winter-of-contributing)  
 `[09/27 09:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[09/27 09:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)  
 `[09/27 09:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[09/27 09:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)  
-`[09/27 09:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `964` commits in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[09/27 09:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `964` commits in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 `[09/27 07:20]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2993`](https://github.com//girlscript/winter-of-contributing/issues/2993 'Algorithms and Flowcharts In C Programming Language') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/26 20:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `24` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/26 17:39]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1904`](https://github.com//girlscript/winter-of-contributing/pull/1904 'Stock Span Documentation') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
@@ -322,8 +323,6 @@ Recent Activity :
 `[09/24 05:38]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2004`](https://github.com//girlscript/winter-of-contributing/issues/2004 'Bubble Sort') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/24 05:34]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2004`](https://github.com//girlscript/winter-of-contributing/issues/2004 'Bubble Sort') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/24 05:18]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#1945`](https://github.com//girlscript/winter-of-contributing/pull/1945 'C cpp') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[09/23 20:32]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2315`](https://github.com//girlscript/winter-of-contributing/pull/2315 'Operator Overloading in C++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[09/23 20:28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2315`](https://github.com//girlscript/winter-of-contributing/issues/2315 'Operator Overloading in C++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
