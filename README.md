@@ -123,7 +123,7 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
-`[09/28 16:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[09/28 16:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/28 16:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ikavyajain/winter-of-contributing](https://github.com/ikavyajain/winter-of-contributing)  
 `[09/28 15:56]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `revert-3087-patch1` from [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/28 15:52]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#3389`](https://github.com//girlscript/winter-of-contributing/pull/3389 'Patch1') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
@@ -311,7 +311,6 @@ Recent Activity :
 `[09/24 15:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/24 15:13]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1902`](https://github.com//girlscript/winter-of-contributing/issues/1902 'Create polymorphism.md file which contain polymorphism in document form') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/24 15:00]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1480`](https://github.com//girlscript/winter-of-contributing/issues/1480 'C/CPP: Concept of OOPS') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[09/24 15:00]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1480`](https://github.com//girlscript/winter-of-contributing/issues/1480 'C/CPP: Concept of OOPS') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
