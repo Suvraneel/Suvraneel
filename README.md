@@ -123,14 +123,20 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[09/29 20:07]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#146`](https://github.com//Suvraneel/Automated-assign-labeler/issues/146 '[Create New Issue]: ') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
+`[09/29 20:07]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#146`](https://github.com//Suvraneel/Automated-assign-labeler/issues/146 '[Create New Issue]: ') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
+`[09/29 20:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Issue_Watcher](https://github.com/Suvraneel/Issue_Watcher)  
+`[09/29 20:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [actions/github-script](https://github.com/actions/github-script)  
+`[09/29 20:00]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#65`](https://github.com//Suvraneel/Automated-assign-labeler/issues/65 'testing issue 1-3') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[09/29 19:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[09/29 19:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#142`](https://github.com//Suvraneel/Automated-assign-labeler/issues/142 '[Create New Issue]: ') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[09/29 19:33]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#65`](https://github.com//Suvraneel/Automated-assign-labeler/issues/65 'testing issue 1-3') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[09/29 19:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[09/29 19:25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#65`](https://github.com//Suvraneel/Automated-assign-labeler/issues/65 'testing issue 1-3') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[09/29 19:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/slash-assign-action](https://github.com/Suvraneel/slash-assign-action)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[09/29 19:08]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#65`](https://github.com//Suvraneel/Automated-assign-labeler/issues/65 'testing issue 1-3') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[09/29 19:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/slash-assign-action](https://github.com/Suvraneel/slash-assign-action)  
 `[09/29 19:02]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#65`](https://github.com//Suvraneel/Automated-assign-labeler/issues/65 'testing issue 1-3') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
@@ -324,9 +330,6 @@ Recent Activity :
 `[09/25 11:18]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2586`](https://github.com//girlscript/winter-of-contributing/pull/2586 'Fixes #1606 Types of Pointers') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/25 11:17]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2586`](https://github.com//girlscript/winter-of-contributing/issues/2586 'Fixes #1606 Types of Pointers') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/25 11:00]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2443`](https://github.com//girlscript/winter-of-contributing/issues/2443 'Cyclic sort in C++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[09/25 10:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `398` commits in [aniket-24/winter-of-contributing](https://github.com/aniket-24/winter-of-contributing)  
-`[09/25 10:48]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2060`](https://github.com//girlscript/winter-of-contributing/pull/2060 'C_CPP : Arrays in CPP#937') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[09/25 10:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Aaryan376/winter-of-contributing](https://github.com/Aaryan376/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
