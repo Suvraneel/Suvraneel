@@ -123,14 +123,18 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
-`[09/29 21:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [adityarajsahoo/winter-of-contributing](https://github.com/adityarajsahoo/winter-of-contributing)  
+`[09/29 21:46]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3407`](https://github.com//girlscript/winter-of-contributing/issues/3407 'Added video tutorial link for single inheritance') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[09/29 21:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[09/29 21:43]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3407`](https://github.com//girlscript/winter-of-contributing/pull/3407 'Added video tutorial link for single inheritance') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[09/29 21:43]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3407`](https://github.com//girlscript/winter-of-contributing/issues/3407 'Added video tutorial link for single inheritance') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[09/29 21:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [adityarajsahoo/winter-of-contributing](https://github.com/adityarajsahoo/winter-of-contributing)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[09/29 21:01]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3611`](https://github.com//girlscript/winter-of-contributing/pull/3611 'Optimised workflows & fixed illegal pathname characters') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/29 20:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 `[09/29 20:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[09/29 20:26]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#65`](https://github.com//Suvraneel/Automated-assign-labeler/issues/65 'testing issue 1-3') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[09/29 20:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[09/29 20:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 `[09/29 20:07]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#146`](https://github.com//Suvraneel/Automated-assign-labeler/issues/146 '[Create New Issue]: ') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
@@ -326,9 +330,7 @@ Recent Activity :
 `[09/25 12:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/25 12:32]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2231`](https://github.com//girlscript/winter-of-contributing/pull/2231 'Issue #1278') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/25 12:32]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2231`](https://github.com//girlscript/winter-of-contributing/issues/2231 'Issue #1278') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[09/25 12:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Op-panda/winter-of-contributing](https://github.com/Op-panda/winter-of-contributing)  
-`[09/25 12:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `19` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[09/25 12:00]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2394`](https://github.com//girlscript/winter-of-contributing/pull/2394 'C/cpp: Bubble Sort') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[09/25 12:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Op-panda/winter-of-contributing](https://github.com/Op-panda/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
