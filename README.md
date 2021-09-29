@@ -186,9 +186,7 @@ Recent Activity :
 `[09/27 14:16]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#3082`](https://github.com//girlscript/winter-of-contributing/pull/3082 'Algorithms and Flowcharts In C Programming Language') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/27 14:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [ikavyajain/winter-of-contributing](https://github.com/ikavyajain/winter-of-contributing)  
 `[09/27 09:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[09/27 09:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)  
 `[09/27 09:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[09/27 09:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Diablo-Music](https://github.com/Suvraneel/Diablo-Music)  
 `[09/27 09:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `964` commits in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 `[09/27 07:20]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2993`](https://github.com//girlscript/winter-of-contributing/issues/2993 'Algorithms and Flowcharts In C Programming Language') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/26 20:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `24` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
@@ -320,8 +318,8 @@ Recent Activity :
 <summary> <b>  :octocat: Recent Repo-wise Commits </b></summary>
   
 <!-- START gadpp -->
+- Suvraneel/Diablo-Music, [refs/heads/imgbot@9c9be3829ba1cbed0ae64665843dd93e05878b7e](https://github.com/Suvraneel/Diablo-Music/commit/9c9be3829ba1cbed0ae64665843dd93e05878b7e)
 - Suvraneel/Suvraneel.github.io, [refs/heads/imgbot@afabf5045a605081629b9ec12a9662fdddcf2f54](https://github.com/Suvraneel/Suvraneel.github.io/commit/afabf5045a605081629b9ec12a9662fdddcf2f54)
-- Suvraneel/Diablo-Music, [refs/heads/main@bea93f1d343b09c132ee39a84b3c35686d565c7c](https://github.com/Suvraneel/Diablo-Music/commit/bea93f1d343b09c132ee39a84b3c35686d565c7c)
 - Suvraneel/Codechef, [refs/heads/main@14fd55ad1992625990a76997d54deb51bd658fb9](https://github.com/Suvraneel/Codechef/commit/14fd55ad1992625990a76997d54deb51bd658fb9)
 - Suvraneel/diablo-music-app, [refs/heads/main@bfaacb2f30a349e5b5fa27ad38950343c891f155](https://github.com/Suvraneel/diablo-music-app/commit/bfaacb2f30a349e5b5fa27ad38950343c891f155)
 - Suvraneel/C-programming, [refs/heads/main@29e864b2a84f10da4d56659eada49856e6f0939a](https://github.com/Suvraneel/C-programming/commit/29e864b2a84f10da4d56659eada49856e6f0939a)
