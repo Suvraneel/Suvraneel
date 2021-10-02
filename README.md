@@ -123,14 +123,15 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[10/02 20:40]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#4072`](https://github.com//girlscript/winter-of-contributing/pull/4072 'Update: Code highlighting') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/02 20:23]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#4075`](https://github.com//girlscript/winter-of-contributing/pull/4075 'HacktoberFest is here...') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/02 20:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 `[10/02 20:13]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//Suvraneel/winter-of-contributing/pull/2 'Update readme.md') in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 `[10/02 20:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
-`[10/02 20:13]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`new`](https://github.com/Suvraneel/winter-of-contributing/tree/new) in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[10/02 20:13]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`new`](https://github.com/Suvraneel/winter-of-contributing/tree/new) in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 `[10/02 20:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `346` commits in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 `[10/02 19:28]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2680`](https://github.com//girlscript/winter-of-contributing/pull/2680 'C_cpp: Dynamic memory allocation') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/02 19:28]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2680`](https://github.com//girlscript/winter-of-contributing/pull/2680 'C_cpp: Dynamic memory allocation') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
@@ -334,7 +335,7 @@ Recent Activity :
 `[09/26 17:39]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1904`](https://github.com//girlscript/winter-of-contributing/pull/1904 'Stock Span Documentation') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/26 17:39]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1904`](https://github.com//girlscript/winter-of-contributing/issues/1904 'Stock Span Documentation') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/26 17:38]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1904`](https://github.com//girlscript/winter-of-contributing/pull/1904 'Stock Span Documentation') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[09/26 17:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [sinu-02/winter-of-contributing](https://github.com/sinu-02/winter-of-contributing)  
+`[09/26 17:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [sinu-02/winter-of-contributing](https://github.com/sinu-02/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
