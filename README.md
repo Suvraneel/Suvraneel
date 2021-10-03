@@ -349,7 +349,7 @@ Recent Activity :
 <summary> <b>  :octocat: Recent Repo-wise Commits </b></summary>
   
 <!-- START gadpp -->
-- Suvraneel/Suvraneel.github.io, [refs/heads/main@1fae6d46d0e96c7396c4b413b6f6c54c98f377f4](https://github.com/Suvraneel/Suvraneel.github.io/commit/1fae6d46d0e96c7396c4b413b6f6c54c98f377f4)
+- Suvraneel/Suvraneel.github.io, [refs/heads/main@3a8fdd1fbe5e305dc7c2d6aea51e7d50c10badbf](https://github.com/Suvraneel/Suvraneel.github.io/commit/3a8fdd1fbe5e305dc7c2d6aea51e7d50c10badbf)
 - Suvraneel/Diablo-Music, [refs/heads/imgbot@9c9be3829ba1cbed0ae64665843dd93e05878b7e](https://github.com/Suvraneel/Diablo-Music/commit/9c9be3829ba1cbed0ae64665843dd93e05878b7e)
 - Suvraneel/Codechef, [refs/heads/main@14fd55ad1992625990a76997d54deb51bd658fb9](https://github.com/Suvraneel/Codechef/commit/14fd55ad1992625990a76997d54deb51bd658fb9)
 - Suvraneel/diablo-music-app, [refs/heads/main@bfaacb2f30a349e5b5fa27ad38950343c891f155](https://github.com/Suvraneel/diablo-music-app/commit/bfaacb2f30a349e5b5fa27ad38950343c891f155)
