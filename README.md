@@ -123,14 +123,16 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[10/03 17:23]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2892`](https://github.com//girlscript/winter-of-contributing/issues/2892 'Creating file_handling.md') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[10/03 17:21]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2`](https://github.com//Suvraneel/winter-of-contributing/pull/2 'Update readme.md') in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 `[10/03 15:22]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#921`](https://github.com//girlscript/winter-of-contributing/issues/921 'CPP: Single Inheritance (Video Explanation)') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/03 14:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/03 14:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
-`[10/03 10:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[10/03 10:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[10/03 10:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
+`[10/03 10:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[10/03 10:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[10/03 10:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[10/03 07:12]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#3797`](https://github.com//girlscript/winter-of-contributing/pull/3797 'Added video tutorial for Linked List Basic Syntax understanding') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
@@ -340,7 +342,7 @@ Recent Activity :
 `[09/27 14:47]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2717`](https://github.com//girlscript/winter-of-contributing/pull/2717 'Pointers and Functions in C++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/27 14:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ikavyajain/winter-of-contributing](https://github.com/ikavyajain/winter-of-contributing)  
 `[09/27 14:16]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#3082`](https://github.com//girlscript/winter-of-contributing/pull/3082 'Algorithms and Flowcharts In C Programming Language') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[09/27 14:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [ikavyajain/winter-of-contributing](https://github.com/ikavyajain/winter-of-contributing)  
+`[09/27 14:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ikavyajain/winter-of-contributing](https://github.com/ikavyajain/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
