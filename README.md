@@ -337,7 +337,7 @@ Recent Activity :
 `[09/27 20:14]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2949`](https://github.com//girlscript/winter-of-contributing/issues/2949 'C++ Web Programming') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/27 20:10]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#3118`](https://github.com//girlscript/winter-of-contributing/pull/3118 'DFS Traversal of graph') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/27 20:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cookieg13/winter-of-contributing](https://github.com/cookieg13/winter-of-contributing)  
-`[09/27 20:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[09/27 20:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
