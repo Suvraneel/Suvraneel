@@ -123,14 +123,15 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[10/04 06:49]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#3841`](https://github.com//girlscript/winter-of-contributing/pull/3841 'Introduction to Operating System ') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/04 06:34]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#4240`](https://github.com//girlscript/winter-of-contributing/issues/4240 'upper_triangular_matrix.md') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/04 06:31]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#4240`](https://github.com//girlscript/winter-of-contributing/issues/4240 'upper_triangular_matrix.md') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/04 06:22]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#4240`](https://github.com//girlscript/winter-of-contributing/issues/4240 'upper_triangular_matrix.md') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/04 05:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[10/04 05:58]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//Suvraneel/Suvraneel/pull/1 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[10/04 05:58]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//Suvraneel/Suvraneel/pull/1 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[10/04 05:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[10/04 05:20]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `imgbot` from [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[10/04 05:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
@@ -341,7 +342,6 @@ Recent Activity :
 `[09/27 20:30]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2748`](https://github.com//girlscript/winter-of-contributing/pull/2748 'Added the Documentation for Multimap and Unordered multimap') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/27 20:29]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2737`](https://github.com//girlscript/winter-of-contributing/pull/2737 'Stack_Using_STL') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/27 20:28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2737`](https://github.com//girlscript/winter-of-contributing/issues/2737 'Stack_Using_STL') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[09/27 20:20]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Reopened PR [`#2949`](https://github.com//girlscript/winter-of-contributing/pull/2949 'C++ Web Programming') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
