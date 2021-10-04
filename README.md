@@ -123,14 +123,18 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[10/04 15:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[10/04 15:19]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#4394`](https://github.com//girlscript/winter-of-contributing/pull/4394 'C_CPP: added basic array problems') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[10/04 15:19]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#4394`](https://github.com//girlscript/winter-of-contributing/issues/4394 'C_CPP: added basic array problems') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[10/04 15:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `53` commits in [jaissumi1402/winter-of-contributing](https://github.com/jaissumi1402/winter-of-contributing)  
 `[10/04 14:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[10/04 14:18]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#4212`](https://github.com//girlscript/winter-of-contributing/pull/4212 'C_CPP :Lower triangular matrix') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/04 14:18]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#4212`](https://github.com//girlscript/winter-of-contributing/issues/4212 'C_CPP :Lower triangular matrix') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/04 13:19]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#4212`](https://github.com//girlscript/winter-of-contributing/issues/4212 'C_CPP :Lower triangular matrix') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/04 13:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[10/04 13:06]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#4400`](https://github.com//girlscript/winter-of-contributing/pull/4400 'Added the video') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/04 13:06]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#4400`](https://github.com//girlscript/winter-of-contributing/issues/4400 'Added the video') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/04 13:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [priyanshiparolia/winter-of-contributing](https://github.com/priyanshiparolia/winter-of-contributing)  
@@ -343,10 +347,6 @@ Recent Activity :
 `[09/28 20:27]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing) to [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 `[09/28 16:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[09/28 16:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ikavyajain/winter-of-contributing](https://github.com/ikavyajain/winter-of-contributing)  
-`[09/28 15:56]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `revert-3087-patch1` from [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[09/28 15:52]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#3389`](https://github.com//girlscript/winter-of-contributing/pull/3389 'Patch1') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[09/28 15:52]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3389`](https://github.com//girlscript/winter-of-contributing/pull/3389 'Patch1') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[09/28 15:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
