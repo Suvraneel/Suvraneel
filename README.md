@@ -148,9 +148,7 @@ Recent Activity :
 `[10/03 14:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/03 14:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 `[10/03 10:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[10/03 10:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[10/03 10:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[10/03 10:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[10/03 07:12]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#3797`](https://github.com//girlscript/winter-of-contributing/pull/3797 'Added video tutorial for Linked List Basic Syntax understanding') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/03 07:12]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#3797`](https://github.com//girlscript/winter-of-contributing/pull/3797 'Added video tutorial for Linked List Basic Syntax understanding') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/03 07:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `85` commits in [adityarajsahoo/winter-of-contributing](https://github.com/adityarajsahoo/winter-of-contributing)  
@@ -346,7 +344,7 @@ Recent Activity :
 <summary> <b>  :octocat: Recent Repo-wise Commits </b></summary>
   
 <!-- START gadpp -->
-- Suvraneel/Suvraneel.github.io, [refs/heads/main@3a8fdd1fbe5e305dc7c2d6aea51e7d50c10badbf](https://github.com/Suvraneel/Suvraneel.github.io/commit/3a8fdd1fbe5e305dc7c2d6aea51e7d50c10badbf)
+- Suvraneel/Suvraneel.github.io, [refs/heads/main@0966fe701e50e8cc886dfe2db37adb69751d3c21](https://github.com/Suvraneel/Suvraneel.github.io/commit/0966fe701e50e8cc886dfe2db37adb69751d3c21)
 - Suvraneel/Diablo-Music, [refs/heads/imgbot@9c9be3829ba1cbed0ae64665843dd93e05878b7e](https://github.com/Suvraneel/Diablo-Music/commit/9c9be3829ba1cbed0ae64665843dd93e05878b7e)
 - Suvraneel/Codechef, [refs/heads/main@14fd55ad1992625990a76997d54deb51bd658fb9](https://github.com/Suvraneel/Codechef/commit/14fd55ad1992625990a76997d54deb51bd658fb9)
 - Suvraneel/diablo-music-app, [refs/heads/main@bfaacb2f30a349e5b5fa27ad38950343c891f155](https://github.com/Suvraneel/diablo-music-app/commit/bfaacb2f30a349e5b5fa27ad38950343c891f155)
