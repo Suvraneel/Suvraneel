@@ -123,7 +123,7 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
-`[10/05 17:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cu-cse-blog/CodeClub_CU](https://github.com/cu-cse-blog/CodeClub_CU)  
+`[10/05 17:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cu-cse-blog/CodeClub_CU](https://github.com/cu-cse-blog/CodeClub_CU)  
 `[10/05 17:37]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cu-cse-blog/CodeClub_CU/tree/main) in [cu-cse-blog/CodeClub_CU](https://github.com/cu-cse-blog/CodeClub_CU)  
 `[10/05 17:37]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cu-cse-blog/CodeClub_CU](https://github.com/cu-cse-blog/CodeClub_CU)  
 `[10/05 15:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3249`](https://github.com//girlscript/winter-of-contributing/issues/3249 '[Create New Issue]: ') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
@@ -339,8 +339,6 @@ Recent Activity :
 `[09/29 19:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/slash-assign-action](https://github.com/Suvraneel/slash-assign-action)  
 `[09/29 19:08]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#65`](https://github.com//Suvraneel/Automated-assign-labeler/issues/65 'testing issue 1-3') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[09/29 19:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/slash-assign-action](https://github.com/Suvraneel/slash-assign-action)  
-`[09/29 19:02]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#65`](https://github.com//Suvraneel/Automated-assign-labeler/issues/65 'testing issue 1-3') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
-`[09/29 19:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/slash-assign-action](https://github.com/Suvraneel/slash-assign-action)  
 
 </details>
 <!--END_SECTION:activity-->
