@@ -123,14 +123,19 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[10/09 13:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1000` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[10/09 13:33]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#5231`](https://github.com//girlscript/winter-of-contributing/pull/5231 'Copy c cpp') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[10/09 13:31]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#5231`](https://github.com//girlscript/winter-of-contributing/pull/5231 'Copy c cpp') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[10/09 13:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1000` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[10/09 13:22]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`copy-C_CPP`](https://github.com/girlscript/winter-of-contributing/tree/copy-C_CPP) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[10/09 13:14]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`copy-main-for-C_CPP`](https://github.com/girlscript/winter-of-contributing/tree/copy-main-for-C_CPP) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/09 13:14]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `backup-C_CPP` from [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/09 13:12]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#5226`](https://github.com//girlscript/winter-of-contributing/pull/5226 'trying rebase') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/09 13:08]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#5226`](https://github.com//girlscript/winter-of-contributing/pull/5226 'trying rebase') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/09 13:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[10/09 13:05]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`backup-C_CPP`](https://github.com/girlscript/winter-of-contributing/tree/backup-C_CPP) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/09 12:33]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#5214`](https://github.com//girlscript/winter-of-contributing/issues/5214 'Different Patterns in C++ Issue #3940') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/09 12:26]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#5199`](https://github.com//girlscript/winter-of-contributing/issues/5199 'Functions In C') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
