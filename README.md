@@ -124,9 +124,7 @@ Recent Activity :
 
 <!--START_SECTION:activity-->
 `[10/11 20:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[10/11 20:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[10/11 20:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[10/11 20:25]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`patch1`](https://github.com/Suvraneel/Suvraneel.github.io/tree/patch1) in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[10/11 20:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [actions/toolkit](https://github.com/actions/toolkit)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
@@ -357,7 +355,7 @@ Recent Activity :
 <summary> <b>  :octocat: Recent Repo-wise Commits </b></summary>
   
 <!-- START gadpp -->
-- Suvraneel/Suvraneel.github.io, [refs/heads/patch1@a623ce4cdd7a5135a0c881338b4774f682a04c70](https://github.com/Suvraneel/Suvraneel.github.io/commit/a623ce4cdd7a5135a0c881338b4774f682a04c70)
+- Suvraneel/Suvraneel.github.io, [refs/heads/patch1@d6b6bc16af6680dd384fba8cabe5e92b4520b3a3](https://github.com/Suvraneel/Suvraneel.github.io/commit/d6b6bc16af6680dd384fba8cabe5e92b4520b3a3)
 - Suvraneel/Diablo-Music, [refs/heads/imgbot@9c9be3829ba1cbed0ae64665843dd93e05878b7e](https://github.com/Suvraneel/Diablo-Music/commit/9c9be3829ba1cbed0ae64665843dd93e05878b7e)
 - Suvraneel/Codechef, [refs/heads/main@14fd55ad1992625990a76997d54deb51bd658fb9](https://github.com/Suvraneel/Codechef/commit/14fd55ad1992625990a76997d54deb51bd658fb9)
 - Suvraneel/diablo-music-app, [refs/heads/main@bfaacb2f30a349e5b5fa27ad38950343c891f155](https://github.com/Suvraneel/diablo-music-app/commit/bfaacb2f30a349e5b5fa27ad38950343c891f155)
