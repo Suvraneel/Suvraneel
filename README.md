@@ -123,14 +123,18 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[10/11 20:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
+`[10/11 20:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
+`[10/11 20:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
+`[10/11 20:25]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`patch1`](https://github.com/Suvraneel/Suvraneel.github.io/tree/patch1) in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[10/11 20:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [actions/toolkit](https://github.com/actions/toolkit)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[10/11 19:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sdras/awesome-actions](https://github.com/sdras/awesome-actions)  
 `[10/11 19:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)  
 `[10/11 19:52]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#5148`](https://github.com//girlscript/winter-of-contributing/pull/5148 'Backtracking Algorithm') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/11 19:51]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#5148`](https://github.com//girlscript/winter-of-contributing/pull/5148 'Backtracking Algorithm') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[10/11 19:50]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#5148`](https://github.com//girlscript/winter-of-contributing/pull/5148 'Backtracking Algorithm') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/11 19:50]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#5148`](https://github.com//girlscript/winter-of-contributing/pull/5148 'Backtracking Algorithm') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/11 19:48]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#5148`](https://github.com//girlscript/winter-of-contributing/pull/5148 'Backtracking Algorithm') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
@@ -345,7 +349,6 @@ Recent Activity :
 `[10/08 19:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#4911`](https://github.com//girlscript/winter-of-contributing/issues/4911 'Added basic problems on string') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/08 19:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/08 19:34]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#4911`](https://github.com//girlscript/winter-of-contributing/pull/4911 'Added basic problems on string') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[10/08 19:33]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#4240`](https://github.com//girlscript/winter-of-contributing/issues/4240 'Data Structures/Matrix/Upper_Triangular_Matrix.md') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
