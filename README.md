@@ -123,14 +123,15 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[10/11 19:35]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`hacktoberfest`](https://github.com/Suvraneel/winter-of-contributing/tree/hacktoberfest) in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 `[10/11 16:54]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#3`](https://github.com//Suvraneel/winter-of-contributing/pull/3 'C cpp') in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 `[10/11 16:54]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3`](https://github.com//Suvraneel/winter-of-contributing/pull/3 'C cpp') in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 `[10/11 16:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `23` commits in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 `[10/11 16:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TarikHuber/react-most-wanted](https://github.com/TarikHuber/react-most-wanted)  
-`[10/11 16:41]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `Suvraneel-main-copy` from [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[10/11 16:41]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `Suvraneel-main-copy` from [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/11 16:41]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `Suvraneel-CPP-rebase-1` from [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/11 16:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/11 16:34]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`Suvraneel-main-copy`](https://github.com/girlscript/winter-of-contributing/tree/Suvraneel-main-copy) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
@@ -342,7 +343,6 @@ Recent Activity :
 `[10/08 06:38]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#4943`](https://github.com//girlscript/winter-of-contributing/issues/4943 'adding a documentation on variadic functions in C') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/08 06:32]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#4278`](https://github.com//girlscript/winter-of-contributing/pull/4278 'Added the Sudoku Solver using cpp documentation') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/08 06:32]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#4278`](https://github.com//girlscript/winter-of-contributing/pull/4278 'Added the Sudoku Solver using cpp documentation') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[10/08 06:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
