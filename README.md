@@ -16,10 +16,11 @@
 <a href="https://suvraneel.github.io" target="_blank"><img align='right' src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/readme_banner.gif" width="240" height="auto"></a>
 <br>
 
-- :computer: I’m currently pursuing B.Tech in **Computer Science Engineering** at the **University of Calcutta**
+- :computer: I’m currently pursuing B.Tech in **Computer Science & Engineering** at the  
+   **University College of Science, Technology & Agriculture ([UCSTA](http://www.caluniv-ucsta.net/)), University of Calcutta**
 - :crystal_ball: I’m currently working on Responsive Web Design, JavaScript, SQL
-- :mailbox: You can reach me at **bsuvraneel@gmail.com**
-- :package: Feel free to check out my website - [**suvraneel.github.io**](https://suvraneel.github.io/)
+- :mailbox: You can reach out to me at : ***bsuvraneel@gmail.com***
+- :package: Feel free to check out my website : [***suvraneel.github.io***](https://suvraneel.github.io/)
 - :bowtie: Pronouns: He/Him
 - :video_game: **Hobbies**: PC Gaming, Coding, Reading, Soccer
 
