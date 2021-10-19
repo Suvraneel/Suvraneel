@@ -125,7 +125,6 @@ Recent Activity :
 
 <!--START_SECTION:activity-->
 `[10/19 15:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[10/19 15:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[10/19 12:12]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#6258`](https://github.com//girlscript/winter-of-contributing/pull/6258 'rebase - Do NOT merge') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/19 11:50]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6391`](https://github.com//girlscript/winter-of-contributing/pull/6391 'Namespaces in C++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/19 11:50]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6391`](https://github.com//girlscript/winter-of-contributing/pull/6391 'Namespaces in C++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
@@ -370,7 +369,7 @@ Recent Activity :
 <summary> <b>  :octocat: Recent Repo-wise Commits </b></summary>
   
 <!-- START gadpp -->
-- Suvraneel/Suvraneel.github.io, [refs/heads/imgbot@8e08e270ce0d5887326ec2c9e2c0e4cce01c8bdd](https://github.com/Suvraneel/Suvraneel.github.io/commit/8e08e270ce0d5887326ec2c9e2c0e4cce01c8bdd)
+- Suvraneel/Suvraneel.github.io, [refs/heads/main@95d7d05713c6a4c63d7d2d7f82f25e836ed9b97c](https://github.com/Suvraneel/Suvraneel.github.io/commit/95d7d05713c6a4c63d7d2d7f82f25e836ed9b97c)
 - Suvraneel/Codechef, [refs/heads/main@449e9d2269ec204331db701333da7cdce8ba6693](https://github.com/Suvraneel/Codechef/commit/449e9d2269ec204331db701333da7cdce8ba6693)
 - Suvraneel/Diablo-Music, [refs/heads/imgbot@9c9be3829ba1cbed0ae64665843dd93e05878b7e](https://github.com/Suvraneel/Diablo-Music/commit/9c9be3829ba1cbed0ae64665843dd93e05878b7e)
 - Suvraneel/diablo-music-app, [refs/heads/main@bfaacb2f30a349e5b5fa27ad38950343c891f155](https://github.com/Suvraneel/diablo-music-app/commit/bfaacb2f30a349e5b5fa27ad38950343c891f155)
