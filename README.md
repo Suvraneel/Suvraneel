@@ -124,14 +124,19 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[10/20 08:39]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#6219`](https://github.com//girlscript/winter-of-contributing/issues/6219 'Namespaces in C++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[10/20 08:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[10/20 08:29]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#6391`](https://github.com//girlscript/winter-of-contributing/pull/6391 'Namespaces in C++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[10/20 08:29]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6391`](https://github.com//girlscript/winter-of-contributing/issues/6391 'Namespaces in C++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[10/20 08:28]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6391`](https://github.com//girlscript/winter-of-contributing/pull/6391 'Namespaces in C++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[10/20 06:28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6391`](https://github.com//girlscript/winter-of-contributing/issues/6391 'Namespaces in C++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/20 06:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[10/20 06:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Codechef](https://github.com/Suvraneel/Codechef)  
 `[10/20 06:25]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#4`](https://github.com//Suvraneel/Codechef/pull/4 'Starters 15') in [Suvraneel/Codechef](https://github.com/Suvraneel/Codechef)  
 `[10/20 06:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[10/20 06:25]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#4`](https://github.com//Suvraneel/Codechef/pull/4 'Add files via upload') in [Suvraneel/Codechef](https://github.com/Suvraneel/Codechef)  
 `[10/20 06:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[10/20 06:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Codechef](https://github.com/Suvraneel/Codechef)  
@@ -358,11 +363,6 @@ Recent Activity :
 `[10/13 16:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Perpetual-Incantation/winter-of-contributing](https://github.com/Perpetual-Incantation/winter-of-contributing)  
 `[10/13 16:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#5742`](https://github.com//girlscript/winter-of-contributing/issues/5742 'Cpp/dp/knapsack problem') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/13 16:10]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Reopened PR [`#5742`](https://github.com//girlscript/winter-of-contributing/pull/5742 'Cpp/dp/knapsack problem') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[10/13 16:08]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#5751`](https://github.com//girlscript/winter-of-contributing/pull/5751 'Added a file in C_CPP ie Number Theory') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[10/13 16:07]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#5751`](https://github.com//girlscript/winter-of-contributing/pull/5751 'Added a file in C_CPP ie Number Theory') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[10/13 07:34]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#5734`](https://github.com//girlscript/winter-of-contributing/pull/5734 'Function call') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[10/13 07:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `66` commits in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
-`[10/13 07:17]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#3129`](https://github.com//girlscript/winter-of-contributing/pull/3129 'C prgramming for Beginner cheatsheet .') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
