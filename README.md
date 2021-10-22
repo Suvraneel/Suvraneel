@@ -124,14 +124,19 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[10/22 07:33]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#5214`](https://github.com//girlscript/winter-of-contributing/pull/5214 'Different Patterns in C++ Issue #3940') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[10/22 07:33]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#5214`](https://github.com//girlscript/winter-of-contributing/issues/5214 'Different Patterns in C++ Issue #3940') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[10/22 07:21]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6400`](https://github.com//girlscript/winter-of-contributing/issues/6400 'C/CPP: RECURSIVE BFS') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[10/22 07:17]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6400`](https://github.com//girlscript/winter-of-contributing/pull/6400 'C/CPP: RECURSIVE BFS') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[10/22 07:17]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6400`](https://github.com//girlscript/winter-of-contributing/pull/6400 'C/CPP: RECURSIVE BFS') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[10/21 20:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[10/21 20:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[10/21 07:27]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6331`](https://github.com//girlscript/winter-of-contributing/issues/6331 'Heap Sort in C') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/21 07:24]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#5762`](https://github.com//girlscript/winter-of-contributing/issues/5762 ' Errors In C/C++ Video') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/21 07:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[10/21 07:24]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#6253`](https://github.com//girlscript/winter-of-contributing/pull/6253 'Error_Video') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/21 07:24]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6253`](https://github.com//girlscript/winter-of-contributing/issues/6253 'Error_Video') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/21 07:24]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6253`](https://github.com//girlscript/winter-of-contributing/pull/6253 'Error_Video') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
@@ -353,16 +358,6 @@ Recent Activity :
 `[10/15 18:54]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//Suvraneel/Codechef/pull/3 'fixfix.cpp') in [Suvraneel/Codechef](https://github.com/Suvraneel/Codechef)  
 `[10/15 18:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Codechef](https://github.com/Suvraneel/Codechef)  
 `[10/15 18:54]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3`](https://github.com//Suvraneel/Codechef/pull/3 'fixfix.cpp') in [Suvraneel/Codechef](https://github.com/Suvraneel/Codechef)  
-`[10/15 18:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Codechef](https://github.com/Suvraneel/Codechef)  
-`[10/15 18:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[10/15 18:53]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`patch2`](https://github.com/Suvraneel/Codechef/tree/patch2) in [Suvraneel/Codechef](https://github.com/Suvraneel/Codechef)  
-`[10/15 18:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[10/15 18:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/Codechef](https://github.com/Suvraneel/Codechef)  
-`[10/15 18:52]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//Suvraneel/Codechef/pull/2 'Patch1') in [Suvraneel/Codechef](https://github.com/Suvraneel/Codechef)  
-`[10/15 18:52]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//Suvraneel/Codechef/pull/2 'Patch1') in [Suvraneel/Codechef](https://github.com/Suvraneel/Codechef)  
-`[10/15 18:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[10/15 18:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Codechef](https://github.com/Suvraneel/Codechef)  
-`[10/15 18:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 
 </details>
 <!--END_SECTION:activity-->
