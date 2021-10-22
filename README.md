@@ -124,14 +124,15 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[10/22 15:44]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#5549`](https://github.com//girlscript/winter-of-contributing/issues/5549 'Assignment operators in C++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/22 15:40]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6525`](https://github.com//girlscript/winter-of-contributing/issues/6525 'Comments in C/CPP') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/22 15:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `23` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/22 15:37]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#6400`](https://github.com//girlscript/winter-of-contributing/pull/6400 'C/CPP: RECURSIVE BFS') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/22 15:37]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6400`](https://github.com//girlscript/winter-of-contributing/issues/6400 'C/CPP: RECURSIVE BFS') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[10/22 15:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rijudas149/winter-of-contributing](https://github.com/Rijudas149/winter-of-contributing)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[10/22 15:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rijudas149/winter-of-contributing](https://github.com/Rijudas149/winter-of-contributing)  
 `[10/22 15:34]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6486`](https://github.com//girlscript/winter-of-contributing/issues/6486 'Reasons for Multifile Programs') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/22 14:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Codechef](https://github.com/Suvraneel/Codechef)  
 `[10/22 14:52]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`gh-pages`](https://github.com/Suvraneel/Codechef/tree/gh-pages) in [Suvraneel/Codechef](https://github.com/Suvraneel/Codechef)  
@@ -357,7 +358,6 @@ Recent Activity :
 `[10/16 11:46]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6018`](https://github.com//girlscript/winter-of-contributing/pull/6018 'this Pointer') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/16 11:40]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6022`](https://github.com//girlscript/winter-of-contributing/issues/6022 'Added documentation for height balanced trees') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/16 11:09]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6043`](https://github.com//girlscript/winter-of-contributing/issues/6043 'C_CPP: Created Spiral_Matrix.md') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[10/16 11:07]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6043`](https://github.com//girlscript/winter-of-contributing/pull/6043 'C_CPP: Created Spiral_Matrix.md') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
