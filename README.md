@@ -68,15 +68,15 @@ Connect with me on:
 Competencies:
 <br></h2>
 
-![C++](https://img.shields.io/badge/CPP-blue?style=for-the-badge&logo=cplusplus&labelColor=006199)
-![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&labelColor=black&color=404040)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&labelColor=e65c00&color=FE7D37)
-![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&labelColor=black&color=red)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&labelColor=006199)
+[![C++](https://img.shields.io/badge/CPP-blue?style=for-the-badge&logo=cplusplus&labelColor=006199)](https://github.com/Suvraneel/Codechef/search?l=c%2B%2B)
+[![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&labelColor=black&color=404040)](https://github.com/Suvraneel/Codechef/search?l=C)
+[![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&labelColor=e65c00&color=FE7D37)](https://github.com/Suvraneel/Codechef/search?l=Java)
+[![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&labelColor=black&color=red)](https://github.com/Suvraneel/Suvraneel.github.io/search?l=html)
+[![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&labelColor=006199)](https://github.com/Suvraneel/Suvraneel.github.io/search?l=CSS)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&labelColor=black&color=7952B3)
-![JavaScript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=DFA200)
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&labelColor=0a97c2&color=0dbdf2)
-![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&labelColor=1f7a7a&color=2eb8b8)
+[![JavaScript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=DFA200)](https://github.com/Suvraneel/Suvraneel/search?l=javascript)
+[![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&labelColor=0a97c2&color=0dbdf2)](https://github.com/Suvraneel/Diablo-Music/search?l=dart)
+[![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&labelColor=1f7a7a&color=2eb8b8)](https://github.com/Suvraneel/Diablo-Music/search?l=dart)
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&labelColor=black&color=red)
 ![Arduino](https://img.shields.io/badge/Arduino-blue?style=for-the-badge&logo=arduino&labelColor=black&color=00979D)
 ![VHDL](https://img.shields.io/badge/VHDL-red?style=for-the-badge&logo=xilinx&labelColor=cc0000&color=ff4d4d)
