@@ -124,14 +124,15 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[10/24 22:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/fcc-machine-learning-with-python](https://github.com/Suvraneel/fcc-machine-learning-with-python)  
 `[10/24 20:21]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#3940`](https://github.com//girlscript/winter-of-contributing/issues/3940 'Different Pattern Questions in Cpp') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/24 20:21]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6531`](https://github.com//girlscript/winter-of-contributing/issues/6531 'Different Patterns In C++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/24 20:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/24 20:20]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#6531`](https://github.com//girlscript/winter-of-contributing/pull/6531 'Different Patterns In C++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[10/24 20:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[10/24 20:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[10/24 20:15]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#7`](https://github.com//Suvraneel/Suvraneel/pull/7 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[10/24 16:43]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6590`](https://github.com//girlscript/winter-of-contributing/issues/6590 'Segment Tree') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/24 16:41]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6590`](https://github.com//girlscript/winter-of-contributing/pull/6590 'Segment Tree') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
@@ -362,7 +363,6 @@ Recent Activity :
 `[10/17 16:20]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6121`](https://github.com//girlscript/winter-of-contributing/pull/6121 'Storage Classes_Audio.md') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/17 16:20]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6121`](https://github.com//girlscript/winter-of-contributing/pull/6121 'Storage Classes_Audio.md') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/17 16:07]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2925`](https://github.com//girlscript/winter-of-contributing/issues/2925 'Python: Arithmetic and Assignment Operators In Python') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[10/17 16:05]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6063`](https://github.com//girlscript/winter-of-contributing/pull/6063 '#4529') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
