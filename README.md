@@ -358,7 +358,7 @@ Recent Activity :
 `[10/17 15:46]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#5807`](https://github.com//girlscript/winter-of-contributing/pull/5807 'Introduction to structures CPP') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/17 15:46]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#5807`](https://github.com//girlscript/winter-of-contributing/issues/5807 'Introduction to structures CPP') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/17 15:41]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#4604`](https://github.com//girlscript/winter-of-contributing/pull/4604 'Introduction to structures/C cpp ') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[10/17 15:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[10/17 15:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
