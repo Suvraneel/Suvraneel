@@ -124,14 +124,15 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[10/27 06:31]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [anomitaghosh/anomitaghosh.github.io](https://github.com/anomitaghosh/anomitaghosh.github.io) to [Suvraneel/anomitaghosh.github.io](https://github.com/Suvraneel/anomitaghosh.github.io)  
 `[10/26 11:28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1185`](https://github.com//mwittrien/BetterDiscordAddons/issues/1185 '[BUG] - ShowConnections') in [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)  
 `[10/26 11:17]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1190`](https://github.com//mwittrien/BetterDiscordAddons/issues/1190 '[BUG] - PLUGIN/THEMENAME') in [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)  
 `[10/26 11:05]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#95`](https://github.com//Design-and-Code/support/issues/95 'Please invite me to the GitHub Community Organization') in [Design-and-Code/support](https://github.com/Design-and-Code/support)  
 `[10/25 20:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6700`](https://github.com//girlscript/winter-of-contributing/issues/6700 'Added Audio for types Of loops in C') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[10/25 20:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[10/25 20:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/25 20:06]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#6445`](https://github.com//girlscript/winter-of-contributing/issues/6445 '[C/Cpp]: Encryption Decryption using Rail-fence transposition technique documentation') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/25 20:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/25 20:06]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#6560`](https://github.com//girlscript/winter-of-contributing/pull/6560 'C cpp : Added Rail Fence Cryptography') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
@@ -356,7 +357,6 @@ Recent Activity :
 `[10/17 20:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Op-panda/winter-of-contributing](https://github.com/Op-panda/winter-of-contributing)  
 `[10/17 20:33]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#6259`](https://github.com//girlscript/winter-of-contributing/pull/6259 'C cpp') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/17 20:33]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#6259`](https://github.com//girlscript/winter-of-contributing/pull/6259 'C cpp') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[10/17 20:32]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#6258`](https://github.com//girlscript/winter-of-contributing/pull/6258 'rebase') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
