@@ -124,14 +124,20 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[10/27 18:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
+`[10/27 18:44]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#8`](https://github.com//Suvraneel/Suvraneel/pull/8 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
+`[10/27 18:42]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#6544`](https://github.com//girlscript/winter-of-contributing/issues/6544 'Tic Tac Toe in C++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[10/27 18:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `17` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[10/27 18:42]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#6684`](https://github.com//girlscript/winter-of-contributing/pull/6684 'C/C++: Tic Tac Toe') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[10/27 18:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rijudas149/winter-of-contributing](https://github.com/Rijudas149/winter-of-contributing)  
 `[10/27 17:43]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6567`](https://github.com//girlscript/winter-of-contributing/pull/6567 'C_CPP: \'inline\' Functions') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/27 17:43]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6567`](https://github.com//girlscript/winter-of-contributing/pull/6567 'C_CPP: \'inline\' Functions') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/27 09:28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6721`](https://github.com//girlscript/winter-of-contributing/issues/6721 '[C/CPP]: Josephus Problem') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/27 09:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/27 09:27]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#6721`](https://github.com//girlscript/winter-of-contributing/pull/6721 '[C/CPP]: Josephus Problem') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[10/27 09:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [areenoverclouds/winter-of-contributing](https://github.com/areenoverclouds/winter-of-contributing)  
 `[10/27 08:32]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6684`](https://github.com//girlscript/winter-of-contributing/issues/6684 'C/C++: Tic Tac Toe') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/27 08:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Rijudas149/winter-of-contributing](https://github.com/Rijudas149/winter-of-contributing)  
@@ -347,8 +353,6 @@ Recent Activity :
 `[10/18 07:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/18 07:30]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#5243`](https://github.com//girlscript/winter-of-contributing/pull/5243 'Implementation of Hash Tables with Linear Probing') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/18 07:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [am-dusky/winter-of-contributing](https://github.com/am-dusky/winter-of-contributing)  
-`[10/18 07:10]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`C_CPP_copy`](https://github.com/girlscript/winter-of-contributing/tree/C_CPP_copy) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[10/18 06:54]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#5243`](https://github.com//girlscript/winter-of-contributing/pull/5243 'Implementation of Hash Tables with Linear Probing') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
