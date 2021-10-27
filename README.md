@@ -124,14 +124,18 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[10/27 09:28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6721`](https://github.com//girlscript/winter-of-contributing/issues/6721 '[C/CPP]: Josephus Problem') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[10/27 09:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[10/27 09:27]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#6721`](https://github.com//girlscript/winter-of-contributing/pull/6721 '[C/CPP]: Josephus Problem') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[10/27 09:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [areenoverclouds/winter-of-contributing](https://github.com/areenoverclouds/winter-of-contributing)  
 `[10/27 08:32]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6684`](https://github.com//girlscript/winter-of-contributing/issues/6684 'C/C++: Tic Tac Toe') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[10/27 08:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Rijudas149/winter-of-contributing](https://github.com/Rijudas149/winter-of-contributing)  
 `[10/27 06:31]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [anomitaghosh/anomitaghosh.github.io](https://github.com/anomitaghosh/anomitaghosh.github.io) to [Suvraneel/anomitaghosh.github.io](https://github.com/Suvraneel/anomitaghosh.github.io)  
 `[10/26 11:28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1185`](https://github.com//mwittrien/BetterDiscordAddons/issues/1185 '[BUG] - ShowConnections') in [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)  
 `[10/26 11:17]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1190`](https://github.com//mwittrien/BetterDiscordAddons/issues/1190 '[BUG] - PLUGIN/THEMENAME') in [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[10/26 11:05]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#95`](https://github.com//Design-and-Code/support/issues/95 'Please invite me to the GitHub Community Organization') in [Design-and-Code/support](https://github.com/Design-and-Code/support)  
 `[10/25 20:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6700`](https://github.com//girlscript/winter-of-contributing/issues/6700 'Added Audio for types Of loops in C') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/25 20:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
@@ -351,10 +355,6 @@ Recent Activity :
 `[10/18 06:35]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#5818`](https://github.com//girlscript/winter-of-contributing/pull/5818 'Errors in CPP') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/18 06:35]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#5818`](https://github.com//girlscript/winter-of-contributing/pull/5818 'Errors in CPP') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/18 06:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [RahulRam29/winter-of-contributing](https://github.com/RahulRam29/winter-of-contributing)  
-`[10/17 20:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#4529`](https://github.com//girlscript/winter-of-contributing/issues/4529 'stacks : cpp( STL )') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[10/17 20:56]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6063`](https://github.com//girlscript/winter-of-contributing/issues/6063 '#4529') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[10/17 20:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `24` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[10/17 20:55]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#6063`](https://github.com//girlscript/winter-of-contributing/pull/6063 '#4529') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
