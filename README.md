@@ -124,14 +124,15 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[10/28 21:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/fcc-machine-learning-with-python](https://github.com/Suvraneel/fcc-machine-learning-with-python)  
 `[10/28 19:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MiloMallo/Stock](https://github.com/MiloMallo/Stock)  
 `[10/28 19:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6700`](https://github.com//girlscript/winter-of-contributing/issues/6700 'Added Audio for types Of loops in C') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/28 15:05]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6700`](https://github.com//girlscript/winter-of-contributing/issues/6700 'Added Audio for types Of loops in C') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/28 15:03]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6700`](https://github.com//girlscript/winter-of-contributing/issues/6700 'Added Audio for types Of loops in C') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[10/28 15:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[10/28 15:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/28 15:03]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#6700`](https://github.com//girlscript/winter-of-contributing/pull/6700 'Added Audio for types Of loops in C') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/28 15:01]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6331`](https://github.com//girlscript/winter-of-contributing/pull/6331 'Heap Sort in C') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/28 15:00]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6331`](https://github.com//girlscript/winter-of-contributing/issues/6331 'Heap Sort in C') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
@@ -355,7 +356,6 @@ Recent Activity :
 `[10/18 16:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1000` commits in [yuvithakur007/winter-of-contributing](https://github.com/yuvithakur007/winter-of-contributing)  
 `[10/18 16:32]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#5700`](https://github.com//girlscript/winter-of-contributing/issues/5700 'Basic questions of Arrays') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/18 16:31]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6004`](https://github.com//girlscript/winter-of-contributing/issues/6004 'ARRAYS BASIC QUESTIONS') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[10/18 16:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
