@@ -124,14 +124,18 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[10/30 06:06]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6871`](https://github.com//girlscript/winter-of-contributing/issues/6871 'Added Audio for Dynamic memory allocation in C') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[10/30 06:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
+`[10/30 06:06]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#10`](https://github.com//Suvraneel/Suvraneel/pull/10 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
+`[10/30 06:05]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6883`](https://github.com//girlscript/winter-of-contributing/pull/6883 'C/CPP: XOR Linked List Documentation') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/28 21:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Ronak-59/Stock-Prediction](https://github.com/Ronak-59/Stock-Prediction)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[10/28 21:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vsjha18/nsetools](https://github.com/vsjha18/nsetools)  
 `[10/28 21:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/fcc-machine-learning-with-python](https://github.com/Suvraneel/fcc-machine-learning-with-python)  
 `[10/28 21:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mwitiderrick/stockprice](https://github.com/mwitiderrick/stockprice)  
 `[10/28 21:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/fcc-machine-learning-with-python](https://github.com/Suvraneel/fcc-machine-learning-with-python)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[10/28 19:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MiloMallo/Stock](https://github.com/MiloMallo/Stock)  
 `[10/28 19:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6700`](https://github.com//girlscript/winter-of-contributing/issues/6700 'Added Audio for types Of loops in C') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/28 15:05]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6700`](https://github.com//girlscript/winter-of-contributing/issues/6700 'Added Audio for types Of loops in C') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
@@ -352,10 +356,6 @@ Recent Activity :
 `[10/18 20:58]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6183`](https://github.com//girlscript/winter-of-contributing/issues/6183 'C cpp') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/18 20:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [jiteshjitsun/winter-of-contributing](https://github.com/jiteshjitsun/winter-of-contributing)  
 `[10/18 16:46]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#4246`](https://github.com//girlscript/winter-of-contributing/issues/4246 'Create String-Copy_Constructor.md') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[10/18 16:41]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6183`](https://github.com//girlscript/winter-of-contributing/pull/6183 'C cpp') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[10/18 16:41]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6183`](https://github.com//girlscript/winter-of-contributing/pull/6183 'C cpp') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[10/18 16:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[10/18 16:35]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#4246`](https://github.com//girlscript/winter-of-contributing/pull/4246 'Create String-Copy_Constructor.md') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
