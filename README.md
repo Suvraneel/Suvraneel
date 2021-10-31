@@ -124,14 +124,18 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[10/31 16:55]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#6671`](https://github.com//girlscript/winter-of-contributing/issues/6671 'Fenwick Tree ') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[10/31 16:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[10/31 16:55]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#6910`](https://github.com//girlscript/winter-of-contributing/pull/6910 'Fenwick Tree') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[10/31 16:55]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6910`](https://github.com//girlscript/winter-of-contributing/issues/6910 'Fenwick Tree') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/31 13:42]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6938`](https://github.com//girlscript/winter-of-contributing/pull/6938 'Added Flood Fill Problem') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[10/31 13:42]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6938`](https://github.com//girlscript/winter-of-contributing/pull/6938 'Added Flood Fill Problem') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/31 07:08]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6938`](https://github.com//girlscript/winter-of-contributing/issues/6938 'Added Flood Fill Problem') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/31 07:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aman12207/winter-of-contributing](https://github.com/aman12207/winter-of-contributing)  
 `[10/31 07:01]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6910`](https://github.com//girlscript/winter-of-contributing/pull/6910 'Fenwick Tree') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[10/31 07:01]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6910`](https://github.com//girlscript/winter-of-contributing/pull/6910 'Fenwick Tree') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/31 06:53]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6910`](https://github.com//girlscript/winter-of-contributing/pull/6910 'Fenwick Tree') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/31 06:53]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6910`](https://github.com//girlscript/winter-of-contributing/pull/6910 'Fenwick Tree') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
@@ -349,10 +353,6 @@ Recent Activity :
 `[10/19 21:32]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#7`](https://github.com//Suvraneel/Suvraneel.github.io/pull/7 'Bumped video to v2.0') in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[10/19 21:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[10/19 21:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
-`[10/19 17:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[10/19 17:48]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`patch2`](https://github.com/Suvraneel/Suvraneel.github.io/tree/patch2) in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
-`[10/19 16:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[10/19 16:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 
 </details>
 <!--END_SECTION:activity-->
