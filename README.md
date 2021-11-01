@@ -124,14 +124,18 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[11/01 21:31]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#5549`](https://github.com//girlscript/winter-of-contributing/issues/5549 'Assignment operators in C++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[11/01 21:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [shreyarai05/winter-of-contributing](https://github.com/shreyarai05/winter-of-contributing)  
+`[11/01 21:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
+`[11/01 21:23]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#12`](https://github.com//Suvraneel/Suvraneel/pull/12 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[11/01 15:02]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6251`](https://github.com//girlscript/winter-of-contributing/issues/6251 'Added Documentation And Program of Bitmasking') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[11/01 14:45]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#6251`](https://github.com//girlscript/winter-of-contributing/pull/6251 'Added Documentation And Program of Bitmasking') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/01 14:45]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6251`](https://github.com//girlscript/winter-of-contributing/issues/6251 'Added Documentation And Program of Bitmasking') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/01 14:41]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#5549`](https://github.com//girlscript/winter-of-contributing/pull/5549 'Assignment operators in C++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/01 14:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [shreyarai05/winter-of-contributing](https://github.com/shreyarai05/winter-of-contributing)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[11/01 14:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7107`](https://github.com//girlscript/winter-of-contributing/issues/7107 'Added Knights Tour Problem') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/01 14:35]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#7100`](https://github.com//girlscript/winter-of-contributing/issues/7100 'Knight Tour Problem in C++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/01 14:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
@@ -339,9 +343,6 @@ Recent Activity :
 `[10/22 07:33]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#5214`](https://github.com//girlscript/winter-of-contributing/issues/5214 'Different Patterns in C++ Issue #3940') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/22 07:21]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6400`](https://github.com//girlscript/winter-of-contributing/issues/6400 'C/CPP: RECURSIVE BFS') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/22 07:17]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6400`](https://github.com//girlscript/winter-of-contributing/pull/6400 'C/CPP: RECURSIVE BFS') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[10/22 07:17]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6400`](https://github.com//girlscript/winter-of-contributing/pull/6400 'C/CPP: RECURSIVE BFS') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[10/21 20:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[10/21 20:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 
 </details>
 <!--END_SECTION:activity-->
