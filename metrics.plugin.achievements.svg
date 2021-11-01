@@ -1348,7 +1348,7 @@
                   Great developer
                   
                     <span class="gh">
-                      ranked 1.24m out of 79m users
+                      ranked 1.25m out of 79m users
                     </span>
                   
                 </div>
@@ -1365,7 +1365,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="144.91491491491493 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="145.07007007007007 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1389,11 +1389,11 @@
                   Maintainer
                   
                     <span class="gh">
-                      ranked 34.2k out of 238m repositories
+                      ranked 34.1k out of 238m repositories
                     </span>
                   
                 </div>
-                                <div class="text">Maintaining a repository with 935 stars</div>
+                                <div class="text">Maintaining a repository with 936 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1441,7 +1441,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="88.01507537688443 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="89.57286432160804 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1469,7 +1469,7 @@
                   Reviewer
                   
                 </div>
-                                <div class="text">Reviewed 114 pull requests</div>
+                                <div class="text">Reviewed 116 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1523,7 +1523,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="43.31360435359589 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="43.52607734700025 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1559,7 +1559,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="28.819095477386934 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="29.597989949748744 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1578,7 +1578,7 @@
                   Stargazer
                   
                 </div>
-                                <div class="text">Starred 38 repositories</div>
+                                <div class="text">Starred 39 repositories</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1775,7 +1775,7 @@
                   Inspirationer
                   
                     <span class="gh">
-                      ranked 3.74m out of 238m repositories
+                      ranked 3.75m out of 238m repositories
                     </span>
                   
                 </div>
