@@ -124,14 +124,15 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[11/02 16:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dibgerge/ml-coursera-python-assignments](https://github.com/dibgerge/ml-coursera-python-assignments)  
 `[11/02 08:02]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2898`](https://github.com//ZoranPandovski/al-go-rithms/issues/2898 '[C++] optimal Page Replacement Algorithm') in [ZoranPandovski/al-go-rithms](https://github.com/ZoranPandovski/al-go-rithms)  
 `[11/02 07:51]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#7169`](https://github.com//girlscript/winter-of-contributing/pull/7169 'Reversing a queue') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/02 07:51]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#7169`](https://github.com//girlscript/winter-of-contributing/pull/7169 'Reversing a queue') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/02 07:42]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#5549`](https://github.com//girlscript/winter-of-contributing/issues/5549 'Assignment operators in C++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[11/01 21:31]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#5549`](https://github.com//girlscript/winter-of-contributing/issues/5549 'Assignment operators in C++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[11/01 21:31]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#5549`](https://github.com//girlscript/winter-of-contributing/issues/5549 'Assignment operators in C++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/01 21:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [shreyarai05/winter-of-contributing](https://github.com/shreyarai05/winter-of-contributing)  
 `[11/01 21:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[11/01 21:23]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#12`](https://github.com//Suvraneel/Suvraneel/pull/12 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
@@ -344,7 +345,6 @@ Recent Activity :
 `[10/22 07:43]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6400`](https://github.com//girlscript/winter-of-contributing/pull/6400 'C/CPP: RECURSIVE BFS') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/22 07:43]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6400`](https://github.com//girlscript/winter-of-contributing/pull/6400 'C/CPP: RECURSIVE BFS') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/22 07:33]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#5214`](https://github.com//girlscript/winter-of-contributing/pull/5214 'Different Patterns in C++ Issue #3940') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[10/22 07:33]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#5214`](https://github.com//girlscript/winter-of-contributing/issues/5214 'Different Patterns in C++ Issue #3940') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
