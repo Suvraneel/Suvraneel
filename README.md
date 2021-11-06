@@ -124,14 +124,16 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[11/06 08:03]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6209`](https://github.com//girlscript/winter-of-contributing/pull/6209 'Egg Dropping') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[11/06 07:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `805` commits in [ikavyajain/winter-of-contributing](https://github.com/ikavyajain/winter-of-contributing)  
 `[11/06 06:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[11/06 06:47]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#16`](https://github.com//Suvraneel/Suvraneel/pull/16 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[11/05 17:30]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#1552`](https://github.com//girlscript/winter-of-contributing/pull/1552 'Python_Stack&_Queue') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[11/04 20:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[11/04 20:50]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#15`](https://github.com//Suvraneel/Suvraneel/pull/15 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[11/04 20:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
+`[11/04 20:50]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#15`](https://github.com//Suvraneel/Suvraneel/pull/15 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[11/04 11:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/04 11:33]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#7122`](https://github.com//girlscript/winter-of-contributing/issues/7122 'C_CPP : Interpolation Search in document form') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/04 11:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
@@ -332,8 +334,6 @@ Recent Activity :
 `[10/25 20:06]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#6560`](https://github.com//girlscript/winter-of-contributing/pull/6560 'C cpp : Added Rail Fence Cryptography') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/25 20:06]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6560`](https://github.com//girlscript/winter-of-contributing/issues/6560 'C cpp : Added Rail Fence Cryptography') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/25 20:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Sunainacode/winter-of-contributing](https://github.com/Sunainacode/winter-of-contributing)  
-`[10/25 20:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[10/25 20:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Sunainacode/winter-of-contributing](https://github.com/Sunainacode/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
