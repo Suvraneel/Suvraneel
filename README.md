@@ -124,14 +124,16 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[11/10 14:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hemenkapadia/getbhavcopy](https://github.com/hemenkapadia/getbhavcopy)  
+`[11/10 14:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)  
 `[11/10 11:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [react-designer/react-designer](https://github.com/react-designer/react-designer)  
 `[11/10 10:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components)  
 `[11/09 12:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7365`](https://github.com//girlscript/winter-of-contributing/issues/7365 'Infix To Postfix in C') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[11/09 12:47]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#6722`](https://github.com//girlscript/winter-of-contributing/issues/6722 'Revesing a Queue') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[11/09 12:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[11/09 12:47]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#6722`](https://github.com//girlscript/winter-of-contributing/issues/6722 'Revesing a Queue') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[11/09 12:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/09 12:47]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#7169`](https://github.com//girlscript/winter-of-contributing/pull/7169 'Reversing a queue') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/09 12:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [stutimohta20/winter-of-contributing](https://github.com/stutimohta20/winter-of-contributing)  
 `[11/09 12:45]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7169`](https://github.com//girlscript/winter-of-contributing/issues/7169 'Reversing a queue') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
@@ -338,7 +340,6 @@ Recent Activity :
 `[10/28 15:01]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6331`](https://github.com//girlscript/winter-of-contributing/pull/6331 'Heap Sort in C') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/28 15:00]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6331`](https://github.com//girlscript/winter-of-contributing/issues/6331 'Heap Sort in C') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/28 14:58]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#6546`](https://github.com//girlscript/winter-of-contributing/issues/6546 'C_CPP: \'inline\' Functions') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[10/28 14:57]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6700`](https://github.com//girlscript/winter-of-contributing/pull/6700 'Added Audio for types Of loops in C') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
