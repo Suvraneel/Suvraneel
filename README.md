@@ -340,7 +340,6 @@ Recent Activity :
 `[10/31 06:31]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6728`](https://github.com//girlscript/winter-of-contributing/pull/6728 'Structured Binding') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[10/31 06:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[10/31 06:21]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#11`](https://github.com//Suvraneel/Suvraneel/pull/11 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[10/30 15:11]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#6960`](https://github.com//girlscript/winter-of-contributing/issues/6960 'Audio for Dynamic memory allocation in C') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
