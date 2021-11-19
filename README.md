@@ -124,14 +124,15 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[11/19 06:37]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7874`](https://github.com//girlscript/winter-of-contributing/issues/7874 '[C_CPP]: NP Completeness ') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/18 21:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[11/18 20:42]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#21`](https://github.com//Suvraneel/Suvraneel/pull/21 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[11/18 20:40]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#7973`](https://github.com//girlscript/winter-of-contributing/issues/7973 'Fold Fulkerson Algorithm || Network Flow Algorithm') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/18 20:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[11/18 20:40]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#7979`](https://github.com//girlscript/winter-of-contributing/pull/7979 ' Ford Fulkerson Algorithm || Network Graph') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[11/18 20:40]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#7979`](https://github.com//girlscript/winter-of-contributing/pull/7979 ' Ford Fulkerson Algorithm || Network Graph') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/18 20:40]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7979`](https://github.com//girlscript/winter-of-contributing/issues/7979 ' Ford Fulkerson Algorithm || Network Graph') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/18 20:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `333` commits in [DwipshikhaLodh/winter-of-contributing](https://github.com/DwipshikhaLodh/winter-of-contributing)  
 `[11/18 20:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
@@ -328,8 +329,6 @@ Recent Activity :
 `[11/02 20:04]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6728`](https://github.com//girlscript/winter-of-contributing/issues/6728 'Structured Binding') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/02 19:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[11/02 19:59]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#13`](https://github.com//Suvraneel/Suvraneel/pull/13 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[11/02 16:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dibgerge/ml-coursera-python-assignments](https://github.com/dibgerge/ml-coursera-python-assignments)  
-`[11/02 08:02]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2898`](https://github.com//ZoranPandovski/al-go-rithms/issues/2898 '[C++] optimal Page Replacement Algorithm') in [ZoranPandovski/al-go-rithms](https://github.com/ZoranPandovski/al-go-rithms)  
 
 </details>
 <!--END_SECTION:activity-->
