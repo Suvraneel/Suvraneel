@@ -124,7 +124,7 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
-`[11/19 07:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
+`[11/19 07:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[11/19 06:56]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `add-license-1` from [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[11/19 06:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[11/19 06:56]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#156`](https://github.com//Suvraneel/Automated-assign-labeler/pull/156 'Create LICENSE') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
@@ -328,7 +328,6 @@ Recent Activity :
 `[11/03 07:08]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#5549`](https://github.com//girlscript/winter-of-contributing/pull/5549 'Assignment operators in C++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/03 07:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [shreyarai05/winter-of-contributing](https://github.com/shreyarai05/winter-of-contributing)  
 `[11/03 07:03]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6856`](https://github.com//girlscript/winter-of-contributing/pull/6856 'Dijkstra\'s Algorithm') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[11/03 07:02]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6856`](https://github.com//girlscript/winter-of-contributing/pull/6856 'Dijkstra\'s Algorithm') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
