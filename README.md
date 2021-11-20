@@ -71,8 +71,6 @@ Competencies:
 [![C++](https://img.shields.io/badge/CPP-blue?style=for-the-badge&logo=cplusplus&labelColor=006199)](https://github.com/Suvraneel/Codechef/search?l=c%2B%2B)
 [![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&labelColor=black&color=404040)](https://github.com/Suvraneel/Codechef/search?l=C)
 [![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&labelColor=e65c00&color=FE7D37)](https://github.com/Suvraneel/Codechef/search?l=Java)
-[![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&labelColor=black&color=red)](https://github.com/Suvraneel/Suvraneel.github.io/search?l=html)
-[![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&labelColor=006199)](https://github.com/Suvraneel/Suvraneel.github.io/search?l=CSS)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&labelColor=black&color=7952B3)
 [![JavaScript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=DFA200)](https://github.com/Suvraneel/Suvraneel/search?l=javascript)
 [![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&labelColor=0a97c2&color=0dbdf2)](https://github.com/Suvraneel/Diablo-Music/search?l=dart)
@@ -337,7 +335,7 @@ Recent Activity :
 <summary> <b>  :octocat: Recent Repo-wise Commits </b></summary>
   
 <!-- START gadpp -->
-- Suvraneel/Suvraneel.github.io, [refs/heads/main@d650c939a9fbbdfb9f8d99f8f29df1119937920a](https://github.com/Suvraneel/Suvraneel.github.io/commit/d650c939a9fbbdfb9f8d99f8f29df1119937920a)
+- Suvraneel/Suvraneel.github.io, [refs/heads/main@9a6f83aa4951c8ea9fdf2c2a9b20d64c5c57dbd8](https://github.com/Suvraneel/Suvraneel.github.io/commit/9a6f83aa4951c8ea9fdf2c2a9b20d64c5c57dbd8)
 - Suvraneel/Codechef, [refs/heads/main@b61efea37cedddfa7d187c2d67375cad2c581e67](https://github.com/Suvraneel/Codechef/commit/b61efea37cedddfa7d187c2d67375cad2c581e67)
 - Suvraneel/Diablo-Music, [refs/heads/imgbot@9c9be3829ba1cbed0ae64665843dd93e05878b7e](https://github.com/Suvraneel/Diablo-Music/commit/9c9be3829ba1cbed0ae64665843dd93e05878b7e)
 - Suvraneel/diablo-music-app, [refs/heads/main@bfaacb2f30a349e5b5fa27ad38950343c891f155](https://github.com/Suvraneel/diablo-music-app/commit/bfaacb2f30a349e5b5fa27ad38950343c891f155)
