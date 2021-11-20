@@ -124,14 +124,18 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[11/20 06:17]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7377`](https://github.com//girlscript/winter-of-contributing/issues/7377 'Operations in Binary Tree') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[11/20 06:16]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#7874`](https://github.com//girlscript/winter-of-contributing/issues/7874 '[C_CPP]: NP Completeness ') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[11/20 06:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[11/20 06:15]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#7875`](https://github.com//girlscript/winter-of-contributing/pull/7875 'NP Completeness') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/19 14:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[11/19 14:12]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#22`](https://github.com//Suvraneel/Suvraneel/pull/22 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[11/19 09:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[11/19 06:56]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `add-license-1` from [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[11/19 06:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[11/19 06:56]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#156`](https://github.com//Suvraneel/Automated-assign-labeler/pull/156 'Create LICENSE') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[11/19 06:55]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#156`](https://github.com//Suvraneel/Automated-assign-labeler/pull/156 'Create LICENSE') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[11/19 06:55]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`add-license-1`](https://github.com/Suvraneel/Automated-assign-labeler/tree/add-license-1) in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
@@ -326,9 +330,6 @@ Recent Activity :
 `[11/03 11:42]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#7232`](https://github.com//girlscript/winter-of-contributing/pull/7232 'Concepts of Friend Functions in Cpp') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/03 11:41]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#5549`](https://github.com//girlscript/winter-of-contributing/issues/5549 'Assignment operators in C++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/03 07:08]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#5501`](https://github.com//girlscript/winter-of-contributing/issues/5501 'Assignment operators in c++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[11/03 07:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `28` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[11/03 07:08]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#5549`](https://github.com//girlscript/winter-of-contributing/pull/5549 'Assignment operators in C++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[11/03 07:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [shreyarai05/winter-of-contributing](https://github.com/shreyarai05/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
