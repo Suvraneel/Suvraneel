@@ -330,7 +330,6 @@ Recent Activity :
 `[11/03 13:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Megha0606/winter-of-contributing](https://github.com/Megha0606/winter-of-contributing)  
 `[11/03 11:53]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#7126`](https://github.com//girlscript/winter-of-contributing/pull/7126 'C_CPP : Interpolation Search in Document Form') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/03 11:53]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#7126`](https://github.com//girlscript/winter-of-contributing/pull/7126 'C_CPP : Interpolation Search in Document Form') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[11/03 11:51]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7087`](https://github.com//girlscript/winter-of-contributing/issues/7087 'Create Sort_two_array_without_extra_space.md') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
