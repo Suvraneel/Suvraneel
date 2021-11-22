@@ -68,14 +68,42 @@ Connect with me on:
 Competencies:
 <br></h2>
 
-[![C++](https://img.shields.io/badge/CPP-blue?style=for-the-badge&logo=cplusplus&labelColor=006199)](https://github.com/Suvraneel/Codechef/search?l=c%2B%2B)
-[![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&labelColor=black&color=404040)](https://github.com/Suvraneel/Codechef/search?l=C)
-[![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&labelColor=e65c00&color=FE7D37)](https://github.com/Suvraneel/Codechef/search?l=Java)
+### Programming Languages 
+![C++](https://img.shields.io/badge/CPP-blue?style=for-the-badge&logo=cplusplus&labelColor=00599C)
+![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&labelColor=black&color=404040)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&labelColor=cc4d00&color=ff7019)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&labelColor=black&color=3776ab)
+![JavaScript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=DFA200)
+
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&labelColor=black&color=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&labelColor=black&color=1572B6)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&labelColor=black&color=7952B3)
-[![JavaScript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=DFA200)](https://github.com/Suvraneel/Suvraneel/search?l=javascript)
-[![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&labelColor=0a97c2&color=0dbdf2)](https://github.com/Suvraneel/Diablo-Music/search?l=dart)
-[![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&labelColor=1f7a7a&color=2eb8b8)](https://github.com/Suvraneel/Diablo-Music/search?l=dart)
+![JavaScript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=c89100)
+![ReactJS](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&labelColor=black&color=3a8296)
+![Node.JS](https://img.shields.io/badge/Node.JS-blue?style=for-the-badge&logo=node.js&labelColor=black&color=236b23)
+
+### App Development
+![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&labelColor=0a97c2&color=0dbdf2)
+![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&labelColor=1f7a7a&color=2eb8b8)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-green?style=for-the-badge&logo=android%20studio&labelColor=black&color=2a9a5c)
+
+### Tools & Project Management
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&labelColor=black&color=red)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&labelColor=black&color=181717)
+![VSCode](https://img.shields.io/badge/VSCode-cyan?style=for-the-badge&logo=visual%20studio%20code&labelColor=00497a&color=007ACC)
+![Replit](https://img.shields.io/badge/Repl.it-black?style=for-the-badge&logo=replit&labelColor=black&color=1e2426)
+![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-purple?style=for-the-badge&logo=eclipse%20IDE&labelColor=1a1433&color=2C2255)
+![CodePen](https://img.shields.io/badge/Codepen-black?style=for-the-badge&logo=codepen&labelColor=black&color=141819)
+
+### Machine/Deep Learning
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&labelColor=0c0234&color=150458)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy&labelColor=001921&color=013243)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow&labelColor=141819&color=FF6F00)
+![Skikit-Learn](https://img.shields.io/badge/Skikit%20Learn-orange?style=for-the-badge&logo=scikit%2Dlearn&labelColor=141819&color=F7931E)
+![Keras](https://img.shields.io/badge/Keras-black?style=for-the-badge&logo=keras&labelColor=680000&color=D00000)
+
+### Miscellaneous
 ![Arduino](https://img.shields.io/badge/Arduino-blue?style=for-the-badge&logo=arduino&labelColor=black&color=00979D)
 ![VHDL](https://img.shields.io/badge/VHDL-red?style=for-the-badge&logo=xilinx&labelColor=cc0000&color=ff4d4d)
 ![GNUbash](https://img.shields.io/badge/GNU_Bash-blue?style=for-the-badge&logo=gnubash&labelColor=black&color=4EAA25)
