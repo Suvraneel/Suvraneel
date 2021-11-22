@@ -69,23 +69,23 @@ Competencies:
 <br></h2>
 
 ### Programming Languages 
-![C++](https://img.shields.io/badge/CPP-blue?style=for-the-badge&logo=cplusplus&labelColor=00599C)
-![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&labelColor=black&color=404040)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&labelColor=cc4d00&color=ff7019)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&labelColor=black&color=3776ab)
-![JavaScript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=DFA200)
+[![C++](https://img.shields.io/badge/CPP-blue?style=for-the-badge&logo=cplusplus&labelColor=00599C)](https://github.com/search?q=user%3ASuvraneel+language%3AC%2B%2B&type=Code)
+[![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&labelColor=black&color=404040)](https://github.com/search?q=user%3ASuvraneel+language%3AC&type=Code)
+[![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&labelColor=cc4d00&color=ff7019)](https://github.com/search?q=user%3ASuvraneel+language%3AJava&type=Code)
+[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&labelColor=black&color=3776ab)](https://github.com/search?q=user%3ASuvraneel+language%3APython&type=Code)
+[![JavaScript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=DFA200)](https://github.com/search?p=4&q=user%3ASuvraneel+language%3AJavaScript&type=Code)
 
 ### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&labelColor=black&color=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&labelColor=black&color=1572B6)
+[![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&labelColor=black&color=E34F26)](https://github.com/search?q=user%3ASuvraneel+language%3AHTML&type=Code)
+[![CSS3](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&labelColor=black&color=1572B6)](https://github.com/search?q=user%3ASuvraneel+language%3ACSS&type=Code)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&labelColor=black&color=7952B3)
-![JavaScript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=c89100)
+[![JavaScript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=c89100)](https://github.com/search?p=4&q=user%3ASuvraneel+language%3AJavaScript&type=Code)
 ![ReactJS](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&labelColor=black&color=3a8296)
 ![Node.JS](https://img.shields.io/badge/Node.JS-blue?style=for-the-badge&logo=node.js&labelColor=black&color=236b23)
 
 ### App Development
 ![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&labelColor=0a97c2&color=0dbdf2)
-![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&labelColor=1f7a7a&color=2eb8b8)
+[![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&labelColor=1f7a7a&color=2eb8b8)](https://github.com/search?q=user%3ASuvraneel+language%3ADart&type=Code)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-green?style=for-the-badge&logo=android%20studio&labelColor=black&color=2a9a5c)
 
 ### Tools & Project Management
