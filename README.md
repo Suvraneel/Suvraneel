@@ -150,14 +150,15 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[11/23 19:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[11/23 19:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Reopened PR [`#7377`](https://github.com//girlscript/winter-of-contributing/pull/7377 'Operations in Binary Tree') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/23 18:50]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#7377`](https://github.com//girlscript/winter-of-contributing/pull/7377 'Operations in Binary Tree') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/23 18:46]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#8324`](https://github.com//girlscript/winter-of-contributing/pull/8324 'Created \'Projects\' folder') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/23 18:46]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#8324`](https://github.com//girlscript/winter-of-contributing/issues/8324 'Created \'Projects\' folder') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[11/23 18:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `19` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[11/23 18:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `19` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/23 18:10]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#8287`](https://github.com//girlscript/winter-of-contributing/pull/8287 'C/Cpp : Intersecting Linked List') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/23 18:10]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#8287`](https://github.com//girlscript/winter-of-contributing/pull/8287 'C/Cpp : Intersecting Linked List') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/23 16:27]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#8307`](https://github.com//girlscript/winter-of-contributing/issues/8307 'Function_call in C++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
@@ -355,7 +356,6 @@ Recent Activity :
 `[11/08 19:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/fcc-machine-learning-with-python](https://github.com/Suvraneel/fcc-machine-learning-with-python)  
 `[11/08 16:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [oukleon/CSCI795_finalproject_Stock_prediction](https://github.com/oukleon/CSCI795_finalproject_Stock_prediction)  
 `[11/07 19:08]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#7439`](https://github.com//girlscript/winter-of-contributing/issues/7439 'Railway Reservation System') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[11/07 19:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
