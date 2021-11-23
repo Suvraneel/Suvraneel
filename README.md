@@ -150,7 +150,7 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
-`[11/23 21:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [AlgoFriki/winter-of-contributing](https://github.com/AlgoFriki/winter-of-contributing)  
+`[11/23 21:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1006` commits in [AlgoFriki/winter-of-contributing](https://github.com/AlgoFriki/winter-of-contributing)  
 `[11/23 21:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
 `[11/23 21:11]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [akhilmhdh/contributors-readme-action](https://github.com/akhilmhdh/contributors-readme-action) to [Suvraneel/contributors-readme-action](https://github.com/Suvraneel/contributors-readme-action)  
 `[11/23 20:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
@@ -335,7 +335,6 @@ Recent Activity :
 `[11/11 07:21]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#7680`](https://github.com//girlscript/winter-of-contributing/pull/7680 'Input Buffer') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/10 21:11]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#4858`](https://github.com//girlscript/winter-of-contributing/issues/4858 'stringstream in cpp') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/10 21:10]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#5042`](https://github.com//girlscript/winter-of-contributing/pull/5042 ' String stream #4858') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[11/10 21:09]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#4534`](https://github.com//girlscript/winter-of-contributing/pull/4534 'C/CPP: Operator Precedence') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
