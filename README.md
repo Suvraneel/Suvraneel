@@ -150,7 +150,7 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
-`[11/30 20:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[12/01 07:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/30 14:42]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#8897`](https://github.com//girlscript/winter-of-contributing/pull/8897 'C/CPP Fixes') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/30 14:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `21` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/30 14:42]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#8897`](https://github.com//girlscript/winter-of-contributing/pull/8897 'C/CPP Fixes') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
@@ -344,7 +344,6 @@ Recent Activity :
 `[11/25 11:47]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#3159`](https://github.com//girlscript/winter-of-contributing/issues/3159 'Simple ATM Bank in C') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/25 11:47]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#3107`](https://github.com//girlscript/winter-of-contributing/issues/3107 'Code for finding the permutations of array') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/25 11:47]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#3068`](https://github.com//girlscript/winter-of-contributing/issues/3068 'break /continue statement ') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[11/25 11:47]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#3049`](https://github.com//girlscript/winter-of-contributing/issues/3049 'The Preprocessors in C language') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
