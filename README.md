@@ -13,7 +13,7 @@
   <img align="left" src="https://media.tenor.com/images/043986fe5f470eeb6d86515e6cda30fe/tenor.gif" width="50">
 </p>
 <br>
-<a href="https://suvraneel.github.io" target="_blank"><img align='right' src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/readme_banner.gif" width="275" height="auto"></a>
+<a href="https://suvraneel.github.io" target="_blank"><img align='right' src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/readme_banner.gif" width="265" height="auto"></a>
 <br>
 
 - :octocat: &nbsp; [![Resume](https://img.shields.io/badge/Suvraneel%20Bhuin-RESUME-blue?style=for-the-badge&logo=Sega)](https://suvraneel.github.io/Resume)
