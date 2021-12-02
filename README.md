@@ -13,12 +13,13 @@
   <img align="left" src="https://media.tenor.com/images/043986fe5f470eeb6d86515e6cda30fe/tenor.gif" width="50">
 </p>
 <br>
-<a href="https://suvraneel.github.io" target="_blank"><img align='right' src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/readme_banner.gif" width="240" height="auto"></a>
+<a href="https://suvraneel.github.io" target="_blank"><img align='right' src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/readme_banner.gif" width="275" height="auto"></a>
 <br>
 
-- :octocat: &nbsp; Feel free to go through my professional &nbsp; **[RESUME](https://suvraneel.github.io/Resume)**
+- :octocat: &nbsp; [![Resume](https://img.shields.io/badge/Suvraneel%20Bhuin-RESUME-blue?style=for-the-badge&logo=Sega)](https://suvraneel.github.io/Resume)
 - :computer: &nbsp; I’m currently pursuing B.Tech in **Computer Science & Engineering** at the  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **University College of Science, Technology & Agriculture ([UCSTA](http://www.caluniv-ucsta.net/)), University of Calcutta**
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[University College of Science, Technology & Agriculture (UCSTA)](http://www.caluniv-ucsta.net/),  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Calcutta**
 - :crystal_ball: &nbsp; I’m currently working on Responsive Web Design, JavaScript, SQL
 - :mailbox: &nbsp; You can reach out to me at : ***bsuvraneel@gmail.com***
 - :package: &nbsp; Feel free to check out my website : [***suvraneel.github.io***](https://suvraneel.github.io/)
@@ -151,15 +152,14 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
-`[12/02 10:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/02 10:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/02 10:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/02 10:24]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#35`](https://github.com//Suvraneel/Suvraneel/pull/35 'ci(Mergify): configuration update') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/02 10:24]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#35`](https://github.com//Suvraneel/Suvraneel/pull/35 'ci(Mergify): configuration update') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
+`[12/02 10:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
-`[12/02 10:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/02 10:24]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`mergify/Suvraneel/config-update`](https://github.com/Suvraneel/Suvraneel/tree/mergify/Suvraneel/config-update) in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/02 10:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/02 09:43]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#8861`](https://github.com//girlscript/winter-of-contributing/pull/8861 'C/CPP - All contribs') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
@@ -342,6 +342,7 @@ Recent Activity :
 `[11/25 11:48]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#4007`](https://github.com//girlscript/winter-of-contributing/issues/4007 'CPP: Documentation on keywords and Identifiers in c++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/25 11:48]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#4018`](https://github.com//girlscript/winter-of-contributing/issues/4018 'Documentation in C++ on keywords and Identifiers') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/25 11:48]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#3961`](https://github.com//girlscript/winter-of-contributing/issues/3961 'C_CPP: Reverse a stack using extra stack') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[11/25 11:48]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#3588`](https://github.com//girlscript/winter-of-contributing/issues/3588 '[Create New Issue]: Stacks in c++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
