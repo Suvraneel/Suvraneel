@@ -151,14 +151,15 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[12/02 10:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/02 10:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/02 10:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/02 10:24]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#35`](https://github.com//Suvraneel/Suvraneel/pull/35 'ci(Mergify): configuration update') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/02 10:24]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#35`](https://github.com//Suvraneel/Suvraneel/pull/35 'ci(Mergify): configuration update') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[12/02 10:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[12/02 10:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/02 10:24]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`mergify/Suvraneel/config-update`](https://github.com/Suvraneel/Suvraneel/tree/mergify/Suvraneel/config-update) in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/02 10:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/02 09:43]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#8861`](https://github.com//girlscript/winter-of-contributing/pull/8861 'C/CPP - All contribs') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
@@ -341,7 +342,6 @@ Recent Activity :
 `[11/25 11:48]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#4007`](https://github.com//girlscript/winter-of-contributing/issues/4007 'CPP: Documentation on keywords and Identifiers in c++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/25 11:48]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#4018`](https://github.com//girlscript/winter-of-contributing/issues/4018 'Documentation in C++ on keywords and Identifiers') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/25 11:48]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#3961`](https://github.com//girlscript/winter-of-contributing/issues/3961 'C_CPP: Reverse a stack using extra stack') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[11/25 11:48]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#3588`](https://github.com//girlscript/winter-of-contributing/issues/3588 '[Create New Issue]: Stacks in c++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
