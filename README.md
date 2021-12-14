@@ -33,7 +33,6 @@
 Connect with me on:
 <br></h2>
 
-<p>
 
 [![LinkedIn](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/in.png#gh-light-mode-only)](https://www.linkedin.com/in/suvraneel-bhuin)
 [![Instagram](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/ig.png#gh-light-mode-only)](https://www.instagram.com/el_diablo_suvraneel)
@@ -42,7 +41,9 @@ Connect with me on:
 [![WhatsApp](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/wp.png#gh-light-mode-only)](https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!)
 
 
-<!-- <a href="https://www.linkedin.com/in/suvraneel-bhuin" target="_blank">
+<!--
+<p>
+<a href="https://www.linkedin.com/in/suvraneel-bhuin" target="_blank">
 <img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/in.png#gh-light-mode-only" height="70" width= auto></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/el_diablo_suvraneel" target="_blank">
@@ -58,9 +59,10 @@ Connect with me on:
 <img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/dc.jpg#gh-light-mode-only" height="70" width= auto></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!" id="whatsapp">
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/wp.png#gh-light-mode-only" height="70" width= auto></a> -->
-
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/wp.png#gh-light-mode-only" height="70" width= auto></a> 
 </p>
+-->
+
 
 <!-- Attribution: "Icon made by Freepik from www.flaticon.com"-->
 <!--
