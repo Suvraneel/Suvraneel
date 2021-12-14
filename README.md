@@ -35,22 +35,22 @@ Connect with me on:
 
 <p>
 <a href="https://www.linkedin.com/in/suvraneel-bhuin" target="_blank">
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/in.png" height="70" width= auto></a>
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/in.png#gh-light-mode-only" height="70" width= auto></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/el_diablo_suvraneel" target="_blank">
-<img src="https://github.com/Suvraneel/Suvraneel/blob/master/res/ig.png" height="70" width= auto></a>
+<img src="https://github.com/Suvraneel/Suvraneel/blob/master/res/ig.png#gh-light-mode-only" height="70" width= auto></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!--<a href="https://github.com/Suvraneel" target="_blank">
 <img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/github.png" height="35" width= auto></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
 <a href="https://www.facebook.com/suvraneel.bhuin" target="_blank">
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/fb.png" height="70" width= auto></a>
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/fb.png#gh-light-mode-only" height="70" width= auto></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/users/851345743935045652/" id="discord">
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/dc.jpg" height="70" width= auto></a>
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/dc.jpg#gh-light-mode-only" height="70" width= auto></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!" id="whatsapp">
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/wp.png" height="70" width= auto></a>
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/wp.png#gh-light-mode-only" height="70" width= auto></a>
 </p>
 
 <!-- Attribution: "Icon made by Freepik from www.flaticon.com"-->
