@@ -34,15 +34,23 @@ Connect with me on:
 <br></h2>
 
 <p>
-<a href="https://www.linkedin.com/in/suvraneel-bhuin" target="_blank">
+
+[![LinkedIn](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/in.png#gh-light-mode-only)](https://www.linkedin.com/in/suvraneel-bhuin)
+[![Instagram](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/ig.png#gh-light-mode-only)](https://www.instagram.com/el_diablo_suvraneel)
+[![Facebook](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/fb.png#gh-light-mode-only)](https://www.facebook.com/suvraneel.bhuin)
+[![Discord](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/dc.jpg#gh-light-mode-only)](https://discord.com/users/851345743935045652/)
+[![WhatsApp](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/wp.png#gh-light-mode-only)](https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!)
+
+
+<!-- <a href="https://www.linkedin.com/in/suvraneel-bhuin" target="_blank">
 <img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/in.png#gh-light-mode-only" height="70" width= auto></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/el_diablo_suvraneel" target="_blank">
 <img src="https://github.com/Suvraneel/Suvraneel/blob/master/res/ig.png#gh-light-mode-only" height="70" width= auto></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<!--<a href="https://github.com/Suvraneel" target="_blank">
+<a href="https://github.com/Suvraneel" target="_blank">
 <img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/github.png" height="35" width= auto></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/suvraneel.bhuin" target="_blank">
 <img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/fb.png#gh-light-mode-only" height="70" width= auto></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -50,7 +58,8 @@ Connect with me on:
 <img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/dc.jpg#gh-light-mode-only" height="70" width= auto></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!" id="whatsapp">
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/wp.png#gh-light-mode-only" height="70" width= auto></a>
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/wp.png#gh-light-mode-only" height="70" width= auto></a> -->
+
 </p>
 
 <!-- Attribution: "Icon made by Freepik from www.flaticon.com"-->
