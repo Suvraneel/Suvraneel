@@ -32,13 +32,17 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 Connect with me on:
 <br></h2>
+
+
 <!-- 
 [![GitHub-Mark-Light](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/in.png#gh-light-mode-only)![GitHub-Mark-Dark](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/in.png#gh-dark-mode-only)](https://www.linkedin.com/in/suvraneel-bhuin) -->
-[![LinkedIn](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/in.png#gh-light-mode-only)](https://www.linkedin.com/in/suvraneel-bhuin)
-[![Instagram](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/ig.png#gh-light-mode-only)](https://www.instagram.com/el_diablo_suvraneel)
-[![Facebook](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/fb.png#gh-light-mode-only)](https://www.facebook.com/suvraneel.bhuin)
-[![Discord](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/dc.jpg#gh-light-mode-only)](https://discord.com/users/851345743935045652/)
-[![WhatsApp](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/wp.png#gh-light-mode-only)](https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!)
+
+
+[![LinkedIn](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/in.png#gh-light-mode-only)](https://www.linkedin.com/in/suvraneel-bhuin) &nbsp;&nbsp;
+[![Instagram](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/ig.png#gh-light-mode-only)](https://www.instagram.com/el_diablo_suvraneel) &nbsp;&nbsp;
+[![Facebook](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/fb.png#gh-light-mode-only)](https://www.facebook.com/suvraneel.bhuin) &nbsp;&nbsp;
+[![Discord](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/dc.jpg#gh-light-mode-only)](https://discord.com/users/851345743935045652/) &nbsp;&nbsp;
+[![WhatsApp](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/wp.png#gh-light-mode-only)](https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!) &nbsp;&nbsp;
 
 
 <!--
