@@ -33,7 +33,7 @@
 Connect with me on:
 <br></h2>
 
-
+[![GitHub-Mark-Light](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/in.png#gh-light-mode-only)![GitHub-Mark-Dark](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/in.png#gh-dark-mode-only)](https://www.linkedin.com/in/suvraneel-bhuin)
 [![LinkedIn](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/in.png#gh-light-mode-only)](https://www.linkedin.com/in/suvraneel-bhuin)
 [![Instagram](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/ig.png#gh-light-mode-only)](https://www.instagram.com/el_diablo_suvraneel)
 [![Facebook](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/fb.png#gh-light-mode-only)](https://www.facebook.com/suvraneel.bhuin)
