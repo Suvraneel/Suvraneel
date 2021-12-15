@@ -375,15 +375,22 @@ Recent Activity :
 <!--END_SECTION:activity-->
 
 <details>
-<summary> <b>  :octocat: Recent Repo-wise Commits </b></summary>
+<summary> <b>  :octocat: WakaTime Stats </b></summary>
+
   
+<table>
+  <tr>
+  <td><img src="https://wakatime.com/share/@05005a1d-5ed0-4f6a-b5c8-1a7a0d9534ea/d93ea33a-b746-4c92-9c93-c80017ed72aa.png" width="400px"/><img src="https://wakatime.com/share/@05005a1d-5ed0-4f6a-b5c8-1a7a0d9534ea/aaa0e22b-fd56-4033-9216-675147769a3f.png" width="400px"/></td>
+  </tr>  
+</table>
+
 <!-- START gadpp -->
-- Suvraneel/Suvraneel.github.io, [refs/heads/main@38c1b7b94c5e3866b7a41957ddace42cd31114d4](https://github.com/Suvraneel/Suvraneel.github.io/commit/38c1b7b94c5e3866b7a41957ddace42cd31114d4)
+<!-- - Suvraneel/Suvraneel.github.io, [refs/heads/main@38c1b7b94c5e3866b7a41957ddace42cd31114d4](https://github.com/Suvraneel/Suvraneel.github.io/commit/38c1b7b94c5e3866b7a41957ddace42cd31114d4)
 - Suvraneel/Codechef, [refs/heads/main@b61efea37cedddfa7d187c2d67375cad2c581e67](https://github.com/Suvraneel/Codechef/commit/b61efea37cedddfa7d187c2d67375cad2c581e67)
 - Suvraneel/Diablo-Music, [refs/heads/imgbot@9c9be3829ba1cbed0ae64665843dd93e05878b7e](https://github.com/Suvraneel/Diablo-Music/commit/9c9be3829ba1cbed0ae64665843dd93e05878b7e)
 - Suvraneel/diablo-music-app, [refs/heads/main@bfaacb2f30a349e5b5fa27ad38950343c891f155](https://github.com/Suvraneel/diablo-music-app/commit/bfaacb2f30a349e5b5fa27ad38950343c891f155)
 - Suvraneel/C-programming, [refs/heads/main@29e864b2a84f10da4d56659eada49856e6f0939a](https://github.com/Suvraneel/C-programming/commit/29e864b2a84f10da4d56659eada49856e6f0939a)
-  
+   -->
 </details>
 
 <details>
