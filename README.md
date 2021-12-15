@@ -376,11 +376,11 @@ Recent Activity :
 
 <details>
 <summary> <b>  :octocat: WakaTime Stats </b></summary>
-
+<br />
   
 <table>
   <tr>
-  <td><img src="https://wakatime.com/share/@05005a1d-5ed0-4f6a-b5c8-1a7a0d9534ea/d93ea33a-b746-4c92-9c93-c80017ed72aa.png" width="400px"/><img src="https://wakatime.com/share/@05005a1d-5ed0-4f6a-b5c8-1a7a0d9534ea/aaa0e22b-fd56-4033-9216-675147769a3f.png" width="400px"/></td>
+  <td><a href="https://wakatime.com/share/@05005a1d-5ed0-4f6a-b5c8-1a7a0d9534ea/a3675396-1652-4177-809a-65a6296755a7.svg"><img src="https://wakatime.com/share/@05005a1d-5ed0-4f6a-b5c8-1a7a0d9534ea/d93ea33a-b746-4c92-9c93-c80017ed72aa.png" width="400px"/></a><a href="https://wakatime.com/share/@05005a1d-5ed0-4f6a-b5c8-1a7a0d9534ea/9b6e468a-7930-4319-b2b5-4eeaa40133cb.svg"><img src="https://wakatime.com/share/@05005a1d-5ed0-4f6a-b5c8-1a7a0d9534ea/aaa0e22b-fd56-4033-9216-675147769a3f.png" width="400px"/></a></td>
   </tr>  
 </table>
 
