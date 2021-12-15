@@ -167,7 +167,7 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
-`[12/15 15:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
+`[12/15 16:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/15 15:34]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#41`](https://github.com//Suvraneel/Suvraneel/pull/41 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/15 15:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Simple-DB-API](https://github.com/Suvraneel/Simple-DB-API)  
 `[12/14 08:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
@@ -368,8 +368,6 @@ Recent Activity :
 `[11/25 11:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#4658`](https://github.com//girlscript/winter-of-contributing/issues/4658 'Lexicographic rank of a string') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/25 11:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#4593`](https://github.com//girlscript/winter-of-contributing/issues/4593 'C_CPP: Strings and their functions') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/25 11:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#4498`](https://github.com//girlscript/winter-of-contributing/issues/4498 'OPERATORS IN C++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[11/25 11:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#4568`](https://github.com//girlscript/winter-of-contributing/issues/4568 'Sort a stack using another stack') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[11/25 11:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#4570`](https://github.com//girlscript/winter-of-contributing/issues/4570 'Sort a stack using recursion') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
