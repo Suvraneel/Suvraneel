@@ -89,7 +89,11 @@ Competencies:
 <table>
 <tr>
 <td><h4>Programming Languages</h4></td>
-<td><a href="https://github.com/search?q=user%3ASuvraneel+language%3AC%2B%2B&type=Code"><img src="https://img.shields.io/badge/CPP-blue?style=for-the-badge&logo=cplusplus&labelColor=00599C"/></a><a href="https://github.com/search?q=user%3ASuvraneel+language%3AC&type=Code"><img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&labelColor=black&color=404040" /></a><a href="https://github.com/search?q=user%3ASuvraneel+language%3AJava&type=Code"><img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&labelColor=cc4d00&color=ff7019"/></a><a href="https://github.com/search?q=user%3ASuvraneel+language%3APython&type=Code"><img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&labelColor=black&color=3776ab" /></a><a href="https://github.com/search?p=4&q=user%3ASuvraneel+language%3AJavaScript&type=Code"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=DFA200" /></a></td></tr>
+<td><a href="https://github.com/search?q=user%3ASuvraneel+language%3AC%2B%2B&type=Code"><img src="https://img.shields.io/badge/CPP-blue?style=for-the-badge&logo=cplusplus&labelColor=00599C"/></a>  
+<a href="https://github.com/search?q=user%3ASuvraneel+language%3AC&type=Code"><img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&labelColor=black&color=404040" /></a>  
+<a href="https://github.com/search?q=user%3ASuvraneel+language%3AJava&type=Code"><img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&labelColor=cc4d00&color=ff7019"/></a>  
+<a href="https://github.com/search?q=user%3ASuvraneel+language%3APython&type=Code"><img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&labelColor=black&color=3776ab" /></a>  
+<a href="https://github.com/search?p=4&q=user%3ASuvraneel+language%3AJavaScript&type=Code"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=DFA200" /></a></td></tr>
 
 <tr>
 <td><h4>Web Development</h4></td>
@@ -97,8 +101,11 @@ Competencies:
 <a href="https://github.com/search?q=user%3ASuvraneel+language%3ACSS&type=Code"><img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&labelColor=black&color=1572B6" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&labelColor=black&color=7952B3"/></a>
 <a href="https://github.com/search?p=4&q=user%3ASuvraneel+language%3AJavaScript&type=Code"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=c89100"/>
+<a href="#"><img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&labelColor=black&color=409040"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&labelColor=black&color=1f1f1f"/></a>
 <a href="#"><img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&labelColor=black&color=3a8296"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Node.JS-blue?style=for-the-badge&logo=node.js&labelColor=black&color=236b23"/></a></td></tr>
+<a href="#"><img src="https://img.shields.io/badge/Node.JS-blue?style=for-the-badge&logo=node.js&labelColor=black&color=236b23"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&labelColor=black&color=ff4704"/></a></td></tr>
 
 <tr>
 <td><h4>App Development</h4></td>
@@ -108,11 +115,21 @@ Competencies:
 
 <tr>
 <td><h4>Tools & Project Management</h4></td>
-<td><a href="#"><img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&labelColor=black&color=red"/></a><a href="#"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&labelColor=black&color=181717"/></a><a href="#"><img src="https://img.shields.io/badge/VSCode-cyan?style=for-the-badge&logo=visual%20studio%20code&labelColor=00497a&color=007ACC"/></a><a href="#"><img src="https://img.shields.io/badge/Repl.it-black?style=for-the-badge&logo=replit&labelColor=black&color=1e2426"/></a><a href="#"><img src="https://img.shields.io/badge/Eclipse%20IDE-purple?style=for-the-badge&logo=eclipse%20IDE&labelColor=1a1433&color=2C2255"/></a><a href="#"><img src="https://img.shields.io/badge/Codepen-black?style=for-the-badge&logo=codepen&labelColor=black&color=141819"/></a></td></tr>
+<td><a href="#"><img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&labelColor=black&color=red"/></a>  
+<a href="#"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&labelColor=black&color=181717"/></a>  
+<a href="#"><img src="https://img.shields.io/badge/VSCode-cyan?style=for-the-badge&logo=visual%20studio%20code&labelColor=00497a&color=007ACC"/></a>  
+<a href="#"><img src="https://img.shields.io/badge/Repl.it-black?style=for-the-badge&logo=replit&labelColor=black&color=1e2426"/></a>  
+<a href="#"><img src="https://img.shields.io/badge/Eclipse%20IDE-purple?style=for-the-badge&logo=eclipse%20IDE&labelColor=1a1433&color=2C2255"/></a>  
+<a href="#"><img src="https://img.shields.io/badge/Codepen-black?style=for-the-badge&logo=codepen&labelColor=black&color=141819"/></a></td>  
+  </tr>  
 
 <tr>
 <td><h4>Machine/Deep Learning</h4></td>
-<td><a href="#"><img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&labelColor=0c0234&color=150458"/></a><a href="#"><img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy&labelColor=001921&color=013243"/></a><a href="#"><img src="https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow&labelColor=141819&color=FF6F00"/></a><a href="#"><img src="https://img.shields.io/badge/Skikit%20Learn-orange?style=for-the-badge&logo=scikit%2Dlearn&labelColor=141819&color=F7931E"/></a><a href="#"><img src="https://img.shields.io/badge/Keras-black?style=for-the-badge&logo=keras&labelColor=680000&color=D00000"/></a></td></tr>
+<td><a href="#"><img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&labelColor=0c0234&color=150458"/></a>  
+<a href="#"><img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy&labelColor=001921&color=013243"/></a>  
+<a href="#"><img src="https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow&labelColor=141819&color=FF6F00"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Skikit%20Learn-orange?style=for-the-badge&logo=scikit%2Dlearn&labelColor=141819&color=F7931E"/></a>  
+<a href="#"><img src="https://img.shields.io/badge/Keras-black?style=for-the-badge&logo=keras&labelColor=680000&color=D00000"/></a></td></tr>
 
 <tr>
 <td><h4>Miscellaneous</h4></td>
