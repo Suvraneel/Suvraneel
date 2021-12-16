@@ -163,7 +163,7 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
-`[12/16 06:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
+`[12/16 08:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/16 06:09]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#42`](https://github.com//Suvraneel/Suvraneel/pull/42 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/15 16:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Simple-DB-API](https://github.com/Suvraneel/Simple-DB-API)  
 `[12/15 16:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
@@ -362,7 +362,6 @@ Recent Activity :
 `[11/25 11:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#4870`](https://github.com//girlscript/winter-of-contributing/issues/4870 'Data Abstraction in c++ (video)') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/25 11:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#4865`](https://github.com//girlscript/winter-of-contributing/issues/4865 'Stacks & Queue.') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/25 11:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#4855`](https://github.com//girlscript/winter-of-contributing/issues/4855 'Data Abstraction in C++ ') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[11/25 11:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#4825`](https://github.com//girlscript/winter-of-contributing/issues/4825 'Static/Dynamic scoping in c') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
