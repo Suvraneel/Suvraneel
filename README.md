@@ -67,6 +67,20 @@ Connect with me on:
 </p>
 -->
 
+<br>
+<h2 align=left>
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/hawkeye.gif" height="40" width= auto>
+&nbsp;&nbsp;&nbsp;&nbsp;
+Find me on Coding Platforms:
+<br></h2>
+
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-da8200?style=for-the-badge&logo=LeetCode&logoColor=ffa116&labelColor=black)](https://leetcode.com/Suvraneel/)
+[![CodeChef](https://img.shields.io/badge/Codechef-372a22?&style=for-the-badge&logo=Codechef&logoColor=red&labelColor=black)](https://www.codechef.com/users/suvraneel)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-00c353?style=for-the-badge&logo=HackerRank&logoColor=00EA64&labelColor=black)](https://www.hackerrank.com/bsuvraneel)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=4dcb72&labelColor=black)](https://auth.geeksforgeeks.org/user/bsuvraneel/)
+ <!-- ![HackerEarth](https://img.shields.io/badge/HackerEarth-2C3454?&style=for-the-badge&logo=HackerEarth&logoColor=5464a1&labelColor=040407") -->
+
 
 <!-- Attribution: "Icon made by Freepik from www.flaticon.com"-->
 <!--
@@ -89,28 +103,28 @@ Competencies:
 <table>
 <tr>
 <td><h4>Programming Languages</h4></td>
-<td><a href="https://github.com/search?q=user%3ASuvraneel+language%3AC%2B%2B&type=Code"><img src="https://img.shields.io/badge/CPP-blue?style=for-the-badge&logo=cplusplus&labelColor=00599C"/></a>  
+<td><a href="https://github.com/search?q=user%3ASuvraneel+language%3AC%2B%2B&type=Code"><img src="https://img.shields.io/badge/CPP-blue?style=for-the-badge&logo=cplusplus&logoColor=blue&color=00599C&labelColor=black"/></a>  
 <a href="https://github.com/search?q=user%3ASuvraneel+language%3AC&type=Code"><img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&labelColor=black&color=404040" /></a>  
-<a href="https://github.com/search?q=user%3ASuvraneel+language%3AJava&type=Code"><img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&labelColor=cc4d00&color=ff7019"/></a>  
+<a href="https://github.com/search?q=user%3ASuvraneel+language%3AJava&type=Code"><img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=ff7019&labelColor=141819&color=ff7019"/></a>  
 <a href="https://github.com/search?q=user%3ASuvraneel+language%3APython&type=Code"><img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&labelColor=black&color=3776ab" /></a>  
 <a href="https://github.com/search?p=4&q=user%3ASuvraneel+language%3AJavaScript&type=Code"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=DFA200" /></a></td></tr>
 
 <tr>
 <td><h4>Web Development</h4></td>
 <td><a href="https://github.com/search?q=user%3ASuvraneel+language%3AHTML&type=Code"><img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&labelColor=black&color=E34F26"/></a>
-<a href="https://github.com/search?q=user%3ASuvraneel+language%3ACSS&type=Code"><img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&labelColor=black&color=1572B6" /></a>
+<a href="https://github.com/search?q=user%3ASuvraneel+language%3ACSS&type=Code"><img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black&color=1572B6" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&labelColor=black&color=7952B3"/></a>
 <a href="https://github.com/search?p=4&q=user%3ASuvraneel+language%3AJavaScript&type=Code"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=c89100"/>
 <a href="#"><img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&labelColor=black&color=409040"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&labelColor=black&color=1f1f1f"/></a>
 <a href="#"><img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&labelColor=black&color=3a8296"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Node.JS-blue?style=for-the-badge&logo=node.js&labelColor=black&color=236b23"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Node.JS-blue?style=for-the-badge&logo=node.js&logoColor=lime&labelColor=black&color=236b23"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&labelColor=black&color=ff4704"/></a></td></tr>
 
 <tr>
 <td><h4>App Development</h4></td>
-<td><a href="#"><img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&labelColor=0a97c2&color=0dbdf2"/></a>
-<a href="https://github.com/search?q=user%3ASuvraneel+language%3ADart&type=Code"><img src="https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&labelColor=1f7a7a&color=2eb8b8"/></a>
+<td><a href="#"><img src="https://img.shields.io/badge/Flutter-0a97c2?style=for-the-badge&logo=flutter&logoColor=0dbdf2&labelColor=black&color=0ba0cd"/></a>
+<a href="https://github.com/search?q=user%3ASuvraneel+language%3ADart&type=Code"><img src="https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&logoColor=2eb8b8&labelColor=black&color=269999"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Android%20Studio-green?style=for-the-badge&logo=android%20studio&labelColor=black&color=2a9a5c"/></a></td></tr>
 
 <tr>
@@ -133,7 +147,7 @@ Competencies:
 
 <tr>
 <td><h4>Miscellaneous</h4></td>
-<td><a href="#"><img src="https://img.shields.io/badge/Arduino-blue?style=for-the-badge&logo=arduino&labelColor=black&color=00979D"/></a><a href="#"><img src="https://img.shields.io/badge/VHDL-red?style=for-the-badge&logo=xilinx&labelColor=cc0000&color=ff4d4d"/></a><a href="#"><img src="https://img.shields.io/badge/GNU_Bash-blue?style=for-the-badge&logo=gnubash&labelColor=black&color=4EAA25"/></a></td></tr>
+<td><a href="#"><img src="https://img.shields.io/badge/Arduino-blue?style=for-the-badge&logo=arduino&labelColor=black&color=00979D"/></a><a href="#"><img src="https://img.shields.io/badge/VHDL-cc0000?style=for-the-badge&logo=xilinx&logoColor=cc0000&labelColor=black&color=cc0000"/></a><a href="#"><img src="https://img.shields.io/badge/GNU_Bash-blue?style=for-the-badge&logo=gnubash&labelColor=black&color=4EAA25"/></a></td></tr>
 </table>
 
 
