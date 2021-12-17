@@ -69,7 +69,7 @@ Connect with me on:
 
 <br>
 <h2 align=left>
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/hawkeye.gif" height="40" width= auto>
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/target.gif" height="40" width= auto>
 &nbsp;&nbsp;&nbsp;&nbsp;
 Find me on Coding Platforms:
 <br></h2>
