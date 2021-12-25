@@ -197,14 +197,20 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[12/25 22:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Suvraneel/Resume](https://github.com/Suvraneel/Resume)  
+`[12/25 21:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
+`[12/25 21:58]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#45`](https://github.com//Suvraneel/Suvraneel/pull/45 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
+`[12/25 21:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Java-Programming](https://github.com/Suvraneel/Java-Programming)  
+`[12/25 21:44]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#44`](https://github.com//Suvraneel/Suvraneel/pull/44 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[12/25 21:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/22 20:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [NSEDownload/NSEDownload](https://github.com/NSEDownload/NSEDownload)  
 `[12/22 19:59]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [NSEDownload/NSEDownload](https://github.com/NSEDownload/NSEDownload) to [Suvraneel/NSEDownload](https://github.com/Suvraneel/NSEDownload)  
 `[12/22 17:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [deepklarity/jupyter-text2code](https://github.com/deepklarity/jupyter-text2code)  
 `[12/18 06:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/18 06:32]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#43`](https://github.com//Suvraneel/Suvraneel/pull/43 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[12/17 14:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/16 12:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [GSAUC3/trick-or-treat](https://github.com/GSAUC3/trick-or-treat)  
 `[12/16 12:09]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) to [Suvraneel/The-Complete-FAANG-Preparation](https://github.com/Suvraneel/The-Complete-FAANG-Preparation)  
