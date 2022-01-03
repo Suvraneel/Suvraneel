@@ -137,7 +137,8 @@ Competencies:
 <a href="#"><img src="https://img.shields.io/badge/VSCode-cyan?style=for-the-badge&logo=visual%20studio%20code&labelColor=00497a&color=007ACC"/></a>  
 <a href="#"><img src="https://img.shields.io/badge/Repl.it-black?style=for-the-badge&logo=replit&labelColor=black&color=1e2426"/></a>  
 <a href="#"><img src="https://img.shields.io/badge/Eclipse%20IDE-purple?style=for-the-badge&logo=eclipse%20IDE&labelColor=1a1433&color=2C2255"/></a>  
-<a href="#"><img src="https://img.shields.io/badge/Codepen-black?style=for-the-badge&logo=codepen&labelColor=black&color=141819"/></a></td>  
+<a href="#"><img src="https://img.shields.io/badge/Codepen-black?style=for-the-badge&logo=codepen&labelColor=black&color=141819"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Heroku-180036?style=for-the-badge&logo=heroku&labelColor=180036&color=430098"/></a></td>  
   </tr>  
 
 <tr>
