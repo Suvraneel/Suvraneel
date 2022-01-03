@@ -198,14 +198,15 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[01/03 11:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/29 17:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Simple-DB-API](https://github.com/Suvraneel/Simple-DB-API)  
 `[12/29 11:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mui-org/material-ui](https://github.com/mui-org/material-ui)  
 `[12/29 11:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/29 11:41]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#47`](https://github.com//Suvraneel/Suvraneel/pull/47 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[12/28 17:32]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`4d95752`](https://github.com/therdas/porichoy/commit/4d95752916a2e17d7619551fd0828e7893f7fb25#commitcomment-62603870) in [therdas/porichoy](https://github.com/therdas/porichoy)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[12/28 17:32]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`4d95752`](https://github.com/therdas/porichoy/commit/4d95752916a2e17d7619551fd0828e7893f7fb25#commitcomment-62603870) in [therdas/porichoy](https://github.com/therdas/porichoy)  
 `[12/27 19:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/27 19:31]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#46`](https://github.com//Suvraneel/Suvraneel/pull/46 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/26 20:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)  
@@ -412,9 +413,6 @@ Recent Activity :
 `[11/25 11:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#5156`](https://github.com//girlscript/winter-of-contributing/issues/5156 'Header Files in CPP') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/25 11:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#5140`](https://github.com//girlscript/winter-of-contributing/issues/5140 'Round Robin CPU Scheduling algorithm') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/25 11:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#5139`](https://github.com//girlscript/winter-of-contributing/issues/5139 'FCFS CPU Scheduling algorithm') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[11/25 11:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#5119`](https://github.com//girlscript/winter-of-contributing/issues/5119 'C/Cpp : Structures in cpp') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[11/25 11:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#5064`](https://github.com//girlscript/winter-of-contributing/issues/5064 'Find if two rectangles overlap') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[11/25 11:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#5044`](https://github.com//girlscript/winter-of-contributing/issues/5044 'C++11: Smart pointers and their advantages') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
