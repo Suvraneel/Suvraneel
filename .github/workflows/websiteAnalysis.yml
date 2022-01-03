@@ -18,4 +18,6 @@ jobs:
           base: ""
           config_timezone: Asia/Calcutta
           plugin_pagespeed: yes
-          plugin_pagespeed_url: .user.website
+          plugin_pagespeed_url: 'https://suvraneel.github.io/resume'
+          plugin_pagespeed_detailed: yes                         # Print detailed audit metrics
+          plugin_pagespeed_screenshot: yes
