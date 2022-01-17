@@ -16,15 +16,15 @@
 <a href="https://suvraneel.github.io" target="_blank"><img align='right' src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/readme_banner.gif" width="260" height="auto"></a>
 <br>
 
-- :octocat: &nbsp; [![Resume](https://img.shields.io/badge/Suvraneel%20Bhuin-RESUME-blue?style=for-the-badge&logo=Sega)](https://suvraneel.github.io/Resume)
-- :computer: &nbsp; I’m currently pursuing B.Tech in **Computer Science & Engineering** at the   
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[University College of Science, Technology & Agriculture (UCSTA)](http://www.caluniv-ucsta.net/),  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Calcutta**
-- :crystal_ball: &nbsp; I’m currently working on Responsive Web Design, JavaScript, SQL
-- :mailbox: &nbsp; You can reach out to me at : ***bsuvraneel@gmail.com***
-- :package: &nbsp; Feel free to check out my website : [***suvraneel.github.io***](https://suvraneel.github.io/)
-- :bowtie: &nbsp; Pronouns: He/Him
-- :video_game: &nbsp; **Hobbies**: PC Gaming, Coding, Reading, Soccer
+- :octocat: &nbsp;[![Resume](https://img.shields.io/badge/Suvraneel%20Bhuin-RESUME-blue?style=for-the-badge&logo=Sega)](https://suvraneel.github.io/Resume)
+- :computer: &nbsp;I’m currently pursuing B.Tech in **Computer Science & Engineering** at the  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[University College of Science, Technology & Agriculture (UCSTA)](http://www.caluniv-ucsta.net/),  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Calcutta**
+- :crystal_ball: &nbsp;I’m currently working on Responsive Web Design, JavaScript, SQL
+- :mailbox: &nbsp;You can reach out to me at : ***bsuvraneel@gmail.com***
+- :package: &nbsp;Feel free to check out my website : [***suvraneel.github.io***](https://suvraneel.github.io/)
+- :bowtie: &nbsp;Pronouns: He/Him
+- :video_game: &nbsp;**Hobbies**: PC Gaming, Coding, Reading, Soccer
 
 <br>
 <h2 align=left>
