@@ -17,7 +17,7 @@
 <br>
 
 - :octocat: &nbsp; [![Resume](https://img.shields.io/badge/Suvraneel%20Bhuin-RESUME-blue?style=for-the-badge&logo=Sega)](https://suvraneel.github.io/Resume)
-- :computer: &nbsp; I’m currently pursuing B.Tech in **Computer Science & Engineering** at the  
+- :computer: &nbsp; I’m currently pursuing B.Tech in **Computer Science & Engineering** at the   
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[University College of Science, Technology & Agriculture (UCSTA)](http://www.caluniv-ucsta.net/),  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Calcutta**
 - :crystal_ball: &nbsp; I’m currently working on Responsive Web Design, JavaScript, SQL
@@ -28,7 +28,7 @@
 
 <br>
 <h2 align=left>
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/social.gif" height="40" width= auto>
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/social.gif" height="35" width= auto>
 &nbsp;&nbsp;&nbsp;&nbsp;
 Connect with me on:
 <br></h2>
