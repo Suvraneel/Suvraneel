@@ -198,17 +198,14 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
-`[01/20 14:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [GSSoC-Web/gssoc-website](https://github.com/GSSoC-Web/gssoc-website)  
-`[01/20 14:21]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [GSSoC-Web/gssoc-website](https://github.com/GSSoC-Web/gssoc-website) to [Suvraneel/gssoc-website](https://github.com/Suvraneel/gssoc-website)  
-`[01/20 11:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [GSSoC-Web/gssoc-website](https://github.com/GSSoC-Web/gssoc-website)  
 `[01/20 09:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MoralisWeb3/react-moralis](https://github.com/MoralisWeb3/react-moralis)  
 `[01/17 19:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[01/16 14:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)  
 `[01/13 19:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml)  
 `[01/04 16:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Suvraneel/Resume](https://github.com/Suvraneel/Resume)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[01/03 11:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/29 17:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Simple-DB-API](https://github.com/Suvraneel/Simple-DB-API)  
 `[12/29 11:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mui-org/material-ui](https://github.com/mui-org/material-ui)  
