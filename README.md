@@ -198,14 +198,15 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[01/26 11:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [GSSoC-Web/gssoc-website](https://github.com/GSSoC-Web/gssoc-website)  
 `[01/25 17:40]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `perfecting-homepage-vishwa` from [GSSoC-Web/gssoc-website](https://github.com/GSSoC-Web/gssoc-website)  
 `[01/25 17:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [GSSoC-Web/gssoc-website](https://github.com/GSSoC-Web/gssoc-website)  
 `[01/25 17:39]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#12`](https://github.com//GSSoC-Web/gssoc-website/pull/12 'Perfecting homepage') in [GSSoC-Web/gssoc-website](https://github.com/GSSoC-Web/gssoc-website)  
 `[01/25 17:39]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#12`](https://github.com//GSSoC-Web/gssoc-website/pull/12 'Perfecting homepage') in [GSSoC-Web/gssoc-website](https://github.com/GSSoC-Web/gssoc-website)  
-`[01/20 09:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MoralisWeb3/react-moralis](https://github.com/MoralisWeb3/react-moralis)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[01/20 09:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MoralisWeb3/react-moralis](https://github.com/MoralisWeb3/react-moralis)  
 `[01/17 19:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[01/16 14:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)  
 `[01/13 19:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml)  
