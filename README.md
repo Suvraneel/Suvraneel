@@ -198,7 +198,7 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
-`[01/28 16:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [GSSoC-Web/gssoc-website](https://github.com/GSSoC-Web/gssoc-website)  
+`[01/28 22:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [GSSoC-Web/gssoc-website](https://github.com/GSSoC-Web/gssoc-website)  
 `[01/27 15:02]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#13`](https://github.com//GSSoC-Web/gssoc-website/pull/13 'Added Chakra Accordion & FAQ data') in [GSSoC-Web/gssoc-website](https://github.com/GSSoC-Web/gssoc-website)  
 `[01/27 15:01]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`suv-accordion-faq`](https://github.com/GSSoC-Web/gssoc-website/tree/suv-accordion-faq) in [GSSoC-Web/gssoc-website](https://github.com/GSSoC-Web/gssoc-website)  
 `[01/26 11:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [GSSoC-Web/gssoc-website](https://github.com/GSSoC-Web/gssoc-website)  
