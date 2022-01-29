@@ -251,9 +251,7 @@ Recent Activity :
 `[12/13 21:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/13 21:02]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#40`](https://github.com//Suvraneel/Suvraneel/pull/40 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/11 12:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[12/11 12:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[12/11 12:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[12/11 12:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[12/11 08:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/11 08:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/11 08:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
@@ -420,7 +418,7 @@ Recent Activity :
 </table>
 
 <!-- START gadpp -->
-<!-- - Suvraneel/Suvraneel.github.io, [refs/heads/main@38c1b7b94c5e3866b7a41957ddace42cd31114d4](https://github.com/Suvraneel/Suvraneel.github.io/commit/38c1b7b94c5e3866b7a41957ddace42cd31114d4)
+- Suvraneel/Suvraneel.github.io, [refs/heads/main@ad1d4636969b30ec1c55768e683b59b0b2a297e2](https://github.com/Suvraneel/Suvraneel.github.io/commit/ad1d4636969b30ec1c55768e683b59b0b2a297e2)
 - Suvraneel/Codechef, [refs/heads/main@b61efea37cedddfa7d187c2d67375cad2c581e67](https://github.com/Suvraneel/Codechef/commit/b61efea37cedddfa7d187c2d67375cad2c581e67)
 - Suvraneel/Diablo-Music, [refs/heads/imgbot@9c9be3829ba1cbed0ae64665843dd93e05878b7e](https://github.com/Suvraneel/Diablo-Music/commit/9c9be3829ba1cbed0ae64665843dd93e05878b7e)
 - Suvraneel/diablo-music-app, [refs/heads/main@bfaacb2f30a349e5b5fa27ad38950343c891f155](https://github.com/Suvraneel/diablo-music-app/commit/bfaacb2f30a349e5b5fa27ad38950343c891f155)
