@@ -198,7 +198,7 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
-`[01/31 19:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [GSSoC-Web/gssoc-website](https://github.com/GSSoC-Web/gssoc-website)  
+`[02/01 22:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [GSSoC-Web/gssoc-website](https://github.com/GSSoC-Web/gssoc-website)  
 `[01/31 18:45]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`suv-backup`](https://github.com/GSSoC-Web/gssoc-website/tree/suv-backup) in [GSSoC-Web/gssoc-website](https://github.com/GSSoC-Web/gssoc-website)  
 `[01/30 20:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [GSSoC-Web/gssoc-website](https://github.com/GSSoC-Web/gssoc-website)  
 `[01/29 21:52]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#16`](https://github.com//GSSoC-Web/gssoc-website/pull/16 'testing base URI to solve 404 root') in [GSSoC-Web/gssoc-website](https://github.com/GSSoC-Web/gssoc-website)  
