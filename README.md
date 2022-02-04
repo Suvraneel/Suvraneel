@@ -394,7 +394,7 @@ Recent Activity :
 `[11/26 19:56]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#30`](https://github.com//Suvraneel/Suvraneel/pull/30 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[11/26 19:55]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#8210`](https://github.com//girlscript/winter-of-contributing/pull/8210 'All About Command Line') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/26 19:51]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#8535`](https://github.com//girlscript/winter-of-contributing/pull/8535 'Creating a binary tree using linked list') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[11/26 19:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [pinpan123/winter-of-contributing](https://github.com/pinpan123/winter-of-contributing)  
+`[11/26 19:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [pinpan123/winter-of-contributing](https://github.com/pinpan123/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
