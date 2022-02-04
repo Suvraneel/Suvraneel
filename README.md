@@ -198,14 +198,15 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[02/04 17:54]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#16`](https://github.com//girlscript/gssoc-website-new/pull/16 'testing base URI to solve 404 root') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/04 15:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/04 15:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/GirlScript-Summer-of-Code](https://github.com/girlscript/GirlScript-Summer-of-Code)  
 `[02/04 15:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/04 15:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Suvraneel/gssoc-website-1](https://github.com/Suvraneel/gssoc-website-1)  
-`[02/04 13:35]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//Suvraneel/gssoc-website-1/pull/2 'Trying globe.gl') in [Suvraneel/gssoc-website-1](https://github.com/Suvraneel/gssoc-website-1)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[02/04 13:35]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//Suvraneel/gssoc-website-1/pull/2 'Trying globe.gl') in [Suvraneel/gssoc-website-1](https://github.com/Suvraneel/gssoc-website-1)  
 `[02/04 13:35]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//Suvraneel/gssoc-website-1/pull/2 'Trying globe.gl') in [Suvraneel/gssoc-website-1](https://github.com/Suvraneel/gssoc-website-1)  
 `[02/04 13:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/gssoc-website-1](https://github.com/Suvraneel/gssoc-website-1)  
 `[02/04 13:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [GSSoC-Web/gssoc-website](https://github.com/GSSoC-Web/gssoc-website)  
@@ -393,8 +394,7 @@ Recent Activity :
 `[11/26 19:56]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#30`](https://github.com//Suvraneel/Suvraneel/pull/30 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[11/26 19:55]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#8210`](https://github.com//girlscript/winter-of-contributing/pull/8210 'All About Command Line') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/26 19:51]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#8535`](https://github.com//girlscript/winter-of-contributing/pull/8535 'Creating a binary tree using linked list') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[11/26 19:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [pinpan123/winter-of-contributing](https://github.com/pinpan123/winter-of-contributing)  
-`[11/26 19:47]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#8558`](https://github.com//girlscript/winter-of-contributing/pull/8558 'Equilibrium Index of an Array') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
+`[11/26 19:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [pinpan123/winter-of-contributing](https://github.com/pinpan123/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
