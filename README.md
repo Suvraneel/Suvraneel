@@ -394,7 +394,6 @@ Recent Activity :
 `[11/26 21:17]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#8583`](https://github.com//girlscript/winter-of-contributing/issues/8583 'Line Splicing In C or C++') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/26 21:15]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#8581`](https://github.com//girlscript/winter-of-contributing/issues/8581 'Update Why Python README.md') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/26 21:14]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#8578`](https://github.com//girlscript/winter-of-contributing/issues/8578 'Update How to install python README.md') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[11/26 20:00]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#8210`](https://github.com//girlscript/winter-of-contributing/issues/8210 'All About Command Line') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
