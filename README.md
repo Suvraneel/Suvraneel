@@ -198,7 +198,7 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
-`[02/06 16:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[02/06 17:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/06 16:51]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main-backup`](https://github.com/girlscript/gssoc-website-new/tree/main-backup) in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/05 23:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/05 20:36]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#23`](https://github.com//girlscript/gssoc-website-new/pull/23 'Mehak  footer') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
@@ -395,7 +395,6 @@ Recent Activity :
 `[11/27 16:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `75` commits in [pinpan123/winter-of-contributing](https://github.com/pinpan123/winter-of-contributing)  
 `[11/27 12:48]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#1376`](https://github.com//girlscript/winter-of-contributing/pull/1376 'what is virtual environment #338') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/27 12:47]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#8535`](https://github.com//girlscript/winter-of-contributing/pull/8535 'Creating a binary tree using linked list') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[11/27 12:43]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#8558`](https://github.com//girlscript/winter-of-contributing/pull/8558 'Equilibrium Index of an Array') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
