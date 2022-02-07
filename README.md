@@ -198,7 +198,7 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
-`[02/06 20:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[02/07 16:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/06 19:33]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#27`](https://github.com//girlscript/gssoc-website-new/pull/27 'More tweaks') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/06 19:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [rebs-becca15/gssoc-website](https://github.com/rebs-becca15/gssoc-website)  
 `[02/06 19:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
