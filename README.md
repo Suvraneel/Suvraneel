@@ -395,7 +395,6 @@ Recent Activity :
 `[11/28 21:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[11/28 21:37]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#32`](https://github.com//Suvraneel/Suvraneel/pull/32 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[11/28 21:33]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#8724`](https://github.com//girlscript/winter-of-contributing/issues/8724 '[Create New Issue]: C_PP: Stack_Operation') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[11/28 21:31]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#8711`](https://github.com//girlscript/winter-of-contributing/pull/8711 'Update Introduction_To_C_Programming.md') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
