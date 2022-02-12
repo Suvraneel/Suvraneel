@@ -198,7 +198,7 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
-`[02/11 21:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[02/12 15:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/11 21:19]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#31`](https://github.com//girlscript/gssoc-website-new/pull/31 'Vishwa sponsors') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/11 21:16]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#31`](https://github.com//girlscript/gssoc-website-new/pull/31 'Vishwa sponsors') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/11 21:15]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#29`](https://github.com//girlscript/gssoc-website-new/pull/29 'stats completed countup added') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
@@ -394,7 +394,6 @@ Recent Activity :
 `[11/29 12:27]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#8728`](https://github.com//girlscript/winter-of-contributing/issues/8728 'Create Find_Day_of_a_given_Date.md') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/29 12:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `434` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/29 12:20]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#8807`](https://github.com//girlscript/winter-of-contributing/pull/8807 'Bumped up to main branch version') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[11/29 12:19]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#8807`](https://github.com//girlscript/winter-of-contributing/pull/8807 'Bumped up to main branch version') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
