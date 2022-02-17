@@ -391,7 +391,6 @@ Recent Activity :
 `[11/29 13:14]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#8819`](https://github.com//girlscript/winter-of-contributing/pull/8819 'added maintainers via json fetch') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/29 13:14]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#8819`](https://github.com//girlscript/winter-of-contributing/pull/8819 'added maintainers via json fetch') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/29 13:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `601` commits in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
-`[11/29 12:33]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#8438`](https://github.com//girlscript/winter-of-contributing/issues/8438 'Find_Day_of_a_given_Date') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
