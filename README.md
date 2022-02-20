@@ -198,14 +198,15 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[02/20 13:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/18 22:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[02/17 20:07]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#36`](https://github.com//girlscript/gssoc-website-new/pull/36 'navbar updated') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/17 20:07]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#36`](https://github.com//girlscript/gssoc-website-new/issues/36 'navbar updated') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/17 20:05]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#35`](https://github.com//girlscript/gssoc-website-new/issues/35 'Text not visible') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[02/17 20:02]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#34`](https://github.com//girlscript/gssoc-website-new/issues/34 'enhancement: Timeline error in GsSOC 22 Schedule. (About Section)') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[02/17 20:02]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#34`](https://github.com//girlscript/gssoc-website-new/issues/34 'enhancement: Timeline error in GsSOC 22 Schedule. (About Section)') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/17 20:00]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#34`](https://github.com//girlscript/gssoc-website-new/issues/34 'enhancement: Timeline error in GsSOC 22 Schedule. (About Section)') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/14 13:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/cowin-clone-ui](https://github.com/Suvraneel/cowin-clone-ui)  
 `[02/12 16:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
@@ -388,7 +389,6 @@ Recent Activity :
 `[11/29 19:20]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#8846`](https://github.com//girlscript/winter-of-contributing/pull/8846 'C_CPP') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/29 19:19]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#8846`](https://github.com//girlscript/winter-of-contributing/issues/8846 'C_CPP') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/29 15:14]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#8829`](https://github.com//girlscript/winter-of-contributing/issues/8829 'Left View of Binary Tree') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[11/29 15:08]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#8829`](https://github.com//girlscript/winter-of-contributing/issues/8829 'Left View of Binary Tree') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
