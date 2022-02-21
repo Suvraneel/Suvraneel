@@ -198,7 +198,7 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
-`[02/21 12:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [GSSoC-Web/gssoc-participant-badge](https://github.com/GSSoC-Web/gssoc-participant-badge)  
+`[02/21 13:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [GSSoC-Web/gssoc-participant-badge](https://github.com/GSSoC-Web/gssoc-participant-badge)  
 `[02/20 21:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/20 21:32]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#39`](https://github.com//girlscript/gssoc-website-new/pull/39 'minor fixes') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/20 21:32]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#39`](https://github.com//girlscript/gssoc-website-new/pull/39 'minor fixes') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
@@ -389,7 +389,6 @@ Recent Activity :
 `[11/30 14:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/30 14:06]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#8870`](https://github.com//girlscript/winter-of-contributing/pull/8870 'Right View of Binary Tree') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/30 14:06]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#8870`](https://github.com//girlscript/winter-of-contributing/issues/8870 'Right View of Binary Tree') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[11/30 09:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 
 </details>
 <!--END_SECTION:activity-->
