@@ -198,14 +198,15 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[02/21 15:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [GSSoC-Web/gssoc-assets](https://github.com/GSSoC-Web/gssoc-assets)  
 `[02/21 14:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/21 14:38]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#40`](https://github.com//girlscript/gssoc-website-new/pull/40 'updated to new projects') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/21 14:38]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#40`](https://github.com//girlscript/gssoc-website-new/pull/40 'updated to new projects') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/21 14:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[02/21 13:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [GSSoC-Web/gssoc-participant-badge](https://github.com/GSSoC-Web/gssoc-participant-badge)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[02/21 13:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [GSSoC-Web/gssoc-participant-badge](https://github.com/GSSoC-Web/gssoc-participant-badge)  
 `[02/20 21:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/20 21:32]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#39`](https://github.com//girlscript/gssoc-website-new/pull/39 'minor fixes') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/20 21:32]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#39`](https://github.com//girlscript/gssoc-website-new/pull/39 'minor fixes') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
@@ -388,9 +389,6 @@ Recent Activity :
 `[11/30 14:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `21` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/30 14:42]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#8897`](https://github.com//girlscript/winter-of-contributing/pull/8897 'C/CPP Fixes') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[11/30 14:42]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#8897`](https://github.com//girlscript/winter-of-contributing/pull/8897 'C/CPP Fixes') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[11/30 14:12]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#6201`](https://github.com//OpenGenus/cosmos/issues/6201 '[C++] Banker\'s Algorithm') in [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos)  
-`[11/30 14:07]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#8869`](https://github.com//girlscript/winter-of-contributing/issues/8869 'Binary Tree - Right View') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
-`[11/30 14:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
