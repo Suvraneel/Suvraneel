@@ -198,14 +198,15 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[02/25 20:15]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#44`](https://github.com//girlscript/gssoc-website-new/issues/44 'Events page') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/25 14:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#43`](https://github.com//girlscript/gssoc-website-new/issues/43 'Blog Page for GSSoC\'22') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/25 14:43]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#42`](https://github.com//girlscript/gssoc-website-new/issues/42 'Code of Conduct RAFC') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/25 13:40]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#41`](https://github.com//girlscript/gssoc-website-new/pull/41 'Updates in FAQ and Team section for GSSoC\'22') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/25 13:40]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#41`](https://github.com//girlscript/gssoc-website-new/pull/41 'Updates in FAQ and Team section for GSSoC\'22') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[02/22 15:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[02/22 15:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/22 11:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [GSSoC-Web/gssoc-assets](https://github.com/GSSoC-Web/gssoc-assets)  
 `[02/22 08:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/21 15:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [GSSoC-Web/gssoc-assets](https://github.com/GSSoC-Web/gssoc-assets)  
@@ -386,7 +387,6 @@ Recent Activity :
 `[12/02 06:18]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#34`](https://github.com//Suvraneel/Suvraneel/pull/34 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/01 21:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[12/01 12:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `433` commits in [Suvraneel/winter-of-contributing](https://github.com/Suvraneel/winter-of-contributing)  
-`[12/01 11:17]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#8712`](https://github.com//girlscript/winter-of-contributing/pull/8712 'Create C_CPP:Cyclically_rotate_an_array_in_C++.md by Monal Singh') in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 
 </details>
 <!--END_SECTION:activity-->
