@@ -198,14 +198,15 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[02/26 15:52]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#35`](https://github.com//girlscript/gssoc-website-new/issues/35 'Text not visible') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/26 15:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/26 14:58]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#48`](https://github.com//girlscript/gssoc-website-new/pull/48 'prev year project links fixed') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/26 14:58]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#48`](https://github.com//girlscript/gssoc-website-new/pull/48 'prev year project links fixed') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/26 12:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[02/26 11:52]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#45`](https://github.com//girlscript/gssoc-website-new/pull/45 'project switcher') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[02/26 11:52]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#45`](https://github.com//girlscript/gssoc-website-new/pull/45 'project switcher') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/26 11:52]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#46`](https://github.com//girlscript/gssoc-website-new/pull/46 'Mehak project') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/26 11:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/26 11:52]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#47`](https://github.com//girlscript/gssoc-website-new/pull/47 'Project switching') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
@@ -387,7 +388,7 @@ Recent Activity :
 `[12/02 19:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)  
 `[12/02 19:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN)  
 `[12/02 15:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/fcc-machine-learning-with-python](https://github.com/Suvraneel/fcc-machine-learning-with-python)  
-`[12/02 11:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
+`[12/02 11:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 
 </details>
 <!--END_SECTION:activity-->
