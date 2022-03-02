@@ -198,7 +198,7 @@ Recent Activity :
 <img src="https://suvraneel-gh-activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
-`[03/02 16:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [NFT-Cryptonaut/NFT-Emporium](https://github.com/NFT-Cryptonaut/NFT-Emporium)  
+`[03/02 16:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [NFT-Cryptonaut/NFT-Emporium](https://github.com/NFT-Cryptonaut/NFT-Emporium)  
 `[03/02 11:21]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#51`](https://github.com//girlscript/gssoc-website-new/issues/51 'Added Indepentent Headers for Every Page for GSSoC Website') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/02 11:20]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#51`](https://github.com//girlscript/gssoc-website-new/pull/51 'Added Indepentent Headers for Every Page for GSSoC Website') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/02 11:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
@@ -385,8 +385,6 @@ Recent Activity :
 `[12/11 08:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/11 08:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/11 07:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[12/11 07:35]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#39`](https://github.com//Suvraneel/Suvraneel/pull/39 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[12/08 07:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/fcc-machine-learning-with-python](https://github.com/Suvraneel/fcc-machine-learning-with-python)  
 
 </details>
 <!--END_SECTION:activity-->
