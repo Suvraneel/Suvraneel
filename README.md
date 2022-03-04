@@ -198,14 +198,20 @@ Recent Activity :
 <img src="https://suvraneel-gh-activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[03/04 16:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[03/04 16:46]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#54`](https://github.com//girlscript/gssoc-website-new/pull/54 'Revert "Added Indepentent Headers for Every Page for GSSoC Website"') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[03/04 16:45]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#54`](https://github.com//girlscript/gssoc-website-new/pull/54 'Revert "Added Indepentent Headers for Every Page for GSSoC Website"') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[03/04 16:45]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`revert-51-fix/independent-header`](https://github.com/girlscript/gssoc-website-new/tree/revert-51-fix/independent-header) in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[03/04 16:44]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#44`](https://github.com//girlscript/gssoc-website-new/issues/44 'Events page') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[03/04 16:43]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#42`](https://github.com//girlscript/gssoc-website-new/issues/42 'Code of Conduct RAFC') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/04 16:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/04 16:21]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#41`](https://github.com//girlscript/gssoc-website-new/pull/41 'Updates in FAQ and Team section for GSSoC\'22') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/04 16:07]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#341`](https://github.com//Lakhankumawat/LearnCPP/issues/341 'Title ') in [Lakhankumawat/LearnCPP](https://github.com/Lakhankumawat/LearnCPP)  
 `[03/04 15:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[03/04 15:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[03/04 15:32]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#158`](https://github.com//Suvraneel/Automated-assign-labeler/issues/158 '[Create New Issue]: ') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[03/04 15:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[03/04 15:32]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#157`](https://github.com//Suvraneel/Automated-assign-labeler/pull/157 'Fixed and bugs and tiny enhancements') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
@@ -385,10 +391,6 @@ Recent Activity :
 `[12/18 06:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/18 06:32]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#43`](https://github.com//Suvraneel/Suvraneel/pull/43 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/17 14:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[12/16 12:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [GSAUC3/trick-or-treat](https://github.com/GSAUC3/trick-or-treat)  
-`[12/16 12:09]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) to [Suvraneel/The-Complete-FAANG-Preparation](https://github.com/Suvraneel/The-Complete-FAANG-Preparation)  
-`[12/16 12:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Suvraneel/Resume](https://github.com/Suvraneel/Resume)  
-`[12/16 11:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 
 </details>
 <!--END_SECTION:activity-->
