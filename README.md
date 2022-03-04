@@ -198,7 +198,7 @@ Recent Activity :
 <img src="https://suvraneel-gh-activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
-`[03/04 19:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [NFT-Cryptonaut/NFT-Emporium](https://github.com/NFT-Cryptonaut/NFT-Emporium)  
+`[03/04 21:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [NFT-Cryptonaut/NFT-Emporium](https://github.com/NFT-Cryptonaut/NFT-Emporium)  
 `[03/04 17:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/04 17:14]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#56`](https://github.com//girlscript/gssoc-website-new/pull/56 'Revert "Revert "Added Indepentent Headers for Every Page for GSSoC Website""') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/04 17:14]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#56`](https://github.com//girlscript/gssoc-website-new/pull/56 'Revert "Revert "Added Indepentent Headers for Every Page for GSSoC Website""') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
@@ -394,7 +394,6 @@ Recent Activity :
 `[12/25 21:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/25 21:58]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#45`](https://github.com//Suvraneel/Suvraneel/pull/45 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/25 21:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Java-Programming](https://github.com/Suvraneel/Java-Programming)  
-`[12/25 21:44]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#44`](https://github.com//Suvraneel/Suvraneel/pull/44 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 
 </details>
 <!--END_SECTION:activity-->
