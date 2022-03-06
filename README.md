@@ -198,14 +198,16 @@ Recent Activity :
 <img src="https://suvraneel-gh-activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
-`[03/06 22:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
+`[03/06 22:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
+`[03/06 22:32]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`production`](https://github.com/Suvraneel/NFT-Emporium/tree/production) in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
+`[03/06 22:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
 `[03/06 21:55]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#7`](https://github.com//Suvraneel/NFT-Emporium/issues/7 'Issues and tasks related to project') in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
 `[03/06 21:55]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Reopened issue [`#7`](https://github.com//Suvraneel/NFT-Emporium/issues/7 'Issues and tasks related to project') in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
-`[03/06 21:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
-`[03/06 21:54]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#14`](https://github.com//Suvraneel/NFT-Emporium/pull/14 'Bump nanoid from 3.1.30 to 3.3.1') in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[03/06 21:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
+`[03/06 21:54]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#14`](https://github.com//Suvraneel/NFT-Emporium/pull/14 'Bump nanoid from 3.1.30 to 3.3.1') in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
 `[03/06 21:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
 `[03/06 21:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [NFT-Cryptonaut/NFT-Emporium](https://github.com/NFT-Cryptonaut/NFT-Emporium)  
 `[03/06 21:27]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#4`](https://github.com//NFT-Cryptonaut/NFT-Emporium/pull/4 'Bump follow-redirects from 1.14.5 to 1.14.8') in [NFT-Cryptonaut/NFT-Emporium](https://github.com/NFT-Cryptonaut/NFT-Emporium)  
@@ -403,8 +405,6 @@ Recent Activity :
 `[02/03 11:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [GSSoC-Web/gssoc-website](https://github.com/GSSoC-Web/gssoc-website)  
 `[02/02 09:00]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#17`](https://github.com//GSSoC-Web/gssoc-website/pull/17 'Added path fix, project modal fix, accordion restore') in [GSSoC-Web/gssoc-website](https://github.com/GSSoC-Web/gssoc-website)  
 `[02/02 08:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `24` commits in [GSSoC-Web/gssoc-website](https://github.com/GSSoC-Web/gssoc-website)  
-`[02/02 08:27]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#17`](https://github.com//GSSoC-Web/gssoc-website/pull/17 'Added path fix, project modal fix, accordion restore') in [GSSoC-Web/gssoc-website](https://github.com/GSSoC-Web/gssoc-website)  
-`[02/02 08:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [GSSoC-Web/gssoc-website](https://github.com/GSSoC-Web/gssoc-website)  
 
 </details>
 <!--END_SECTION:activity-->
