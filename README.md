@@ -198,14 +198,22 @@ Recent Activity :
 <img src="https://suvraneel-gh-activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[03/06 20:16]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#59`](https://github.com//girlscript/gssoc-website-new/issues/59 'Code of conduct') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[03/06 20:13]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#59`](https://github.com//girlscript/gssoc-website-new/pull/59 'Code of conduct') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[03/06 20:12]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#58`](https://github.com//girlscript/gssoc-website-new/pull/58 'fixed coc?') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[03/06 20:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[03/06 20:09]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Reopened PR [`#58`](https://github.com//girlscript/gssoc-website-new/pull/58 'fixed coc?') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[03/06 20:08]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#58`](https://github.com//girlscript/gssoc-website-new/pull/58 'fixed coc?') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[03/06 20:04]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#58`](https://github.com//girlscript/gssoc-website-new/pull/58 'fixed coc?') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[03/06 20:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/05 07:47]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#8`](https://github.com//NFT-Cryptonaut/NFT-Emporium/pull/8 'Bump simple-get from 2.8.1 to 2.8.2') in [NFT-Cryptonaut/NFT-Emporium](https://github.com/NFT-Cryptonaut/NFT-Emporium)  
 `[03/05 07:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [NFT-Cryptonaut/NFT-Emporium](https://github.com/NFT-Cryptonaut/NFT-Emporium)  
 `[03/05 07:47]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Reopened PR [`#8`](https://github.com//NFT-Cryptonaut/NFT-Emporium/pull/8 'Bump simple-get from 2.8.1 to 2.8.2') in [NFT-Cryptonaut/NFT-Emporium](https://github.com/NFT-Cryptonaut/NFT-Emporium)  
 `[03/05 07:47]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#8`](https://github.com//NFT-Cryptonaut/NFT-Emporium/pull/8 'Bump simple-get from 2.8.1 to 2.8.2') in [NFT-Cryptonaut/NFT-Emporium](https://github.com/NFT-Cryptonaut/NFT-Emporium)  
 `[03/04 21:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [NFT-Cryptonaut/NFT-Emporium](https://github.com/NFT-Cryptonaut/NFT-Emporium)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[03/04 17:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/04 17:14]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#56`](https://github.com//girlscript/gssoc-website-new/pull/56 'Revert "Revert "Added Indepentent Headers for Every Page for GSSoC Website""') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/04 17:14]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#56`](https://github.com//girlscript/gssoc-website-new/pull/56 'Revert "Revert "Added Indepentent Headers for Every Page for GSSoC Website""') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
@@ -388,13 +396,6 @@ Recent Activity :
 `[01/03 11:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[12/29 17:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Simple-DB-API](https://github.com/Suvraneel/Simple-DB-API)  
 `[12/29 11:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mui-org/material-ui](https://github.com/mui-org/material-ui)  
-`[12/29 11:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[12/29 11:41]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#47`](https://github.com//Suvraneel/Suvraneel/pull/47 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[12/28 17:32]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`4d95752`](https://github.com/therdas/porichoy/commit/4d95752916a2e17d7619551fd0828e7893f7fb25#commitcomment-62603870) in [therdas/porichoy](https://github.com/therdas/porichoy)  
-`[12/27 19:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[12/27 19:31]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#46`](https://github.com//Suvraneel/Suvraneel/pull/46 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[12/26 20:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)  
-`[12/25 22:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Suvraneel/Resume](https://github.com/Suvraneel/Resume)  
 
 </details>
 <!--END_SECTION:activity-->
