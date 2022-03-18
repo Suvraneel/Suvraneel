@@ -198,7 +198,7 @@ Recent Activity :
 <img src="https://suvraneel-gh-activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
-`[03/18 07:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[03/18 07:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `19` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/17 21:10]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#61`](https://github.com//girlscript/gssoc-website-new/pull/61 'feat: add more dropdown in navbar') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/17 21:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `19` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/17 20:22]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#62`](https://github.com//girlscript/gssoc-website-new/pull/62 'Mehak ca') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
@@ -412,7 +412,6 @@ Recent Activity :
 `[02/04 13:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Suvraneel/gssoc-website-1](https://github.com/Suvraneel/gssoc-website-1)  
 `[02/04 13:23]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//Suvraneel/gssoc-website-1/pull/1 'testing') in [Suvraneel/gssoc-website-1](https://github.com/Suvraneel/gssoc-website-1)  
 `[02/04 13:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/gssoc-website-1](https://github.com/Suvraneel/gssoc-website-1)  
-`[02/04 13:20]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//Suvraneel/gssoc-website-1/pull/1 'testing') in [Suvraneel/gssoc-website-1](https://github.com/Suvraneel/gssoc-website-1)  
 
 </details>
 <!--END_SECTION:activity-->
