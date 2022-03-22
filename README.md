@@ -198,14 +198,15 @@ Recent Activity :
 <img src="https://suvraneel-gh-activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[03/22 06:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [GSSoC-Web/gssoc-assets](https://github.com/GSSoC-Web/gssoc-assets)  
 `[03/21 14:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/20 20:06]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) to [Suvraneel/DiscordRPCMaker](https://github.com/Suvraneel/DiscordRPCMaker)  
 `[03/20 12:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/19 18:17]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#17`](https://github.com//Suvraneel/NFT-Emporium/issues/17 'Navbar UI') in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
-`[03/19 18:15]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#16`](https://github.com//Suvraneel/NFT-Emporium/issues/16 'Responsiveness') in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[03/19 18:15]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#16`](https://github.com//Suvraneel/NFT-Emporium/issues/16 'Responsiveness') in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
 `[03/19 18:15]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#15`](https://github.com//Suvraneel/NFT-Emporium/issues/15 'Button color ') in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
 `[03/19 10:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/19 08:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [GSSoC-Web/gssoc-assets](https://github.com/GSSoC-Web/gssoc-assets)  
@@ -410,7 +411,6 @@ Recent Activity :
 `[02/05 12:28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#18`](https://github.com//girlscript/gssoc-website-new/issues/18 'Bug: image not loading on homepage') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/04 17:54]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#16`](https://github.com//girlscript/gssoc-website-new/pull/16 'testing base URI to solve 404 root') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/04 15:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[02/04 15:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/GirlScript-Summer-of-Code](https://github.com/girlscript/GirlScript-Summer-of-Code)  
 
 </details>
 <!--END_SECTION:activity-->
