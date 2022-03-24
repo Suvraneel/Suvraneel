@@ -198,14 +198,19 @@ Recent Activity :
 <img src="https://suvraneel-gh-activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[03/24 17:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[03/24 17:37]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#63`](https://github.com//girlscript/gssoc-website-new/pull/63 'Suv event') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[03/24 17:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `68` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[03/24 17:27]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#63`](https://github.com//girlscript/gssoc-website-new/pull/63 'Suv event') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[03/24 17:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[03/24 14:21]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`suv-event`](https://github.com/girlscript/gssoc-website-new/tree/suv-event) in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/24 13:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/24 10:12]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#37`](https://github.com//girlscript/gssoc-website-new/pull/37 'fixing light/dark modes') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/22 14:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/22 06:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [GSSoC-Web/gssoc-assets](https://github.com/GSSoC-Web/gssoc-assets)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[03/21 14:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/20 20:06]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) to [Suvraneel/DiscordRPCMaker](https://github.com/Suvraneel/DiscordRPCMaker)  
 `[03/20 12:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
@@ -410,9 +415,6 @@ Recent Activity :
 `[02/05 17:48]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#19`](https://github.com//girlscript/gssoc-website-new/pull/19 'Vishwa homepage revamp') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/05 15:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/05 12:51]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#18`](https://github.com//girlscript/gssoc-website-new/issues/18 'Bug: image not loading on homepage') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[02/05 12:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[02/05 12:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [GSSoC-Web/gssoc-assets](https://github.com/GSSoC-Web/gssoc-assets)  
-`[02/05 12:28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#18`](https://github.com//girlscript/gssoc-website-new/issues/18 'Bug: image not loading on homepage') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 </details>
 <!--END_SECTION:activity-->
