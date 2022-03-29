@@ -201,14 +201,15 @@ Recent Activity :
 <img src="https://suvraneel-gh-activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[03/29 07:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[03/26 17:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/26 16:55]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#64`](https://github.com//girlscript/gssoc-website-new/pull/64 'Leaderboard 2022 - Intial Commit') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/26 16:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`leaderboard`](https://github.com/girlscript/gssoc-website-new/tree/leaderboard) in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/24 17:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[03/24 17:37]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#63`](https://github.com//girlscript/gssoc-website-new/pull/63 'Suv event') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[03/24 17:37]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#63`](https://github.com//girlscript/gssoc-website-new/pull/63 'Suv event') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/24 17:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `68` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/24 17:27]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#63`](https://github.com//girlscript/gssoc-website-new/pull/63 'Suv event') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/24 17:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
@@ -417,7 +418,6 @@ Recent Activity :
 `[02/05 17:51]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#20`](https://github.com//girlscript/gssoc-website-new/pull/20 'Team anubhav') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/05 17:50]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#20`](https://github.com//girlscript/gssoc-website-new/pull/20 'Team anubhav') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/05 17:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[02/05 17:49]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#19`](https://github.com//girlscript/gssoc-website-new/pull/19 'Vishwa homepage revamp') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 </details>
 <!--END_SECTION:activity-->
