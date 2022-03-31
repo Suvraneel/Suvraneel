@@ -201,14 +201,18 @@ Recent Activity :
 <img src="https://suvraneel-gh-activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[03/31 21:22]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#68`](https://github.com//girlscript/gssoc-website-new/pull/68 'Leaderboard ported MUI -> TailWind') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[03/31 21:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[03/31 21:21]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#68`](https://github.com//girlscript/gssoc-website-new/pull/68 'Leaderboard ported MUI -> TailWind') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[03/31 21:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/31 20:27]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#17`](https://github.com//Suvraneel/NFT-Emporium/issues/17 'Navbar UI') in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[03/31 20:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/31 20:06]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#67`](https://github.com//girlscript/gssoc-website-new/pull/67 'Leaderboard integrated 🏅') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/31 20:06]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#67`](https://github.com//girlscript/gssoc-website-new/pull/67 'Leaderboard integrated 🏅') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/31 15:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/ethereum-boilerplate](https://github.com/Suvraneel/ethereum-boilerplate)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[03/31 13:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/31 12:17]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#66`](https://github.com//girlscript/gssoc-website-new/pull/66 'Changed Leaderboard Prod URL') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/31 10:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [cu-cse-blog/CodeClub_CU](https://github.com/cu-cse-blog/CodeClub_CU)  
@@ -410,8 +414,6 @@ Recent Activity :
 `[02/08 09:19]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [geogo-in/fswi-cowin-clone-api](https://github.com/geogo-in/fswi-cowin-clone-api) to [Suvraneel/fswi-cowin-clone-api](https://github.com/Suvraneel/fswi-cowin-clone-api)  
 `[02/07 22:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/07 22:05]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#28`](https://github.com//girlscript/gssoc-website-new/pull/28 'Minor tweaks homepage vishwa') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[02/07 22:05]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#28`](https://github.com//girlscript/gssoc-website-new/pull/28 'Minor tweaks homepage vishwa') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[02/07 16:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 </details>
 <!--END_SECTION:activity-->
