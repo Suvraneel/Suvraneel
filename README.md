@@ -201,7 +201,7 @@ Recent Activity :
 <img src="https://suvraneel-gh-activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
-`[04/03 10:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Suvraneel/ethereum-boilerplate](https://github.com/Suvraneel/ethereum-boilerplate)  
+`[04/03 11:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Suvraneel/ethereum-boilerplate](https://github.com/Suvraneel/ethereum-boilerplate)  
 `[04/02 10:13]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#19526`](https://github.com//brave/brave-browser/issues/19526 '"JSON data is not expected" when trying to import crypto wallets into Brave Wallet') in [brave/brave-browser](https://github.com/brave/brave-browser)  
 `[04/01 10:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/31 21:22]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#68`](https://github.com//girlscript/gssoc-website-new/pull/68 'Leaderboard ported MUI -> TailWind') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
@@ -413,7 +413,6 @@ Recent Activity :
 `[02/11 21:14]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#30`](https://github.com//girlscript/gssoc-website-new/pull/30 'Suv - Responsive fixed width sine-eased stats card count up') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/11 21:14]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`suv-count-up`](https://github.com/girlscript/gssoc-website-new/tree/suv-count-up) in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/11 16:44]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#29`](https://github.com//girlscript/gssoc-website-new/pull/29 'stats completed countup added') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[02/10 20:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 </details>
 <!--END_SECTION:activity-->
