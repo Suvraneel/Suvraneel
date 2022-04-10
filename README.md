@@ -201,14 +201,15 @@ Recent Activity :
 <img src="https://suvraneel-gh-activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[04/10 16:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `66` commits in [Suvraneel/metrics](https://github.com/Suvraneel/metrics)  
 `[04/03 13:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Open-Sorcerer/NFT-Haven](https://github.com/Open-Sorcerer/NFT-Haven)  
 `[04/03 12:42]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Open-Sorcerer/NFT-Haven](https://github.com/Open-Sorcerer/NFT-Haven) to [Suvraneel/NFT-Haven](https://github.com/Suvraneel/NFT-Haven)  
 `[04/03 12:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Open-Sorcerer/NFT-Haven](https://github.com/Open-Sorcerer/NFT-Haven)  
 `[04/03 12:09]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Open-Sorcerer/NFT-Haven/tree/main) in [Open-Sorcerer/NFT-Haven](https://github.com/Open-Sorcerer/NFT-Haven)  
-`[04/03 12:08]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Open-Sorcerer/NFT-Haven](https://github.com/Open-Sorcerer/NFT-Haven)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[04/03 12:08]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Open-Sorcerer/NFT-Haven](https://github.com/Open-Sorcerer/NFT-Haven)  
 `[04/03 11:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Suvraneel/ethereum-boilerplate](https://github.com/Suvraneel/ethereum-boilerplate)  
 `[04/02 10:13]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#19526`](https://github.com//brave/brave-browser/issues/19526 '"JSON data is not expected" when trying to import crypto wallets into Brave Wallet') in [brave/brave-browser](https://github.com/brave/brave-browser)  
 `[04/01 10:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
@@ -411,7 +412,6 @@ Recent Activity :
 `[02/12 16:00]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#32`](https://github.com//girlscript/gssoc-website-new/pull/32 'Vishwa sponsors') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/12 16:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/11 21:19]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#31`](https://github.com//girlscript/gssoc-website-new/pull/31 'Vishwa sponsors') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[02/11 21:16]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#31`](https://github.com//girlscript/gssoc-website-new/pull/31 'Vishwa sponsors') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 </details>
 <!--END_SECTION:activity-->
