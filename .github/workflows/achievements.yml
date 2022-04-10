@@ -9,7 +9,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: Suvraneel/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.achievements.svg
           # Your GitHub token
