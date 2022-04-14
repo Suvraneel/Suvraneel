@@ -201,14 +201,20 @@ Recent Activity :
 <img src="https://suvraneel-gh-activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[04/14 21:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
+`[04/14 21:45]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#18`](https://github.com//Suvraneel/NFT-Emporium/pull/18 'Bump minimist from 1.2.5 to 1.2.6') in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
+`[04/14 21:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
+`[04/14 21:44]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#19`](https://github.com//Suvraneel/NFT-Emporium/pull/19 'Bump moment from 2.29.1 to 2.29.2') in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
+`[04/14 21:44]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#15`](https://github.com//Suvraneel/NFT-Emporium/issues/15 'Button color ') in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[04/14 21:42]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#14`](https://github.com//debamitr1012/TrafficSignRecognition_PyTorch/issues/14 '\'Alexnet\' Transfer learning model with 88% val accuracy') in [debamitr1012/TrafficSignRecognition_PyTorch](https://github.com/debamitr1012/TrafficSignRecognition_PyTorch)  
 `[04/14 17:29]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#16`](https://github.com//Suvraneel/NFT-Emporium/issues/16 'Responsiveness') in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
 `[04/13 20:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/10 17:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[04/10 16:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `66` commits in [Suvraneel/metrics](https://github.com/Suvraneel/metrics)  
 `[04/03 13:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Open-Sorcerer/NFT-Haven](https://github.com/Open-Sorcerer/NFT-Haven)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[04/03 12:42]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Open-Sorcerer/NFT-Haven](https://github.com/Open-Sorcerer/NFT-Haven) to [Suvraneel/NFT-Haven](https://github.com/Suvraneel/NFT-Haven)  
 `[04/03 12:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Open-Sorcerer/NFT-Haven](https://github.com/Open-Sorcerer/NFT-Haven)  
 `[04/03 12:09]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Open-Sorcerer/NFT-Haven/tree/main) in [Open-Sorcerer/NFT-Haven](https://github.com/Open-Sorcerer/NFT-Haven)  
@@ -405,11 +411,6 @@ Recent Activity :
 `[02/20 20:08]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#38`](https://github.com//girlscript/gssoc-website-new/pull/38 'Vishwa project modal') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/20 14:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/18 22:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[02/17 20:07]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#36`](https://github.com//girlscript/gssoc-website-new/pull/36 'navbar updated') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[02/17 20:07]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#36`](https://github.com//girlscript/gssoc-website-new/issues/36 'navbar updated') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[02/17 20:05]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#35`](https://github.com//girlscript/gssoc-website-new/issues/35 'Text not visible') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[02/17 20:02]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#34`](https://github.com//girlscript/gssoc-website-new/issues/34 'enhancement: Timeline error in GsSOC 22 Schedule. (About Section)') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[02/17 20:00]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#34`](https://github.com//girlscript/gssoc-website-new/issues/34 'enhancement: Timeline error in GsSOC 22 Schedule. (About Section)') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 </details>
 <!--END_SECTION:activity-->
