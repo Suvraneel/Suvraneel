@@ -201,14 +201,17 @@ Recent Activity :
 <img src="https://suvraneel-gh-activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[04/16 20:50]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#48`](https://github.com//Suvraneel/Suvraneel/pull/48 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
+`[04/16 20:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
+`[04/16 20:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Suvraneel/metrics](https://github.com/Suvraneel/metrics)  
 `[04/16 20:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[04/16 16:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#74`](https://github.com//girlscript/gssoc-website-new/issues/74 'Search bar for Leaderboard') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[04/16 16:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[04/16 06:45]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#845`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/845 'adding fortune cookie generator') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
-`[04/15 09:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[04/16 16:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[04/16 06:45]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#845`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/845 'adding fortune cookie generator') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
+`[04/15 09:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/14 21:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
 `[04/14 21:45]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#18`](https://github.com//Suvraneel/NFT-Emporium/pull/18 'Bump minimist from 1.2.5 to 1.2.6') in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
 `[04/14 21:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
@@ -413,8 +416,6 @@ Recent Activity :
 `[02/20 21:32]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#39`](https://github.com//girlscript/gssoc-website-new/pull/39 'minor fixes') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/20 21:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/20 20:08]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#38`](https://github.com//girlscript/gssoc-website-new/pull/38 'Vishwa project modal') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[02/20 20:08]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#38`](https://github.com//girlscript/gssoc-website-new/pull/38 'Vishwa project modal') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[02/20 14:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 </details>
 <!--END_SECTION:activity-->
