@@ -11,15 +11,23 @@ jobs:
     steps:
       - uses: Suvraneel/metrics@latest
         with:
-          filename: metrics.plugin.achievements.svg
           # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          # The following additional scopes may be required:
+          #  - read:org  (for organization related metrics)
+          #  - read:user (for user related data)
+          #  - repo      (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
+          user: Suvraneel
+          template: classic
           base: ""
-#           config_timezone: Asia/Calcutta
-          # Achievements
+          config_timezone: Asia/Calcutta
+          config_twemoji: yes
           plugin_achievements: yes
-#           plugin_achievements_display: compact
+          plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
-#           plugin_achievements_threshold: C
+          plugin_achievements_threshold: C
+          repositories_forks: yes
