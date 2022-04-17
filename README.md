@@ -201,14 +201,18 @@ Recent Activity :
 <img src="https://suvraneel-gh-activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[04/17 18:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[04/17 18:50]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#72`](https://github.com//girlscript/gssoc-website-new/issues/72 'List Open Issues of GSSoC22 Projects') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[04/17 18:44]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#72`](https://github.com//girlscript/gssoc-website-new/issues/72 'List Open Issues of GSSoC22 Projects') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[04/17 18:44]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#72`](https://github.com//girlscript/gssoc-website-new/issues/72 'List Open Issues of GSSoC22 Projects') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/17 18:28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#75`](https://github.com//girlscript/gssoc-website-new/issues/75 'added searchbar functionality to Leaderboard') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[04/17 18:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/17 18:23]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#75`](https://github.com//girlscript/gssoc-website-new/pull/75 'added searchbar functionality to Leaderboard') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/17 18:23]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#74`](https://github.com//girlscript/gssoc-website-new/issues/74 'Search bar for Leaderboard') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/17 18:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[04/17 13:29]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#75`](https://github.com//girlscript/gssoc-website-new/issues/75 'added searchbar functionality to Leaderboard') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/16 20:50]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#48`](https://github.com//Suvraneel/Suvraneel/pull/48 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[04/16 20:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
@@ -409,9 +413,6 @@ Recent Activity :
 `[02/25 13:40]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#41`](https://github.com//girlscript/gssoc-website-new/pull/41 'Updates in FAQ and Team section for GSSoC\'22') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/25 13:40]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#41`](https://github.com//girlscript/gssoc-website-new/pull/41 'Updates in FAQ and Team section for GSSoC\'22') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/22 15:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[02/22 11:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [GSSoC-Web/gssoc-assets](https://github.com/GSSoC-Web/gssoc-assets)  
-`[02/22 08:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[02/21 15:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [GSSoC-Web/gssoc-assets](https://github.com/GSSoC-Web/gssoc-assets)  
 
 </details>
 <!--END_SECTION:activity-->
