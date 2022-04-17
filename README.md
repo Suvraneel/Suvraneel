@@ -414,8 +414,7 @@ Recent Activity :
 `[02/20 21:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/20 21:32]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#39`](https://github.com//girlscript/gssoc-website-new/pull/39 'minor fixes') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/20 21:32]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#39`](https://github.com//girlscript/gssoc-website-new/pull/39 'minor fixes') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[02/20 21:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[02/20 20:08]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#38`](https://github.com//girlscript/gssoc-website-new/pull/38 'Vishwa project modal') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[02/20 21:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 </details>
 <!--END_SECTION:activity-->
