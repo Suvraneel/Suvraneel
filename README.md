@@ -201,14 +201,15 @@ Recent Activity :
 <img src="https://suvraneel-gh-activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[04/19 22:18]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`chatbot-gurjeet`](https://github.com/girlscript/gssoc-website-new/tree/chatbot-gurjeet) in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/19 20:39]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#77`](https://github.com//girlscript/gssoc-website-new/issues/77 'Loader for leaderboard') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/19 20:18]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#77`](https://github.com//girlscript/gssoc-website-new/issues/77 'Loader for leaderboard') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/19 20:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/19 20:04]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#76`](https://github.com//girlscript/gssoc-website-new/issues/76 'Loader for the leaderboard page') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[04/19 20:04]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#77`](https://github.com//girlscript/gssoc-website-new/pull/77 'Loader for leaderboard') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[04/19 20:04]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#77`](https://github.com//girlscript/gssoc-website-new/pull/77 'Loader for leaderboard') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/19 19:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [GaganpreetKaurKalsi/gssoc-website-new](https://github.com/GaganpreetKaurKalsi/gssoc-website-new)  
 `[04/18 12:22]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#72`](https://github.com//girlscript/gssoc-website-new/issues/72 'List Open Issues of GSSoC22 Projects') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/18 10:43]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#76`](https://github.com//girlscript/gssoc-website-new/issues/76 'Loader for the leaderboard page') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
@@ -409,7 +410,6 @@ Recent Activity :
 `[02/26 14:58]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#48`](https://github.com//girlscript/gssoc-website-new/pull/48 'prev year project links fixed') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/26 12:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/26 11:52]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#45`](https://github.com//girlscript/gssoc-website-new/pull/45 'project switcher') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[02/26 11:52]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#46`](https://github.com//girlscript/gssoc-website-new/pull/46 'Mehak project') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 </details>
 <!--END_SECTION:activity-->
