@@ -201,14 +201,16 @@ Recent Activity :
 <img src="https://suvraneel-gh-activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[04/21 17:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[04/21 17:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/contributors-readme-action](https://github.com/Suvraneel/contributors-readme-action)  
 `[04/21 16:36]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#16`](https://github.com//Suvraneel/NFT-Emporium/issues/16 'Responsiveness') in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
 `[04/20 20:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[04/20 07:51]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#70`](https://github.com//girlscript/gssoc-website-new/issues/70 'Feat: Live Chatbot') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[04/19 22:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[04/19 22:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[04/19 22:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[04/19 22:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/19 22:19]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#71`](https://github.com//girlscript/gssoc-website-new/pull/71 'feat: live chatbot added') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/19 22:18]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`chatbot-gurjeet`](https://github.com/girlscript/gssoc-website-new/tree/chatbot-gurjeet) in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/19 20:39]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#77`](https://github.com//girlscript/gssoc-website-new/issues/77 'Loader for leaderboard') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
@@ -401,10 +403,7 @@ Recent Activity :
 `[03/03 20:29]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#52`](https://github.com//girlscript/gssoc-website-new/pull/52 'Code of conduct') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/03 20:23]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#52`](https://github.com//girlscript/gssoc-website-new/pull/52 'Code of conduct') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/03 20:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[03/02 16:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [NFT-Cryptonaut/NFT-Emporium](https://github.com/NFT-Cryptonaut/NFT-Emporium)  
-`[03/02 11:21]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#51`](https://github.com//girlscript/gssoc-website-new/issues/51 'Added Indepentent Headers for Every Page for GSSoC Website') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[03/02 11:20]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#51`](https://github.com//girlscript/gssoc-website-new/pull/51 'Added Indepentent Headers for Every Page for GSSoC Website') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[03/02 11:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[03/02 16:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [NFT-Cryptonaut/NFT-Emporium](https://github.com/NFT-Cryptonaut/NFT-Emporium)  
 
 </details>
 <!--END_SECTION:activity-->
