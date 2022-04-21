@@ -405,8 +405,6 @@ Recent Activity :
 `[03/02 11:20]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#51`](https://github.com//girlscript/gssoc-website-new/pull/51 'Added Indepentent Headers for Every Page for GSSoC Website') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/02 11:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/02 11:20]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#50`](https://github.com//girlscript/gssoc-website-new/issues/50 'Independent Head Title for every Page') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[03/02 11:20]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#51`](https://github.com//girlscript/gssoc-website-new/pull/51 'Added Indepentent Headers for Every Page for GSSoC Website') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[02/27 11:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 </details>
 <!--END_SECTION:activity-->
