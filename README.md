@@ -400,8 +400,6 @@ Recent Activity :
 `[03/04 14:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Greeting-action](https://github.com/Suvraneel/Greeting-action)  
 `[03/04 14:18]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#158`](https://github.com//Suvraneel/Automated-assign-labeler/issues/158 '[Create New Issue]: ') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[03/04 14:16]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#340`](https://github.com//Lakhankumawat/LearnCPP/issues/340 'Title ') in [Lakhankumawat/LearnCPP](https://github.com/Lakhankumawat/LearnCPP)  
-`[03/04 14:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Greeting-action](https://github.com/Suvraneel/Greeting-action)  
-`[03/03 20:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 </details>
 <!--END_SECTION:activity-->
