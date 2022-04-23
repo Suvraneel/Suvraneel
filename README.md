@@ -201,14 +201,15 @@ Recent Activity :
 <img src="https://suvraneel-gh-activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[04/23 17:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[04/23 16:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Suvraneel/metrics](https://github.com/Suvraneel/metrics)  
 `[04/23 15:13]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#80`](https://github.com//girlscript/gssoc-website-new/pull/80 'Fixed PR links and added view Button') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/23 15:13]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#80`](https://github.com//girlscript/gssoc-website-new/pull/80 'Fixed PR links and added view Button') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/23 15:08]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#80`](https://github.com//girlscript/gssoc-website-new/issues/80 'Fixed PR links and added view Button') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[04/23 12:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/OpenSorcerer-NFT-Game-Token](https://github.com/Suvraneel/OpenSorcerer-NFT-Game-Token)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[04/23 12:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/OpenSorcerer-NFT-Game-Token](https://github.com/Suvraneel/OpenSorcerer-NFT-Game-Token)  
 `[04/23 11:47]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Suvraneel/OpenSorcerer-NFT-Game-Token/tree/main) in [Suvraneel/OpenSorcerer-NFT-Game-Token](https://github.com/Suvraneel/OpenSorcerer-NFT-Game-Token)  
 `[04/23 11:47]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Suvraneel/OpenSorcerer-NFT-Game-Token](https://github.com/Suvraneel/OpenSorcerer-NFT-Game-Token)  
 `[04/23 11:33]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`CharactersNFTCollection`](https://github.com/Suvraneel/hashlips_art_engine/tree/CharactersNFTCollection) in [Suvraneel/hashlips_art_engine](https://github.com/Suvraneel/hashlips_art_engine)  
@@ -399,8 +400,6 @@ Recent Activity :
 `[03/04 15:32]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#158`](https://github.com//Suvraneel/Automated-assign-labeler/issues/158 '[Create New Issue]: ') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[03/04 15:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
 `[03/04 15:32]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#157`](https://github.com//Suvraneel/Automated-assign-labeler/pull/157 'Fixed and bugs and tiny enhancements') in [Suvraneel/Automated-assign-labeler](https://github.com/Suvraneel/Automated-assign-labeler)  
-`[03/04 14:28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#341`](https://github.com//Lakhankumawat/LearnCPP/issues/341 'Title ') in [Lakhankumawat/LearnCPP](https://github.com/Lakhankumawat/LearnCPP)  
-`[03/04 14:22]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#341`](https://github.com//Lakhankumawat/LearnCPP/issues/341 'Title ') in [Lakhankumawat/LearnCPP](https://github.com/Lakhankumawat/LearnCPP)  
 
 </details>
 <!--END_SECTION:activity-->
