@@ -201,14 +201,15 @@ Recent Activity :
 <img src="https://suvraneel-gh-activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[04/23 18:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/OpenSorcerer-NFT-Game-Token](https://github.com/Suvraneel/OpenSorcerer-NFT-Game-Token)  
 `[04/23 17:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[04/23 16:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Suvraneel/metrics](https://github.com/Suvraneel/metrics)  
 `[04/23 15:13]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#80`](https://github.com//girlscript/gssoc-website-new/pull/80 'Fixed PR links and added view Button') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/23 15:13]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#80`](https://github.com//girlscript/gssoc-website-new/pull/80 'Fixed PR links and added view Button') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[04/23 15:08]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#80`](https://github.com//girlscript/gssoc-website-new/issues/80 'Fixed PR links and added view Button') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[04/23 15:08]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#80`](https://github.com//girlscript/gssoc-website-new/issues/80 'Fixed PR links and added view Button') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/23 12:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/OpenSorcerer-NFT-Game-Token](https://github.com/Suvraneel/OpenSorcerer-NFT-Game-Token)  
 `[04/23 11:47]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Suvraneel/OpenSorcerer-NFT-Game-Token/tree/main) in [Suvraneel/OpenSorcerer-NFT-Game-Token](https://github.com/Suvraneel/OpenSorcerer-NFT-Game-Token)  
 `[04/23 11:47]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Suvraneel/OpenSorcerer-NFT-Game-Token](https://github.com/Suvraneel/OpenSorcerer-NFT-Game-Token)  
@@ -386,7 +387,6 @@ Recent Activity :
 `[03/04 17:10]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`revert-53-code-of-conduct`](https://github.com/girlscript/gssoc-website-new/tree/revert-53-code-of-conduct) in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/04 16:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/gssoc-website-new](https://github.com/Suvraneel/gssoc-website-new)  
 `[03/04 16:55]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new) to [Suvraneel/gssoc-website-new](https://github.com/Suvraneel/gssoc-website-new)  
-`[03/04 16:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 </details>
 <!--END_SECTION:activity-->
