@@ -201,14 +201,15 @@ Recent Activity :
 <img src="https://suvraneel-gh-activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[04/24 21:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[04/24 20:37]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#81`](https://github.com//girlscript/gssoc-website-new/issues/81 'added pagination') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/24 20:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/24 20:37]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#81`](https://github.com//girlscript/gssoc-website-new/pull/81 'added pagination') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/24 20:37]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#78`](https://github.com//girlscript/gssoc-website-new/issues/78 'Pagination for leaderboard table') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[04/24 20:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [GaganpreetKaurKalsi/gssoc-website-new](https://github.com/GaganpreetKaurKalsi/gssoc-website-new)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[04/24 20:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [GaganpreetKaurKalsi/gssoc-website-new](https://github.com/GaganpreetKaurKalsi/gssoc-website-new)  
 `[04/24 20:00]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#81`](https://github.com//girlscript/gssoc-website-new/issues/81 'added pagination') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/24 10:51]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#132`](https://github.com//karunakaran186/KAVI-voice-Assitant/issues/132 'TakeABreak Project') in [karunakaran186/KAVI-voice-Assitant](https://github.com/karunakaran186/KAVI-voice-Assitant)  
 `[04/23 20:51]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#79`](https://github.com//girlscript/gssoc-website-new/issues/79 'Fixing modal links and adding view and Github button to rows') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
@@ -378,8 +379,6 @@ Recent Activity :
 `[03/06 20:13]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#59`](https://github.com//girlscript/gssoc-website-new/pull/59 'Code of conduct') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/06 20:12]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#58`](https://github.com//girlscript/gssoc-website-new/pull/58 'fixed coc?') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/06 20:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[03/06 20:09]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Reopened PR [`#58`](https://github.com//girlscript/gssoc-website-new/pull/58 'fixed coc?') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[03/06 20:08]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#58`](https://github.com//girlscript/gssoc-website-new/pull/58 'fixed coc?') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 </details>
 <!--END_SECTION:activity-->
