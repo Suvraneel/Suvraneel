@@ -399,7 +399,7 @@ Recent Activity :
 
 <details>
 <summary> <b>  :trophy: GitHub Achievements </b></summary>
-<img src="https://github.com/Suvraneel/Suvraneel/blob/master/github-metrics.svg">
+<img src="https://github.com/Suvraneel/Suvraneel/blob/master/metrics.plugin.achievements.svg">
 </details><br>
 
 
