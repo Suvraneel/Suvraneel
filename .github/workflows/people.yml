@@ -1,5 +1,4 @@
-
-name: Isometric Calender
+name: People Plugin
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 19 * * *"}]
