@@ -11,10 +11,9 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.people.repository.svg
+          filename: metrics.plugin.people.followers.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          template: repository
-          repo: metrics
           plugin_people: yes
-          plugin_people_types: followers, contributors, stargazers, watchers, sponsors
+          plugin_people_size: 40
+          plugin_people_types: followers
