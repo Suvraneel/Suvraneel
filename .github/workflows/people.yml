@@ -15,6 +15,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_people: yes
-          plugin_people_size: 40
-          plugin_people_limit: disable
+          plugin_people_size: 64
+          plugin_people_limit: 0
           plugin_people_types: followers
