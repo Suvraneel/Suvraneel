@@ -399,7 +399,7 @@ Recent Activity :
 
 <details>
   <summary> <b>  🚀 GitHub Fam </b></summary>
-<img src="https://github.com/Suvraneel/Suvraneel/blob/master/metrics.plugin.people.repository.svg">
+<img src="https://github.com/Suvraneel/Suvraneel/blob/master/metrics.plugin.people.followers.svg">
 </details>
 
 <details>
