@@ -202,14 +202,17 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[05/05 22:01]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#71`](https://github.com//girlscript/gssoc-website-new/issues/71 'feat: live chatbot added') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[05/05 21:57]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#108`](https://github.com//Hackathon7/Pacify-final/issues/108 'Add Chatbot') in [Hackathon7/Pacify-final](https://github.com/Hackathon7/Pacify-final)  
+`[05/05 21:54]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#473`](https://github.com//arpit456jain/Amazing-Js-Projects/issues/473 'Add Live Chatbot') in [arpit456jain/Amazing-Js-Projects](https://github.com/arpit456jain/Amazing-Js-Projects)  
 `[05/05 12:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[05/05 12:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/VHDL-Xilinx](https://github.com/Suvraneel/VHDL-Xilinx)  
-`[05/05 12:08]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Suvraneel/VHDL-Xilinx/tree/main) in [Suvraneel/VHDL-Xilinx](https://github.com/Suvraneel/VHDL-Xilinx)  
-`[05/05 11:44]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Suvraneel/VHDL-Xilinx](https://github.com/Suvraneel/VHDL-Xilinx)  
-`[05/05 11:24]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Suvraneel/VHDL-Xilinx](https://github.com/Suvraneel/VHDL-Xilinx)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[05/05 12:08]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Suvraneel/VHDL-Xilinx/tree/main) in [Suvraneel/VHDL-Xilinx](https://github.com/Suvraneel/VHDL-Xilinx)  
+`[05/05 11:44]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Suvraneel/VHDL-Xilinx](https://github.com/Suvraneel/VHDL-Xilinx)  
+`[05/05 11:24]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Suvraneel/VHDL-Xilinx](https://github.com/Suvraneel/VHDL-Xilinx)  
 `[05/01 20:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[05/01 20:40]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#50`](https://github.com//Suvraneel/Suvraneel/pull/50 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[05/01 20:40]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#50`](https://github.com//Suvraneel/Suvraneel/pull/50 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
@@ -369,7 +372,7 @@ Recent Activity :
 `[03/08 20:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Resume](https://github.com/Suvraneel/Resume)  
 `[03/06 22:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
 `[03/06 22:32]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`production`](https://github.com/Suvraneel/NFT-Emporium/tree/production) in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
-`[03/06 22:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
+`[03/06 22:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
 
 </details>
 <!--END_SECTION:activity-->
