@@ -201,14 +201,15 @@ Recent Activity :
 <img src="https://suvraneel-gh-activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[05/05 11:24]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Suvraneel/VHDL-Xilinx](https://github.com/Suvraneel/VHDL-Xilinx)  
 `[05/01 20:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[05/01 20:40]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#50`](https://github.com//Suvraneel/Suvraneel/pull/50 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[05/01 20:40]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#50`](https://github.com//Suvraneel/Suvraneel/pull/50 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[05/01 20:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[04/29 07:19]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#82`](https://github.com//girlscript/gssoc-website-new/pull/82 'Created Blog page') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[04/29 07:19]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#82`](https://github.com//girlscript/gssoc-website-new/pull/82 'Created Blog page') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/27 20:56]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#84`](https://github.com//girlscript/gssoc-website-new/pull/84 'Mehak blog') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/27 20:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/27 20:56]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#69`](https://github.com//girlscript/gssoc-website-new/pull/69 'Mehak blog') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
@@ -370,7 +371,6 @@ Recent Activity :
 `[03/06 21:54]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#14`](https://github.com//Suvraneel/NFT-Emporium/pull/14 'Bump nanoid from 3.1.30 to 3.3.1') in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
 `[03/06 21:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
 `[03/06 21:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [NFT-Cryptonaut/NFT-Emporium](https://github.com/NFT-Cryptonaut/NFT-Emporium)  
-`[03/06 21:27]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#4`](https://github.com//NFT-Cryptonaut/NFT-Emporium/pull/4 'Bump follow-redirects from 1.14.5 to 1.14.8') in [NFT-Cryptonaut/NFT-Emporium](https://github.com/NFT-Cryptonaut/NFT-Emporium)  
 
 </details>
 <!--END_SECTION:activity-->
