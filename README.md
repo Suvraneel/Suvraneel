@@ -368,7 +368,6 @@ Recent Activity :
 `[03/12 11:59]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#340`](https://github.com//Lakhankumawat/LearnCPP/issues/340 'Title ') in [Lakhankumawat/LearnCPP](https://github.com/Lakhankumawat/LearnCPP)  
 `[03/10 15:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/Resume](https://github.com/Suvraneel/Resume)  
 `[03/10 11:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles)  
-`[03/10 11:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 
 </details>
 <!--END_SECTION:activity-->
