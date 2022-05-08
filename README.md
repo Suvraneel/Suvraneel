@@ -202,14 +202,15 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[05/08 15:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)  
 `[05/07 19:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/VHDL-Xilinx](https://github.com/Suvraneel/VHDL-Xilinx)  
 `[05/07 19:06]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//Suvraneel/VHDL-Xilinx/pull/1 '[ImgBot] Optimize images') in [Suvraneel/VHDL-Xilinx](https://github.com/Suvraneel/VHDL-Xilinx)  
 `[05/05 22:01]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#71`](https://github.com//girlscript/gssoc-website-new/issues/71 'feat: live chatbot added') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[05/05 21:57]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#108`](https://github.com//Hackathon7/Pacify-final/issues/108 'Add Chatbot') in [Hackathon7/Pacify-final](https://github.com/Hackathon7/Pacify-final)  
-`[05/05 21:54]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#473`](https://github.com//arpit456jain/Amazing-Js-Projects/issues/473 'Add Live Chatbot') in [arpit456jain/Amazing-Js-Projects](https://github.com/arpit456jain/Amazing-Js-Projects)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[05/05 21:54]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#473`](https://github.com//arpit456jain/Amazing-Js-Projects/issues/473 'Add Live Chatbot') in [arpit456jain/Amazing-Js-Projects](https://github.com/arpit456jain/Amazing-Js-Projects)  
 `[05/05 12:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[05/05 12:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/VHDL-Xilinx](https://github.com/Suvraneel/VHDL-Xilinx)  
 `[05/05 12:08]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Suvraneel/VHDL-Xilinx/tree/main) in [Suvraneel/VHDL-Xilinx](https://github.com/Suvraneel/VHDL-Xilinx)  
@@ -367,7 +368,6 @@ Recent Activity :
 `[03/15 20:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/Resume](https://github.com/Suvraneel/Resume)  
 `[03/12 11:59]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#340`](https://github.com//Lakhankumawat/LearnCPP/issues/340 'Title ') in [Lakhankumawat/LearnCPP](https://github.com/Lakhankumawat/LearnCPP)  
 `[03/10 15:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/Resume](https://github.com/Suvraneel/Resume)  
-`[03/10 11:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles)  
 
 </details>
 <!--END_SECTION:activity-->
