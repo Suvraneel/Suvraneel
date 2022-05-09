@@ -117,7 +117,9 @@ Competencies:
 <td><a href="https://github.com/search?q=user%3ASuvraneel+language%3AHTML&type=Code"><img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&labelColor=black&color=E34F26"/></a>
 <a href="https://github.com/search?q=user%3ASuvraneel+language%3ACSS&type=Code"><img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black&color=1572B6" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&labelColor=black&color=7952B3"/></a>
-<a href="https://github.com/search?p=4&q=user%3ASuvraneel+language%3AJavaScript&type=Code"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=c89100"/>
+<a href="https://github.com/search?p=4&q=user%3ASuvraneel+language%3AJavaScript&type=Code"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=c89100"/>  
+<a href="https://github.com/search?p=4&q=user%3ASuvraneel+language%3AJavaScript&type=Code"><img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&labelColor=black&color=585da0"/>
+  <a href="https://github.com/search?p=4&q=user%3ASuvraneel+language%3AJavaScript&type=Code"><img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=4479A1"/>
 <a href="#"><img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&labelColor=black&color=409040"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&labelColor=black&color=1f1f1f"/></a>
 <a href="#"><img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&labelColor=black&color=3a8296"/></a>
@@ -138,9 +140,11 @@ Competencies:
 <a href="#"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&labelColor=black&color=181717"/></a>  
 <a href="#"><img src="https://img.shields.io/badge/VSCode-cyan?style=for-the-badge&logo=visual%20studio%20code&labelColor=00497a&color=007ACC"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&labelColor=black&color=ff4704"/></a>
+<a href="#"><img src="https://img.shields.io/badge/XAMPP-orange?style=for-the-badge&logo=xampp&labelColor=black&color=fb6b0b"/></a>  
 <a href="#"><img src="https://img.shields.io/badge/Repl.it-black?style=for-the-badge&logo=replit&labelColor=black&color=1e2426"/></a>  
 <a href="#"><img src="https://img.shields.io/badge/Eclipse%20IDE-purple?style=for-the-badge&logo=eclipse%20IDE&labelColor=1a1433&color=2C2255"/></a>  
 <a href="#"><img src="https://img.shields.io/badge/Codepen-black?style=for-the-badge&logo=codepen&labelColor=black&color=141819"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&labelColor=black&color=141219"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Heroku-180036?style=for-the-badge&logo=heroku&labelColor=180036&color=430098"/></a></td>  
   </tr>  
 
