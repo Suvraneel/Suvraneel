@@ -158,7 +158,14 @@ Competencies:
 
 <tr>
 <td><h4>Miscellaneous</h4></td>
-<td><a href="#"><img src="https://img.shields.io/badge/Arduino-blue?style=for-the-badge&logo=arduino&labelColor=black&color=00979D"/></a><a href="#"><img src="https://img.shields.io/badge/VHDL-cc0000?style=for-the-badge&logo=xilinx&logoColor=cc0000&labelColor=black&color=cc0000"/></a><a href="#"><img src="https://img.shields.io/badge/GNU_Bash-blue?style=for-the-badge&logo=gnubash&labelColor=black&color=4EAA25"/></a></td></tr>
+<td>
+  <a href="#"><img src="https://img.shields.io/badge/Arduino-blue?style=for-the-badge&logo=arduino&labelColor=black&color=00979D"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/VHDL-cc0000?style=for-the-badge&logo=xilinx&logoColor=cc0000&labelColor=black&color=cc0000"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GNU_Bash-blue?style=for-the-badge&logo=gnubash&labelColor=black&color=4EAA25"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Photoshop-navy?style=for-the-badge&logo=adobe-photoshop&labelColor=black&color=0072ff"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Figma-orange?style=for-the-badge&logo=figma&labelColor=black&color=f24e1e"/></a>
+
+  </td></tr>
 </table>
 
 
