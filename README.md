@@ -213,7 +213,7 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
-`[05/11 06:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[05/11 08:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[05/10 21:15]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#41`](https://github.com//Dezenix/website-screens/issues/41 '#26 issue') in [Dezenix/website-screens](https://github.com/Dezenix/website-screens)  
 `[05/10 20:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[05/10 19:47]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1580`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1580 'Admin Panel') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
@@ -381,7 +381,6 @@ Recent Activity :
 `[03/17 20:22]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#62`](https://github.com//girlscript/gssoc-website-new/pull/62 'Mehak ca') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/17 20:21]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#62`](https://github.com//girlscript/gssoc-website-new/pull/62 'Mehak ca') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/17 20:20]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#61`](https://github.com//girlscript/gssoc-website-new/pull/61 'feat: add more dropdown in navbar') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[03/17 17:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 </details>
 <!--END_SECTION:activity-->
