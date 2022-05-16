@@ -213,14 +213,15 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[05/16 13:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#15`](https://github.com//Suvraneel/NFT-Emporium/issues/15 'Button color ') in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
 `[05/13 18:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [markdoc/markdoc](https://github.com/markdoc/markdoc)  
 `[05/13 18:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [markdoc/markdoc](https://github.com/markdoc/markdoc)  
 `[05/13 18:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [chakra-ui/zag](https://github.com/chakra-ui/zag)  
 `[05/13 14:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pittcsc/Summer2022-Internships](https://github.com/pittcsc/Summer2022-Internships)  
-`[05/11 18:34]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#222`](https://github.com//srimani-programmer/Breast-Cancer-Predictor/issues/222 'Catboost Model on Numerical Data') in [srimani-programmer/Breast-Cancer-Predictor](https://github.com/srimani-programmer/Breast-Cancer-Predictor)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[05/11 18:34]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#222`](https://github.com//srimani-programmer/Breast-Cancer-Predictor/issues/222 'Catboost Model on Numerical Data') in [srimani-programmer/Breast-Cancer-Predictor](https://github.com/srimani-programmer/Breast-Cancer-Predictor)  
 `[05/11 08:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[05/10 21:15]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#41`](https://github.com//Dezenix/website-screens/issues/41 '#26 issue') in [Dezenix/website-screens](https://github.com/Dezenix/website-screens)  
 `[05/10 20:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
@@ -382,7 +383,6 @@ Recent Activity :
 `[03/19 08:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [GSSoC-Web/gssoc-assets](https://github.com/GSSoC-Web/gssoc-assets)  
 `[03/18 07:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `19` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/17 21:10]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#61`](https://github.com//girlscript/gssoc-website-new/pull/61 'feat: add more dropdown in navbar') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[03/17 21:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 </details>
 <!--END_SECTION:activity-->
