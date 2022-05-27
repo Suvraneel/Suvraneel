@@ -213,14 +213,15 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[05/27 16:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Jax-Core/ValliStart](https://github.com/Jax-Core/ValliStart)  
 `[05/26 19:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/DiscordRPCMaker](https://github.com/Suvraneel/DiscordRPCMaker)  
 `[05/26 19:27]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`DRPCv1.1`](https://github.com/Suvraneel/DiscordRPCMaker/releases/tag/DRPCv1.1) in [Suvraneel/DiscordRPCMaker](https://github.com/Suvraneel/DiscordRPCMaker)  
 `[05/26 19:25]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v2.1.1`](https://github.com/Suvraneel/DiscordRPCMaker/releases/tag/v2.1.1) in [Suvraneel/DiscordRPCMaker](https://github.com/Suvraneel/DiscordRPCMaker)  
 `[05/26 16:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/DiscordRPCMaker](https://github.com/Suvraneel/DiscordRPCMaker)  
-`[05/26 16:59]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`suvraneel`](https://github.com/Suvraneel/DiscordRPCMaker/tree/suvraneel) in [Suvraneel/DiscordRPCMaker](https://github.com/Suvraneel/DiscordRPCMaker)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[05/26 16:59]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`suvraneel`](https://github.com/Suvraneel/DiscordRPCMaker/tree/suvraneel) in [Suvraneel/DiscordRPCMaker](https://github.com/Suvraneel/DiscordRPCMaker)  
 `[05/26 16:59]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) to [Suvraneel/DiscordRPCMaker](https://github.com/Suvraneel/DiscordRPCMaker)  
 `[05/25 20:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#85`](https://github.com//girlscript/gssoc-website-new/issues/85 'Enhancements to makeshift pages under `More` for GSSoC 2023 :octocat: ') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[05/25 20:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
@@ -383,7 +384,7 @@ Recent Activity :
 `[03/26 16:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`leaderboard`](https://github.com/girlscript/gssoc-website-new/tree/leaderboard) in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/24 17:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/24 17:37]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#63`](https://github.com//girlscript/gssoc-website-new/pull/63 'Suv event') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[03/24 17:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `68` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[03/24 17:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 </details>
 <!--END_SECTION:activity-->
