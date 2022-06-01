@@ -381,7 +381,7 @@ Recent Activity :
 `[03/30 21:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Suvraneel/ethereum-boilerplate](https://github.com/Suvraneel/ethereum-boilerplate)  
 `[03/30 19:46]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [ethereum-boilerplate/ethereum-boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate) to [Suvraneel/ethereum-boilerplate](https://github.com/Suvraneel/ethereum-boilerplate)  
 `[03/30 17:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[03/30 08:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc22-leaderboard-backend](https://github.com/girlscript/gssoc22-leaderboard-backend)  
+`[03/30 08:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc22-leaderboard-backend](https://github.com/girlscript/gssoc22-leaderboard-backend)  
 
 </details>
 <!--END_SECTION:activity-->
