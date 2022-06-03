@@ -213,7 +213,7 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
-`[06/03 17:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[06/03 17:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[06/01 18:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#104`](https://github.com//coding-geek21/classDeck/issues/104 'Changing the two account images and adding a title over each of them ') in [coding-geek21/classDeck](https://github.com/coding-geek21/classDeck)  
 `[06/01 18:05]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Reopened issue [`#1571`](https://github.com//Lakhankumawat/LearnCPP/issues/1571 'Dummy Test Issue Title') in [Lakhankumawat/LearnCPP](https://github.com/Lakhankumawat/LearnCPP)  
 `[06/01 18:04]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Reopened issue [`#1570`](https://github.com//Lakhankumawat/LearnCPP/issues/1570 'Dummy Test Issue Title') in [Lakhankumawat/LearnCPP](https://github.com/Lakhankumawat/LearnCPP)  
@@ -391,7 +391,7 @@ Recent Activity :
 `[03/31 15:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/ethereum-boilerplate](https://github.com/Suvraneel/ethereum-boilerplate)  
 `[03/31 13:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/31 12:17]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#66`](https://github.com//girlscript/gssoc-website-new/pull/66 'Changed Leaderboard Prod URL') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[03/31 10:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [cu-cse-blog/CodeClub_CU](https://github.com/cu-cse-blog/CodeClub_CU)  
+`[03/31 10:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cu-cse-blog/CodeClub_CU](https://github.com/cu-cse-blog/CodeClub_CU)  
 
 </details>
 <!--END_SECTION:activity-->
