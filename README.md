@@ -393,7 +393,7 @@ Recent Activity :
 `[03/31 20:06]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#67`](https://github.com//girlscript/gssoc-website-new/pull/67 'Leaderboard integrated 🏅') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/31 20:06]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#67`](https://github.com//girlscript/gssoc-website-new/pull/67 'Leaderboard integrated 🏅') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/31 15:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/ethereum-boilerplate](https://github.com/Suvraneel/ethereum-boilerplate)  
-`[03/31 13:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[03/31 13:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 </details>
 <!--END_SECTION:activity-->
