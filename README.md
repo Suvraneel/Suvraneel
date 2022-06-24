@@ -213,14 +213,16 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[06/24 19:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[06/24 19:50]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`cert-static-suv`](https://github.com/girlscript/gssoc-website-new/tree/cert-static-suv) in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[06/19 14:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Resume](https://github.com/Suvraneel/Resume)  
 `[06/18 20:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-assets](https://github.com/girlscript/gssoc-assets)  
 `[06/18 17:21]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`cert-canvas-suv`](https://github.com/girlscript/gssoc-website-new/tree/cert-canvas-suv) in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[06/18 16:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[06/16 07:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [devicons/devicon](https://github.com/devicons/devicon)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[06/18 16:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[06/16 07:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [devicons/devicon](https://github.com/devicons/devicon)  
 `[06/16 07:12]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#15`](https://github.com//Suvraneel/NFT-Emporium/issues/15 'Button color ') in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
 `[06/16 07:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
 `[06/16 07:12]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#21`](https://github.com//Suvraneel/NFT-Emporium/pull/21 'Bump eventsource from 1.1.0 to 1.1.1') in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
@@ -390,8 +392,6 @@ Recent Activity :
 `[04/01 10:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/31 21:22]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#68`](https://github.com//girlscript/gssoc-website-new/pull/68 'Leaderboard ported MUI -> TailWind') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[03/31 21:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[03/31 21:21]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#68`](https://github.com//girlscript/gssoc-website-new/pull/68 'Leaderboard ported MUI -> TailWind') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[03/31 21:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 </details>
 <!--END_SECTION:activity-->
