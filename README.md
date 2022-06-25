@@ -213,14 +213,18 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
-`[06/25 21:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[06/25 22:07]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#67`](https://github.com//im-salman/react-component-export-image/issues/67 'Window is undefined') in [im-salman/react-component-export-image](https://github.com/im-salman/react-component-export-image)  
+`[06/25 21:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[06/25 21:40]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#88`](https://github.com//girlscript/gssoc-website-new/pull/88 'major fixes - deprecated peer-deps replaced 🌊 ') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[06/25 21:40]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#88`](https://github.com//girlscript/gssoc-website-new/pull/88 'major fixes - deprecated peer-deps replaced 🌊 ') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[06/25 21:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[06/24 19:50]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`cert-static-suv`](https://github.com/girlscript/gssoc-website-new/tree/cert-static-suv) in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[06/19 14:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Resume](https://github.com/Suvraneel/Resume)  
 `[06/18 20:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-assets](https://github.com/girlscript/gssoc-assets)  
 `[06/18 17:21]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`cert-canvas-suv`](https://github.com/girlscript/gssoc-website-new/tree/cert-canvas-suv) in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[06/18 16:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[06/16 07:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [devicons/devicon](https://github.com/devicons/devicon)  
 `[06/16 07:12]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#15`](https://github.com//Suvraneel/NFT-Emporium/issues/15 'Button color ') in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
@@ -387,7 +391,6 @@ Recent Activity :
 `[04/03 12:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Open-Sorcerer/NFT-Haven](https://github.com/Open-Sorcerer/NFT-Haven)  
 `[04/03 12:09]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Open-Sorcerer/NFT-Haven/tree/main) in [Open-Sorcerer/NFT-Haven](https://github.com/Open-Sorcerer/NFT-Haven)  
 `[04/03 12:08]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Open-Sorcerer/NFT-Haven](https://github.com/Open-Sorcerer/NFT-Haven)  
-`[04/03 11:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Suvraneel/ethereum-boilerplate](https://github.com/Suvraneel/ethereum-boilerplate)  
 
 </details>
 <!--END_SECTION:activity-->
