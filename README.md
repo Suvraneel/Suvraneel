@@ -213,14 +213,16 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
-`[06/29 12:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[06/29 13:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [loq24/react-ecommerce](https://github.com/loq24/react-ecommerce)  
+`[06/29 13:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [luckyCoco3418/eCommerce-web3](https://github.com/luckyCoco3418/eCommerce-web3)  
+`[06/29 12:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[06/29 12:03]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#89`](https://github.com//girlscript/gssoc-website-new/pull/89 'added cert templates :paperclip:') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[06/29 11:59]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#89`](https://github.com//girlscript/gssoc-website-new/pull/89 'added cert templates :paperclip:') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[06/29 11:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[06/28 17:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Konsole-GRID/.github](https://github.com/Konsole-GRID/.github)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[06/29 11:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[06/28 17:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Konsole-GRID/.github](https://github.com/Konsole-GRID/.github)  
 `[06/28 17:32]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Konsole-GRID/.github/tree/main) in [Konsole-GRID/.github](https://github.com/Konsole-GRID/.github)  
 `[06/28 17:32]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Konsole-GRID/.github](https://github.com/Konsole-GRID/.github)  
 `[06/25 22:07]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#67`](https://github.com//im-salman/react-component-export-image/issues/67 'Window is undefined') in [im-salman/react-component-export-image](https://github.com/im-salman/react-component-export-image)  
@@ -391,7 +393,7 @@ Recent Activity :
 `[04/14 21:42]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#14`](https://github.com//debamitr1012/TrafficSignRecognition_PyTorch/issues/14 '\'Alexnet\' Transfer learning model with 88% val accuracy') in [debamitr1012/TrafficSignRecognition_PyTorch](https://github.com/debamitr1012/TrafficSignRecognition_PyTorch)  
 `[04/14 17:29]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#16`](https://github.com//Suvraneel/NFT-Emporium/issues/16 'Responsiveness') in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
 `[04/13 20:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[04/10 17:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
+`[04/10 17:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 
 </details>
 <!--END_SECTION:activity-->
