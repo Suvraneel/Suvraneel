@@ -213,7 +213,7 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
-`[07/01 18:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[07/01 20:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[06/30 20:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [libgdx/libgdx](https://github.com/libgdx/libgdx)  
 `[06/29 13:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [loq24/react-ecommerce](https://github.com/loq24/react-ecommerce)  
 `[06/29 13:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [luckyCoco3418/eCommerce-web3](https://github.com/luckyCoco3418/eCommerce-web3)  
@@ -394,7 +394,6 @@ Recent Activity :
 `[04/14 21:44]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#15`](https://github.com//Suvraneel/NFT-Emporium/issues/15 'Button color ') in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
 `[04/14 21:42]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#14`](https://github.com//debamitr1012/TrafficSignRecognition_PyTorch/issues/14 '\'Alexnet\' Transfer learning model with 88% val accuracy') in [debamitr1012/TrafficSignRecognition_PyTorch](https://github.com/debamitr1012/TrafficSignRecognition_PyTorch)  
 `[04/14 17:29]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#16`](https://github.com//Suvraneel/NFT-Emporium/issues/16 'Responsiveness') in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
-`[04/13 20:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 </details>
 <!--END_SECTION:activity-->
