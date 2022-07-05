@@ -214,7 +214,9 @@ Recent Activity :
 
 <!--START_SECTION:activity-->
 `[07/04 22:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
+`[07/04 22:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[07/04 19:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
+`[07/04 19:48]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`next`](https://github.com/Suvraneel/Suvraneel.github.io/tree/next) in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[07/01 21:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
