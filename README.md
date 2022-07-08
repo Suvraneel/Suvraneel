@@ -213,14 +213,15 @@ Recent Activity :
 <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <!--START_SECTION:activity-->
+`[07/08 19:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[07/08 18:24]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#67`](https://github.com//im-salman/react-component-export-image/issues/67 'Window is undefined') in [im-salman/react-component-export-image](https://github.com/im-salman/react-component-export-image)  
 `[07/08 17:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[07/08 17:49]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#90`](https://github.com//girlscript/gssoc-website-new/pull/90 'Certi harsh') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[07/08 17:49]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#90`](https://github.com//girlscript/gssoc-website-new/pull/90 'Certi harsh') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[07/08 17:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[07/08 17:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[07/05 17:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[07/05 17:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[07/04 22:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
@@ -391,7 +392,6 @@ Recent Activity :
 `[04/17 18:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[04/17 13:29]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#75`](https://github.com//girlscript/gssoc-website-new/issues/75 'added searchbar functionality to Leaderboard') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/16 20:50]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#48`](https://github.com//Suvraneel/Suvraneel/pull/48 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[04/16 20:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 
 </details>
 <!--END_SECTION:activity-->
