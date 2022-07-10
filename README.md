@@ -390,7 +390,6 @@ Recent Activity :
 `[04/17 18:23]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#75`](https://github.com//girlscript/gssoc-website-new/pull/75 'added searchbar functionality to Leaderboard') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/17 18:23]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#74`](https://github.com//girlscript/gssoc-website-new/issues/74 'Search bar for Leaderboard') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/17 18:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[04/17 13:29]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#75`](https://github.com//girlscript/gssoc-website-new/issues/75 'added searchbar functionality to Leaderboard') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 </details>
 <!--END_SECTION:activity-->
