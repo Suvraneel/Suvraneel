@@ -214,16 +214,12 @@ Recent Activity :
 
 <!--START_SECTION:activity-->
 `[07/12 10:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [primefaces/primereact](https://github.com/primefaces/primereact)  
-`[07/12 07:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[07/12 07:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[07/12 07:16]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`next-spline-sandbox`](https://github.com/Suvraneel/Suvraneel.github.io/tree/next-spline-sandbox) in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[07/12 05:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
-`[07/12 05:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[07/12 05:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[07/12 05:31]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`next-spline`](https://github.com/Suvraneel/Suvraneel.github.io/tree/next-spline) in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[07/12 05:11]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#57`](https://github.com//splinetool/react-spline/issues/57 '`TypeError: Cannot set property value of #<Eu> which has only a getter`') in [splinetool/react-spline](https://github.com/splinetool/react-spline)  
 `[07/12 04:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [splinetool/react-spline](https://github.com/splinetool/react-spline)  
 `[07/08 20:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
@@ -233,11 +229,8 @@ Recent Activity :
 `[07/08 17:49]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#90`](https://github.com//girlscript/gssoc-website-new/pull/90 'Certi harsh') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[07/08 17:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[07/05 17:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[07/05 17:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[07/04 22:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[07/04 22:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[07/04 19:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[07/04 19:48]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`next`](https://github.com/Suvraneel/Suvraneel.github.io/tree/next) in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[07/01 21:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[06/30 20:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [libgdx/libgdx](https://github.com/libgdx/libgdx)  
 `[06/29 13:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [loq24/react-ecommerce](https://github.com/loq24/react-ecommerce)  
@@ -410,7 +403,7 @@ Recent Activity :
 </table>
 
 <!-- START gadpp -->
-- Suvraneel/Suvraneel.github.io, [refs/heads/next-spline-sandbox@365454de97d447c58bee4d6fccf2e494c22067ad](https://github.com/Suvraneel/Suvraneel.github.io/commit/365454de97d447c58bee4d6fccf2e494c22067ad)
+- Suvraneel/Suvraneel.github.io, [refs/heads/next-spline-sandbox@9321612963b0e8a88e5f5d94b127abf71d2d2c45](https://github.com/Suvraneel/Suvraneel.github.io/commit/9321612963b0e8a88e5f5d94b127abf71d2d2c45)
 - Suvraneel/Codechef, [refs/heads/main@b61efea37cedddfa7d187c2d67375cad2c581e67](https://github.com/Suvraneel/Codechef/commit/b61efea37cedddfa7d187c2d67375cad2c581e67)
 - Suvraneel/Diablo-Music, [refs/heads/imgbot@9c9be3829ba1cbed0ae64665843dd93e05878b7e](https://github.com/Suvraneel/Diablo-Music/commit/9c9be3829ba1cbed0ae64665843dd93e05878b7e)
 - Suvraneel/diablo-music-app, [refs/heads/main@bfaacb2f30a349e5b5fa27ad38950343c891f155](https://github.com/Suvraneel/diablo-music-app/commit/bfaacb2f30a349e5b5fa27ad38950343c891f155)
