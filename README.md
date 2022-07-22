@@ -412,8 +412,6 @@ Recent Activity :
 `[04/23 11:33]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`CharactersNFTCollection`](https://github.com/Suvraneel/hashlips_art_engine/tree/CharactersNFTCollection) in [Suvraneel/hashlips_art_engine](https://github.com/Suvraneel/hashlips_art_engine)  
 `[04/23 11:32]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine) to [Suvraneel/hashlips_art_engine](https://github.com/Suvraneel/hashlips_art_engine)  
 `[04/22 16:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)  
-`[04/21 20:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[04/21 17:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 </details>
 <!--END_SECTION:activity-->
