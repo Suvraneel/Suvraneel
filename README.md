@@ -411,7 +411,6 @@ Recent Activity :
 `[04/23 11:47]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Suvraneel/OpenSorcerer-NFT-Game-Token](https://github.com/Suvraneel/OpenSorcerer-NFT-Game-Token)  
 `[04/23 11:33]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`CharactersNFTCollection`](https://github.com/Suvraneel/hashlips_art_engine/tree/CharactersNFTCollection) in [Suvraneel/hashlips_art_engine](https://github.com/Suvraneel/hashlips_art_engine)  
 `[04/23 11:32]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine) to [Suvraneel/hashlips_art_engine](https://github.com/Suvraneel/hashlips_art_engine)  
-`[04/22 16:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)  
 
 </details>
 <!--END_SECTION:activity-->
