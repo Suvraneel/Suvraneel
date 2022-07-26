@@ -210,8 +210,9 @@ Github Stats :
 Recent Activity :
 <br></h2>
 
-<!--  Personalised Heroku Instance (But sleeping dynos issue) at: suvraneel-gh-activity-graph.herokuapp.com-->
-<img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
+<!--  Personalised Heroku Instance (But sleeping dynos issue) at: suvraneel-gh-activity-graph.herokuapp.com  -->
+<img src="https://suvraneel-gh-activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
 `[07/26 08:25]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#87`](https://github.com//girlscript/gssoc-website-new/issues/87 'demo') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
