@@ -427,18 +427,18 @@ Recent Activity :
 </details>-->
 
 <details>
-<summary> <b>  :trophy: GitHub Achievements </b></summary>
-<img src="https://github.com/Suvraneel/Suvraneel/blob/master/metrics.plugin.achievements.svg">
-</details>
-  
-<details>
   <summary> <b>  🫀 GitHub Fam </b></summary>
 <img src="https://github.com/Suvraneel/Suvraneel/blob/master/metrics.plugin.people.followers.svg">
 </details>
 
+<details>
+<summary> <b>  :trophy: GitHub Achievements </b></summary>
+<img src="https://github.com/Suvraneel/Suvraneel/blob/master/metrics.plugin.achievements.svg">
+</details><br>
 
-<br>
 
 
-###### Show some ❤️ by ⭐ing some of the repos 
+
+
+###### Show some ❤️ by ⭐ing some of the repos. I'd really appreciate it.
 
