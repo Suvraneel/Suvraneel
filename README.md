@@ -12,19 +12,20 @@
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&color=F70000&size=30&center=true&vCenter=true&multiline=true&weight=100&height=100&width=220&lines=Hey+there%2C;I'm+Suvraneel+!">
   <img align="left" src="https://media.tenor.com/images/043986fe5f470eeb6d86515e6cda30fe/tenor.gif" width="50">
 </p>
-<!-- <br>
+<br>
 <a href="https://suvraneel.github.io" target="_blank"><img align='right' src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/readme_banner.gif" width="240" height="auto"></a>
-<br> -->
+<br>
 
 - :octocat: &nbsp;[![Resume](https://img.shields.io/badge/Suvraneel%20Bhuin-RESUME-blue?style=for-the-badge&logo=Sega)](https://suvraneel.github.io/Resume)
 - :computer: &nbsp;I’m currently pursuing B.Tech in **Computer Science & Engineering** at the  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[University College of Science, Technology & Agriculture (UCSTA)](http://www.caluniv-ucsta.net/),  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Calcutta**
-- :crystal_ball: &nbsp;I’m currently working on Responsive Web Design, JavaScript, SQL
+- :crystal_ball: &nbsp;I’m currently working on 3D UI & Web Technology Frameworks  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Shaping the Web2 & Web3.0, one `div` at a time).
 - :mailbox: &nbsp;You can reach out to me at : ***bsuvraneel@gmail.com***
-- :package: &nbsp;Feel free to check out my website : [***suvraneel.github.io***](https://suvraneel.github.io/)
+- :package: &nbsp;Feel free to check out my website : [***suvraneel.vercel.app***](https://suvraneel.vercel.app/)
 - :bowtie: &nbsp;Pronouns: He/Him
-- :video_game: &nbsp;**Hobbies**: PC Gaming, Coding, Reading, Soccer
+- :video_game: &nbsp;**Hobbies**: Development, PC Gaming, Coding, Reading, Soccer
 
 <br>
 <h2 align=left>
@@ -420,10 +421,10 @@ Recent Activity :
    -->
 </details>
 
-<details>
+<!--<details>
   <summary> <b>  :maple_leaf: Website Performance </b></summary>
 <img src="https://metrics.lecoq.io/Suvraneel?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta">
-</details>
+</details>-->
 
 <details>
   <summary> <b>  🫀 GitHub Fam </b></summary>
