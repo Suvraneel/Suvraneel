@@ -400,7 +400,6 @@ Recent Activity :
 `[04/27 16:36]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#83`](https://github.com//girlscript/gssoc-website-new/pull/83 'added rewards carousel :trophy: ') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/27 16:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/27 07:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[04/26 22:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
