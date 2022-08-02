@@ -389,10 +389,6 @@ Recent Activity :
 `[05/05 12:08]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Suvraneel/VHDL-Xilinx/tree/main) in [Suvraneel/VHDL-Xilinx](https://github.com/Suvraneel/VHDL-Xilinx)  
 `[05/05 11:44]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Suvraneel/VHDL-Xilinx](https://github.com/Suvraneel/VHDL-Xilinx)  
 `[05/05 11:24]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Suvraneel/VHDL-Xilinx](https://github.com/Suvraneel/VHDL-Xilinx)  
-`[05/01 20:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[05/01 20:40]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#50`](https://github.com//Suvraneel/Suvraneel/pull/50 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[05/01 20:40]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#50`](https://github.com//Suvraneel/Suvraneel/pull/50 '[ImgBot] Optimize images') in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[05/01 20:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 
 </details>
 <!--END_SECTION:activity-->
