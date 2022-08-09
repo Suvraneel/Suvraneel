@@ -16,8 +16,8 @@
 <a href="https://suvraneel.github.io" target="_blank"><img align='right' src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/readme_banner.gif" width="240" height="auto"></a>
 <br>
 
-- :electron: &nbsp;[![Portfolio](https://img.shields.io/badge/Suvraneel%2Egithub%2Eio-PortFolio-grey?style=for-the-badge&logo=Scribd&labelColor=013243&color=ff0a0a)](https://suvraneel-folio.vercel.app)
-- :octocat: &nbsp;[![Resume](https://img.shields.io/badge/Suvraneel%20Bhuin-RESUME-blue?style=for-the-badge&logo=Sega)](https://suvraneel.github.io/Resume)
+- :electron: &nbsp;[![Portfolio](https://img.shields.io/badge/Suvraneel%2Egithub%2Eio-PortFolio-grey?style=for-the-badge&logo=Scribd&labelColor=013243&color=bf2004)](https://suvraneel-folio.vercel.app)
+- :octocat: &nbsp;[![Resume](https://img.shields.io/badge/Suvraneel%20Bhuin-RESUME-blue?style=for-the-badge&logo=Sega&labelColor=0d182b)](https://suvraneel.github.io/Resume)
 - :computer: &nbsp;I’m currently pursuing B.Tech in **Computer Science & Engineering** at the  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[University College of Science, Technology & Agriculture (UCSTA)](http://www.caluniv-ucsta.net/),  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Calcutta**
