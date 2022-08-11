@@ -216,14 +216,15 @@ Recent Activity :
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
+`[08/11 16:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[08/10 22:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[08/10 14:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `338` commits in [Suvraneel/The-Complete-FAANG-Preparation](https://github.com/Suvraneel/The-Complete-FAANG-Preparation)  
 `[08/09 13:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[08/08 22:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
-`[08/08 22:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[08/08 22:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[08/08 22:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[08/08 21:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[08/08 21:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
@@ -406,8 +407,6 @@ Recent Activity :
 `[05/17 14:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
 `[05/16 13:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#15`](https://github.com//Suvraneel/NFT-Emporium/issues/15 'Button color ') in [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium)  
 `[05/13 18:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [markdoc/markdoc](https://github.com/markdoc/markdoc)  
-`[05/13 18:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [markdoc/markdoc](https://github.com/markdoc/markdoc)  
-`[05/13 18:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [chakra-ui/zag](https://github.com/chakra-ui/zag)  
 
 </details>
 <!--END_SECTION:activity-->
