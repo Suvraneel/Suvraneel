@@ -110,7 +110,7 @@ Competencies:
 <td><h4>Programming Languages</h4></td>
 <td><a href="https://github.com/search?q=user%3ASuvraneel+language%3AC%2B%2B&type=Code"><img src="https://img.shields.io/badge/CPP-blue?style=for-the-badge&logo=cplusplus&logoColor=blue&color=00599C&labelColor=black"/></a>  
 <a href="https://github.com/search?q=user%3ASuvraneel+language%3AC&type=Code"><img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&labelColor=black&color=404040" /></a>  
-<a href="https://github.com/search?q=user%3ASuvraneel+language%3AJava&type=Code"><img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=ff7019&labelColor=141819&color=ff7019"/></a>  
+<a href="https://github.com/search?q=user%3ASuvraneel+language%3AJava&type=Code"><img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=OpenJDK&logoColor=ff7019&labelColor=141819&color=ff7019"/></a>  
 <a href="https://github.com/search?q=user%3ASuvraneel+language%3APython&type=Code"><img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&labelColor=black&color=3776ab" /></a>  
 <a href="https://github.com/search?p=4&q=user%3ASuvraneel+language%3AJavaScript&type=Code"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=DFA200" /></a></td></tr>
 
