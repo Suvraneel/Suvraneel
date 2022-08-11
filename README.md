@@ -132,7 +132,8 @@ Competencies:
 
 <tr>
 <td><h4>App Development</h4></td>
-<td><a href="#"><img src="https://img.shields.io/badge/Flutter-0a97c2?style=for-the-badge&logo=flutter&logoColor=0dbdf2&labelColor=black&color=0ba0cd"/></a>
+<td><a href="#"><img src="https://img.shields.io/badge/React%20Native-blue?style=for-the-badge&logo=react&labelColor=black&color=3a8296"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Flutter-0a97c2?style=for-the-badge&logo=flutter&logoColor=0dbdf2&labelColor=black&color=0ba0cd"/></a>
 <a href="https://github.com/search?q=user%3ASuvraneel+language%3ADart&type=Code"><img src="https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&logoColor=2eb8b8&labelColor=black&color=269999"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Android%20Studio-green?style=for-the-badge&logo=android%20studio&labelColor=black&color=2a9a5c"/></a></td></tr>
 
