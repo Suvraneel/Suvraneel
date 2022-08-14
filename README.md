@@ -217,7 +217,7 @@ Recent Activity :
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
-`[08/13 20:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[08/14 21:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[08/13 13:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [Suvraneel/NSEDownload](https://github.com/Suvraneel/NSEDownload)  
 `[08/12 17:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `26` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[08/11 19:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
@@ -386,9 +386,7 @@ Recent Activity :
 `[06/01 17:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1569`](https://github.com//Lakhankumawat/LearnCPP/issues/1569 'Dummy Test Issue Title ') in [Lakhankumawat/LearnCPP](https://github.com/Lakhankumawat/LearnCPP)  
 `[06/01 17:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Greeting-action](https://github.com/Suvraneel/Greeting-action)  
 `[05/31 10:45]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#87`](https://github.com//girlscript/gssoc-website-new/issues/87 'demo') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[05/28 20:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[05/28 16:31]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#86`](https://github.com//girlscript/gssoc-website-new/pull/86 'Blog Page Updated') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[05/28 16:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
+`[05/28 20:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 </details>
 <!--END_SECTION:activity-->
