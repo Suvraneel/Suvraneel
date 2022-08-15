@@ -217,14 +217,15 @@ Recent Activity :
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
+`[08/15 15:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[08/15 12:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[08/15 12:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[08/15 11:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[08/15 11:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
-`[08/15 11:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[08/15 11:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[08/15 11:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[08/14 21:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[08/13 13:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [Suvraneel/NSEDownload](https://github.com/Suvraneel/NSEDownload)  
@@ -384,13 +385,6 @@ Recent Activity :
 `[06/01 18:04]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1570`](https://github.com//Lakhankumawat/LearnCPP/issues/1570 'Dummy Test Issue Title') in [Lakhankumawat/LearnCPP](https://github.com/Lakhankumawat/LearnCPP)  
 `[06/01 18:04]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1571`](https://github.com//Lakhankumawat/LearnCPP/issues/1571 'Dummy Test Issue Title') in [Lakhankumawat/LearnCPP](https://github.com/Lakhankumawat/LearnCPP)  
 `[06/01 18:04]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1571`](https://github.com//Lakhankumawat/LearnCPP/issues/1571 'Dummy Test Issue Title') in [Lakhankumawat/LearnCPP](https://github.com/Lakhankumawat/LearnCPP)  
-`[06/01 17:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1571`](https://github.com//Lakhankumawat/LearnCPP/issues/1571 'Dummy Test Issue Title') in [Lakhankumawat/LearnCPP](https://github.com/Lakhankumawat/LearnCPP)  
-`[06/01 17:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Greeting-action](https://github.com/Suvraneel/Greeting-action)  
-`[06/01 17:55]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1570`](https://github.com//Lakhankumawat/LearnCPP/issues/1570 'Dummy Test Issue Title') in [Lakhankumawat/LearnCPP](https://github.com/Lakhankumawat/LearnCPP)  
-`[06/01 17:54]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1569`](https://github.com//Lakhankumawat/LearnCPP/issues/1569 'Dummy Test Issue Title ') in [Lakhankumawat/LearnCPP](https://github.com/Lakhankumawat/LearnCPP)  
-`[06/01 17:50]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Lakhankumawat/LearnCPP](https://github.com/Lakhankumawat/LearnCPP) to [Suvraneel/LearnCPP](https://github.com/Suvraneel/LearnCPP)  
-`[06/01 17:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1569`](https://github.com//Lakhankumawat/LearnCPP/issues/1569 'Dummy Test Issue Title ') in [Lakhankumawat/LearnCPP](https://github.com/Lakhankumawat/LearnCPP)  
-`[06/01 17:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Greeting-action](https://github.com/Suvraneel/Greeting-action)  
 
 </details>
 <!--END_SECTION:activity-->
