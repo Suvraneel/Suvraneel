@@ -217,14 +217,15 @@ Recent Activity :
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
+`[08/28 19:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [solana-developers/dapp-scaffold-react-native](https://github.com/solana-developers/dapp-scaffold-react-native)  
 `[08/27 18:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[08/27 15:09]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`rn-cam`](https://github.com/Suvraneel/pods/tree/rn-cam) in [Suvraneel/pods](https://github.com/Suvraneel/pods)  
 `[08/27 12:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/pods](https://github.com/Suvraneel/pods)  
 `[08/27 12:52]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Saviour1001/pods](https://github.com/Saviour1001/pods) to [Suvraneel/pods](https://github.com/Suvraneel/pods)  
-`[08/26 16:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `24` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[08/26 16:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `24` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[08/23 21:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[08/23 21:06]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#9`](https://github.com//Suvraneel/Suvraneel.github.io/pull/9 'gif->vid imitating gifs :game_die:') in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[08/23 21:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
@@ -301,7 +302,7 @@ Recent Activity :
 `[07/31 21:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[07/31 19:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [GSAUC3/Algorithm_visualizer](https://github.com/GSAUC3/Algorithm_visualizer)  
 `[07/31 07:37]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Open-Sorcerer/NFT-Haven](https://github.com/Open-Sorcerer/NFT-Haven) to [Suvraneel/NFT-Haven](https://github.com/Suvraneel/NFT-Haven)  
-`[07/30 22:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[07/30 22:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
