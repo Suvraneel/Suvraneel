@@ -217,14 +217,15 @@ Recent Activity :
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
+`[09/01 09:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[08/30 11:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/pods](https://github.com/Suvraneel/pods)  
 `[08/30 11:21]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//Suvraneel/pods/pull/1 'Added Camera -> Moralis_IPFS mint integration 🐞 ') in [Suvraneel/pods](https://github.com/Suvraneel/pods)  
 `[08/30 11:21]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//Suvraneel/pods/pull/1 'Added Camera -> Moralis_IPFS mint integration 🐞 ') in [Suvraneel/pods](https://github.com/Suvraneel/pods)  
 `[08/30 11:20]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#1`](https://github.com//Saviour1001/pods/pull/1 'Added Camera -> Moralis_IPFS mint integration') in [Saviour1001/pods](https://github.com/Saviour1001/pods)  
-`[08/30 11:19]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//Saviour1001/pods/pull/1 'Added Camera -> Moralis_IPFS mint integration') in [Saviour1001/pods](https://github.com/Saviour1001/pods)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[08/30 11:19]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//Saviour1001/pods/pull/1 'Added Camera -> Moralis_IPFS mint integration') in [Saviour1001/pods](https://github.com/Saviour1001/pods)  
 `[08/30 11:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/pods](https://github.com/Suvraneel/pods)  
 `[08/30 08:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[08/29 19:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `21` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
@@ -292,9 +293,6 @@ Recent Activity :
 `[08/07 15:20]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [GSAUC3/pytorch-model-details](https://github.com/GSAUC3/pytorch-model-details) to [Suvraneel/pytorch-model-details](https://github.com/Suvraneel/pytorch-model-details)  
 `[08/06 22:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[08/06 16:50]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#15460`](https://github.com//MetaMask/metamask-extension/issues/15460 '[Bug]: BRAVE browser -  Cannot assign to read only property \'chainId\' of object ') in [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)  
-`[08/05 21:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [saadeghi/daisyui](https://github.com/saadeghi/daisyui)  
-`[08/05 20:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[08/04 22:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 
 </details>
 <!--END_SECTION:activity-->
