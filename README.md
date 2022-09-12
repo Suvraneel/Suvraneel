@@ -273,7 +273,7 @@ Recent Activity :
 </table>
 
 <!-- START gadpp -->
-- Suvraneel/Suvraneel.github.io, [refs/heads/Loader@a627c92ff987bb87ea2c3e08171902b7f27b8cbd](https://github.com/Suvraneel/Suvraneel.github.io/commit/a627c92ff987bb87ea2c3e08171902b7f27b8cbd)
+- Suvraneel/Suvraneel.github.io, [refs/heads/Loader@51374f25ebfc2f0f3bf1f406306a1659e38c970c](https://github.com/Suvraneel/Suvraneel.github.io/commit/51374f25ebfc2f0f3bf1f406306a1659e38c970c)
 - Suvraneel/Codechef, [refs/heads/main@b61efea37cedddfa7d187c2d67375cad2c581e67](https://github.com/Suvraneel/Codechef/commit/b61efea37cedddfa7d187c2d67375cad2c581e67)
 - Suvraneel/Diablo-Music, [refs/heads/imgbot@9c9be3829ba1cbed0ae64665843dd93e05878b7e](https://github.com/Suvraneel/Diablo-Music/commit/9c9be3829ba1cbed0ae64665843dd93e05878b7e)
 - Suvraneel/diablo-music-app, [refs/heads/main@bfaacb2f30a349e5b5fa27ad38950343c891f155](https://github.com/Suvraneel/diablo-music-app/commit/bfaacb2f30a349e5b5fa27ad38950343c891f155)
