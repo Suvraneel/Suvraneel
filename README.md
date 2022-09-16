@@ -24,7 +24,7 @@
 - :crystal_ball: &nbsp;I’m currently working on 3D UI & Web Technology Frameworks  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Shaping the Web2 & Web3.0, one `div` at a time).
 - :mailbox: &nbsp;You can reach out to me at : ***bsuvraneel@gmail.com***
-- :package: &nbsp;Feel free to check out my website : [***suvraneel-folio.vercel.app***](https://suvraneel-folio.vercel.app/)
+- :package: &nbsp;Feel free to check out my website : [***suvraneel.github.io***](https://suvraneel.github.io/)
 - :bowtie: &nbsp;Pronouns: He/Him
 - :video_game: &nbsp;**Hobbies**: Development, PC Gaming, Coding, Reading, Soccer
 
