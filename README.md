@@ -19,14 +19,14 @@
 - :electron: &nbsp;[![Portfolio](https://img.shields.io/badge/Suvraneel%2Egithub%2Eio-PortFolio-grey?style=for-the-badge&logo=Scribd&labelColor=013243&color=bf2004)](https://suvraneel.vercel.app)
 - :octocat: &nbsp;[![Resume](https://img.shields.io/badge/Suvraneel%20Bhuin-RESUME-blue?style=for-the-badge&logo=Sega&labelColor=0d182b)](https://suvraneel.github.io/Resume)
 - :computer: &nbsp;I’m currently pursuing B.Tech in **Computer Science & Engineering** at the  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[University College of Science, Technology & Agriculture (UCSTA)](http://www.caluniv-ucsta.net/),  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[University College of Science & Technology (UCST)](http://www.caluniv-ucsta.net/),  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Calcutta**
-- :crystal_ball: &nbsp;I’m currently working on 3D UI & Web Technology Frameworks  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Shaping the Web2 & Web3.0, one `div` at a time).
+- :crystal_ball: &nbsp;I’m currently toying with 3D UI Designs & Web Technology Frameworks  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Concocting the Web3.0 with a dynamic & intuitive UX, one `div` at a time).
 - :mailbox: &nbsp;You can reach out to me at : ***bsuvraneel@gmail.com***
 - :package: &nbsp;Feel free to check out my website : [***suvraneel.github.io***](https://suvraneel.github.io/)
 - :bowtie: &nbsp;Pronouns: He/Him
-- :video_game: &nbsp;**Hobbies**: Development, PC Gaming, Coding, Reading, Soccer
+- :video_game: &nbsp;**Hobbies**: Development, Opensource, Coding Communities & Volunteering, PC Gaming, Reading, Soccer
 
 <br>
 <h2 align=left>
