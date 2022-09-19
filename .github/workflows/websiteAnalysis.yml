@@ -1,23 +1,20 @@
 name: Website Analysis Metrics
 on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 6 * * *"}]
   # Lines below let you run workflow manually
   workflow_dispatch:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: Suvraneel/metrics@latest
+      - name: Detailed report
+        uses: Suvraneel/metrics@latest
         with:
-          filename: metrics.plugin.pgspeed.svg
-          # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
-          user: Suvraneel
-          template: classic
+          filename: metrics.plugin.pagespeed.detailed.svg
+          token: NOT_NEEDED
           base: ""
-          config_timezone: Asia/Calcutta
           plugin_pagespeed: yes
-          plugin_pagespeed_url: 'https://suvraneel.github.io/Resume'
-          plugin_pagespeed_detailed: yes                         # Print detailed audit metrics
-          plugin_pagespeed_screenshot: yes
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_url: https://suvraneel.github.io
