@@ -303,6 +303,7 @@ Recent Activity :
 </details>
 <!--END_SECTION:activity-->
 
+<!--
 <details>
 <summary> <b>  :octocat: WakaTime Stats </b></summary>
 <br />
@@ -312,15 +313,8 @@ Recent Activity :
   <td><a href="https://wakatime.com/share/@05005a1d-5ed0-4f6a-b5c8-1a7a0d9534ea/a3675396-1652-4177-809a-65a6296755a7.svg"><img src="https://wakatime.com/share/@05005a1d-5ed0-4f6a-b5c8-1a7a0d9534ea/d93ea33a-b746-4c92-9c93-c80017ed72aa.png" width="400px"/></a><a href="https://wakatime.com/share/@05005a1d-5ed0-4f6a-b5c8-1a7a0d9534ea/9b6e468a-7930-4319-b2b5-4eeaa40133cb.svg"><img src="https://wakatime.com/share/@05005a1d-5ed0-4f6a-b5c8-1a7a0d9534ea/aaa0e22b-fd56-4033-9216-675147769a3f.png" width="400px"/></a></td>
   </tr>  
 </table>
-
-<!-- START gadpp -->
-- Suvraneel/Suvraneel.github.io, [refs/heads/main@b0820720b57c600bc1277ab07e3a337bab549008](https://github.com/Suvraneel/Suvraneel.github.io/commit/b0820720b57c600bc1277ab07e3a337bab549008)
-- Suvraneel/Codechef, [refs/heads/main@b61efea37cedddfa7d187c2d67375cad2c581e67](https://github.com/Suvraneel/Codechef/commit/b61efea37cedddfa7d187c2d67375cad2c581e67)
-- Suvraneel/Diablo-Music, [refs/heads/imgbot@9c9be3829ba1cbed0ae64665843dd93e05878b7e](https://github.com/Suvraneel/Diablo-Music/commit/9c9be3829ba1cbed0ae64665843dd93e05878b7e)
-- Suvraneel/diablo-music-app, [refs/heads/main@bfaacb2f30a349e5b5fa27ad38950343c891f155](https://github.com/Suvraneel/diablo-music-app/commit/bfaacb2f30a349e5b5fa27ad38950343c891f155)
-- Suvraneel/C-programming, [refs/heads/main@29e864b2a84f10da4d56659eada49856e6f0939a](https://github.com/Suvraneel/C-programming/commit/29e864b2a84f10da4d56659eada49856e6f0939a)
-   -->
 </details>
+-->
 
 <!--<details>
   <summary> <b>  :maple_leaf: Website Performance </b></summary>
