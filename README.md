@@ -217,14 +217,16 @@ Recent Activity :
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
+`[09/20 15:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/pods](https://github.com/Suvraneel/pods)  
+`[09/20 15:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[09/20 15:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Suvraneel/pods](https://github.com/Suvraneel/pods)  
 `[09/20 15:13]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#4`](https://github.com//Suvraneel/pods/pull/4 'update') in [Suvraneel/pods](https://github.com/Suvraneel/pods)  
 `[09/20 15:12]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#4`](https://github.com//Suvraneel/pods/pull/4 'update') in [Suvraneel/pods](https://github.com/Suvraneel/pods)  
-`[09/19 21:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `29` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[09/19 20:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Suvraneel/pods](https://github.com/Suvraneel/pods)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[09/19 21:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `29` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[09/19 20:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Suvraneel/pods](https://github.com/Suvraneel/pods)  
 `[09/19 19:02]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//Suvraneel/pods/pull/3 'Image Gallery on Instant Camera NFT page :camera:') in [Suvraneel/pods](https://github.com/Suvraneel/pods)  
 `[09/19 19:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Suvraneel/pods](https://github.com/Suvraneel/pods)  
 `[09/19 19:00]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3`](https://github.com//Suvraneel/pods/pull/3 'Image Gallery on Instant Camera NFT page :camera:') in [Suvraneel/pods](https://github.com/Suvraneel/pods)  
@@ -301,7 +303,7 @@ Recent Activity :
 `[09/12 20:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[09/12 07:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[09/12 07:26]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`Loader`](https://github.com/Suvraneel/Suvraneel.github.io/tree/Loader) in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
-`[09/10 19:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `30` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[09/10 19:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `25` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
