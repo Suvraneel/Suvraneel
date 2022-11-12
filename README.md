@@ -217,14 +217,15 @@ Recent Activity :
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
+`[11/12 17:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[11/12 16:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [All-About-Programming-Community/HackTheWinter-Official-Website](https://github.com/All-About-Programming-Community/HackTheWinter-Official-Website)  
 `[11/11 12:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `25` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[11/06 10:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/AAP-Official-Website](https://github.com/Suvraneel/AAP-Official-Website)  
 `[11/06 09:47]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Suvraneel/AAP-Official-Website/tree/main) in [Suvraneel/AAP-Official-Website](https://github.com/Suvraneel/AAP-Official-Website)  
-`[11/06 09:47]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Suvraneel/AAP-Official-Website](https://github.com/Suvraneel/AAP-Official-Website)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[11/06 09:47]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Suvraneel/AAP-Official-Website](https://github.com/Suvraneel/AAP-Official-Website)  
 `[11/06 08:19]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v0.0.1`](https://github.com/Suvraneel/JailBreak/releases/tag/v0.0.1) in [Suvraneel/JailBreak](https://github.com/Suvraneel/JailBreak)  
 `[11/06 08:17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/Suvraneel/JailBreak/tree/master) in [Suvraneel/JailBreak](https://github.com/Suvraneel/JailBreak)  
 `[11/06 08:12]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Suvraneel/JailBreak](https://github.com/Suvraneel/JailBreak)  
@@ -257,8 +258,7 @@ Recent Activity :
 `[10/24 07:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[10/23 21:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `42` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[10/22 12:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/portfolio](https://github.com/Suvraneel/portfolio)  
-`[10/22 06:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `66` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[10/19 21:17]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#20`](https://github.com//Suvraneel/Suvraneel.github.io/pull/20 'ci(Mergify): configuration update') in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
+`[10/22 06:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `64` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
