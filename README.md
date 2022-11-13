@@ -217,7 +217,7 @@ Recent Activity :
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
-`[11/13 06:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `20` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[11/13 06:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `24` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[11/12 21:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [All-About-Programming-Community/HackTheWinter-Official-Website](https://github.com/All-About-Programming-Community/HackTheWinter-Official-Website)  
 `[11/12 17:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[11/12 16:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [All-About-Programming-Community/HackTheWinter-Official-Website](https://github.com/All-About-Programming-Community/HackTheWinter-Official-Website)  
@@ -260,7 +260,7 @@ Recent Activity :
 `[10/24 07:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[10/23 21:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `42` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[10/22 12:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/portfolio](https://github.com/Suvraneel/portfolio)  
-`[10/22 06:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `43` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[10/22 06:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `39` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
