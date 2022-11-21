@@ -13,10 +13,10 @@
   <img align="left" src="https://media.tenor.com/images/043986fe5f470eeb6d86515e6cda30fe/tenor.gif" width="50">
 </p>
 <br>
-<a href="https://suvraneel.github.io" target="_blank"><img align='right' src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/readme_banner.gif" width="240" height="auto"></a>
+<a href="https://suvraneel.software" target="_blank"><img align='right' src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/readme_banner.gif" width="240" height="auto"></a>
 <br>
 
-- :electron: &nbsp;[![Portfolio](https://img.shields.io/badge/Suvraneel%2Egithub%2Eio-PortFolio-grey?style=for-the-badge&logo=Scribd&labelColor=013243&color=bf2004)](https://suvraneel.software)
+- :electron: &nbsp;[![Portfolio](https://img.shields.io/badge/suvraneel%2Esoftware-PortFolio-grey?style=for-the-badge&logo=Scribd&labelColor=013243&color=bf2004)](https://suvraneel.software)
 - :octocat: &nbsp;[![Resume](https://img.shields.io/badge/Suvraneel%20Bhuin-RESUME-blue?style=for-the-badge&logo=Sega&labelColor=0d182b)](https://suvraneel.github.io/Resume)
 - :computer: &nbsp;I’m currently pursuing B.Tech in **Computer Science & Engineering** at the  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[University College of Science & Technology (UCST)](http://www.caluniv-ucsta.net/),  
