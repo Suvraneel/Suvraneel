@@ -217,14 +217,15 @@ Recent Activity :
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
+`[11/30 06:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[11/29 17:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Open-Sorcerer/fevm-asset-management](https://github.com/Open-Sorcerer/fevm-asset-management)  
 `[11/29 17:39]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`take-2`](https://github.com/Open-Sorcerer/fevm-asset-management/tree/take-2) in [Open-Sorcerer/fevm-asset-management](https://github.com/Open-Sorcerer/fevm-asset-management)  
 `[11/29 08:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[11/28 21:26]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [All-About-Programming-Community/HackTheWinter-Official-Website](https://github.com/All-About-Programming-Community/HackTheWinter-Official-Website) to [Suvraneel/HackTheWinter-Official-Website](https://github.com/Suvraneel/HackTheWinter-Official-Website)  
-`[11/28 21:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [All-About-Programming-Community/HackTheWinter-Official-Website](https://github.com/All-About-Programming-Community/HackTheWinter-Official-Website)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[11/28 21:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [All-About-Programming-Community/HackTheWinter-Official-Website](https://github.com/All-About-Programming-Community/HackTheWinter-Official-Website)  
 `[11/28 07:28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`team-suv`](https://github.com/All-About-Programming-Community/HackTheWinter-Official-Website/tree/team-suv) in [All-About-Programming-Community/HackTheWinter-Official-Website](https://github.com/All-About-Programming-Community/HackTheWinter-Official-Website)  
 `[11/28 06:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `32` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[11/23 16:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [All-About-Programming-Community/HackTheWinter-Official-Website](https://github.com/All-About-Programming-Community/HackTheWinter-Official-Website)  
@@ -275,7 +276,7 @@ Recent Activity :
 `[10/27 14:14]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#23`](https://github.com//Suvraneel/Suvraneel.github.io/pull/23 'Migrated to NextJS 13.0 💎 ') in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[10/27 14:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[10/27 14:12]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`Migrating-to-NextJS-13.0`](https://github.com/Suvraneel/Suvraneel.github.io/tree/Migrating-to-NextJS-13.0) in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
-`[10/26 08:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[10/26 08:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
