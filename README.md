@@ -219,7 +219,7 @@ Recent Activity :
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
-`[12/03 17:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Open-Sorcerer/CrewS](https://github.com/Open-Sorcerer/CrewS)  
+`[12/03 19:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Open-Sorcerer/CrewS](https://github.com/Open-Sorcerer/CrewS)  
 `[12/03 16:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[12/03 15:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Open-Sorcerer/CrewS](https://github.com/Open-Sorcerer/CrewS)  
 `[12/02 09:16]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#4`](https://github.com//All-About-Programming-Community/HackTheWinter-Official-Website/issues/4 'Added responsiveness and menu button. ') in [All-About-Programming-Community/HackTheWinter-Official-Website](https://github.com/All-About-Programming-Community/HackTheWinter-Official-Website)  
@@ -285,7 +285,7 @@ Recent Activity :
 `[11/06 08:19]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v0.0.1`](https://github.com/Suvraneel/JailBreak/releases/tag/v0.0.1) in [Suvraneel/JailBreak](https://github.com/Suvraneel/JailBreak)  
 `[11/06 08:17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/Suvraneel/JailBreak/tree/master) in [Suvraneel/JailBreak](https://github.com/Suvraneel/JailBreak)  
 `[11/06 08:12]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Suvraneel/JailBreak](https://github.com/Suvraneel/JailBreak)  
-`[11/06 06:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[11/06 06:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
