@@ -282,7 +282,7 @@ Recent Activity :
 `[11/06 08:19]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v0.0.1`](https://github.com/Suvraneel/JailBreak/releases/tag/v0.0.1) in [Suvraneel/JailBreak](https://github.com/Suvraneel/JailBreak)  
 `[11/06 08:17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/Suvraneel/JailBreak/tree/master) in [Suvraneel/JailBreak](https://github.com/Suvraneel/JailBreak)  
 `[11/06 08:12]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Suvraneel/JailBreak](https://github.com/Suvraneel/JailBreak)  
-`[11/06 06:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `24` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[11/06 06:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `21` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
