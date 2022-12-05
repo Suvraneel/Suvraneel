@@ -219,14 +219,21 @@ Recent Activity :
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
+`[12/05 19:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [boradesanket13/HackTheWinter-Official-Website](https://github.com/boradesanket13/HackTheWinter-Official-Website)  
+`[12/05 19:48]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#5`](https://github.com//All-About-Programming-Community/HackTheWinter-Official-Website/issues/5 'Sponsor section updated and transparent logo added') in [All-About-Programming-Community/HackTheWinter-Official-Website](https://github.com/All-About-Programming-Community/HackTheWinter-Official-Website)  
+`[12/05 19:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [All-About-Programming-Community/HackTheWinter-Official-Website](https://github.com/All-About-Programming-Community/HackTheWinter-Official-Website)  
+`[12/05 19:47]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#5`](https://github.com//All-About-Programming-Community/HackTheWinter-Official-Website/pull/5 'Sponsor section updated and transparent logo added') in [All-About-Programming-Community/HackTheWinter-Official-Website](https://github.com/All-About-Programming-Community/HackTheWinter-Official-Website)  
+`[12/05 19:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Nitya-Pasrija/HackTheWinter-Official-Website](https://github.com/Nitya-Pasrija/HackTheWinter-Official-Website)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[12/05 19:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [All-About-Programming-Community/HackTheWinter-Official-Website](https://github.com/All-About-Programming-Community/HackTheWinter-Official-Website)  
+`[12/05 19:43]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#4`](https://github.com//All-About-Programming-Community/HackTheWinter-Official-Website/pull/4 'Added responsiveness and menu button. ') in [All-About-Programming-Community/HackTheWinter-Official-Website](https://github.com/All-About-Programming-Community/HackTheWinter-Official-Website)  
 `[12/05 08:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `25` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[12/03 20:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Open-Sorcerer/CrewS](https://github.com/Open-Sorcerer/CrewS)  
 `[12/03 16:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[12/03 15:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Open-Sorcerer/CrewS](https://github.com/Open-Sorcerer/CrewS)  
 `[12/02 09:16]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#4`](https://github.com//All-About-Programming-Community/HackTheWinter-Official-Website/issues/4 'Added responsiveness and menu button. ') in [All-About-Programming-Community/HackTheWinter-Official-Website](https://github.com/All-About-Programming-Community/HackTheWinter-Official-Website)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[12/02 08:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `38` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[12/01 12:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Suvraneel/fevm-asset-management](https://github.com/Suvraneel/fevm-asset-management)  
 `[12/01 11:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
@@ -279,7 +286,7 @@ Recent Activity :
 `[11/12 21:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [All-About-Programming-Community/HackTheWinter-Official-Website](https://github.com/All-About-Programming-Community/HackTheWinter-Official-Website)  
 `[11/12 17:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[11/12 16:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [All-About-Programming-Community/HackTheWinter-Official-Website](https://github.com/All-About-Programming-Community/HackTheWinter-Official-Website)  
-`[11/11 12:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[11/11 12:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
