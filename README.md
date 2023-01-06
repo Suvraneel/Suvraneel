@@ -219,7 +219,7 @@ Recent Activity :
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
-`[01/06 06:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `38` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[01/06 06:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `40` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[01/04 13:37]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`backup`](https://github.com/Suvraneel/LeetCode/tree/backup) in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[01/04 09:34]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#29`](https://github.com//joshcai/leetcode-sync/issues/29 'Error: Request failed with status code 500') in [joshcai/leetcode-sync](https://github.com/joshcai/leetcode-sync)  
 `[01/04 09:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
@@ -265,7 +265,6 @@ Recent Activity :
 `[12/01 12:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Suvraneel/fevm-asset-management](https://github.com/Suvraneel/fevm-asset-management)  
 `[12/01 11:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[12/01 10:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[11/30 17:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Open-Sorcerer/fevm-asset-management](https://github.com/Open-Sorcerer/fevm-asset-management)  
 
 </details>
 <!--END_SECTION:activity-->
