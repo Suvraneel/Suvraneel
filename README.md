@@ -215,7 +215,7 @@ Recent Activity :
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
-`[01/22 06:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `26` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[01/22 20:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `28` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[01/21 18:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Open-Sorcerer/consol-gaming](https://github.com/Open-Sorcerer/consol-gaming)  
 `[01/21 18:19]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//Open-Sorcerer/consol-gaming/pull/1 'added bonk burn button') in [Open-Sorcerer/consol-gaming](https://github.com/Open-Sorcerer/consol-gaming)  
 `[01/21 18:19]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1`](https://github.com//Open-Sorcerer/consol-gaming/pull/1 'added bonk burn button') in [Open-Sorcerer/consol-gaming](https://github.com/Open-Sorcerer/consol-gaming)  
@@ -274,7 +274,7 @@ Recent Activity :
 `[12/05 19:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Nitya-Pasrija/HackTheWinter-Official-Website](https://github.com/Nitya-Pasrija/HackTheWinter-Official-Website)  
 `[12/05 19:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [All-About-Programming-Community/HackTheWinter-Official-Website](https://github.com/All-About-Programming-Community/HackTheWinter-Official-Website)  
 `[12/05 19:43]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#4`](https://github.com//All-About-Programming-Community/HackTheWinter-Official-Website/pull/4 'Added responsiveness and menu button. ') in [All-About-Programming-Community/HackTheWinter-Official-Website](https://github.com/All-About-Programming-Community/HackTheWinter-Official-Website)  
-`[12/05 08:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `17` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[12/05 08:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
