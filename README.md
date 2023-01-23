@@ -215,14 +215,15 @@ Recent Activity :
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
+`[01/23 21:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Suvraneel/bonk-vault](https://github.com/Suvraneel/bonk-vault)  
 `[01/23 20:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Open-Sorcerer/bonk-vault](https://github.com/Open-Sorcerer/bonk-vault)  
 `[01/23 20:49]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//Open-Sorcerer/bonk-vault/pull/3 'Update README.md') in [Open-Sorcerer/bonk-vault](https://github.com/Open-Sorcerer/bonk-vault)  
 `[01/23 20:49]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3`](https://github.com//Open-Sorcerer/bonk-vault/pull/3 'Update README.md') in [Open-Sorcerer/bonk-vault](https://github.com/Open-Sorcerer/bonk-vault)  
 `[01/23 20:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/bonk-vault](https://github.com/Suvraneel/bonk-vault)  
-`[01/23 20:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Open-Sorcerer/bonk-vault](https://github.com/Open-Sorcerer/bonk-vault)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[01/23 20:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Open-Sorcerer/bonk-vault](https://github.com/Open-Sorcerer/bonk-vault)  
 `[01/23 20:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/bonk-vault](https://github.com/Suvraneel/bonk-vault)  
 `[01/23 20:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Open-Sorcerer/bonk-vault](https://github.com/Open-Sorcerer/bonk-vault)  
 `[01/23 19:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/bonk-vault](https://github.com/Suvraneel/bonk-vault)  
@@ -273,11 +274,6 @@ Recent Activity :
 `[12/10 10:59]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7`](https://github.com//All-About-Programming-Community/HackTheWinter-Official-Website/issues/7 'Navbar Issue') in [All-About-Programming-Community/HackTheWinter-Official-Website](https://github.com/All-About-Programming-Community/HackTheWinter-Official-Website)  
 `[12/10 10:55]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7`](https://github.com//All-About-Programming-Community/HackTheWinter-Official-Website/issues/7 'Navbar Issue') in [All-About-Programming-Community/HackTheWinter-Official-Website](https://github.com/All-About-Programming-Community/HackTheWinter-Official-Website)  
 `[12/10 10:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7`](https://github.com//All-About-Programming-Community/HackTheWinter-Official-Website/issues/7 'Navbar Issue') in [All-About-Programming-Community/HackTheWinter-Official-Website](https://github.com/All-About-Programming-Community/HackTheWinter-Official-Website)  
-`[12/09 11:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [All-About-Programming-Community/HackTheWinter-Official-Website](https://github.com/All-About-Programming-Community/HackTheWinter-Official-Website)  
-`[12/09 11:56]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#8`](https://github.com//All-About-Programming-Community/HackTheWinter-Official-Website/pull/8 'Fixed Navbar Issue #7') in [All-About-Programming-Community/HackTheWinter-Official-Website](https://github.com/All-About-Programming-Community/HackTheWinter-Official-Website)  
-`[12/07 14:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Open-Sorcerer/CrewS](https://github.com/Open-Sorcerer/CrewS)  
-`[12/06 19:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [Suvraneel/HackTheWinter-Official-Website](https://github.com/Suvraneel/HackTheWinter-Official-Website)  
-`[12/06 16:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `83` commits in [Suvraneel/metrics](https://github.com/Suvraneel/metrics)  
 
 </details>
 <!--END_SECTION:activity-->
