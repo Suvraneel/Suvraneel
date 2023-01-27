@@ -215,14 +215,16 @@ Recent Activity :
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
+`[01/27 12:12]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Open-Sorcerer/wagmiroad/tree/main) in [Open-Sorcerer/wagmiroad](https://github.com/Open-Sorcerer/wagmiroad)  
+`[01/27 12:10]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Open-Sorcerer/wagmiroad](https://github.com/Open-Sorcerer/wagmiroad)  
 `[01/27 08:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[01/24 19:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app)  
 `[01/23 21:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/bonk-vault](https://github.com/Suvraneel/bonk-vault)  
-`[01/23 21:47]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `suv` from [Suvraneel/bonk-vault](https://github.com/Suvraneel/bonk-vault)  
-`[01/23 21:47]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Suvraneel/bonk-vault/tree/main) in [Suvraneel/bonk-vault](https://github.com/Suvraneel/bonk-vault)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[01/23 21:47]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `suv` from [Suvraneel/bonk-vault](https://github.com/Suvraneel/bonk-vault)  
+`[01/23 21:47]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Suvraneel/bonk-vault/tree/main) in [Suvraneel/bonk-vault](https://github.com/Suvraneel/bonk-vault)  
 `[01/23 21:47]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `main` from [Suvraneel/bonk-vault](https://github.com/Suvraneel/bonk-vault)  
 `[01/23 21:47]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Open-Sorcerer/bonk-vault](https://github.com/Open-Sorcerer/bonk-vault) to [Suvraneel/bonk-vault](https://github.com/Suvraneel/bonk-vault)  
 `[01/23 21:45]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`suv`](https://github.com/Suvraneel/bonk-vault/tree/suv) in [Suvraneel/bonk-vault](https://github.com/Suvraneel/bonk-vault)  
@@ -273,7 +275,7 @@ Recent Activity :
 `[01/03 18:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[01/03 08:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `51` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[12/29 14:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
-`[12/29 12:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `61` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[12/29 12:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `59` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
