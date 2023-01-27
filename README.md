@@ -275,7 +275,7 @@ Recent Activity :
 `[01/03 18:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[01/03 08:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `51` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[12/29 14:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
-`[12/29 12:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `59` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[12/29 12:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `57` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
