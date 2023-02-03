@@ -215,14 +215,15 @@ Recent Activity :
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
+`[02/03 07:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Open-Sorcerer/wagmiroad](https://github.com/Open-Sorcerer/wagmiroad)  
 `[02/03 07:20]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3`](https://github.com//AAYUSH-GUPTA-coder/Quicknode-graphQL-NFT-API/pull/3 'finalised :octocat:') in [AAYUSH-GUPTA-coder/Quicknode-graphQL-NFT-API](https://github.com/AAYUSH-GUPTA-coder/Quicknode-graphQL-NFT-API)  
 `[02/03 07:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Quicknode-graphQL-NFT-API](https://github.com/Suvraneel/Quicknode-graphQL-NFT-API)  
 `[02/01 20:34]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//AAYUSH-GUPTA-coder/Quicknode-graphQL-NFT-API/pull/2 'Test hooks') in [AAYUSH-GUPTA-coder/Quicknode-graphQL-NFT-API](https://github.com/AAYUSH-GUPTA-coder/Quicknode-graphQL-NFT-API)  
 `[02/01 20:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Quicknode-graphQL-NFT-API](https://github.com/Suvraneel/Quicknode-graphQL-NFT-API)  
-`[02/01 18:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[02/01 18:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[02/01 05:46]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//AAYUSH-GUPTA-coder/Quicknode-graphQL-NFT-API/pull/1 'Test hooks') in [AAYUSH-GUPTA-coder/Quicknode-graphQL-NFT-API](https://github.com/AAYUSH-GUPTA-coder/Quicknode-graphQL-NFT-API)  
 `[02/01 05:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Quicknode-graphQL-NFT-API](https://github.com/Suvraneel/Quicknode-graphQL-NFT-API)  
 `[01/31 20:00]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`test-hooks`](https://github.com/Suvraneel/Quicknode-graphQL-NFT-API/tree/test-hooks) in [Suvraneel/Quicknode-graphQL-NFT-API](https://github.com/Suvraneel/Quicknode-graphQL-NFT-API)  
@@ -287,7 +288,7 @@ Recent Activity :
 `[01/03 18:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[01/03 08:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `51` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[12/29 14:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
-`[12/29 12:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `42` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[12/29 12:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `41` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
