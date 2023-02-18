@@ -215,14 +215,15 @@ Recent Activity :
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
+`[02/18 17:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/EthCommerce](https://github.com/Suvraneel/EthCommerce)  
 `[02/18 13:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Open-Sorcerer/EthCommerce](https://github.com/Open-Sorcerer/EthCommerce)  
 `[02/18 13:24]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#5`](https://github.com//Open-Sorcerer/EthCommerce/pull/5 'Test') in [Open-Sorcerer/EthCommerce](https://github.com/Open-Sorcerer/EthCommerce)  
 `[02/18 13:24]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#5`](https://github.com//Open-Sorcerer/EthCommerce/pull/5 'Test') in [Open-Sorcerer/EthCommerce](https://github.com/Open-Sorcerer/EthCommerce)  
 `[02/18 13:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Suvraneel/EthCommerce](https://github.com/Suvraneel/EthCommerce)  
-`[02/18 13:19]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//Suvraneel/EthCommerce/pull/3 'test') in [Suvraneel/EthCommerce](https://github.com/Suvraneel/EthCommerce)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[02/18 13:19]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//Suvraneel/EthCommerce/pull/3 'test') in [Suvraneel/EthCommerce](https://github.com/Suvraneel/EthCommerce)  
 `[02/18 13:18]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3`](https://github.com//Suvraneel/EthCommerce/pull/3 'test') in [Suvraneel/EthCommerce](https://github.com/Suvraneel/EthCommerce)  
 `[02/18 13:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Open-Sorcerer/EthCommerce](https://github.com/Open-Sorcerer/EthCommerce)  
 `[02/18 13:17]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#4`](https://github.com//Open-Sorcerer/EthCommerce/pull/4 'Testing contract') in [Open-Sorcerer/EthCommerce](https://github.com/Open-Sorcerer/EthCommerce)  
@@ -343,7 +344,7 @@ Recent Activity :
 `[01/04 09:34]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#29`](https://github.com//joshcai/leetcode-sync/issues/29 'Error: Request failed with status code 500') in [joshcai/leetcode-sync](https://github.com/joshcai/leetcode-sync)  
 `[01/04 09:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[01/04 09:27]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1`](https://github.com//Suvraneel/LeetCode/issues/1 'fmdfm') in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[01/04 09:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[01/04 09:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
