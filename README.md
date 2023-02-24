@@ -216,7 +216,6 @@ Recent Activity :
 
 <!--START_SECTION:activity-->
 `[02/24 21:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[02/24 21:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[02/23 23:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[02/19 13:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/EthCommerce](https://github.com/Suvraneel/EthCommerce)  
 `[02/19 12:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Open-Sorcerer/EthCommerce](https://github.com/Open-Sorcerer/EthCommerce)  
@@ -349,7 +348,6 @@ Recent Activity :
 `[01/10 13:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Siddhartha-Dhar/TextUtils](https://github.com/Siddhartha-Dhar/TextUtils)  
 `[01/10 07:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[01/08 23:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[01/08 23:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[01/08 22:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `26` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
