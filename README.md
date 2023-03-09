@@ -215,7 +215,7 @@ Recent Activity :
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
-`[03/08 19:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[03/09 19:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[03/08 14:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/SynthArt](https://github.com/Suvraneel/SynthArt)  
 `[03/08 14:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Open-Sorcerer/SynthArt](https://github.com/Open-Sorcerer/SynthArt)  
 `[03/08 14:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/SynthArt](https://github.com/Suvraneel/SynthArt)  
@@ -378,7 +378,7 @@ Recent Activity :
 `[01/20 17:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jaydippatel83/superfun_lens_demo](https://github.com/jaydippatel83/superfun_lens_demo)  
 `[01/20 17:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dappgenie/web3gram](https://github.com/dappgenie/web3gram)  
 `[01/20 17:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [brahmapsen/cliniDAO](https://github.com/brahmapsen/cliniDAO)  
-`[01/19 09:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[01/19 09:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
