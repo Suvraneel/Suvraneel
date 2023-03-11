@@ -215,14 +215,15 @@ Recent Activity :
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
+`[03/11 21:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[03/11 15:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[03/11 15:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[03/11 13:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[03/11 13:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
-`[03/09 19:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[03/09 19:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[03/08 14:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/SynthArt](https://github.com/Suvraneel/SynthArt)  
 `[03/08 14:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Open-Sorcerer/SynthArt](https://github.com/Open-Sorcerer/SynthArt)  
 `[03/08 14:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/SynthArt](https://github.com/Suvraneel/SynthArt)  
@@ -379,8 +380,6 @@ Recent Activity :
 `[01/21 18:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Open-Sorcerer/consol-gaming](https://github.com/Open-Sorcerer/consol-gaming)  
 `[01/21 18:19]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//Open-Sorcerer/consol-gaming/pull/1 'added bonk burn button') in [Open-Sorcerer/consol-gaming](https://github.com/Open-Sorcerer/consol-gaming)  
 `[01/21 18:19]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1`](https://github.com//Open-Sorcerer/consol-gaming/pull/1 'added bonk burn button') in [Open-Sorcerer/consol-gaming](https://github.com/Open-Sorcerer/consol-gaming)  
-`[01/20 17:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jaydippatel83/superfun_lens_demo](https://github.com/jaydippatel83/superfun_lens_demo)  
-`[01/20 17:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dappgenie/web3gram](https://github.com/dappgenie/web3gram)  
 
 </details>
 <!--END_SECTION:activity-->
