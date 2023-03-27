@@ -29,11 +29,15 @@
 - :video_game: &nbsp;**Hobbies**: Development, Opensource, Coding Communities & Volunteering, PC Gaming, Reading, Soccer
 
 <br>
+
 <h2 align=left>
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/social.gif" height="35" width= auto>
+<div align=left><img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/social.gif" height="35" width= auto>
 &nbsp;&nbsp;&nbsp;&nbsp;
-Connect with me on:
-<br></h2>
+Connect with me on:</div>
+<div align=right>🐦 Latest Tweet</div>
+</h2>
+
+<a href="https://twitter.com/SuvraneelB" target="_blank"><img align='right' src="https://gtce.itsvg.in/api?username=SuvraneelB" width="400" height="auto"></a>
 
 
 <!-- 
