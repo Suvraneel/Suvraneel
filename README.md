@@ -37,7 +37,7 @@ Connect with me on:</div>
 <div align=right>🐦 Latest Tweet</div>
 </h2>
 
-<a href="https://twitter.com/SuvraneelB" target="_blank"><img align='right' src="https://gtce.itsvg.in/api?username=SuvraneelB" width="400" height="auto"></a>
+<a href="https://twitter.com/SuvraneelB" target="_blank"><img align='right' src="https://gtce.itsvg.in/api?username=SuvraneelB&hide_border=true&theme=vision-friendly-dark" width="400" height="auto"></a>
 
 
 <!-- 
