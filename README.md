@@ -383,9 +383,6 @@ Recent Activity :
 `[01/23 19:48]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Open-Sorcerer/bonk-vault](https://github.com/Open-Sorcerer/bonk-vault) to [Suvraneel/bonk-vault](https://github.com/Suvraneel/bonk-vault)  
 `[01/23 18:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Open-Sorcerer/consol-gaming](https://github.com/Open-Sorcerer/consol-gaming)  
 `[01/23 08:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[01/22 22:06]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2`](https://github.com//Open-Sorcerer/consol-gaming/pull/2 'adding vault WIP') in [Open-Sorcerer/consol-gaming](https://github.com/Open-Sorcerer/consol-gaming)  
-`[01/22 22:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Open-Sorcerer/consol-gaming](https://github.com/Open-Sorcerer/consol-gaming)  
-`[01/22 20:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `20` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
