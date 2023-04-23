@@ -219,7 +219,7 @@ Recent Activity :
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
-`[04/22 19:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[04/23 21:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[03/28 04:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[03/25 12:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Suvraneel/SynthArt](https://github.com/Suvraneel/SynthArt)  
 `[03/14 14:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Open-Sorcerer/SynthArt](https://github.com/Open-Sorcerer/SynthArt)  
