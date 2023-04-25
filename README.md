@@ -362,8 +362,7 @@ Recent Activity :
 `[01/27 15:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Open-Sorcerer/wagmiroad](https://github.com/Open-Sorcerer/wagmiroad)  
 `[01/27 12:12]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Open-Sorcerer/wagmiroad/tree/main) in [Open-Sorcerer/wagmiroad](https://github.com/Open-Sorcerer/wagmiroad)  
 `[01/27 12:10]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Open-Sorcerer/wagmiroad](https://github.com/Open-Sorcerer/wagmiroad)  
-`[01/27 08:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[01/24 19:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app)  
+`[01/27 08:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
