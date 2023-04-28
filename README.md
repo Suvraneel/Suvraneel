@@ -363,10 +363,6 @@ Recent Activity :
 `[01/30 20:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Quicknode-graphQL-NFT-API](https://github.com/Suvraneel/Quicknode-graphQL-NFT-API)  
 `[01/30 19:16]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [AAYUSH-GUPTA-coder/Quicknode-graphQL-NFT-API](https://github.com/AAYUSH-GUPTA-coder/Quicknode-graphQL-NFT-API) to [Suvraneel/Quicknode-graphQL-NFT-API](https://github.com/Suvraneel/Quicknode-graphQL-NFT-API)  
 `[01/30 07:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[01/27 15:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Open-Sorcerer/wagmiroad](https://github.com/Open-Sorcerer/wagmiroad)  
-`[01/27 12:12]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Open-Sorcerer/wagmiroad/tree/main) in [Open-Sorcerer/wagmiroad](https://github.com/Open-Sorcerer/wagmiroad)  
-`[01/27 12:10]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Open-Sorcerer/wagmiroad](https://github.com/Open-Sorcerer/wagmiroad)  
-`[01/27 08:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
