@@ -360,8 +360,6 @@ Recent Activity :
 `[02/01 05:46]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//AAYUSH-GUPTA-coder/Quicknode-graphQL-NFT-API/pull/1 'Test hooks') in [AAYUSH-GUPTA-coder/Quicknode-graphQL-NFT-API](https://github.com/AAYUSH-GUPTA-coder/Quicknode-graphQL-NFT-API)  
 `[02/01 05:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Quicknode-graphQL-NFT-API](https://github.com/Suvraneel/Quicknode-graphQL-NFT-API)  
 `[01/31 20:00]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`test-hooks`](https://github.com/Suvraneel/Quicknode-graphQL-NFT-API/tree/test-hooks) in [Suvraneel/Quicknode-graphQL-NFT-API](https://github.com/Suvraneel/Quicknode-graphQL-NFT-API)  
-`[01/30 20:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Quicknode-graphQL-NFT-API](https://github.com/Suvraneel/Quicknode-graphQL-NFT-API)  
-`[01/30 19:16]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [AAYUSH-GUPTA-coder/Quicknode-graphQL-NFT-API](https://github.com/AAYUSH-GUPTA-coder/Quicknode-graphQL-NFT-API) to [Suvraneel/Quicknode-graphQL-NFT-API](https://github.com/Suvraneel/Quicknode-graphQL-NFT-API)  
 
 </details>
 <!--END_SECTION:activity-->
