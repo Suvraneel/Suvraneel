@@ -351,9 +351,7 @@ Recent Activity :
 `[02/05 04:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[02/04 21:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Open-Sorcerer/wagmiroad](https://github.com/Open-Sorcerer/wagmiroad)  
 `[02/04 21:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[02/04 18:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Open-Sorcerer/wagmiroad](https://github.com/Open-Sorcerer/wagmiroad)  
-`[02/03 07:20]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3`](https://github.com//AAYUSH-GUPTA-coder/Quicknode-graphQL-NFT-API/pull/3 'finalised :octocat:') in [AAYUSH-GUPTA-coder/Quicknode-graphQL-NFT-API](https://github.com/AAYUSH-GUPTA-coder/Quicknode-graphQL-NFT-API)  
-`[02/03 07:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Quicknode-graphQL-NFT-API](https://github.com/Suvraneel/Quicknode-graphQL-NFT-API)  
+`[02/04 18:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Open-Sorcerer/wagmiroad](https://github.com/Open-Sorcerer/wagmiroad)  
 
 </details>
 <!--END_SECTION:activity-->
