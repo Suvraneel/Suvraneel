@@ -335,14 +335,6 @@ Recent Activity :
 `[02/13 21:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Open-Sorcerer/EthCommerce](https://github.com/Open-Sorcerer/EthCommerce)  
 `[02/13 09:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)  
 `[02/13 07:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Open-Sorcerer/EthCommerce](https://github.com/Open-Sorcerer/EthCommerce)  
-`[02/11 22:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[02/11 22:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/EthCommerce](https://github.com/Suvraneel/EthCommerce)  
-`[02/11 22:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Open-Sorcerer/EthCommerce](https://github.com/Open-Sorcerer/EthCommerce)  
-`[02/11 22:07]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Open-Sorcerer/EthCommerce](https://github.com/Open-Sorcerer/EthCommerce) to [Suvraneel/EthCommerce](https://github.com/Suvraneel/EthCommerce)  
-`[02/11 22:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Open-Sorcerer/EthCommerce](https://github.com/Open-Sorcerer/EthCommerce)  
-`[02/11 21:30]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Open-Sorcerer/EthCommerce/tree/main) in [Open-Sorcerer/EthCommerce](https://github.com/Open-Sorcerer/EthCommerce)  
-`[02/11 21:26]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Open-Sorcerer/EthCommerce](https://github.com/Open-Sorcerer/EthCommerce)  
-`[02/11 20:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Open-Sorcerer/wagmiroad](https://github.com/Open-Sorcerer/wagmiroad)  
 
 </details>
 <!--END_SECTION:activity-->
