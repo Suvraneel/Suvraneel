@@ -326,7 +326,7 @@ Recent Activity :
 `[02/16 08:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Open-Sorcerer/EthCommerce](https://github.com/Open-Sorcerer/EthCommerce)  
 `[02/15 22:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[02/15 11:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [Suvraneel/EthCommerce](https://github.com/Suvraneel/EthCommerce)  
-`[02/14 22:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Open-Sorcerer/EthCommerce](https://github.com/Open-Sorcerer/EthCommerce)  
+`[02/14 22:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Open-Sorcerer/EthCommerce](https://github.com/Open-Sorcerer/EthCommerce)  
 
 </details>
 <!--END_SECTION:activity-->
