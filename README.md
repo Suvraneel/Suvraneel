@@ -219,14 +219,18 @@ Recent Activity :
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
+`[05/16 19:40]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#100`](https://github.com//girlscript/gssoc-website-new/issues/100 'Change Theme Button is hidden on Medium screen') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[05/16 19:38]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#103`](https://github.com//girlscript/gssoc-website-new/pull/103 'Change Theme Button visible now in md screen') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[05/16 19:38]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#103`](https://github.com//girlscript/gssoc-website-new/pull/103 'Change Theme Button visible now in md screen') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[05/16 19:21]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#85`](https://github.com//girlscript/gssoc-website-new/issues/85 'Enhancements to makeshift pages under `More` for GSSoC 2023 :octocat: ') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[05/07 12:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Go-peacify/gopeacify-frontend](https://github.com/Go-peacify/gopeacify-frontend)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[05/07 12:17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`gh-pages`](https://github.com/Go-peacify/gopeacify-frontend/tree/gh-pages) in [Go-peacify/gopeacify-frontend](https://github.com/Go-peacify/gopeacify-frontend)  
 `[04/27 20:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[04/25 12:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/25 12:52]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#95`](https://github.com//girlscript/gssoc-website-new/pull/95 'Update info for GSSoC\'23') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[04/25 12:52]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#95`](https://github.com//girlscript/gssoc-website-new/pull/95 'Update info for GSSoC\'23') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/23 21:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[03/28 04:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
