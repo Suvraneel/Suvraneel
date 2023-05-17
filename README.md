@@ -337,8 +337,6 @@ Recent Activity :
 `[02/17 14:15]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//Suvraneel/EthCommerce/pull/2 'Kuchbhi') in [Suvraneel/EthCommerce](https://github.com/Suvraneel/EthCommerce)  
 `[02/17 14:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Suvraneel/EthCommerce](https://github.com/Suvraneel/EthCommerce)  
 `[02/17 14:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Open-Sorcerer/EthCommerce](https://github.com/Open-Sorcerer/EthCommerce)  
-`[02/16 20:57]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`kuchbhi`](https://github.com/Open-Sorcerer/EthCommerce/tree/kuchbhi) in [Open-Sorcerer/EthCommerce](https://github.com/Open-Sorcerer/EthCommerce)  
-`[02/16 08:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Open-Sorcerer/EthCommerce](https://github.com/Open-Sorcerer/EthCommerce)  
 
 </details>
 <!--END_SECTION:activity-->
