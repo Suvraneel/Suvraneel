@@ -302,12 +302,6 @@ Recent Activity :
 `[02/19 13:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/EthCommerce](https://github.com/Suvraneel/EthCommerce)  
 `[02/19 12:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Open-Sorcerer/EthCommerce](https://github.com/Open-Sorcerer/EthCommerce)  
 `[02/19 08:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/EthCommerce](https://github.com/Suvraneel/EthCommerce)  
-`[02/18 22:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[02/18 21:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [Suvraneel/EthCommerce](https://github.com/Suvraneel/EthCommerce)  
-`[02/18 21:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Open-Sorcerer/EthCommerce](https://github.com/Open-Sorcerer/EthCommerce)  
-`[02/18 20:40]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#6`](https://github.com//Open-Sorcerer/EthCommerce/pull/6 'Readme tweaked ✨ ') in [Open-Sorcerer/EthCommerce](https://github.com/Open-Sorcerer/EthCommerce)  
-`[02/18 20:40]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#6`](https://github.com//Open-Sorcerer/EthCommerce/pull/6 'Readme tweaked ✨ ') in [Open-Sorcerer/EthCommerce](https://github.com/Open-Sorcerer/EthCommerce)  
-`[02/18 20:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/EthCommerce](https://github.com/Suvraneel/EthCommerce)  
 
 </details>
 <!--END_SECTION:activity-->
