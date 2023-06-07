@@ -295,9 +295,6 @@ Recent Activity :
 `[03/08 08:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[03/08 08:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[03/08 07:07]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//ChirantanGanguly/ChirantanGanguly.github.io/issues/1 'Fix Visual Accessibility') in [ChirantanGanguly/ChirantanGanguly.github.io](https://github.com/ChirantanGanguly/ChirantanGanguly.github.io)  
-`[03/06 20:10]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1446`](https://github.com//filecoin-project/devgrants/issues/1446 'Next Step Microgrant: EthCommerce (FVM Extension)') in [filecoin-project/devgrants](https://github.com/filecoin-project/devgrants)  
-`[03/06 19:42]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Suvraneel/Next-ConnectKit-Boilerplate/tree/main) in [Suvraneel/Next-ConnectKit-Boilerplate](https://github.com/Suvraneel/Next-ConnectKit-Boilerplate)  
-`[03/06 19:41]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Suvraneel/Next-ConnectKit-Boilerplate](https://github.com/Suvraneel/Next-ConnectKit-Boilerplate)  
 
 </details>
 <!--END_SECTION:activity-->
