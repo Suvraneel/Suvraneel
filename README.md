@@ -295,9 +295,6 @@ Recent Activity :
 `[03/08 14:21]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`ai-nft-minter`](https://github.com/Open-Sorcerer/SynthArt/tree/ai-nft-minter) in [Open-Sorcerer/SynthArt](https://github.com/Open-Sorcerer/SynthArt)  
 `[03/08 14:20]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Open-Sorcerer/SynthArt/tree/main) in [Open-Sorcerer/SynthArt](https://github.com/Open-Sorcerer/SynthArt)  
 `[03/08 14:19]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Open-Sorcerer/SynthArt](https://github.com/Open-Sorcerer/SynthArt)  
-`[03/08 08:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[03/08 08:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
-`[03/08 07:07]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//ChirantanGanguly/ChirantanGanguly.github.io/issues/1 'Fix Visual Accessibility') in [ChirantanGanguly/ChirantanGanguly.github.io](https://github.com/ChirantanGanguly/ChirantanGanguly.github.io)  
 
 </details>
 <!--END_SECTION:activity-->
