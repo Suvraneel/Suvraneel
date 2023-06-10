@@ -219,14 +219,15 @@ Recent Activity :
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
+`[06/10 15:35]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v0.1.2`](https://github.com/Open-Sorcerer/venom-cli/releases/tag/v0.1.2) in [Open-Sorcerer/venom-cli](https://github.com/Open-Sorcerer/venom-cli)  
 `[06/10 14:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Open-Sorcerer/venom-cli](https://github.com/Open-Sorcerer/venom-cli)  
 `[06/10 13:28]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v0.1.0`](https://github.com/Open-Sorcerer/venom-cli/releases/tag/v0.1.0) in [Open-Sorcerer/venom-cli](https://github.com/Open-Sorcerer/venom-cli)  
 `[06/10 12:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Open-Sorcerer/venom-cli](https://github.com/Open-Sorcerer/venom-cli)  
 `[06/10 11:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Open-Sorcerer/Venom-Next](https://github.com/Open-Sorcerer/Venom-Next)  
-`[06/10 11:49]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//Open-Sorcerer/Venom-Next/pull/1 'yarn rm :octocat:') in [Open-Sorcerer/Venom-Next](https://github.com/Open-Sorcerer/Venom-Next)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[06/10 11:49]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//Open-Sorcerer/Venom-Next/pull/1 'yarn rm :octocat:') in [Open-Sorcerer/Venom-Next](https://github.com/Open-Sorcerer/Venom-Next)  
 `[06/10 11:49]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//Open-Sorcerer/Venom-Next/pull/1 'yarn rm :octocat:') in [Open-Sorcerer/Venom-Next](https://github.com/Open-Sorcerer/Venom-Next)  
 `[06/10 11:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Venom-Next](https://github.com/Suvraneel/Venom-Next)  
 `[06/10 10:30]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Open-Sorcerer/Venom-Next](https://github.com/Open-Sorcerer/Venom-Next) to [Suvraneel/Venom-Next](https://github.com/Suvraneel/Venom-Next)  
