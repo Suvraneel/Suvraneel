@@ -293,8 +293,6 @@ Recent Activity :
 `[04/23 21:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[03/28 04:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[03/25 12:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Suvraneel/SynthArt](https://github.com/Suvraneel/SynthArt)  
-`[03/14 14:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Open-Sorcerer/SynthArt](https://github.com/Open-Sorcerer/SynthArt)  
-`[03/14 14:08]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`ethdubai`](https://github.com/Open-Sorcerer/SynthArt/tree/ethdubai) in [Open-Sorcerer/SynthArt](https://github.com/Open-Sorcerer/SynthArt)  
 
 </details>
 <!--END_SECTION:activity-->
