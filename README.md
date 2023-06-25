@@ -39,10 +39,7 @@ Connect with me on:</div>
 
 <a href="https://twitter.com/SuvraneelB" target="_blank"><img align='right' src="https://gtce.itsvg.in/api?username=SuvraneelB&hide_border=true&theme=vision-friendly-dark" width="400" height="auto"></a>
 
-
-<!-- 
-[![GitHub-Mark-Light](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/in.png#gh-light-mode-only)![GitHub-Mark-Dark](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/in.png#gh-dark-mode-only)](https://www.linkedin.com/in/suvraneel-bhuin) -->
-
+<!-- [![GitHub-Mark-Light](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/in.png#gh-light-mode-only)![GitHub-Mark-Dark](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/in.png#gh-dark-mode-only)](https://www.linkedin.com/in/suvraneel-bhuin) -->
   
 <a href="https://twitter.com/SuvraneelB"><img src="https://user-images.githubusercontent.com/63473496/212667318-969259c1-f51a-47a4-a3e3-8675138bdcec.gif" height="60" width= auto></a> <a href="https://www.linkedin.com/in/suvraneel-bhuin"><img src="https://user-images.githubusercontent.com/63473496/212667680-1ccf7d0a-9f59-4be5-a2d0-b07effb04b6c.gif" height="60" width= auto></a> <a href="https://www.facebook.com/suvraneel.bhuin"><img src="https://user-images.githubusercontent.com/63473496/212667021-d190985a-6977-41bf-8063-d5c09c8abd8c.gif" height="60" width= auto></a> <a href="https://www.instagram.com/el_diablo_suvraneel"><img src="https://user-images.githubusercontent.com/63473496/212668023-3f7aa65f-2a55-44f4-bc11-e1e7fea26cab.gif" height="60" width= auto></a> <a href="https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!"><img src="https://user-images.githubusercontent.com/63473496/212668258-a33f94f5-0baf-4ab5-a2ac-83adafa8ecf0.gif" height="60" width= auto></a> <a href="https://discord.com/users/851345743935045652/"><img src="https://user-images.githubusercontent.com/63473496/212670527-afccf7ca-4dfc-4f4c-bf91-19287be8a679.gif" height="60" width= auto></a>
 
@@ -197,6 +194,7 @@ Github Stats :
     </td>
     <td align="center">
         <img align="right" src ="https://github-readme-streak-stats.herokuapp.com?user=suvraneel&theme=vision-friendly-dark&hide_border=true" width="360px" height="170px">
+<!--         <img align="right" src ="https://streak-stats.demolab.com?user=suvraneel&theme=vision-friendly-dark&hide_border=true" width="360px" height="170px"> -->
     </td>
   </tr>
 </table>
@@ -215,7 +213,7 @@ Recent Activity :
 <br></h2>
 
 <!--  Personalised Heroku Instance (But sleeping dynos issue) at: suvraneel-gh-activity-graph.herokuapp.com  -->
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
