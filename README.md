@@ -325,7 +325,6 @@ Recent Activity :
 `[04/25 12:52]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#95`](https://github.com//girlscript/gssoc-website-new/pull/95 'Update info for GSSoC\'23') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/23 21:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[03/28 04:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[03/25 12:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Suvraneel/SynthArt](https://github.com/Suvraneel/SynthArt)  
 
 </details>
 <!--END_SECTION:activity-->
