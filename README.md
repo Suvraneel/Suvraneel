@@ -217,14 +217,18 @@ Recent Activity :
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
+`[07/02 08:02]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#135`](https://github.com//girlscript/gssoc-website-new/pull/135 'feat(search): added search tags to projects') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[07/02 08:00]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#135`](https://github.com//girlscript/gssoc-website-new/issues/135 'feat(search): added search tags to projects') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[07/02 07:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#136`](https://github.com//girlscript/gssoc-website-new/issues/136 '[Enhancement] : Fixing FAQ section') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[07/02 07:50]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#137`](https://github.com//girlscript/gssoc-website-new/issues/137 'Hover for tech tags not Working with the light theme on Projects') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[07/01 22:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[06/29 16:51]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#100`](https://github.com//girlscript/gssoc-website-new/issues/100 'Change Theme Button is hidden on Medium screen') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[06/29 16:50]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#134`](https://github.com//girlscript/gssoc-website-new/issues/134 'fixed ThemeBtn in md Screens') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[06/29 16:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[06/29 16:47]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#134`](https://github.com//girlscript/gssoc-website-new/pull/134 'fixed ThemeBtn in md Screens') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[06/29 16:47]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#134`](https://github.com//girlscript/gssoc-website-new/issues/134 'fixed ThemeBtn in md Screens') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[06/29 16:37]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#133`](https://github.com//girlscript/gssoc-website-new/issues/133 'feat: add tags for better search ') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[06/28 22:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
