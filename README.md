@@ -348,7 +348,6 @@ Recent Activity :
 `[05/16 19:38]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#103`](https://github.com//girlscript/gssoc-website-new/pull/103 'Change Theme Button visible now in md screen') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[05/16 19:38]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#103`](https://github.com//girlscript/gssoc-website-new/pull/103 'Change Theme Button visible now in md screen') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[05/16 19:21]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#85`](https://github.com//girlscript/gssoc-website-new/issues/85 'Enhancements to makeshift pages under `More` for GSSoC 2023 :octocat: ') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[04/27 20:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
