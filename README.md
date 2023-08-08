@@ -217,7 +217,7 @@ Recent Activity :
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
-`[08/07 21:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[08/08 22:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[07/31 21:31]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Subha0627/Large-Graph-Analysis-and-Enhancement](https://github.com/Subha0627/Large-Graph-Analysis-and-Enhancement) to [Suvraneel/Large-Graph-Analysis-and-Enhancement](https://github.com/Suvraneel/Large-Graph-Analysis-and-Enhancement)  
 `[07/31 21:30]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Subha0627/Large-Graph-Analysis-and-Enhancement](https://github.com/Subha0627/Large-Graph-Analysis-and-Enhancement) to [Suvraneel/Large-Graph-Analysis-and-Enhancement](https://github.com/Suvraneel/Large-Graph-Analysis-and-Enhancement)  
 `[07/31 21:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
