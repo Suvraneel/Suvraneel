@@ -217,14 +217,16 @@ Recent Activity :
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
+`[08/21 21:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
+`[08/21 21:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[08/08 22:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[07/31 21:31]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Subha0627/Large-Graph-Analysis-and-Enhancement](https://github.com/Subha0627/Large-Graph-Analysis-and-Enhancement) to [Suvraneel/Large-Graph-Analysis-and-Enhancement](https://github.com/Suvraneel/Large-Graph-Analysis-and-Enhancement)  
 `[07/31 21:30]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Subha0627/Large-Graph-Analysis-and-Enhancement](https://github.com/Subha0627/Large-Graph-Analysis-and-Enhancement) to [Suvraneel/Large-Graph-Analysis-and-Enhancement](https://github.com/Suvraneel/Large-Graph-Analysis-and-Enhancement)  
-`[07/31 21:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[07/25 20:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Open-Sorcerer/Vyper](https://github.com/Open-Sorcerer/Vyper)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[07/31 21:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[07/25 20:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Open-Sorcerer/Vyper](https://github.com/Open-Sorcerer/Vyper)  
 `[07/25 20:21]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//Open-Sorcerer/Vyper/pull/1 'Update README.md') in [Open-Sorcerer/Vyper](https://github.com/Open-Sorcerer/Vyper)  
 `[07/25 20:21]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//Open-Sorcerer/Vyper/issues/1 'Update README.md') in [Open-Sorcerer/Vyper](https://github.com/Open-Sorcerer/Vyper)  
 `[07/25 20:20]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1`](https://github.com//Open-Sorcerer/Vyper/pull/1 'Update README.md') in [Open-Sorcerer/Vyper](https://github.com/Open-Sorcerer/Vyper)  
