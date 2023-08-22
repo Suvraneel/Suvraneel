@@ -359,6 +359,14 @@ Recent Activity :
 </details>-->
 
 <details>
+  <summary> <b> :feelsgood: Dev Stats </b> </summary>
+  <img width="45%" src="https://stats.quine.sh/Suvraneel/dependencies?theme=dark"/>
+  <img width="45%" src="https://stats.quine.sh/Suvraneel/web3?theme=dark"/>
+  <img width="90%" src="https://stats.quine.sh/Suvraneel/topics-over-time?theme=dark"/>
+  <img width="90%" src="https://stats.quine.sh/Suvraneel/languages-over-time?theme=dark"/>
+</details>
+
+<details>
   <summary> <b>  🫀 GitHub Fam </b></summary>
 <img src="https://github.com/Suvraneel/Suvraneel/blob/master/metrics.plugin.people.followers.svg">
 </details>
