@@ -331,7 +331,6 @@ Recent Activity :
 `[06/10 11:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Venom-Next](https://github.com/Suvraneel/Venom-Next)  
 `[06/07 19:39]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#114`](https://github.com//girlscript/gssoc-website-new/issues/114 'Social Flow icon not visible when scrolled to bottom of page in dark mode') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[06/07 19:34]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#114`](https://github.com//girlscript/gssoc-website-new/issues/114 'Social Flow icon not visible when scrolled to bottom of page in dark mode') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[06/03 10:42]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#106`](https://github.com//girlscript/gssoc-website-new/issues/106 '[BUG] Dark Mode Switch') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 </details>
 <!--END_SECTION:activity-->
