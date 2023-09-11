@@ -331,7 +331,6 @@ Recent Activity :
 `[06/11 10:36]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#116`](https://github.com//girlscript/gssoc-website-new/pull/116 'Schedule Updated #solves 111') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[06/11 10:36]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#116`](https://github.com//girlscript/gssoc-website-new/pull/116 'Schedule Updated #solves 111') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[06/11 10:36]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#116`](https://github.com//girlscript/gssoc-website-new/pull/116 'Schedule Updated #solves 111') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[06/10 11:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Venom-Next](https://github.com/Suvraneel/Venom-Next)  
 
 </details>
 <!--END_SECTION:activity-->
