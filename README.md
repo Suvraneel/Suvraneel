@@ -217,7 +217,7 @@ Recent Activity :
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
-`[09/12 14:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/builderz-xNFT-scaffold-next](https://github.com/Suvraneel/builderz-xNFT-scaffold-next)  
+`[09/12 14:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/builderz-xNFT-scaffold-next](https://github.com/Suvraneel/builderz-xNFT-scaffold-next)  
 `[09/12 14:50]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//builderz-labs/builderz-xNFT-scaffold-next/pull/2 'migrated to NextJS 13 app directory structure :octocat:') in [builderz-labs/builderz-xNFT-scaffold-next](https://github.com/builderz-labs/builderz-xNFT-scaffold-next)  
 `[09/12 14:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/builderz-xNFT-scaffold-next](https://github.com/Suvraneel/builderz-xNFT-scaffold-next)  
 `[09/12 14:45]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [builderz-labs/builderz-xNFT-scaffold-next](https://github.com/builderz-labs/builderz-xNFT-scaffold-next) to [Suvraneel/builderz-xNFT-scaffold-next](https://github.com/Suvraneel/builderz-xNFT-scaffold-next)  
