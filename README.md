@@ -2,6 +2,9 @@
 [![Header](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/Github%20readme%20Header.png "Portfolio Website")]
 (https://suvraneel.github.io/)
 -->
+![image](https://github.com/Suvraneel/Suvraneel/assets/63473496/ce9bd7bb-78c7-4057-9168-a34a650ef64f)
+
+
 <p align="center">
 <img src="https://profile-counter.glitch.me/{Suvraneel}/count.svg"></p>
 
