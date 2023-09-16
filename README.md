@@ -220,7 +220,7 @@ Recent Activity :
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
-`[09/16 15:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Open-Sorcerer/CrossChainCanvas](https://github.com/Open-Sorcerer/CrossChainCanvas)  
+`[09/16 22:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Open-Sorcerer/CrossChainCanvas](https://github.com/Open-Sorcerer/CrossChainCanvas)  
 `[09/16 15:23]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Open-Sorcerer/CrossChainCanvas/tree/main) in [Open-Sorcerer/CrossChainCanvas](https://github.com/Open-Sorcerer/CrossChainCanvas)  
 `[09/16 15:21]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Open-Sorcerer/CrossChainCanvas](https://github.com/Open-Sorcerer/CrossChainCanvas)  
 `[09/15 17:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
