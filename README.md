@@ -13,7 +13,7 @@
   <img align="left" src="https://media.tenor.com/images/043986fe5f470eeb6d86515e6cda30fe/tenor.gif" width="50">
 </p>
 <br>
-<a href="https://suvraneel.software" target="_blank"><img align='right' src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/readme_banner.gif" width="38%" height="auto"></a>
+<a href="https://suvraneel.software" target="_blank"><img align='right' src="https://github.com/Suvraneel/Suvraneel/assets/63473496/af7a7df4-fa65-4c8c-941b-fcda66e5dc88" width="38%" height="auto"></a>
 <br>
 
 - :electron: &nbsp;Feel free to check out my website :  
