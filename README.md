@@ -1,39 +1,34 @@
-<!--
-[![Header](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/Github%20readme%20Header.png "Portfolio Website")]
-(https://suvraneel.github.io/)
--->
-![image](https://github.com/Suvraneel/Suvraneel/assets/63473496/ce9bd7bb-78c7-4057-9168-a34a650ef64f)
+
+[![Header](https://github.com/Suvraneel/Suvraneel/assets/63473496/ce9bd7bb-78c7-4057-9168-a34a650ef64f)](https://suvraneel.github.io/)
 
 
 <p align="center">
 <img src="https://profile-counter.glitch.me/{Suvraneel}/count.svg"></p>
 
 <p>
-  <a href=https://open.spotify.com/user/4bio4arq8izb9sba4ly6al54v>
+  <a href="https://open.spotify.com/user/4bio4arq8izb9sba4ly6al54v">
    <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=4bio4arq8izb9sba4ly6al54v&cover_image=true&theme=novatorem">
   </a>
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&color=F70000&size=30&center=true&vCenter=true&multiline=true&weight=100&height=100&width=220&lines=Hey+there%2C;I'm+Suvraneel+!">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Raleway&color=F70000&size=30&center=true&vCenter=true&multiline=true&weight=400&height=100&width=220&lines=Hey+there%2C;I%27m+Suvraneel+!">
   <img align="left" src="https://media.tenor.com/images/043986fe5f470eeb6d86515e6cda30fe/tenor.gif" width="50">
 </p>
 <br>
-<a href="https://suvraneel.software" target="_blank"><img align='right' src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/readme_banner.gif" width="240" height="auto"></a>
+<a href="https://suvraneel.software" target="_blank"><img align='right' src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/readme_banner.gif" width="260" height="auto"></a>
 <br>
 
-- :electron: &nbsp;[![Portfolio](https://img.shields.io/badge/suvraneel%2Esoftware-PortFolio-grey?style=for-the-badge&logo=Scribd&labelColor=013243&color=bf2004)](https://suvraneel.software)
+- :electron: &nbsp;Feel free to check out my website :[![Portfolio](https://img.shields.io/badge/suvraneel%2Esoftware-PortFolio-grey?style=for-the-badge&logo=Scribd&labelColor=013243&color=bf2004)](https://suvraneel.software)
 - :octocat: &nbsp;[![Resume](https://img.shields.io/badge/Suvraneel%20Bhuin-RESUME-blue?style=for-the-badge&logo=Sega&labelColor=0d182b)](https://suvraneel.github.io/Resume)
-- :computer: &nbsp;I’m currently pursuing B.Tech in **Computer Science & Engineering** at the  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[University College of Science & Technology (UCST)](http://www.caluniv-ucsta.net/),  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Calcutta**
+- :computer: &nbsp;I’m a recent graduate of B.Tech in **Computer Science & Engineering** from the  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[University College of Science & Technology (UCST)](http://www.caluniv-ucsta.net/),University of Calcutta**
 - :crystal_ball: &nbsp;I’m currently toying with 3D UI Designs & Web Technology Frameworks  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Concocting the Web3.0 with a dynamic & intuitive UX, one `div` at a time).
-- :mailbox: &nbsp;You can reach out to me at : ***bsuvraneel@gmail.com***
-- :package: &nbsp;Feel free to check out my website : [***suvraneel.github.io***](https://suvraneel.github.io/)
+- :mailbox: &nbsp;You can reach out to me at : ***<bsuvraneel@gmail.com>***
 - :bowtie: &nbsp;Pronouns: He/Him
 - :video_game: &nbsp;**Hobbies**: Development, Opensource, Coding Communities & Volunteering, PC Gaming, Reading, Soccer
 
-<br>
+<br/>
 
-<br>
+<br/>
 <h2 align=left>
 <img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/social.gif" height="35" width= auto>
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -43,36 +38,12 @@ Connect with me on:
   
 <a href="https://twitter.com/SuvraneelB"><img src="https://user-images.githubusercontent.com/63473496/212667318-969259c1-f51a-47a4-a3e3-8675138bdcec.gif" height="60" width= auto></a> <a href="https://www.linkedin.com/in/suvraneel-bhuin"><img src="https://user-images.githubusercontent.com/63473496/212667680-1ccf7d0a-9f59-4be5-a2d0-b07effb04b6c.gif" height="60" width= auto></a> <a href="https://www.facebook.com/suvraneel.bhuin"><img src="https://user-images.githubusercontent.com/63473496/212667021-d190985a-6977-41bf-8063-d5c09c8abd8c.gif" height="60" width= auto></a> <a href="https://www.instagram.com/el_diablo_suvraneel"><img src="https://user-images.githubusercontent.com/63473496/212668023-3f7aa65f-2a55-44f4-bc11-e1e7fea26cab.gif" height="60" width= auto></a> <a href="https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!"><img src="https://user-images.githubusercontent.com/63473496/212668258-a33f94f5-0baf-4ab5-a2ac-83adafa8ecf0.gif" height="60" width= auto></a> <a href="https://discord.com/users/851345743935045652/"><img src="https://user-images.githubusercontent.com/63473496/212670527-afccf7ca-4dfc-4f4c-bf91-19287be8a679.gif" height="60" width= auto></a>
 
-
-<!--
-<p>
-<a href="https://www.linkedin.com/in/suvraneel-bhuin" target="_blank">
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/in.png#gh-light-mode-only" height="70" width= auto></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/el_diablo_suvraneel" target="_blank">
-<img src="https://github.com/Suvraneel/Suvraneel/blob/master/res/ig.png#gh-light-mode-only" height="70" width= auto></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Suvraneel" target="_blank">
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/github.png" height="35" width= auto></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/suvraneel.bhuin" target="_blank">
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/fb.png#gh-light-mode-only" height="70" width= auto></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discord.com/users/851345743935045652/" id="discord">
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/dc.jpg#gh-light-mode-only" height="70" width= auto></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!" id="whatsapp">
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/wp.png#gh-light-mode-only" height="70" width= auto></a> 
-</p>
--->
-
-<br>
+<br/>
 <h2 align=left>
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/target.gif" height="40" width= auto>
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/target.gif" height="40" width="auto">
 &nbsp;&nbsp;&nbsp;&nbsp;
 Find me on Coding Platforms:
 <br></h2>
-
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-da8200?style=for-the-badge&logo=LeetCode&logoColor=ffa116&labelColor=black)](https://leetcode.com/Suvraneel/)
 [![CodeChef](https://img.shields.io/badge/Codechef-372a22?&style=for-the-badge&logo=Codechef&logoColor=red&labelColor=black)](https://www.codechef.com/users/suvraneel)
@@ -82,7 +53,6 @@ Find me on Coding Platforms:
  <!-- 
  [![HackerEarth - hidden](https://img.shields.io/badge/HackerEarth-2C3454?&style=for-the-badge&logo=HackerEarth&logoColor=5464a1&labelColor=040407")](https://www.hackerearth.com/@bsuvraneel) 
  -->
-
 
 <!-- Attribution: "Icon made by Freepik from www.flaticon.com"-->
 <!--
@@ -101,7 +71,6 @@ Find me on Coding Platforms:
 Competencies:
 <br></h2>
 
-
 <table>
 <tr>
 <td><h4>Programming Languages</h4></td>
@@ -110,7 +79,7 @@ Competencies:
 <a href="https://github.com/search?q=user%3ASuvraneel+language%3AJava&type=Code"><img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=OpenJDK&logoColor=ff7019&labelColor=141819&color=ff7019"/></a>  
 <a href="https://github.com/search?p=4&q=user%3ASuvraneel+language%3AJavaScript&type=Code"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=DFA200" /></a>
 <a href="https://github.com/search?p=4&q=user%3ASuvraneel+language%3ATypeScript&type=Code"><img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&labelColor=black&color=blue" /></a>
-<a href="https://github.com/search?q=user%3ASuvraneel+language%3ASolidity&type=Code"><img src="https://img.shields.io/badge/Solidity-white?style=for-the-badge&logo=solidity&labelColor=black&color=EAEAEA" /></a>   
+<a href="https://github.com/search?q=user%3ASuvraneel+language%3ASolidity&type=Code"><img src="https://img.shields.io/badge/Solidity-white?style=for-the-badge&logo=solidity&labelColor=black&color=EAEAEA" /></a>
 </td></tr>
 
 <tr>
@@ -169,8 +138,6 @@ Competencies:
 
   </td></tr>
 </table>
-
-
 
 <br>
 <h2 align=left>
@@ -364,9 +331,4 @@ Recent Activity :
 <img src="https://github.com/Suvraneel/Suvraneel/blob/master/metrics.plugin.achievements.svg">
 </details><br>
 
-
-
-
-
-###### Show some ❤️ by ⭐ing some of the repos. I'd really appreciate it.
-
+###### Show some ❤️ by ⭐ing some of the repos. I'd really appreciate it
