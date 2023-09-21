@@ -7,7 +7,7 @@
 
 <p>
   <a href="https://open.spotify.com/user/4bio4arq8izb9sba4ly6al54v">
-   <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=4bio4arq8izb9sba4ly6al54v&cover_image=true&theme=novatorem">
+   <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=4bio4arq8izb9sba4ly6al54v&cover_image=true&theme=novatorem" width="39%">
   </a>
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Raleway&color=F70000&size=30&center=true&vCenter=true&multiline=true&weight=400&height=100&width=220&lines=Hey+there%2C;I%27m+Suvraneel+!">
   <img align="left" src="https://media.tenor.com/images/043986fe5f470eeb6d86515e6cda30fe/tenor.gif" width="50">
