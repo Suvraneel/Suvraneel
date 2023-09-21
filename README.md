@@ -13,7 +13,7 @@
   <img align="left" src="https://media.tenor.com/images/043986fe5f470eeb6d86515e6cda30fe/tenor.gif" width="50">
 </p>
 <br>
-<a href="https://suvraneel.software" target="_blank"><img align='right' src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/readme_banner.gif" width="280" height="auto"></a>
+<a href="https://suvraneel.software" target="_blank"><img align='right' src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/readme_banner.gif" width="40%" height="auto"></a>
 <br>
 
 - :electron: &nbsp;Feel free to check out my website :  
@@ -21,8 +21,7 @@
 - :octocat: &nbsp;Here is my updated Resume:  
   [![Resume](https://img.shields.io/badge/Suvraneel%20Bhuin-RESUME-blue?style=for-the-badge&logo=Sega&labelColor=0d182b)](https://suvraneel.github.io/Resume)
 - :computer: &nbsp;I’m a recent graduate of B.Tech in **Computer Science & Engineering** from the **[University of Calcutta](https://www.caluniv.ac.in/)**
-- :crystal_ball: &nbsp;I’m currently toying with 3D UI Designs & Web Technology Frameworks  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Concocting the Web3.0 with a dynamic & intuitive UX, one `div` at a time).
+- :crystal_ball: &nbsp;I’m currently toying with 3D UI Designs & Web Technology Frameworks (Concocting the Web3.0 with a dynamic & intuitive UX, one `div` at a time).
 - :mailbox: &nbsp;You can reach out to me at : ***<bsuvraneel@gmail.com>***
 - :bowtie: &nbsp;Pronouns: He/Him
 - :video_game: &nbsp;**Hobbies**: Development, Opensource, Coding Communities & Volunteering, PC Gaming, Reading, Soccer
