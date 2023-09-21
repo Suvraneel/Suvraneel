@@ -37,10 +37,7 @@
 <div align=left><img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/social.gif" height="35" width= auto>
 &nbsp;&nbsp;&nbsp;&nbsp;
 Connect with me on:</div>
-<div align=right>🐦 Latest Tweet</div>
 </h2>
-
-<a href="https://twitter.com/SuvraneelB" target="_blank"><img align='right' src="https://gtce.itsvg.in/api?username=SuvraneelB&hide_border=true&theme=vision-friendly-dark" width="400" height="auto"></a>
 
 <!-- [![GitHub-Mark-Light](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/in.png#gh-light-mode-only)![GitHub-Mark-Dark](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/in.png#gh-dark-mode-only)](https://www.linkedin.com/in/suvraneel-bhuin) -->
   
