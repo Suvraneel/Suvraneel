@@ -16,10 +16,11 @@
 <a href="https://suvraneel.software" target="_blank"><img align='right' src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/readme_banner.gif" width="260" height="auto"></a>
 <br>
 
-- :electron: &nbsp;Feel free to check out my website :[![Portfolio](https://img.shields.io/badge/suvraneel%2Esoftware-PortFolio-grey?style=for-the-badge&logo=Scribd&labelColor=013243&color=bf2004)](https://suvraneel.software)
-- :octocat: &nbsp;[![Resume](https://img.shields.io/badge/Suvraneel%20Bhuin-RESUME-blue?style=for-the-badge&logo=Sega&labelColor=0d182b)](https://suvraneel.github.io/Resume)
-- :computer: &nbsp;I’m a recent graduate of B.Tech in **Computer Science & Engineering** from the  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[University College of Science & Technology (UCST)](http://www.caluniv-ucsta.net/),University of Calcutta**
+- :electron: &nbsp;Feel free to check out my website :  
+[![Portfolio](https://img.shields.io/badge/suvraneel%2Esoftware-PortFolio-grey?style=for-the-badge&logo=Scribd&labelColor=013243&color=bf2004)](https://suvraneel.software)
+- :octocat: &nbsp;Here is my updated Resume:  
+  [![Resume](https://img.shields.io/badge/Suvraneel%20Bhuin-RESUME-blue?style=for-the-badge&logo=Sega&labelColor=0d182b)](https://suvraneel.github.io/Resume)
+- :computer: &nbsp;I’m a recent graduate of B.Tech in **Computer Science & Engineering** from the **[University of Calcutta](https://www.caluniv.ac.in/)**
 - :crystal_ball: &nbsp;I’m currently toying with 3D UI Designs & Web Technology Frameworks  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Concocting the Web3.0 with a dynamic & intuitive UX, one `div` at a time).
 - :mailbox: &nbsp;You can reach out to me at : ***<bsuvraneel@gmail.com>***
