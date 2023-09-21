@@ -27,23 +27,36 @@
 - :video_game: &nbsp;**Hobbies**: Development, Opensource, Coding Communities & Volunteering, PC Gaming, Reading, Soccer
 
 <br/>
+<br/>
+<div id="connect">
+  <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github.com/Suvraneel/Suvraneel/assets/63473496/6c2a1b4f-2aeb-4ffd-8a31-47a41810dc55" height="35" width="auto">
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;Connect with me on:</span>
+  </h2>
+  <a href="https://twitter.com/SuvraneelB">
+    <img src="https://user-images.githubusercontent.com/63473496/212667318-969259c1-f51a-47a4-a3e3-8675138bdcec.gif" height="60" width= auto>
+  </a>
+  <a href="https://www.linkedin.com/in/suvraneel">
+    <img src="https://user-images.githubusercontent.com/63473496/212667680-1ccf7d0a-9f59-4be5-a2d0-b07effb04b6c.gif" height="60" width= auto>
+  </a>
+  <a href="https://www.facebook.com/suvraneel.bhuin">
+    <img src="https://user-images.githubusercontent.com/63473496/212667021-d190985a-6977-41bf-8063-d5c09c8abd8c.gif" height="60" width= auto></a>
+  <a href="https://www.instagram.com/el_diablo_suvraneel"><img src="https://user-images.githubusercontent.com/63473496/212668023-3f7aa65f-2a55-44f4-bc11-e1e7fea26cab.gif" height="60" width="auto"></a>
+  <a href="https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!">
+    <img src="https://user-images.githubusercontent.com/63473496/212668258-a33f94f5-0baf-4ab5-a2ac-83adafa8ecf0.gif" height="60" width="auto">
+  </a>
+  <a href="https://discord.com/users/851345743935045652/">
+    <img src="https://user-images.githubusercontent.com/63473496/212670527-afccf7ca-4dfc-4f4c-bf91-19287be8a679.gif" height="60" width="auto">
+  </a>
+</div>
 
 <br/>
-<h2 align=left>
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/social.gif" height="35" width= auto>
-&nbsp;&nbsp;&nbsp;&nbsp;
-Connect with me on:
-<br></h2>
-<!-- [![GitHub-Mark-Light](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/in.png#gh-light-mode-only)![GitHub-Mark-Dark](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/in.png#gh-dark-mode-only)](https://www.linkedin.com/in/suvraneel-bhuin) -->
-  
-<a href="https://twitter.com/SuvraneelB"><img src="https://user-images.githubusercontent.com/63473496/212667318-969259c1-f51a-47a4-a3e3-8675138bdcec.gif" height="60" width= auto></a> <a href="https://www.linkedin.com/in/suvraneel-bhuin"><img src="https://user-images.githubusercontent.com/63473496/212667680-1ccf7d0a-9f59-4be5-a2d0-b07effb04b6c.gif" height="60" width= auto></a> <a href="https://www.facebook.com/suvraneel.bhuin"><img src="https://user-images.githubusercontent.com/63473496/212667021-d190985a-6977-41bf-8063-d5c09c8abd8c.gif" height="60" width= auto></a> <a href="https://www.instagram.com/el_diablo_suvraneel"><img src="https://user-images.githubusercontent.com/63473496/212668023-3f7aa65f-2a55-44f4-bc11-e1e7fea26cab.gif" height="60" width= auto></a> <a href="https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!"><img src="https://user-images.githubusercontent.com/63473496/212668258-a33f94f5-0baf-4ab5-a2ac-83adafa8ecf0.gif" height="60" width= auto></a> <a href="https://discord.com/users/851345743935045652/"><img src="https://user-images.githubusercontent.com/63473496/212670527-afccf7ca-4dfc-4f4c-bf91-19287be8a679.gif" height="60" width= auto></a>
-
-<br/>
-<h2 align=left>
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/target.gif" height="40" width="auto">
-&nbsp;&nbsp;&nbsp;&nbsp;
-Find me on Coding Platforms:
-<br></h2>
+<div id="code_plat">
+  <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github.com/Suvraneel/Suvraneel/assets/63473496/6fcc0b23-7e1d-486d-a645-af95004682f8" height="40" width="auto">
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;Coding Platforms y'all can find me on:</span>
+  </h2>
+</div>
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-da8200?style=for-the-badge&logo=LeetCode&logoColor=ffa116&labelColor=black)](https://leetcode.com/Suvraneel/)
 [![CodeChef](https://img.shields.io/badge/Codechef-372a22?&style=for-the-badge&logo=Codechef&logoColor=red&labelColor=black)](https://www.codechef.com/users/suvraneel)
@@ -64,12 +77,13 @@ Find me on Coding Platforms:
 - **WhatsApp**: &nbsp;&nbsp;&nbsp; [+91 7001967224](https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!)
 -->
 
-<br>
-<h2 align=left>
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/ufo.gif" height="50" width= auto>
-&nbsp;&nbsp;&nbsp;&nbsp;
-Competencies:
-<br></h2>
+<br/>
+<div id="competencies">
+  <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github.com/Suvraneel/Suvraneel/assets/63473496/a423ae39-0236-4875-b4e7-748b6a337399" height="50" width= auto>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;Competencies:</span>
+  </h2>
+</div>
 
 <table>
 <tr>
@@ -139,12 +153,13 @@ Competencies:
   </td></tr>
 </table>
 
-<br>
-<h2 align=left>
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/laptop.gif" height="50" width= auto>
-&nbsp;&nbsp;&nbsp;&nbsp;
-Github Stats :
-<br></h2>
+<br/>
+<div id="gh_stats">
+  <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github.com/Suvraneel/Suvraneel/assets/63473496/a4d8a1b7-b832-4a7b-a987-d864b3466288" height="40" width="auto">
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;GitHub Stats:</span>
+  </h2>
+</div>
 
 <table>
   <tr>
@@ -166,18 +181,13 @@ Github Stats :
   </tr>
 </table>
 
-<!--
-  <img align="left" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.isocalendar.svg" width="300" height="180">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=suvraneel&layout=compact&hide_border=true&theme=vision-friendly-dark&langs_count=10&hide=jupyter%20notebook,tex,php" width="300" height="180">
-  <img align="left" src = "https://github-readme-stats.vercel.app/api?username=suvraneel&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="300" height="180">
-  <img align="right" src = "https://github-readme-streak-stats.herokuapp.com?user=suvraneel&theme=vision-friendly-dark&hide_border=true" width="300" height="180">
--->
-
-<h2 align="left">
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/hourglass1.gif" height="50" width= auto>
-&nbsp;&nbsp;&nbsp;&nbsp;
-Recent Activity :
-<br></h2>
+<br/>
+<div id="recent">
+  <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github.com/Suvraneel/Suvraneel/assets/63473496/79d3b4fa-d8fc-4348-94a1-7df5414d1ab3" height="40" width="auto">
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;Recent Activity:</span>
+  </h2>
+</div>
 
 <!--  Personalised Heroku Instance (But sleeping dynos issue) at: suvraneel-gh-activity-graph.herokuapp.com  -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
