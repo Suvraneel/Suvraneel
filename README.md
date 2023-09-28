@@ -278,7 +278,6 @@
 `[06/28 22:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[06/28 21:05]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#134`](https://github.com//girlscript/gssoc-website-new/issues/134 'fixed ThemeBtn in md Screens') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[06/28 21:01]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#133`](https://github.com//girlscript/gssoc-website-new/issues/133 'feat: add tags for better search ') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[06/27 20:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
