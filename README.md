@@ -23,7 +23,7 @@
 - :computer: &nbsp;I recently graduated from the **Dept. of Computer Science & Engineering** at **[University of Calcutta](https://www.caluniv.ac.in/)**
 - :crystal_ball: &nbsp;I’m currently toying with 3D UI Designs & Web Technology Frameworks (Concocting the future of Web 3.0 with a dynamic & intuitive UX, one `div` at a time).
 - :mailbox: &nbsp;You can reach out to me at : ***<bsuvraneel@gmail.com>***
-- :video_game: &nbsp;**Hobbies**: Development, Opensource, Coding Communities & Volunteering, PC Gaming, Reading, Soccer
+- :video_game: &nbsp;**Hobbies**: Development, Opensource, Coding Communities & Volunteering, Public Speaking, PC Gaming, Reading, Soccer
 
 <br/>
 <br/>
