@@ -13,15 +13,15 @@
   <img align="left" src="https://media.tenor.com/images/043986fe5f470eeb6d86515e6cda30fe/tenor.gif" width="50">
 </p>
 <br>
-<a href="https://suvraneel.software" target="_blank"><img align='right' src="https://github.com/Suvraneel/Suvraneel/assets/63473496/af7a7df4-fa65-4c8c-941b-fcda66e5dc88" width="38%" height="auto"></a>
+<a href="https://suvraneel.software" target="_blank"><img align='right' src="https://github.com/Suvraneel/Suvraneel/assets/63473496/af7a7df4-fa65-4c8c-941b-fcda66e5dc88" width="22%" height="auto"></a>
 <br>
 
 - :electron: &nbsp;Feel free to check out my website :  
 [![Portfolio](https://img.shields.io/badge/suvraneel%2Esoftware-PortFolio-grey?style=for-the-badge&logo=Scribd&labelColor=013243&color=bf2004)](https://suvraneel.software)
 - :octocat: &nbsp;Here is my updated Resume:  
   [![Resume](https://img.shields.io/badge/Suvraneel%20Bhuin-RESUME-blue?style=for-the-badge&logo=Sega&labelColor=0d182b)](https://suvraneel.github.io/Resume)
-- :computer: &nbsp;I’m a recent graduate of B.Tech in **Computer Science & Engineering** from the **[University of Calcutta](https://www.caluniv.ac.in/)**
-- :crystal_ball: &nbsp;I’m currently toying with 3D UI Designs & Web Technology Frameworks (Concocting the Web3.0 with a dynamic & intuitive UX, one `div` at a time).
+- :computer: &nbsp;I recently graduated from the **Dept. of Computer Science & Engineering** at **[University of Calcutta](https://www.caluniv.ac.in/)**
+- :crystal_ball: &nbsp;I’m currently toying with 3D UI Designs & Web Technology Frameworks (Concocting the future of Web 3.0 with a dynamic & intuitive UX, one `div` at a time).
 - :mailbox: &nbsp;You can reach out to me at : ***<bsuvraneel@gmail.com>***
 - :video_game: &nbsp;**Hobbies**: Development, Opensource, Coding Communities & Volunteering, PC Gaming, Reading, Soccer
 
