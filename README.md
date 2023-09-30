@@ -23,7 +23,6 @@
 - :computer: &nbsp;I’m a recent graduate of B.Tech in **Computer Science & Engineering** from the **[University of Calcutta](https://www.caluniv.ac.in/)**
 - :crystal_ball: &nbsp;I’m currently toying with 3D UI Designs & Web Technology Frameworks (Concocting the Web3.0 with a dynamic & intuitive UX, one `div` at a time).
 - :mailbox: &nbsp;You can reach out to me at : ***<bsuvraneel@gmail.com>***
-- :bowtie: &nbsp;Pronouns: He/Him
 - :video_game: &nbsp;**Hobbies**: Development, Opensource, Coding Communities & Volunteering, PC Gaming, Reading, Soccer
 
 <br/>
