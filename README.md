@@ -269,7 +269,7 @@
 `[07/02 08:00]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#135`](https://github.com//girlscript/gssoc-website-new/issues/135 'feat(search): added search tags to projects') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[07/02 07:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#136`](https://github.com//girlscript/gssoc-website-new/issues/136 '[Enhancement] : Fixing FAQ section') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[07/02 07:50]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#137`](https://github.com//girlscript/gssoc-website-new/issues/137 'Hover for tech tags not Working with the light theme on Projects') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[07/01 22:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[07/01 22:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
