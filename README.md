@@ -264,8 +264,6 @@
 `[07/05 21:03]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#135`](https://github.com//girlscript/gssoc-website-new/pull/135 'feat(search): added search tags to projects') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[07/05 21:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [shobhitexe/gssoc-website-new](https://github.com/shobhitexe/gssoc-website-new)  
 `[07/05 20:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[07/03 16:45]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3`](https://github.com//girlscript/gssoc22-leaderboard-backend/issues/3 'Enhance ranking logic to prioritize contributors with more Pull Requests') in [girlscript/gssoc22-leaderboard-backend](https://github.com/girlscript/gssoc22-leaderboard-backend)  
-`[07/03 16:45]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#3`](https://github.com//girlscript/gssoc22-leaderboard-backend/issues/3 'Enhance ranking logic to prioritize contributors with more Pull Requests') in [girlscript/gssoc22-leaderboard-backend](https://github.com/girlscript/gssoc22-leaderboard-backend)  
 
 </details>
 <!--END_SECTION:activity-->
