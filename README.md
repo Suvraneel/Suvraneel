@@ -193,14 +193,18 @@
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
+`[10/15 13:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/supermeets](https://github.com/Suvraneel/supermeets)  
+`[10/15 13:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Open-Sorcerer/supermeets](https://github.com/Open-Sorcerer/supermeets)  
+`[10/15 13:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/supermeets](https://github.com/Suvraneel/supermeets)  
+`[10/15 13:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Open-Sorcerer/supermeets](https://github.com/Open-Sorcerer/supermeets)  
 `[10/15 08:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/supermeets](https://github.com/Suvraneel/supermeets)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[10/15 08:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Open-Sorcerer/supermeets](https://github.com/Open-Sorcerer/supermeets)  
 `[10/15 08:25]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Open-Sorcerer/supermeets](https://github.com/Open-Sorcerer/supermeets) to [Suvraneel/supermeets](https://github.com/Suvraneel/supermeets)  
 `[10/06 17:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Suvraneel/xdc-ai-minter](https://github.com/Suvraneel/xdc-ai-minter)  
 `[10/06 16:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Open-Sorcerer/xdc-mint-wiz](https://github.com/Open-Sorcerer/xdc-mint-wiz)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[10/06 16:37]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//Open-Sorcerer/xdc-mint-wiz/pull/2 'Update README.md') in [Open-Sorcerer/xdc-mint-wiz](https://github.com/Open-Sorcerer/xdc-mint-wiz)  
 `[10/06 16:37]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//Open-Sorcerer/xdc-mint-wiz/issues/2 'Update README.md') in [Open-Sorcerer/xdc-mint-wiz](https://github.com/Open-Sorcerer/xdc-mint-wiz)  
 `[10/06 16:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Open-Sorcerer/xdc-mint-wiz](https://github.com/Open-Sorcerer/xdc-mint-wiz)  
