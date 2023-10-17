@@ -269,7 +269,6 @@
 `[07/25 19:01]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Open-Sorcerer/Vyper-Vite](https://github.com/Open-Sorcerer/Vyper-Vite)  
 `[07/25 18:59]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Open-Sorcerer/Vyper-Next/tree/main) in [Open-Sorcerer/Vyper-Next](https://github.com/Open-Sorcerer/Vyper-Next)  
 `[07/25 18:55]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Open-Sorcerer/Vyper-Next](https://github.com/Open-Sorcerer/Vyper-Next)  
-`[07/16 22:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [Open-Sorcerer/flow-arcade](https://github.com/Open-Sorcerer/flow-arcade)  
 
 </details>
 <!--END_SECTION:activity-->
