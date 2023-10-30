@@ -193,14 +193,22 @@
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
+`[10/30 18:16]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#4`](https://github.com//Open-Sorcerer/Gotilo/pull/4 'Added names to Its A Match screen 🔥 ') in [Open-Sorcerer/Gotilo](https://github.com/Open-Sorcerer/Gotilo)  
+`[10/30 18:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/Converse](https://github.com/Suvraneel/Converse)  
+`[10/30 17:45]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//Open-Sorcerer/Converse/pull/3 'Added Name Edit 🎇 ') in [Open-Sorcerer/Converse](https://github.com/Open-Sorcerer/Converse)  
+`[10/30 17:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Open-Sorcerer/Converse](https://github.com/Open-Sorcerer/Converse)  
+`[10/30 17:43]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3`](https://github.com//Open-Sorcerer/Converse/pull/3 'Added Name Edit 🎇 ') in [Open-Sorcerer/Converse](https://github.com/Open-Sorcerer/Converse)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[10/30 17:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/Converse](https://github.com/Suvraneel/Converse)  
+`[10/30 17:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Open-Sorcerer/Converse](https://github.com/Open-Sorcerer/Converse)  
+`[10/30 17:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [Suvraneel/Converse](https://github.com/Suvraneel/Converse)  
 `[10/29 09:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/SpringInit](https://github.com/Suvraneel/SpringInit)  
 `[10/29 09:01]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Suvraneel/SpringInit/tree/main) in [Suvraneel/SpringInit](https://github.com/Suvraneel/SpringInit)  
 `[10/29 09:01]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Suvraneel/SpringInit](https://github.com/Suvraneel/SpringInit)  
 `[10/25 12:55]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`xmtp`](https://github.com/Suvraneel/Converse/tree/xmtp) in [Suvraneel/Converse](https://github.com/Suvraneel/Converse)  
 `[10/25 12:54]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//Open-Sorcerer/Converse/issues/2 'Spline update') in [Open-Sorcerer/Converse](https://github.com/Open-Sorcerer/Converse)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[10/25 12:54]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//Open-Sorcerer/Converse/pull/2 'Spline update') in [Open-Sorcerer/Converse](https://github.com/Open-Sorcerer/Converse)  
 `[10/25 12:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/Converse](https://github.com/Suvraneel/Converse)  
 `[10/25 03:57]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//Open-Sorcerer/Converse/pull/1 'connectkit added :rainbow:') in [Open-Sorcerer/Converse](https://github.com/Open-Sorcerer/Converse)  
