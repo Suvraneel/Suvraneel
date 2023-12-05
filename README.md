@@ -281,7 +281,6 @@
 `[09/12 14:45]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [builderz-labs/builderz-xNFT-scaffold-next](https://github.com/builderz-labs/builderz-xNFT-scaffold-next) to [Suvraneel/builderz-xNFT-scaffold-next](https://github.com/Suvraneel/builderz-xNFT-scaffold-next)  
 `[09/10 15:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[09/09 10:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)  
-`[09/04 12:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [loettz/interview-process-survival](https://github.com/loettz/interview-process-survival)  
 
 </details>
 <!--END_SECTION:activity-->
