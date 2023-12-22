@@ -268,7 +268,6 @@
 `[09/27 19:40]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Open-Sorcerer/EthComVerse](https://github.com/Open-Sorcerer/EthComVerse) to [Suvraneel/EthComVerse](https://github.com/Suvraneel/EthComVerse)  
 `[09/27 18:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Open-Sorcerer/EthComVerse](https://github.com/Open-Sorcerer/EthComVerse)  
 `[09/22 14:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[09/21 08:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 
 </details>
 <!--END_SECTION:activity-->
