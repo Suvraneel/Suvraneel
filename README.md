@@ -1,30 +1,27 @@
 
 [![Header](https://github.com/Suvraneel/Suvraneel/assets/63473496/ce9bd7bb-78c7-4057-9168-a34a650ef64f)](https://suvraneel.github.io/)
 
-
-<p align="center">
-<img src="https://profile-counter.glitch.me/{Suvraneel}/count.svg"></p>
-
 <p>
   <a href="https://open.spotify.com/user/4bio4arq8izb9sba4ly6al54v">
    <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=4bio4arq8izb9sba4ly6al54v&cover_image=true&theme=novatorem" width="39%">
   </a>
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Raleway&color=F70000&size=30&center=true&vCenter=true&multiline=true&weight=400&height=100&width=220&lines=Hey+there%2C;I%27m+Suvraneel+!">
-  <img align="left" src="https://media.tenor.com/images/043986fe5f470eeb6d86515e6cda30fe/tenor.gif" width="50">
+  <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+    <img align="left" src="https://media.tenor.com/images/043986fe5f470eeb6d86515e6cda30fe/tenor.gif" width="50">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&color=F70000&size=28&center=true&vCenter=true&multiline=true&weight=400&height=100&width=220&lines=Hey+there%2C;I%27m+Suvraneel+!">
+    <br />
+    <img alt="visitor's count" src="https://profile-counter.glitch.me/{Suvraneel}/count.svg">
+  </div>
 </p>
-<br>
-<a href="https://suvraneel.tech" target="_blank"><img align='right' src="https://github.com/Suvraneel/Suvraneel/assets/63473496/af7a7df4-fa65-4c8c-941b-fcda66e5dc88" width="22%" height="auto"></a>
+<a href="https://suvraneel.tech" target="_blank"><img align='right' src="https://github.com/Suvraneel/Suvraneel/assets/63473496/af7a7df4-fa65-4c8c-941b-fcda66e5dc88" width="25%" height="auto"></a>
 <br>
 
-- :electron: &nbsp;Feel free to check out my website  
-[![Portfolio](https://img.shields.io/badge/suvraneel%2Etech-PortFolio-grey?style=for-the-badge&logo=Scribd&labelColor=013243&color=bf2004)](https://suvraneel.tech)
-- :octocat: &nbsp;Here is my updated Resume  
-  [![Resume](https://img.shields.io/badge/Suvraneel%20Bhuin-RESUME-blue?style=for-the-badge&logo=Sega&labelColor=0d182b)](https://suvraneel.github.io/Resume)
-- :feelsgood: &nbsp; Explore all my hackathon projects here  
-  [![Organisation](https://img.shields.io/badge/Organisation-OpenSorcerer-white?style=for-the-badge&logo=Opera&labelColor=0d182b)](https://github.com/Open-Sorcerer)
-- :computer: &nbsp;I recently graduated from the **Dept. of Computer Science & Engineering** at **[University of Calcutta](https://www.caluniv.ac.in/)**
-- :crystal_ball: &nbsp;I’m currently toying with 3D UI Designs & Web Technology Frameworks (Concocting the future of Web 3.0 with a dynamic & intuitive UX, one `div` at a time).
-- 📬 &nbsp;You can reach out to me at : ***<bsuvraneel@gmail.com>***
+[![Portfolio](https://img.shields.io/badge/Feel_free_to_check_out_my_PortFolio_Website-suvraneel%2Etech-grey?style=for-the-badge&logo=Scribd&labelColor=013243&color=bf2004)](https://suvraneel.tech)  
+[![Resume](https://img.shields.io/badge/Here's_my_updated_resume-Suvraneel%20Bhuin-blue?style=for-the-badge&logo=Sega&labelColor=0d182b)](https://suvraneel.github.io/Resume)  
+[![Organisation](https://img.shields.io/badge/Organisation\Collection_of_all_my_projects-OpenSorcerer-white?style=for-the-badge&logo=Opera&labelColor=1d182b)](https://github.com/Open-Sorcerer)  
+[![Email](https://img.shields.io/badge/Reach_out_to_me_at_-official@suvraneel.tech-purple?style=for-the-badge&logo=Scribd&labelColor=2f182b)](mailto:official@suvraneel.tech)
+- :crystal_ball: &nbsp;I’m currently toying with 3D UI Designs & Web Technology Frameworks  
+  &nbsp; &nbsp; &nbsp; _"Concocting the future of Web 3.0 with a dynamic & intuitive UX, one `div` at a time"_
+- :computer: &nbsp;I recently graduated from the **Dept. of Computer Science & Engg.** at the **[University of Calcutta](https://www.caluniv.ac.in/)**
 - :video_game: &nbsp;**Hobbies**: Development, Opensource, Coding Communities & Volunteering, Public Speaking, PC Gaming, Reading, Soccer
 
 <br/>
@@ -42,7 +39,7 @@
   </a>
   <a href="https://www.facebook.com/suvraneel.bhuin">
     <img src="https://user-images.githubusercontent.com/63473496/212667021-d190985a-6977-41bf-8063-d5c09c8abd8c.gif" height="60" width= auto></a>
-  <a href="https://www.instagram.com/el_diablo_suvraneel"><img src="https://user-images.githubusercontent.com/63473496/212668023-3f7aa65f-2a55-44f4-bc11-e1e7fea26cab.gif" height="60" width="auto"></a>
+  <a href="https://www.instagram.com/suvraneel"><img src="https://user-images.githubusercontent.com/63473496/212668023-3f7aa65f-2a55-44f4-bc11-e1e7fea26cab.gif" height="60" width="auto"></a>
   <a href="https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!">
     <img src="https://user-images.githubusercontent.com/63473496/212668258-a33f94f5-0baf-4ab5-a2ac-83adafa8ecf0.gif" height="60" width="auto">
   </a>
