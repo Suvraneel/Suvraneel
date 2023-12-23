@@ -11,7 +11,6 @@
   </div>
 </p>
 <a href="https://suvraneel.tech" target="_blank"><img align='right' src="https://github.com/Suvraneel/Suvraneel/assets/63473496/af7a7df4-fa65-4c8c-941b-fcda66e5dc88" width="25%" height="auto"></a>
-<br>
 
 [![Portfolio](https://img.shields.io/badge/Feel_free_to_check_out_my_PortFolio_Website-suvraneel%2Etech-grey?style=for-the-badge&logo=Scribd&labelColor=013243&color=bf2004)](https://suvraneel.tech)  
 [![Resume](https://img.shields.io/badge/Here's_my_updated_resume-Suvraneel%20Bhuin-blue?style=for-the-badge&logo=Sega&labelColor=0d182b)](https://suvraneel.tech/docs/Suvraneel_Bhuin_Resume.pdf)  
