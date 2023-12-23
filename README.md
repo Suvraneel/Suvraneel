@@ -14,7 +14,7 @@
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Feel_free_to_check_out_my_PortFolio_Website-suvraneel%2Etech-grey?style=for-the-badge&logo=Scribd&labelColor=013243&color=bf2004)](https://suvraneel.tech)  
-[![Resume](https://img.shields.io/badge/Here's_my_updated_resume-Suvraneel%20Bhuin-blue?style=for-the-badge&logo=Sega&labelColor=0d182b)](https://suvraneel.github.io/Resume)  
+[![Resume](https://img.shields.io/badge/Here's_my_updated_resume-Suvraneel%20Bhuin-blue?style=for-the-badge&logo=Sega&labelColor=0d182b)](https://suvraneel.tech/docs/Suvraneel_Bhuin_Resume.pdf)  
 [![Organisation](https://img.shields.io/badge/Organisation\Collection_of_all_my_projects-OpenSorcerer-white?style=for-the-badge&logo=Opera&labelColor=1d182b)](https://github.com/Open-Sorcerer)  
 [![Email](https://img.shields.io/badge/Reach_out_to_me_at_-official@suvraneel.tech-purple?style=for-the-badge&logo=Scribd&labelColor=2f182b)](mailto:official@suvraneel.tech)
 - :crystal_ball: &nbsp;I’m currently toying with 3D UI Designs & Web Technology Frameworks  
