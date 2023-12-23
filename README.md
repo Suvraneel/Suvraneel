@@ -18,7 +18,7 @@
 [![Email](https://img.shields.io/badge/Reach_out_to_me_at_-official@suvraneel.tech-purple?style=for-the-badge&logo=Scribd&labelColor=2f182b)](mailto:official@suvraneel.tech)
 - :crystal_ball: &nbsp;I’m currently toying with 3D UI Designs & Web Technology Frameworks  
   &nbsp; &nbsp; &nbsp; _"Concocting the future of Web 3.0 with a dynamic & intuitive UX, one `div` at a time"_
-- :computer: &nbsp;I recently graduated from the **Dept. of Computer Science & Engg.** at the **[University of Calcutta](https://www.caluniv.ac.in/)**
+- :computer: &nbsp;I recently graduated from the **Dept of Computer Sc & Engg.** at the **[University of Calcutta](https://www.caluniv.ac.in/)**
 - :video_game: &nbsp;**Hobbies**: Development, Opensource, Coding Communities & Volunteering, Public Speaking, PC Gaming, Reading, Soccer
 
 <br/>
