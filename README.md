@@ -258,7 +258,6 @@
 `[10/06 15:43]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Open-Sorcerer/xdc-ai-minter](https://github.com/Open-Sorcerer/xdc-ai-minter) to [Suvraneel/xdc-ai-minter](https://github.com/Suvraneel/xdc-ai-minter)  
 `[10/02 16:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/EthComVerse](https://github.com/Suvraneel/EthComVerse)  
 `[10/01 16:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [21Z/Microsoft-Office-2021](https://github.com/21Z/Microsoft-Office-2021)  
-`[09/30 16:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 
 </details>
 <!--END_SECTION:activity-->
