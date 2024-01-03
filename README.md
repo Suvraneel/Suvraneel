@@ -256,7 +256,6 @@
 `[10/06 16:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Open-Sorcerer/xdc-mint-wiz](https://github.com/Open-Sorcerer/xdc-mint-wiz)  
 `[10/06 16:15]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//Open-Sorcerer/xdc-mint-wiz/pull/1 'Update README.md') in [Open-Sorcerer/xdc-mint-wiz](https://github.com/Open-Sorcerer/xdc-mint-wiz)  
 `[10/06 15:43]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Open-Sorcerer/xdc-ai-minter](https://github.com/Open-Sorcerer/xdc-ai-minter) to [Suvraneel/xdc-ai-minter](https://github.com/Suvraneel/xdc-ai-minter)  
-`[10/02 16:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/EthComVerse](https://github.com/Suvraneel/EthComVerse)  
 
 </details>
 <!--END_SECTION:activity-->
