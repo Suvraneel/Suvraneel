@@ -249,7 +249,6 @@
 `[10/15 08:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/supermeets](https://github.com/Suvraneel/supermeets)  
 `[10/15 08:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Open-Sorcerer/supermeets](https://github.com/Open-Sorcerer/supermeets)  
 `[10/15 08:25]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Open-Sorcerer/supermeets](https://github.com/Open-Sorcerer/supermeets) to [Suvraneel/supermeets](https://github.com/Suvraneel/supermeets)  
-`[10/06 17:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Suvraneel/xdc-ai-minter](https://github.com/Suvraneel/xdc-ai-minter)  
 
 </details>
 <!--END_SECTION:activity-->
