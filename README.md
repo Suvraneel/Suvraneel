@@ -244,13 +244,7 @@
 `[10/21 05:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[10/21 04:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[10/21 04:35]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`appdir`](https://github.com/Suvraneel/Suvraneel.github.io/tree/appdir) in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
-`[10/16 05:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [Suvraneel/supermeets](https://github.com/Suvraneel/supermeets)  
-`[10/15 13:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Open-Sorcerer/supermeets](https://github.com/Open-Sorcerer/supermeets)  
-`[10/15 13:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/supermeets](https://github.com/Suvraneel/supermeets)  
-`[10/15 13:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Open-Sorcerer/supermeets](https://github.com/Open-Sorcerer/supermeets)  
-`[10/15 08:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/supermeets](https://github.com/Suvraneel/supermeets)  
-`[10/15 08:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Open-Sorcerer/supermeets](https://github.com/Open-Sorcerer/supermeets)  
-`[10/15 08:25]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Open-Sorcerer/supermeets](https://github.com/Open-Sorcerer/supermeets) to [Suvraneel/supermeets](https://github.com/Suvraneel/supermeets)  
+`[10/16 05:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [Suvraneel/supermeets](https://github.com/Suvraneel/supermeets)  
 
 </details>
 <!--END_SECTION:activity-->
