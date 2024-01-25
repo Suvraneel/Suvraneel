@@ -229,9 +229,6 @@
 `[10/25 12:54]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//Open-Sorcerer/Converse/issues/2 'Spline update') in [Open-Sorcerer/Converse](https://github.com/Open-Sorcerer/Converse)  
 `[10/25 12:54]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//Open-Sorcerer/Converse/pull/2 'Spline update') in [Open-Sorcerer/Converse](https://github.com/Open-Sorcerer/Converse)  
 `[10/25 12:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/Converse](https://github.com/Suvraneel/Converse)  
-`[10/25 03:57]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//Open-Sorcerer/Converse/pull/1 'connectkit added :rainbow:') in [Open-Sorcerer/Converse](https://github.com/Open-Sorcerer/Converse)  
-`[10/25 03:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Converse](https://github.com/Suvraneel/Converse)  
-`[10/25 03:13]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Open-Sorcerer/Converse](https://github.com/Open-Sorcerer/Converse) to [Suvraneel/Converse](https://github.com/Suvraneel/Converse)  
 
 </details>
 <!--END_SECTION:activity-->
