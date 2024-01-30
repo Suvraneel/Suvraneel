@@ -222,9 +222,6 @@
 `[10/30 17:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/Converse](https://github.com/Suvraneel/Converse)  
 `[10/30 17:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Open-Sorcerer/Converse](https://github.com/Open-Sorcerer/Converse)  
 `[10/30 17:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [Suvraneel/Converse](https://github.com/Suvraneel/Converse)  
-`[10/29 09:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/SpringInit](https://github.com/Suvraneel/SpringInit)  
-`[10/29 09:01]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Suvraneel/SpringInit/tree/main) in [Suvraneel/SpringInit](https://github.com/Suvraneel/SpringInit)  
-`[10/29 09:01]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Suvraneel/SpringInit](https://github.com/Suvraneel/SpringInit)  
 
 </details>
 <!--END_SECTION:activity-->
