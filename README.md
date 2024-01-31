@@ -206,11 +206,6 @@
 `[11/26 08:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[11/26 08:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[11/04 13:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[10/30 20:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Gotilo](https://github.com/Suvraneel/Gotilo)  
-`[10/30 19:42]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Open-Sorcerer/Gotilo](https://github.com/Open-Sorcerer/Gotilo) to [Suvraneel/Gotilo](https://github.com/Suvraneel/Gotilo)  
-`[10/30 19:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Converse](https://github.com/Suvraneel/Converse)  
-`[10/30 19:38]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#5`](https://github.com//Open-Sorcerer/Gotilo/pull/5 'favicon added :hammer:') in [Open-Sorcerer/Gotilo](https://github.com/Open-Sorcerer/Gotilo)  
-`[10/30 19:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [Suvraneel/Converse](https://github.com/Suvraneel/Converse)  
 
 </details>
 <!--END_SECTION:activity-->
