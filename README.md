@@ -191,14 +191,18 @@
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
+`[03/03 08:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[03/03 08:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-assets](https://github.com/girlscript/gssoc-assets)  
+`[03/03 08:45]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`temp/upload-manifest/202677715-1709455518`](https://github.com/girlscript/gssoc-assets/tree/temp/upload-manifest/202677715-1709455518) in [girlscript/gssoc-assets](https://github.com/girlscript/gssoc-assets)  
+`[03/03 08:45]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `temp/upload-manifest/202677715-1709455518` from [girlscript/gssoc-assets](https://github.com/girlscript/gssoc-assets)  
 `[03/03 08:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[02/18 16:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [Open-Sorcerer/myriad](https://github.com/Open-Sorcerer/myriad)  
 `[02/10 22:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Open-Sorcerer/myriad](https://github.com/Open-Sorcerer/myriad)  
 `[02/07 17:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Open-Sorcerer/myriad](https://github.com/Open-Sorcerer/myriad)  
 `[01/21 12:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [Open-Sorcerer/GHOtela](https://github.com/Open-Sorcerer/GHOtela)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[01/13 17:49]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Suvraneel/next14-connectkit-boilerplate/tree/main) in [Suvraneel/next14-connectkit-boilerplate](https://github.com/Suvraneel/next14-connectkit-boilerplate)  
 `[01/13 17:48]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Suvraneel/next14-connectkit-boilerplate](https://github.com/Suvraneel/next14-connectkit-boilerplate)  
 `[12/23 14:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
