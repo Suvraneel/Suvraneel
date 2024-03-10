@@ -98,7 +98,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&labelColor=black&color=7952B3"/></a>
 <a href="https://github.com/search?p=4&q=user%3ASuvraneel+language%3AJavaScript&type=Code"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=c89100"/>  
 <a href="https://github.com/search?p=4&q=user%3ASuvraneel+language%3AJavaScript&type=Code"><img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&labelColor=black&color=585da0"/>
-  <a href="https://github.com/search?p=4&q=user%3ASuvraneel+language%3AJavaScript&type=Code"><img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=4479A1"/>
+  <a href="https://github.com/search?p=4&q=user%3ASuvraneel+language%3AJavaScript&type=Code"><img src="https://img.shields.io/badge/mariadb-black?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=001A22&color=003545"/>
 <a href="#"><img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&labelColor=black&color=409040"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&labelColor=black&color=1f1f1f"/></a>
 <a href="#"><img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&labelColor=black&color=3a8296"/></a>
