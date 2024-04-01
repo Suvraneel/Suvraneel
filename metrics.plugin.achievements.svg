@@ -122,7 +122,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 193k out of 133m users</span>
+                                    <span class="gh">ranked 193k out of 134m users</span>
                                 </div>
                                 <div class="text">Published 97 public repositories</div>
                             </div>
@@ -137,7 +137,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="4.2436687200547745 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="4.455852156057509 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -196,7 +196,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 52.3k out of 71.4m repositories</span>
+                                    <span class="gh">ranked 52.3k out of 62.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 883 stars</div>
                             </div>
@@ -248,7 +248,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 57.8k out of 133m users</span>
+                                    <span class="gh">ranked 57.8k out of 134m users</span>
                                 </div>
                                 <div class="text">Followed by 166 users</div>
                             </div>
