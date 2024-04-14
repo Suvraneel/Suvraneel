@@ -207,8 +207,6 @@
 `[02/10 22:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Open-Sorcerer/myriad](https://github.com/Open-Sorcerer/myriad)  
 `[02/07 17:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Open-Sorcerer/myriad](https://github.com/Open-Sorcerer/myriad)  
 `[01/21 12:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [Open-Sorcerer/GHOtela](https://github.com/Open-Sorcerer/GHOtela)  
-`[01/13 17:49]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Suvraneel/next14-connectkit-boilerplate/tree/main) in [Suvraneel/next14-connectkit-boilerplate](https://github.com/Suvraneel/next14-connectkit-boilerplate)  
-`[01/13 17:48]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Suvraneel/next14-connectkit-boilerplate](https://github.com/Suvraneel/next14-connectkit-boilerplate)  
 
 </details>
 <!--END_SECTION:activity-->
