@@ -205,7 +205,6 @@
 `[03/03 08:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/18 16:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [Open-Sorcerer/myriad](https://github.com/Open-Sorcerer/myriad)  
 `[02/10 22:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Open-Sorcerer/myriad](https://github.com/Open-Sorcerer/myriad)  
-`[02/07 17:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Open-Sorcerer/myriad](https://github.com/Open-Sorcerer/myriad)  
 
 </details>
 <!--END_SECTION:activity-->
