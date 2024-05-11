@@ -204,7 +204,6 @@
 `[03/03 08:45]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `temp/upload-manifest/202677715-1709455518` from [girlscript/gssoc-assets](https://github.com/girlscript/gssoc-assets)  
 `[03/03 08:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[02/18 16:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [Open-Sorcerer/myriad](https://github.com/Open-Sorcerer/myriad)  
-`[02/10 22:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Open-Sorcerer/myriad](https://github.com/Open-Sorcerer/myriad)  
 
 </details>
 <!--END_SECTION:activity-->
