@@ -191,14 +191,18 @@
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
+`[06/01 22:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[06/01 22:15]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#12`](https://github.com//Suvraneel/LeetCode/pull/12 'Revert "ok"') in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[06/01 22:14]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#12`](https://github.com//Suvraneel/LeetCode/pull/12 'Revert "ok"') in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[06/01 22:14]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`revert-11-repatch`](https://github.com/Suvraneel/LeetCode/tree/revert-11-repatch) in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[06/01 22:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[06/01 22:11]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#11`](https://github.com//Suvraneel/LeetCode/pull/11 'ok') in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[06/01 22:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[06/01 22:05]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`repatch`](https://github.com/Suvraneel/LeetCode/tree/repatch) in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[06/01 22:04]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#11`](https://github.com//Suvraneel/LeetCode/pull/11 'ok') in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[06/01 22:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[06/01 22:00]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#10`](https://github.com//Suvraneel/LeetCode/pull/10 'Revert "Patch 01"') in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[06/01 22:00]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#10`](https://github.com//Suvraneel/LeetCode/pull/10 'Revert "Patch 01"') in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
