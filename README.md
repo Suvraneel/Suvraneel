@@ -191,7 +191,7 @@
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
-`[08/05 15:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `84` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[08/06 22:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `87` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[07/20 20:03]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#289`](https://github.com//girlscript/gssoc-website-new/issues/289 'Project Frame Issues: + Sorting Enhancment GSSOC :octocat: ') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[07/20 17:24]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#289`](https://github.com//girlscript/gssoc-website-new/issues/289 'Project Frame Issues: + Sorting Enhancment GSSOC :octocat: ') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[07/20 17:19]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#324`](https://github.com//girlscript/gssoc-website-new/issues/324 'Issues and Bugs on GSSoC FAQ Page') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
@@ -236,9 +236,6 @@
 `[06/01 21:49]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `revert-5-revert-3-revert-2-patch-1` from [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[06/01 21:49]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `revert-4-patch-1` from [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[06/01 21:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[06/01 21:48]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#6`](https://github.com//Suvraneel/LeetCode/pull/6 'Revert "Revert "Revert "Update jekyll-gh-pages.yml"""') in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[06/01 21:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[06/01 21:48]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#7`](https://github.com//Suvraneel/LeetCode/pull/7 'Revert "Create list_files.html"') in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
