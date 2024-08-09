@@ -191,7 +191,7 @@
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
-`[08/08 23:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `95` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[08/09 21:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `97` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[07/20 20:03]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#289`](https://github.com//girlscript/gssoc-website-new/issues/289 'Project Frame Issues: + Sorting Enhancment GSSOC :octocat: ') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[07/20 17:24]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#289`](https://github.com//girlscript/gssoc-website-new/issues/289 'Project Frame Issues: + Sorting Enhancment GSSOC :octocat: ') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[07/20 17:19]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#324`](https://github.com//girlscript/gssoc-website-new/issues/324 'Issues and Bugs on GSSoC FAQ Page') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
@@ -227,7 +227,6 @@
 `[06/01 21:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[06/01 21:56]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#8`](https://github.com//Suvraneel/LeetCode/pull/8 'Trial by fire') in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[06/01 21:55]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#8`](https://github.com//Suvraneel/LeetCode/pull/8 'Trial by fire') in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[06/01 21:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
