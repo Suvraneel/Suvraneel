@@ -191,7 +191,7 @@
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
-`[08/12 22:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `117` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[08/13 23:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `125` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[07/20 20:03]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#289`](https://github.com//girlscript/gssoc-website-new/issues/289 'Project Frame Issues: + Sorting Enhancment GSSOC :octocat: ') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[07/20 17:24]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#289`](https://github.com//girlscript/gssoc-website-new/issues/289 'Project Frame Issues: + Sorting Enhancment GSSOC :octocat: ') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[07/20 17:19]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#324`](https://github.com//girlscript/gssoc-website-new/issues/324 'Issues and Bugs on GSSoC FAQ Page') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
@@ -208,7 +208,7 @@
 `[06/16 12:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui)  
 `[06/15 17:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `23` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[06/06 22:03]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#22627`](https://github.com//LeetCode-Feedback/LeetCode-Feedback/issues/22627 '[BUG] - <title>') in [LeetCode-Feedback/LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback)  
-`[06/06 22:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `28` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[06/06 22:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `19` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
