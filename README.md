@@ -191,14 +191,15 @@
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
+`[08/26 08:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#13`](https://github.com//Suvraneel/LeetCode/issues/13 'Need Attention!!') in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[08/25 22:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `158` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[07/20 20:03]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#289`](https://github.com//girlscript/gssoc-website-new/issues/289 'Project Frame Issues: + Sorting Enhancment GSSOC :octocat: ') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[07/20 17:24]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#289`](https://github.com//girlscript/gssoc-website-new/issues/289 'Project Frame Issues: + Sorting Enhancment GSSOC :octocat: ') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[07/20 17:19]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#324`](https://github.com//girlscript/gssoc-website-new/issues/324 'Issues and Bugs on GSSoC FAQ Page') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[07/20 11:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `81` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[07/20 11:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `81` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[06/28 17:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#292`](https://github.com//girlscript/gssoc-website-new/issues/292 'UI IMPROVEMENT: FAQs Page') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[06/28 15:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `38` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[06/16 21:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [magicuidesign/magicui](https://github.com/magicuidesign/magicui)  
@@ -206,7 +207,7 @@
 `[06/16 19:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui)  
 `[06/16 17:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[06/16 12:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui)  
-`[06/15 17:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[06/15 17:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
