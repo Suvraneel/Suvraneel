@@ -191,16 +191,20 @@
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
+`[12/28 15:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/SettleX](https://github.com/Suvraneel/SettleX)  
+`[12/28 15:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [SettleX-Labs/SettleX](https://github.com/SettleX-Labs/SettleX)  
+`[12/28 15:05]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//SettleX-Labs/SettleX/pull/1 'feat(tweak content & frame timings) 🔧') in [SettleX-Labs/SettleX](https://github.com/SettleX-Labs/SettleX)  
+`[12/28 15:05]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1`](https://github.com//SettleX-Labs/SettleX/pull/1 'tweak content') in [SettleX-Labs/SettleX](https://github.com/SettleX-Labs/SettleX)  
 `[12/28 12:32]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [SettleX-Labs/SettleX](https://github.com/SettleX-Labs/SettleX) to [Suvraneel/SettleX](https://github.com/Suvraneel/SettleX)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[12/27 11:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `167` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[11/10 15:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[11/10 14:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 `[11/10 14:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `102` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[10/16 22:04]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#24806`](https://github.com//LeetCode-Feedback/LeetCode-Feedback/issues/24806 '[Improv] - Approach Missing / can be more optimised') in [LeetCode-Feedback/LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback)  
-`[10/16 21:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `26` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[10/16 21:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `21` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
