@@ -191,7 +191,7 @@
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
-`[01/03 14:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `26` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[01/03 15:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `28` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[12/29 11:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [SettleX-Labs/SettleX](https://github.com/SettleX-Labs/SettleX)  
 `[12/29 11:26]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//SettleX-Labs/SettleX/pull/2 'fix(consistent color scheme in UI elements & default mode to dark): 📘') in [SettleX-Labs/SettleX](https://github.com/SettleX-Labs/SettleX)  
 `[12/29 11:26]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//SettleX-Labs/SettleX/pull/2 'fix(consistent color scheme in UI elements & default mode to dark): 📘') in [SettleX-Labs/SettleX](https://github.com/SettleX-Labs/SettleX)  
@@ -208,7 +208,7 @@
 `[12/27 11:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `167` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[11/10 15:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[11/10 14:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
-`[11/10 14:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `91` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[11/10 14:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `89` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
