@@ -204,7 +204,7 @@
 `[03/15 22:58]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`okta`](https://github.com/Suvraneel/Vishnu/tree/okta) in [Suvraneel/Vishnu](https://github.com/Suvraneel/Vishnu)  
 `[03/14 22:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [Suvraneel/Vishnu](https://github.com/Suvraneel/Vishnu)  
 `[03/14 12:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[03/10 18:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `77` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[03/10 18:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `75` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
