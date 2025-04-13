@@ -202,7 +202,7 @@
 `[03/15 22:58]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`okta-auth0`](https://github.com/Suvraneel/Vishnu/tree/okta-auth0) in [Suvraneel/Vishnu](https://github.com/Suvraneel/Vishnu)  
 `[03/15 22:58]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `okta` from [Suvraneel/Vishnu](https://github.com/Suvraneel/Vishnu)  
 `[03/15 22:58]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`okta`](https://github.com/Suvraneel/Vishnu/tree/okta) in [Suvraneel/Vishnu](https://github.com/Suvraneel/Vishnu)  
-`[03/14 22:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Vishnu](https://github.com/Suvraneel/Vishnu)  
+`[03/14 22:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Vishnu](https://github.com/Suvraneel/Vishnu)  
 
 </details>
 <!--END_SECTION:activity-->
