@@ -194,14 +194,6 @@
 `[04/14 11:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `121` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[03/18 05:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Vishnu](https://github.com/Suvraneel/Vishnu)  
 `[03/17 15:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[03/15 23:02]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//Suvraneel/Vishnu/pull/1 'init(spring boot): Custom Security & Authentication') in [Suvraneel/Vishnu](https://github.com/Suvraneel/Vishnu)  
-`[03/15 23:02]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`non-okta`](https://github.com/Suvraneel/Vishnu/tree/non-okta) in [Suvraneel/Vishnu](https://github.com/Suvraneel/Vishnu)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
-`[03/15 22:58]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`okta-auth0`](https://github.com/Suvraneel/Vishnu/tree/okta-auth0) in [Suvraneel/Vishnu](https://github.com/Suvraneel/Vishnu)  
-`[03/15 22:58]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `okta` from [Suvraneel/Vishnu](https://github.com/Suvraneel/Vishnu)  
-`[03/15 22:58]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`okta`](https://github.com/Suvraneel/Vishnu/tree/okta) in [Suvraneel/Vishnu](https://github.com/Suvraneel/Vishnu)  
 
 </details>
 <!--END_SECTION:activity-->
