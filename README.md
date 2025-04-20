@@ -191,14 +191,15 @@
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
-`[04/20 14:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/SettleX](https://github.com/Suvraneel/SettleX)  
+`[04/20 18:11]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#4`](https://github.com//SettleX-Labs/SettleX/pull/4 'feat(localization for number input)') in [SettleX-Labs/SettleX](https://github.com/SettleX-Labs/SettleX)  
+`[04/20 18:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Suvraneel/SettleX](https://github.com/Suvraneel/SettleX)  
 `[04/20 14:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [SettleX-Labs/SettleX](https://github.com/SettleX-Labs/SettleX)  
 `[04/20 14:54]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//SettleX-Labs/SettleX/pull/3 'feat(bridge): add chains & tokens 🪙') in [SettleX-Labs/SettleX](https://github.com/SettleX-Labs/SettleX)  
 `[04/20 14:54]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3`](https://github.com//SettleX-Labs/SettleX/pull/3 'feat(bridge): add chains & tokens 🪙') in [SettleX-Labs/SettleX](https://github.com/SettleX-Labs/SettleX)  
-`[04/20 14:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/SettleX](https://github.com/Suvraneel/SettleX)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[04/20 14:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/SettleX](https://github.com/Suvraneel/SettleX)  
 `[04/19 23:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `194` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
