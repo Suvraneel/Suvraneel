@@ -200,7 +200,7 @@
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
 `[04/20 14:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/SettleX](https://github.com/Suvraneel/SettleX)  
-`[04/19 23:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `194` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[04/19 23:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `189` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
