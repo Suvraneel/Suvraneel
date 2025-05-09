@@ -207,7 +207,7 @@
 `[04/20 14:54]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//SettleX-Labs/SettleX/pull/3 'feat(bridge): add chains & tokens 🪙') in [SettleX-Labs/SettleX](https://github.com/SettleX-Labs/SettleX)  
 `[04/20 14:54]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3`](https://github.com//SettleX-Labs/SettleX/pull/3 'feat(bridge): add chains & tokens 🪙') in [SettleX-Labs/SettleX](https://github.com/SettleX-Labs/SettleX)  
 `[04/20 14:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/SettleX](https://github.com/Suvraneel/SettleX)  
-`[04/19 23:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `125` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[04/19 23:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `115` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
