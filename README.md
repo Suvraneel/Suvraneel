@@ -37,9 +37,6 @@
   <a href="https://www.facebook.com/suvraneel.bhuin">
     <img src="https://user-images.githubusercontent.com/63473496/212667021-d190985a-6977-41bf-8063-d5c09c8abd8c.gif" height="60" width= auto></a>
   <a href="https://www.instagram.com/suvraneel"><img src="https://user-images.githubusercontent.com/63473496/212668023-3f7aa65f-2a55-44f4-bc11-e1e7fea26cab.gif" height="60" width="auto"></a>
-  <a href="https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!">
-    <img src="https://user-images.githubusercontent.com/63473496/212668258-a33f94f5-0baf-4ab5-a2ac-83adafa8ecf0.gif" height="60" width="auto">
-  </a>
   <a href="https://discord.com/users/851345743935045652/">
     <img src="https://user-images.githubusercontent.com/63473496/212670527-afccf7ca-4dfc-4f4c-bf91-19287be8a679.gif" height="60" width="auto">
   </a>
