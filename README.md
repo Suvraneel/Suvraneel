@@ -1,7 +1,7 @@
 <!-- [![Header](https://github.com/Suvraneel/Suvraneel/assets/63473496/ce9bd7bb-78c7-4057-9168-a34a650ef64f)](https://suvraneel.github.io/) -->
 <p>
   <a href="https://open.spotify.com/user/4bio4arq8izb9sba4ly6al54v">
-   <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=4bio4arq8izb9sba4ly6al54v&cover_image=true&theme=novatorem" width="39%">
+   <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=4bio4arq8izb9sba4ly6al54v&cover_image=true&theme=novatorem" width="39%">
   </a>
   <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
     <img align="left" src="https://media.tenor.com/images/043986fe5f470eeb6d86515e6cda30fe/tenor.gif" width="50">
