@@ -188,7 +188,7 @@
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
-`[06/01 21:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `53` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[06/02 20:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `56` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[05/24 13:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Suvraneel/SettleX](https://github.com/Suvraneel/SettleX)  
 `[05/24 13:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/SettleX](https://github.com/Suvraneel/SettleX)  
 `[05/23 21:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
@@ -198,7 +198,7 @@
 
 `[05/08 16:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/SettleX](https://github.com/Suvraneel/SettleX)  
 `[05/08 16:05]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`dev`](https://github.com/Suvraneel/SettleX/tree/dev) in [Suvraneel/SettleX](https://github.com/Suvraneel/SettleX)  
-`[05/08 11:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `58` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[05/08 11:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `46` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
