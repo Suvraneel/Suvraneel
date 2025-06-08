@@ -194,11 +194,6 @@
 `[05/23 21:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[05/22 22:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `42` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
-`[05/08 16:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/SettleX](https://github.com/Suvraneel/SettleX)  
-`[05/08 16:05]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`dev`](https://github.com/Suvraneel/SettleX/tree/dev) in [Suvraneel/SettleX](https://github.com/Suvraneel/SettleX)  
-
 </details>
 <!--END_SECTION:activity-->
 
