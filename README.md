@@ -213,7 +213,7 @@
 `[06/08 20:42]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//Suvraneel/SettleX/pull/1 'V2') in [Suvraneel/SettleX](https://github.com/Suvraneel/SettleX)  
 `[06/08 20:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/SettleX](https://github.com/Suvraneel/SettleX)  
 `[06/08 11:05]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`v2`](https://github.com/Suvraneel/SettleX/tree/v2) in [Suvraneel/SettleX](https://github.com/Suvraneel/SettleX)  
-`[06/07 21:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `72` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[06/07 21:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `54` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
