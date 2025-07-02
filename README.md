@@ -16,10 +16,11 @@
 [![Resume](https://img.shields.io/badge/Here's_my_updated_resume-Suvraneel%20Bhuin-blue?style=for-the-badge&logo=Sega&labelColor=0d182b)](https://suvraneel.me/docs/Suvraneel_Bhuin_Resume.pdf)  
 [![Organisation](https://img.shields.io/badge/Organisation\Collection_of_all_my_projects-OpenSorcerer-white?style=for-the-badge&logo=Opera&labelColor=1d182b)](https://github.com/Open-Sorcerer)  
 [![Email](https://img.shields.io/badge/Reach_out_to_me_at_-bsuvraneel@gmail.com-purple?style=for-the-badge&logo=Scribd&labelColor=2f182b)](mailto:bsuvraneel@gmail.com)
-- :crystal_ball: &nbsp;I’m currently toying with 3D UI Designs & Web Technology Frameworks  
-  &nbsp; &nbsp; &nbsp; _"Concocting the future of Web 3.0 with a dynamic & intuitive UX, one `div` at a time"_
-- :computer: &nbsp;I recently graduated from the **Dept of Computer Sc & Engg.** at the **[University of Calcutta](https://www.caluniv.ac.in/)**
-- :video_game: &nbsp;**Hobbies**: Development, Opensource, Coding Communities & Volunteering, Public Speaking, PC Gaming, Reading, Soccer
+- :crystal_ball: &nbsp;Currently working on: 3D UI Designs & Enterprise-grade Web Tech Frameworks  
+  &nbsp; &nbsp; &nbsp; _"Concocting the future of Web 3.0 with a dynamic & intuitive UX, one `div` at a time"_  
+-  🎓 &nbsp;Recent grad, Computer Science & Engineering **[University of Calcutta](https://www.caluniv.ac.in/)**  
+- :video_game: &nbsp;**Hobbies**: Development, Opensource, Coding Communities & Volunteering,  
+  &nbsp;&nbsp; &nbsp; &nbsp; Public Speaking, PC Gaming, Reading, Soccer  
 
 <br/>
 <br/>
