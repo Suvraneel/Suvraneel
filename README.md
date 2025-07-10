@@ -205,7 +205,7 @@
 `[06/10 18:14]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//Suvraneel/SettleX/pull/2 'add (token wheel) 🎡') in [Suvraneel/SettleX](https://github.com/Suvraneel/SettleX)  
 `[06/10 18:13]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//Suvraneel/SettleX/pull/2 'add (token wheel) 🎡') in [Suvraneel/SettleX](https://github.com/Suvraneel/SettleX)  
 `[06/10 18:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Suvraneel/SettleX](https://github.com/Suvraneel/SettleX)  
-`[06/10 08:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[06/10 08:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
