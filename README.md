@@ -199,13 +199,6 @@
 
 `[06/17 21:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[06/16 19:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[06/10 18:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/SettleX](https://github.com/Suvraneel/SettleX)  
-`[06/10 18:55]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//Suvraneel/SettleX/pull/3 'v2') in [Suvraneel/SettleX](https://github.com/Suvraneel/SettleX)  
-`[06/10 18:55]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3`](https://github.com//Suvraneel/SettleX/pull/3 'v2') in [Suvraneel/SettleX](https://github.com/Suvraneel/SettleX)  
-`[06/10 18:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/SettleX](https://github.com/Suvraneel/SettleX)  
-`[06/10 18:14]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//Suvraneel/SettleX/pull/2 'add (token wheel) 🎡') in [Suvraneel/SettleX](https://github.com/Suvraneel/SettleX)  
-`[06/10 18:13]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//Suvraneel/SettleX/pull/2 'add (token wheel) 🎡') in [Suvraneel/SettleX](https://github.com/Suvraneel/SettleX)  
-`[06/10 18:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Suvraneel/SettleX](https://github.com/Suvraneel/SettleX)  
 
 </details>
 <!--END_SECTION:activity-->
