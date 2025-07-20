@@ -197,7 +197,7 @@
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
-`[06/21 17:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[06/21 17:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
