@@ -189,14 +189,17 @@
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
+`[08/30 17:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/SettleX_Axelar](https://github.com/Suvraneel/SettleX_Axelar)  
+`[08/30 17:47]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/Suvraneel/SettleX_Axelar/tree/master) in [Suvraneel/SettleX_Axelar](https://github.com/Suvraneel/SettleX_Axelar)  
+`[08/30 17:46]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Suvraneel/SettleX_Axelar](https://github.com/Suvraneel/SettleX_Axelar)  
 `[08/30 12:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[08/24 15:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/SettleX](https://github.com/Suvraneel/SettleX)  
-`[08/24 13:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[08/23 17:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/SettleX](https://github.com/Suvraneel/SettleX)  
-`[08/22 15:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `49` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[08/24 13:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[08/23 17:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Suvraneel/SettleX](https://github.com/Suvraneel/SettleX)  
+`[08/22 15:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `49` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[08/03 13:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [Suvraneel/SettleX](https://github.com/Suvraneel/SettleX)  
 `[08/01 21:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
