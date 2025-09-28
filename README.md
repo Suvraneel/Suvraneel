@@ -189,14 +189,23 @@
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
+`[09/28 21:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/spring-boot-jwt-auth-microservice](https://github.com/Suvraneel/spring-boot-jwt-auth-microservice)  
+`[09/28 20:59]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Suvraneel/test/tree/main) in [Suvraneel/test](https://github.com/Suvraneel/test)  
+`[09/28 20:59]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Suvraneel/test](https://github.com/Suvraneel/test)  
+`[09/28 20:57]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Suvraneel/spring-boot-jwt-auth-microservice/tree/main) in [Suvraneel/spring-boot-jwt-auth-microservice](https://github.com/Suvraneel/spring-boot-jwt-auth-microservice)  
+`[09/28 20:57]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Suvraneel/spring-boot-jwt-auth-microservice](https://github.com/Suvraneel/spring-boot-jwt-auth-microservice)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[09/28 20:53]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//Suvraneel/Vishnu/pull/1 'init(spring boot): Custom Security & Authentication') in [Suvraneel/Vishnu](https://github.com/Suvraneel/Vishnu)  
+`[09/28 20:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Suvraneel/Vishnu](https://github.com/Suvraneel/Vishnu)  
+`[09/28 20:53]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2`](https://github.com//Suvraneel/Vishnu/pull/2 'jwt') in [Suvraneel/Vishnu](https://github.com/Suvraneel/Vishnu)  
+`[09/28 20:53]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `jwt` from [Suvraneel/Vishnu](https://github.com/Suvraneel/Vishnu)  
 `[09/28 20:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Vishnu](https://github.com/Suvraneel/Vishnu)  
 `[09/28 14:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `20` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[09/21 22:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Vishnu](https://github.com/Suvraneel/Vishnu)  
 `[09/21 22:04]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//Suvraneel/Vishnu/pull/2 'jwt') in [Suvraneel/Vishnu](https://github.com/Suvraneel/Vishnu)  
 `[09/21 22:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Suvraneel/Vishnu](https://github.com/Suvraneel/Vishnu)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[09/21 21:55]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`jwt`](https://github.com/Suvraneel/Vishnu/tree/jwt) in [Suvraneel/Vishnu](https://github.com/Suvraneel/Vishnu)  
 `[09/21 17:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Suvraneel/SettleX](https://github.com/Suvraneel/SettleX)  
 `[09/21 00:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `49` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
