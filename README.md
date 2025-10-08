@@ -213,7 +213,6 @@
 `[09/21 21:55]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`jwt`](https://github.com/Suvraneel/Vishnu/tree/jwt) in [Suvraneel/Vishnu](https://github.com/Suvraneel/Vishnu)  
 `[09/21 17:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Suvraneel/SettleX](https://github.com/Suvraneel/SettleX)  
 `[09/21 00:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `49` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[09/07 18:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/SettleX](https://github.com/Suvraneel/SettleX)  
 
 </details>
 <!--END_SECTION:activity-->
