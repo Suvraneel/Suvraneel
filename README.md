@@ -198,7 +198,6 @@
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
 `[10/04 15:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[09/28 21:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [Suvraneel/spring-boot-jwt-auth-microservice](https://github.com/Suvraneel/spring-boot-jwt-auth-microservice)  
 
 </details>
 <!--END_SECTION:activity-->
