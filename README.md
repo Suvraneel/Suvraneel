@@ -195,10 +195,6 @@
 `[11/25 22:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 `[11/11 06:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)  
 
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
-`[11/10 21:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-
 </details>
 <!--END_SECTION:activity-->
 
