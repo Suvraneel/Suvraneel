@@ -191,8 +191,6 @@
 <!--START_SECTION:activity-->
 `[12/23 15:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [PacktPublishing/Mastering-Spring-Boot-3.0](https://github.com/PacktPublishing/Mastering-Spring-Boot-3.0)  
 `[12/20 19:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[11/29 02:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cline/cline](https://github.com/cline/cline)  
-`[11/29 02:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kestra-io/kestra](https://github.com/kestra-io/kestra)  
 
 </details>
 <!--END_SECTION:activity-->
