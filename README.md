@@ -10,9 +10,9 @@
     <img alt="visitor's count" src="https://profile-counter.glitch.me/{Suvraneel}/count.svg">
   </div>
 </p>
-<a href="https://suvraneel.me" target="_blank"><img align='right' src="https://github.com/Suvraneel/Suvraneel/assets/63473496/af7a7df4-fa65-4c8c-941b-fcda66e5dc88" width="25%" height="auto"></a>
+<a href="https://suvraneel.github.io" target="_blank"><img align='right' src="https://github.com/Suvraneel/Suvraneel/assets/63473496/af7a7df4-fa65-4c8c-941b-fcda66e5dc88" width="25%" height="auto"></a>
 
-[![Portfolio](https://img.shields.io/badge/Feel_free_to_check_out_my_PortFolio_Website-suvraneel%2Eme-grey?style=for-the-badge&logo=Scribd&labelColor=013243&color=bf2004)](https://suvraneel.me)  
+[![Portfolio](https://img.shields.io/badge/Feel_free_to_check_out_my_PortFolio_Website-suvraneel%2Evercel%2Eapp-grey?style=for-the-badge&logo=Scribd&labelColor=013243&color=bf2004)](https://suvraneel.vercel.app)  
 [![Resume](https://img.shields.io/badge/Here's_my_updated_resume-Suvraneel%20Bhuin-blue?style=for-the-badge&logo=Sega&labelColor=0d182b)](https://suvraneel.me/docs/Suvraneel_Bhuin_Resume.pdf)  
 [![Organisation](https://img.shields.io/badge/Organisation\Collection_of_all_my_projects-OpenSorcerer-white?style=for-the-badge&logo=Opera&labelColor=1d182b)](https://github.com/Open-Sorcerer)  
 [![Email](https://img.shields.io/badge/Reach_out_to_me_at_-bsuvraneel@gmail.com-purple?style=for-the-badge&logo=Scribd&labelColor=2f182b)](mailto:bsuvraneel@gmail.com)
