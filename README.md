@@ -162,12 +162,12 @@
       <img alt="" width="400" src="https://github.com/Suvraneel/Suvraneel/blob/master/metrics.plugin.isocalendar.svg">
     </td>
     <td align="center">
-        <img align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=suvraneel&layout=compact&hide_border=true&theme=vision-friendly-dark&langs_count=10&hide=jupyter%20notebook,tex,c" height="170px" width="360px">
+        <img align="right" src ="https://readme-stats-suvraneel.vercel.app/api/top-langs/?username=suvraneel&layout=compact&hide_border=true&theme=vision-friendly-dark&langs_count=10&hide=jupyter%20notebook,tex,c" height="170px" width="360px">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img alt="" width="400" src="https://github-readme-stats.vercel.app/api?username=suvraneel&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="360px" height="170px" >
+      <img alt="" width="400" src="https://readme-stats-suvraneel.vercel.app/api?username=suvraneel&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="360px" height="170px" >
     </td>
     <td align="center">
         <img align="right" src ="https://github-readme-streak-stats.herokuapp.com?user=suvraneel&theme=vision-friendly-dark&hide_border=true" width="360px" height="170px">
