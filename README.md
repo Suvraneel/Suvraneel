@@ -170,8 +170,7 @@
       <img alt="" width="400" src="https://readme-stats-gamma-umber.vercel.app/api?username=suvraneel&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="360px" height="170px" >
     </td>
     <td align="center">
-        <img align="right" src ="https://github-readme-streak-stats.herokuapp.com?user=suvraneel&theme=vision-friendly-dark&hide_border=true" width="360px" height="170px">
-<!--         <img align="right" src ="https://streak-stats.demolab.com?user=suvraneel&theme=vision-friendly-dark&hide_border=true" width="360px" height="170px"> -->
+        <img align="right" src ="https://github-readme-streak-stats-black-seven.vercel.app?user=suvraneel&theme=vision-friendly-dark&hide_border=true" width="360px" height="170px">
     </td>
   </tr>
 </table>
