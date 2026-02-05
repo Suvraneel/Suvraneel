@@ -190,7 +190,6 @@
 <!--START_SECTION:activity-->
 `[02/02 09:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
 `[01/11 21:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [Suvraneel/gssoc-website-new](https://github.com/Suvraneel/gssoc-website-new)  
-`[01/05 20:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
