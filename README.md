@@ -189,7 +189,6 @@
 
 <!--START_SECTION:activity-->
 `[04/22 20:20]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/Suvraneel/JiraMCP/tree/master) in [Suvraneel/JiraMCP](https://github.com/Suvraneel/JiraMCP)  
-`[04/05 19:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
 
 </details>
 <!--END_SECTION:activity-->
