@@ -7,7 +7,8 @@
     <img align="left" src="https://media.tenor.com/images/043986fe5f470eeb6d86515e6cda30fe/tenor.gif" width="50">
     <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&color=F70000&size=28&center=true&vCenter=true&multiline=true&weight=400&height=100&width=220&lines=Hey+there%2C;I%27m+Suvraneel+!">
     <br />
-    <img alt="visitor's count" src="https://profile-counter.glitch.me/{Suvraneel}/count.svg">
+    <!-- <img alt="visitor's count" src="https://profile-counter.glitch.me/{Suvraneel}/count.svg"> -->
+    <img alt="visitor's count" src="https://komarev.com/ghpvc/?username=Suvraneel&color=dc143c">
   </div>
 </p>
 <a href="https://suvraneel.github.io" target="_blank"><img align='right' src="https://github.com/Suvraneel/Suvraneel/assets/63473496/af7a7df4-fa65-4c8c-941b-fcda66e5dc88" width="25%" height="auto"></a>
