@@ -189,28 +189,9 @@
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
 
 <!--START_SECTION:activity-->
-`[06/27 21:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[06/27 16:37]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Suvraneel/AlfredAI-Web/tree/main) in [Suvraneel/AlfredAI-Web](https://github.com/Suvraneel/AlfredAI-Web)  
-`[06/25 23:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[06/20 14:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [neKamita/ToolBox-Activator](https://github.com/neKamita/ToolBox-Activator)  
-`[06/23 22:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
-`[06/20 15:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [Suvraneel/instant-need](https://github.com/Suvraneel/instant-need)  
-`[06/20 13:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [Suvraneel/instant-need-web](https://github.com/Suvraneel/instant-need-web)  
-`[06/19 17:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[06/19 16:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [Suvraneel/JiraMCP](https://github.com/Suvraneel/JiraMCP)  
-`[06/18 23:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[06/14 19:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [Suvraneel/instant-need](https://github.com/Suvraneel/instant-need)  
-`[06/14 16:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [Suvraneel/instant-need-web](https://github.com/Suvraneel/instant-need-web)  
-`[06/14 14:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[06/13 19:50]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [AAYUSH-GUPTA-coder/instant-need-web](https://github.com/AAYUSH-GUPTA-coder/instant-need-web) to [Suvraneel/instant-need-web](https://github.com/Suvraneel/instant-need-web)  
-`[06/13 17:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [AAYUSH-GUPTA-coder/instant-need-web](https://github.com/AAYUSH-GUPTA-coder/instant-need-web)  
-`[06/11 23:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-`[06/06 19:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MLOps-Courses/mlops-coding-course](https://github.com/MLOps-Courses/mlops-coding-course)  
-`[06/06 19:45]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) to [Suvraneel/project-based-learning](https://github.com/Suvraneel/project-based-learning)  
-`[06/06 01:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[07/27 23:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
+`[06/28 23:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
+`[06/28 23:42]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`v5`](https://github.com/Suvraneel/Suvraneel.github.io/tree/v5) in [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io)  
 
 </details>
 <!--END_SECTION:activity-->
