@@ -9,6 +9,10 @@
   <a href="https://suvraneel.github.io/docs/Suvraneel_Bhuin_Resume.pdf"><img src="assets/brand/btn-resume.svg" height="40" alt="Resume (PDF)"></a>
   <a href="https://www.linkedin.com/in/suvraneel-bhuin/"><img src="assets/brand/btn-linkedin.svg" height="40" alt="LinkedIn"></a>
   <a href="mailto:bsuvraneel@gmail.com"><img src="assets/brand/btn-email.svg" height="40" alt="Email bsuvraneel@gmail.com"></a>
+  <a href="https://twitter.com/SuvraneelB"><img src="assets/brand/btn-x.svg" height="40" alt="X @SuvraneelB"></a>
+  <a href="https://leetcode.com/u/Suvraneel/"><img src="assets/brand/btn-leetcode.svg" height="40" alt="LeetCode"></a>
+  <br>
+  <sub>Also on <a href="https://www.codechef.com/users/suvraneel">CodeChef</a> · <a href="https://www.hackerrank.com/bsuvraneel">HackerRank</a> · <a href="https://www.freecodecamp.org/suvraneel">freeCodeCamp</a> · <a href="https://auth.geeksforgeeks.org/user/bsuvraneel/">GeeksforGeeks</a> · <a href="https://suvraneel.bio.link/">more</a></sub>
 </p>
 
 <a href="https://suvraneel.github.io/about">
@@ -182,10 +186,6 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=4bio4arq8izb9sba4ly6al54v&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=1BFCD7&bar_color_cover=false&border_radius=22&profanity=true&hide_remaster=true" width="420" alt="Now playing or recently played on Spotify">
   </a>
 </p>
-
-<p align="center"><sub>
-  <a href="https://twitter.com/SuvraneelB">X</a> · <a href="https://leetcode.com/u/Suvraneel/">LeetCode</a> · <a href="https://www.codechef.com/users/suvraneel">CodeChef</a> · <a href="https://www.hackerrank.com/bsuvraneel">HackerRank</a> · <a href="https://www.freecodecamp.org/suvraneel">freeCodeCamp</a> · <a href="https://auth.geeksforgeeks.org/user/bsuvraneel/">GeeksforGeeks</a> · <a href="https://suvraneel.bio.link">more</a>
-</sub></p>
 
 <a href="https://suvraneel.github.io"><img src="assets/brand/footer.svg" width="100%" alt="Suvraneel"></a>
 

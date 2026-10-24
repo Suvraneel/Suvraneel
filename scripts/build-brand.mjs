@@ -38,6 +38,8 @@ const MARKS = {
     cut: "M7 10H9.6V18H7ZM8.3 6.2A1.5 1.5 0 1 1 8.3 9.2A1.5 1.5 0 1 1 8.3 6.2ZM11.4 10H13.9V11.1C14.3 10.4 15.2 9.8 16.4 9.8C18.4 9.8 19 11.1 19 13V18H16.4V13.6C16.4 12.6 16.1 11.9 15.2 11.9C14.2 11.9 13.9 12.7 13.9 13.6V18H11.4Z",
   },
   gmail: { si: "gmail" },
+  x: { si: "x" },
+  leetcode: { si: "leetcode" },
 };
 const SIB = JSON.parse(readFileSync(join(ROOT, "scripts", "lib", "simple-icons.json"), "utf8"));
 
@@ -45,13 +47,13 @@ function button({ label, icon = "arrow", mark, logo, logoW = 24, logoH = 24 }) {
   const H = 52;
   const size = 15;
   const box = 24;
-  const mx = 18;
+  const mx = 16;
   const my = (H - box) / 2;
   const tw = measure("tasa-text", label, size);
-  const lx = mx + box + 11;
-  const W = Math.round(lx + tw + 12 + 16 + 22);
+  const lx = mx + box + 10;
+  const W = Math.round(lx + tw + 10 + 16 + 18);
   const R = H / 2;
-  const iconX = lx + tw + 12;
+  const iconX = lx + tw + 10;
   let mark$ = "";
   if (logo) {
     mark$ = `<image href="${dataUri(logo)}" x="${mx + (box - logoW) / 2}" y="${(H - logoH) / 2}" width="${logoW}" height="${logoH}" preserveAspectRatio="xMidYMid meet" filter="url(#mono)"/>`;
@@ -92,6 +94,8 @@ const BUTTONS = [
   ["btn-resume.svg", { label: "Resume", mark: "resume", icon: "download" }],
   ["btn-linkedin.svg", { label: "LinkedIn", mark: "linkedin" }],
   ["btn-email.svg", { label: "Email", mark: "gmail" }],
+  ["btn-x.svg", { label: "X", mark: "x" }],
+  ["btn-leetcode.svg", { label: "LeetCode", mark: "leetcode" }],
 ];
 
 /* ------------------------------------------------------- section headers */

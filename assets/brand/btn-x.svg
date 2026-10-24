@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="103" height="52" viewBox="0 0 103 52" role="img" aria-labelledby="t d" fill="none">
+<title id="t">X</title><desc id="d"></desc>
+<style>.spin { animation: spin 6s linear infinite; transform-origin: 51.5px 26px; }
+@keyframes spin { to { transform: rotate(360deg); } }
+.sheen { animation: sheen 5.5s cubic-bezier(.65,0,.35,1) infinite; }
+@keyframes sheen { 0%, 55% { transform: translateX(-103px); } 100% { transform: translateX(206px); } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<defs><linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#8d9097"/><stop offset="11%" stop-color="#f3f4f7"/><stop offset="15%" stop-color="#e8eeff"/><stop offset="25%" stop-color="#55585e"/><stop offset="33%" stop-color="#1c1d20"/><stop offset="45%" stop-color="#c4c7ce"/><stop offset="52%" stop-color="#fdfdfe"/><stop offset="56%" stop-color="#fff0ea"/><stop offset="65%" stop-color="#66696f"/><stop offset="74%" stop-color="#202124"/><stop offset="86%" stop-color="#b3b6bd"/><stop offset="94%" stop-color="#eef0f4"/><stop offset="100%" stop-color="#8d9097"/></linearGradient>
+  <linearGradient id="inner" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#202020"/><stop offset="1" stop-color="#000"/></linearGradient>
+  <linearGradient id="gloss" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".16"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <clipPath id="pill"><rect width="103" height="52" rx="26"/></clipPath>
+  <clipPath id="core"><rect x="3" y="3" width="97" height="46" rx="23"/></clipPath>
+  <filter id="mono" color-interpolation-filters="sRGB"><feColorMatrix type="matrix" values=".3 .5 .2 0 .32  .3 .5 .2 0 .32  .3 .5 .2 0 .32  0 0 0 1 0"/></filter>
+</defs>
+<g clip-path="url(#pill)">
+  <rect class="spin" x="-51.5" y="-77" width="206" height="206" fill="url(#metal)"/>
+</g>
+<rect x="3" y="3" width="97" height="46" rx="23" fill="url(#inner)"/>
+<rect x="3.5" y="3.5" width="96" height="45" rx="22.5" stroke="rgba(255,255,255,0.12)"/>
+<g clip-path="url(#core)"><rect class="sheen" x="0" y="0" width="51.5" height="52" fill="url(#gloss)" transform="translate(-103 0)"/></g>
+<path d="M14.234 10.162 22.977 0h-2.072l-7.591 8.824L7.251 0H.258l9.168 13.343L.258 24H2.33l8.016-9.318L16.749 24h6.993zm-2.837 3.299-.929-1.329L3.076 1.56h3.182l5.965 8.532.929 1.329 7.754 11.09h-3.182z" transform="translate(16 14)" fill="#fff"/><path d="M50.5 21L51.9 21L53.7 23.9L54.6 25.5L54.6 25.5L55.5 23.9L57.3 21L58.6 21L55.4 26.1L58.7 31.2L57.3 31.2L55.5 28.3L54.6 26.7L54.6 26.7L53.7 28.3L51.9 31.2L50.5 31.2L53.8 26.1Z" fill="rgba(255,255,255,0.92)"/>
+<path d="M4 12L12 4M5.5 4H12V10.5" transform="translate(69.2 18)" stroke="#fff" stroke-opacity=".85" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
