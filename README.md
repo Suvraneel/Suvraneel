@@ -179,7 +179,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/user/4bio4arq8izb9sba4ly6al54v">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=4bio4arq8izb9sba4ly6al54v&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=1BFCD7&bar_color_cover=false&border_radius=22" width="420" alt="Now playing or recently played on Spotify">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=4bio4arq8izb9sba4ly6al54v&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=1BFCD7&bar_color_cover=false&border_radius=22&profanity=true&hide_remaster=true" width="420" alt="Now playing or recently played on Spotify">
   </a>
 </p>
 
