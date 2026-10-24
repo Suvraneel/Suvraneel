@@ -77,11 +77,11 @@
 <!--START_SECTION:activity-->
 | | Activity | Repository | When |
 | :-: | :-- | :-- | --: |
+| <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 1 commit to `main` | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 24 Oct |
+| <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 5 commits to `main` | [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode) | 24 Oct |
 | <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 4 commits to `main` | [Suvraneel/gssoc-website-new](https://github.com/Suvraneel/gssoc-website-new) | 24 Oct |
 | <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 1 commit to `main` | [Open-Sorcerer/StakeOverflow](https://github.com/Open-Sorcerer/StakeOverflow) | 24 Oct |
 | <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 1 commit to `main` | [Suvraneel/Sheetah](https://github.com/Suvraneel/Sheetah) | 24 Oct |
-| <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 5 commits to `main` | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 23 Oct |
-| <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 2 commits to `develop` | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 20 Oct |
 <!--END_SECTION:activity-->
 
 <details>
