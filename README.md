@@ -7,12 +7,10 @@
   <a href="https://suvraneel.github.io"><img src="assets/brand/btn-portfolio.svg" height="40" alt="Portfolio: suvraneel.github.io"></a>
   <a href="https://github.com/Open-Sorcerer"><img src="assets/brand/btn-opensorcerer.svg" height="40" alt="Open Sorcerer: my projects organisation"></a>
   <a href="https://suvraneel.github.io/docs/Suvraneel_Bhuin_Resume.pdf"><img src="assets/brand/btn-resume.svg" height="40" alt="Resume (PDF)"></a>
-  <a href="https://www.linkedin.com/in/suvraneel-bhuin/"><img src="assets/brand/btn-linkedin.svg" height="40" alt="LinkedIn"></a>
   <a href="mailto:bsuvraneel@gmail.com"><img src="assets/brand/btn-email.svg" height="40" alt="Email bsuvraneel@gmail.com"></a>
-  <a href="https://twitter.com/SuvraneelB"><img src="assets/brand/btn-x.svg" height="40" alt="X @SuvraneelB"></a>
   <a href="https://leetcode.com/u/Suvraneel/"><img src="assets/brand/btn-leetcode.svg" height="40" alt="LeetCode"></a>
   <br>
-  <sub>Also on <a href="https://www.codechef.com/users/suvraneel">CodeChef</a> · <a href="https://www.hackerrank.com/bsuvraneel">HackerRank</a> · <a href="https://www.freecodecamp.org/suvraneel">freeCodeCamp</a> · <a href="https://auth.geeksforgeeks.org/user/bsuvraneel/">GeeksforGeeks</a> · <a href="https://suvraneel.bio.link/">more</a></sub>
+  <sub>Also on <a href="https://www.linkedin.com/in/suvraneel-bhuin/">LinkedIn</a> · <a href="https://twitter.com/SuvraneelB">X</a> · <a href="https://www.codechef.com/users/suvraneel">CodeChef</a> · <a href="https://www.hackerrank.com/bsuvraneel">HackerRank</a> · <a href="https://www.freecodecamp.org/suvraneel">freeCodeCamp</a> · <a href="https://auth.geeksforgeeks.org/user/bsuvraneel/">GeeksforGeeks</a> · <a href="https://suvraneel.bio.link/">more</a></sub>
 </p>
 
 <a href="https://suvraneel.github.io/about">

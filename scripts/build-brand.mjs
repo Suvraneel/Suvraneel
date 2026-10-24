@@ -92,9 +92,7 @@ const BUTTONS = [
   ["btn-portfolio.svg", { label: "Portfolio", logo: "site-favicon.png", logoW: 24, logoH: 24 }],
   ["btn-opensorcerer.svg", { label: "Open Sorcerer", logo: "open-sorcerer.webp", logoW: 20, logoH: 30 }],
   ["btn-resume.svg", { label: "Resume", mark: "resume", icon: "download" }],
-  ["btn-linkedin.svg", { label: "LinkedIn", mark: "linkedin" }],
   ["btn-email.svg", { label: "Email", mark: "gmail" }],
-  ["btn-x.svg", { label: "X", mark: "x" }],
   ["btn-leetcode.svg", { label: "LeetCode", mark: "leetcode" }],
 ];
 
