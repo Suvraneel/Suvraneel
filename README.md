@@ -1,225 +1,188 @@
-<!-- [![Header](https://github.com/Suvraneel/Suvraneel/assets/63473496/ce9bd7bb-78c7-4057-9168-a34a650ef64f)](https://suvraneel.github.io/) -->
-<p>
-  <a href="https://open.spotify.com/user/4bio4arq8izb9sba4ly6al54v">
-   <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=4bio4arq8izb9sba4ly6al54v&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="39%">
-  </a>
-  <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-    <img align="left" src="https://media.tenor.com/images/043986fe5f470eeb6d86515e6cda30fe/tenor.gif" width="50">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&color=F70000&size=28&center=true&vCenter=true&multiline=true&weight=400&height=100&width=220&lines=Hey+there%2C;I%27m+Suvraneel+!">
-    <br />
-    <!-- <img alt="visitor's count" src="https://profile-counter.glitch.me/{Suvraneel}/count.svg"> -->
-    <img alt="visitor's count" src="https://komarev.com/ghpvc/?username=Suvraneel&color=dc143c&label=Lurkers">
-  </div>
-</p>
-<a href="https://suvraneel.github.io" target="_blank"><img align='right' src="https://github.com/Suvraneel/Suvraneel/assets/63473496/af7a7df4-fa65-4c8c-941b-fcda66e5dc88" width="25%" height="auto"></a>
-
-[![Portfolio](https://img.shields.io/badge/Feel_free_to_check_out_my_PortFolio_Website-suvraneel%2Evercel%2Eapp-grey?style=for-the-badge&logo=Scribd&labelColor=013243&color=bf2004)](https://suvraneel.vercel.app)  
-[![Resume](https://img.shields.io/badge/Here's_my_updated_resume-Suvraneel%20Bhuin-blue?style=for-the-badge&logo=Sega&labelColor=0d182b)](https://suvraneel.me/docs/Suvraneel_Bhuin_Resume.pdf)  
-[![Organisation](https://img.shields.io/badge/Organisation\Collection_of_all_my_projects-OpenSorcerer-white?style=for-the-badge&logo=Opera&labelColor=1d182b)](https://github.com/Open-Sorcerer)  
-[![Email](https://img.shields.io/badge/Reach_out_to_me_at_-bsuvraneel@gmail.com-purple?style=for-the-badge&logo=Scribd&labelColor=2f182b)](mailto:bsuvraneel@gmail.com)
-- :crystal_ball: &nbsp;Currently working on: 3D UI Designs & Enterprise-grade Web Tech Frameworks  
-  &nbsp; &nbsp; &nbsp; _"Concocting the future of Web 3.0 with a dynamic & intuitive UX, one `div` at a time"_  
--  🎓 &nbsp;Recent grad, Computer Science & Engineering **[University of Calcutta](https://www.caluniv.ac.in/)**  
-- :video_game: &nbsp;**Hobbies**: Development, Opensource, Coding Communities & Volunteering,  
-  &nbsp;&nbsp; &nbsp; &nbsp; Public Speaking, PC Gaming, Reading, Soccer  
-
-<br/>
-<br/>
-<div id="connect">
-  <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/Suvraneel/Suvraneel/assets/63473496/6c2a1b4f-2aeb-4ffd-8a31-47a41810dc55" height="35" width="auto">
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;Connect with me on:</span>
-  </h2>
-  <a href="https://twitter.com/SuvraneelB">
-    <img src="https://user-images.githubusercontent.com/63473496/212667318-969259c1-f51a-47a4-a3e3-8675138bdcec.gif" height="60" width= auto>
-  </a>
-  <a href="https://www.linkedin.com/in/suvraneel">
-    <img src="https://user-images.githubusercontent.com/63473496/212667680-1ccf7d0a-9f59-4be5-a2d0-b07effb04b6c.gif" height="60" width= auto>
-  </a>
-  <a href="https://www.facebook.com/suvraneel.bhuin">
-    <img src="https://user-images.githubusercontent.com/63473496/212667021-d190985a-6977-41bf-8063-d5c09c8abd8c.gif" height="60" width= auto></a>
-  <a href="https://www.instagram.com/suvraneel"><img src="https://user-images.githubusercontent.com/63473496/212668023-3f7aa65f-2a55-44f4-bc11-e1e7fea26cab.gif" height="60" width="auto"></a>
-  <a href="https://discord.com/users/851345743935045652/">
-    <img src="https://user-images.githubusercontent.com/63473496/212670527-afccf7ca-4dfc-4f4c-bf91-19287be8a679.gif" height="60" width="auto">
-  </a>
-</div>
-
-<br/>
-<div id="code_plat">
-  <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/Suvraneel/Suvraneel/assets/63473496/6fcc0b23-7e1d-486d-a645-af95004682f8" height="40" width="auto">
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;Coding Platforms y'all can find me on:</span>
-  </h2>
-</div>
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-da8200?style=for-the-badge&logo=LeetCode&logoColor=ffa116&labelColor=black)](https://leetcode.com/Suvraneel/)
-[![CodeChef](https://img.shields.io/badge/Codechef-372a22?&style=for-the-badge&logo=Codechef&logoColor=red&labelColor=black)](https://www.codechef.com/users/suvraneel)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-00c353?style=for-the-badge&logo=HackerRank&logoColor=00EA64&labelColor=black)](https://www.hackerrank.com/bsuvraneel)
-[![freeCodeCamp](https://img.shields.io/badge/-freeCodeCamp-131342?style=for-the-badge&logo=freeCodeCamp&logoColor=white&labelColor=0A0A23)](https://www.freecodecamp.org/suvraneel)
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=4dcb72&labelColor=black)](https://auth.geeksforgeeks.org/user/bsuvraneel/)
- <!-- 
- [![HackerEarth - hidden](https://img.shields.io/badge/HackerEarth-2C3454?&style=for-the-badge&logo=HackerEarth&logoColor=5464a1&labelColor=040407")](https://www.hackerearth.com/@bsuvraneel) 
- -->
-
-<!-- Attribution: "Icon made by Freepik from www.flaticon.com"-->
 <!--
-- **Gmail**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; bsuvraneel@gmail.com
-- **LinkedIn**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.linkedin.com/in/suvraneel-bhuin/
-- **Facebook**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.facebook.com/suvraneel.bhuin
-- **Instagram**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.instagram.com/el_diablo_suvraneel
-- **Discord**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://discord.com/users/851345743935045652/
-- **WhatsApp**: &nbsp;&nbsp;&nbsp; [+91 7001967224](https://api.whatsapp.com/send?phone=917001967224&text=Hi!%20Suvraneel!!)
+  Profile README for github.com/Suvraneel. Art is built from the portfolio's own
+  type, texture and colours; see scripts/README.md.
 -->
 
-<br/>
-<div id="competencies">
-  <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/Suvraneel/Suvraneel/assets/63473496/a423ae39-0236-4875-b4e7-748b6a337399" height="50" width= auto>
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;Competencies:</span>
-  </h2>
-</div>
+<p align="center">
+  <a href="https://suvraneel.github.io"><img src="assets/brand/btn-portfolio.svg" height="40" alt="Portfolio: suvraneel.github.io"></a>
+  <a href="https://github.com/Open-Sorcerer"><img src="assets/brand/btn-opensorcerer.svg" height="40" alt="Open Sorcerer: my projects organisation"></a>
+  <a href="https://suvraneel.github.io/docs/Suvraneel_Bhuin_Resume.pdf"><img src="assets/brand/btn-resume.svg" height="40" alt="Resume (PDF)"></a>
+  <a href="https://www.linkedin.com/in/suvraneel-bhuin/"><img src="assets/brand/btn-linkedin.svg" height="40" alt="LinkedIn"></a>
+  <a href="mailto:bsuvraneel@gmail.com"><img src="assets/brand/btn-email.svg" height="40" alt="Email bsuvraneel@gmail.com"></a>
+</p>
 
-<table>
-<tr>
-<td><h4>Programming Languages</h4></td>
-<td><a href="https://github.com/search?q=user%3ASuvraneel+language%3AC%2B%2B&type=Code"><img src="https://img.shields.io/badge/CPP-blue?style=for-the-badge&logo=cplusplus&logoColor=blue&color=00599C&labelColor=black"/></a>  
-<a href="https://github.com/search?q=user%3ASuvraneel+language%3AC&type=Code"><img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&labelColor=black&color=404040" /></a>  
-<a href="https://github.com/search?q=user%3ASuvraneel+language%3AJava&type=Code"><img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=OpenJDK&logoColor=ff7019&labelColor=141819&color=ff7019"/></a>  
-<a href="https://github.com/search?p=4&q=user%3ASuvraneel+language%3AJavaScript&type=Code"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=DFA200" /></a>
-<a href="https://github.com/search?p=4&q=user%3ASuvraneel+language%3ATypeScript&type=Code"><img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&labelColor=black&color=blue" /></a>
-<a href="https://github.com/search?q=user%3ASuvraneel+language%3ASolidity&type=Code"><img src="https://img.shields.io/badge/Solidity-white?style=for-the-badge&logo=solidity&labelColor=black&color=EAEAEA" /></a>
-</td></tr>
+<a href="https://suvraneel.github.io/about">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/brand/h-about-light.svg">
+    <img src="assets/brand/h-about.svg" width="100%" alt="01 Profile: About Me">
+  </picture>
+</a>
 
-<tr>
-<td><h4>Web Development</h4></td>
-<td><a href="https://github.com/search?q=user%3ASuvraneel+language%3AHTML&type=Code"><img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&labelColor=black&color=E34F26"/></a>
-<a href="https://github.com/search?q=user%3ASuvraneel+language%3ACSS&type=Code"><img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black&color=1572B6" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&labelColor=black&color=7952B3"/></a>
-<a href="https://github.com/search?p=4&q=user%3ASuvraneel+language%3AJavaScript&type=Code"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=c89100"/>  
-<a href="https://github.com/search?p=4&q=user%3ASuvraneel+language%3AJavaScript&type=Code"><img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&labelColor=black&color=585da0"/>
-  <a href="https://github.com/search?p=4&q=user%3ASuvraneel+language%3AJavaScript&type=Code"><img src="https://img.shields.io/badge/mariadb-black?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=001A22&color=003545"/>
-<a href="#"><img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&labelColor=black&color=409040"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&labelColor=black&color=1f1f1f"/></a>
-<a href="#"><img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&labelColor=black&color=3a8296"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Node.JS-blue?style=for-the-badge&logo=node.js&logoColor=lime&labelColor=black&color=236b23"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Spring-lime?style=for-the-badge&logo=spring&logoColor=6DB33F&labelColor=black&color=239e23"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Spring%20Boot-lime?style=for-the-badge&logo=springboot&logoColor=6DB33F&labelColor=black&color=239e23"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwindcss&labelColor=black&color=1CA1B8"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js&&logoColor=white&labelColor=black&color=2E2E2E"/></a>
-</td></tr>
-
-<tr>
-<td><h4>App Development</h4></td>
-<td><a href="#"><img src="https://img.shields.io/badge/React%20Native-blue?style=for-the-badge&logo=react&labelColor=black&color=3a8296"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Flutter-0a97c2?style=for-the-badge&logo=flutter&logoColor=0dbdf2&labelColor=black&color=0ba0cd"/></a>
-<a href="https://github.com/search?q=user%3ASuvraneel+language%3ADart&type=Code"><img src="https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&logoColor=2eb8b8&labelColor=black&color=269999"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Android%20Studio-green?style=for-the-badge&logo=android%20studio&labelColor=black&color=2a9a5c"/></a></td></tr>
-
-<tr>
-<td><h4>Tools & Project Management</h4></td>
-<td><a href="#"><img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&labelColor=black&color=red"/></a>  
-<a href="#"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&labelColor=black&color=181717"/></a>  
-<a href="#"><img src="https://img.shields.io/badge/VSCode-cyan?style=for-the-badge&logo=visual%20studio%20code&labelColor=00497a&color=007ACC"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&labelColor=black&color=ff4704"/></a>
-<a href="#"><img src="https://img.shields.io/badge/XAMPP-orange?style=for-the-badge&logo=xampp&labelColor=black&color=fb6b0b"/></a>  
-<a href="#"><img src="https://img.shields.io/badge/Repl.it-black?style=for-the-badge&logo=replit&labelColor=black&color=1e2426"/></a>  
-<a href="#"><img src="https://img.shields.io/badge/Eclipse%20IDE-purple?style=for-the-badge&logo=eclipse%20IDE&labelColor=1a1433&color=2C2255"/></a>  
-<a href="#"><img src="https://img.shields.io/badge/Codepen-black?style=for-the-badge&logo=codepen&labelColor=black&color=141819"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&labelColor=black&color=141219"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Heroku-180036?style=for-the-badge&logo=heroku&labelColor=180036&color=430098"/></a></td>  
-  </tr>  
-
-<tr>
-<td><h4>Machine/Deep Learning</h4></td>
-<td><a href="#"><img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&labelColor=0c0234&color=150458"/></a>  
-<a href="#"><img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy&labelColor=001921&color=013243"/></a>  
-<a href="#"><img src="https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow&labelColor=141819&color=FF6F00"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Skikit%20Learn-orange?style=for-the-badge&logo=scikit%2Dlearn&labelColor=141819&color=F7931E"/></a>  
-<a href="#"><img src="https://img.shields.io/badge/Keras-black?style=for-the-badge&logo=keras&labelColor=680000&color=D00000"/></a></td></tr>
-
-<tr>
-<td><h4>Miscellaneous</h4></td>
-<td>
-  <a href="#"><img src="https://img.shields.io/badge/Arduino-blue?style=for-the-badge&logo=arduino&labelColor=black&color=00979D"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/VHDL-cc0000?style=for-the-badge&logo=xilinx&logoColor=cc0000&labelColor=black&color=cc0000"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GNU_Bash-blue?style=for-the-badge&logo=gnubash&labelColor=black&color=4EAA25"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Photoshop-navy?style=for-the-badge&logo=adobe-photoshop&labelColor=black&color=0072ff"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Figma-orange?style=for-the-badge&logo=figma&labelColor=black&color=f24e1e"/></a>
-
-  </td></tr>
-</table>
-
-<br/>
-<div id="gh_stats">
-  <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/Suvraneel/Suvraneel/assets/63473496/a4d8a1b7-b832-4a7b-a987-d864b3466288" height="40" width="auto">
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;GitHub Stats:</span>
-  </h2>
-</div>
+**I like building things that are useful, not just impressive.**
 
 <table>
   <tr>
-    <td align="center">
-      <img alt="" width="400" src="https://github.com/Suvraneel/Suvraneel/blob/master/metrics.plugin.isocalendar.svg">
-    </td>
-    <td align="center">
-        <img align="right" src ="https://readme-stats-gamma-umber.vercel.app/api/top-langs/?username=suvraneel&layout=compact&hide_border=true&theme=vision-friendly-dark&langs_count=10&hide=jupyter%20notebook,tex,c" height="170px" width="360px">
-    </td>
+    <td width="150"><b>Now</b></td>
+    <td>Advanced App Engineering Sr. Analyst, <b>Accenture</b> · 2023 – present</td>
   </tr>
   <tr>
-    <td align="center">
-      <img alt="" width="400" src="https://readme-stats-gamma-umber.vercel.app/api?username=suvraneel&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="360px" height="170px" >
-    </td>
-    <td align="center">
-        <img align="right" src ="https://github-readme-streak-stats-black-seven.vercel.app?user=suvraneel&theme=vision-friendly-dark&hide_border=true" width="360px" height="170px">
-    </td>
+    <td><b>Focus</b></td>
+    <td>Backend services, integrations and APIs · agentic workflows with MCP · product interfaces</td>
+  </tr>
+  <tr>
+    <td><b>Core stack</b></td>
+    <td>Java · Spring Boot · Node.js · TypeScript · FastAPI · PostgreSQL · Redis · Elasticsearch</td>
+  </tr>
+  <tr>
+    <td><b>Education</b></td>
+    <td>B.Tech, Computer Science &amp; Engineering, University of Calcutta (UCSTA) · 2019 – 2023 · 9.24 CGPA</td>
+  </tr>
+  <tr>
+    <td><b>Community</b></td>
+    <td>Organiser, Web3Conf India 2023 · Technical Program Manager, GirlScript Summer of Code 2022</td>
+  </tr>
+  <tr>
+    <td><b>Recognition</b></td>
+    <td>Hackathon wins with team <a href="https://github.com/Open-Sorcerer">Open Sorcerer</a>, including ETHGlobal Circuit Breaker '24 and Chainlink Fall · IPFS/Filecoin microgrant for StakeOverflow</td>
   </tr>
 </table>
 
-<br/>
-<div id="recent">
-  <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/Suvraneel/Suvraneel/assets/63473496/79d3b4fa-d8fc-4348-94a1-7df5414d1ab3" height="40" width="auto">
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;Recent Activity:</span>
-  </h2>
-</div>
+<a href="https://suvraneel.github.io/skills">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/brand/h-skills-light.svg">
+    <img src="assets/brand/h-skills.svg" width="100%" alt="02 Capabilities: Skills">
+  </picture>
+</a>
 
-<!--  Personalised Heroku Instance (But sleeping dynos issue) at: suvraneel-gh-activity-graph.herokuapp.com  -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=Suvraneel&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"> -->
+<img src="assets/brand/stack.svg" width="100%" alt="Backend and Systems: Java, Spring Boot, Node.js, FastAPI, REST and SOAP APIs, SQL, PostgreSQL, Redis, Elasticsearch. Agentic Engineering: agentic AI, LLMs, MCP, tool calling, RAG, pgvector, Celery, FastAPI, Claude, Codex, Cursor. Product Interfaces: TypeScript, JavaScript, React, Next.js, Tailwind CSS, HTML, CSS, React Native. Web3 and Protocols: Solidity, Ethers.js, Viem, Wagmi, Axelar, IPFS, WalletConnect. Shipping: Python, Docker, AWS, Bun, Git, GitHub Actions, Linux, Postman, Figma. Earlier stacks: C++, C, PHP, Bootstrap, MongoDB, Express, MariaDB, Spring, Flutter, Dart, Android Studio, pandas, NumPy, TensorFlow, scikit-learn, Keras. Earlier tools: GitHub, VS Code, Eclipse IDE, XAMPP, Replit, CodePen, Vercel, Heroku, Bash, Arduino, VHDL, Photoshop.">
+
+<a href="https://github.com/Suvraneel?tab=repositories">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/brand/h-github-light.svg">
+    <img src="assets/brand/h-github.svg" width="100%" alt="03 In the open: GitHub">
+  </picture>
+</a>
+
+<img src="assets/generated/contributions.svg" width="100%" alt="GitHub contributions in the last year, with current and longest streaks">
+
+<p>
+  <img src="assets/generated/stats.svg" width="49%" alt="GitHub by the numbers">
+  <img src="assets/generated/languages.svg" width="49%" alt="Top languages across public repositories">
+</p>
+
+<a href="https://leetcode.com/u/Suvraneel/"><img src="assets/generated/leetcode.svg" width="100%" alt="LeetCode problems solved by difficulty"></a>
 
 <!--START_SECTION:activity-->
-`[09/13 14:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode)  
-
-</details>
+_Refreshing from GitHub…_
 <!--END_SECTION:activity-->
 
-<!--
 <details>
-<summary> <b>  :octocat: WakaTime Stats </b></summary>
-<br />
-  
+  <summary><b>More from GitHub</b> · isometric calendar and followers</summary>
+  <br>
+  <img src="assets/metrics/isocalendar.svg" width="100%" alt="Isometric contribution calendar">
+  <img src="assets/metrics/followers.svg" width="100%" alt="Followers">
+</details>
+
+<a href="https://suvraneel.github.io/projects">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/brand/h-projects-light.svg">
+    <img src="assets/brand/h-projects.svg" width="100%" alt="04 Selected work: Projects">
+  </picture>
+</a>
+
 <table>
   <tr>
-  <td><a href="https://wakatime.com/share/@05005a1d-5ed0-4f6a-b5c8-1a7a0d9534ea/a3675396-1652-4177-809a-65a6296755a7.svg"><img src="https://wakatime.com/share/@05005a1d-5ed0-4f6a-b5c8-1a7a0d9534ea/d93ea33a-b746-4c92-9c93-c80017ed72aa.png" width="400px"/></a><a href="https://wakatime.com/share/@05005a1d-5ed0-4f6a-b5c8-1a7a0d9534ea/9b6e468a-7930-4319-b2b5-4eeaa40133cb.svg"><img src="https://wakatime.com/share/@05005a1d-5ed0-4f6a-b5c8-1a7a0d9534ea/aaa0e22b-fd56-4033-9216-675147769a3f.png" width="400px"/></a></td>
-  </tr>  
+    <td width="50%" valign="top">
+      <a href="https://usemonoma.com"><img src="assets/projects/monoma.webp" width="100%" alt="Monoma: company brain that evolves with every action"></a>
+      <h3>Monoma</h3>
+      <p>Multi-tenant agentic AI platform that turns Jira, Confluence, GitHub and Slack activity into a shared organisational graph, with 18+ permission-aware MCP tools.</p>
+      <p><sub>FASTAPI · CELERY · POSTGRESQL · PGVECTOR · REDIS · MCP</sub></p>
+      <a href="https://usemonoma.com">Visit project ↗</a> &nbsp;·&nbsp; <a href="https://www.youtube.com/watch?v=1yD7N6u9MG8">Watch demo ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://settlex.fi"><img src="assets/projects/settlex.webp" width="100%" alt="SettleX: the clearing layer for crypto"></a>
+      <h3>SettleX</h3>
+      <p>Chain-agnostic settlement protocol that nets cross-chain transfers instead of bridging each one, cutting fees by up to 90%.</p>
+      <p><sub>BUN · ELYSIA · AWS · POSTGRESQL · WEBSOCKETS · NEXT.JS</sub></p>
+      <a href="https://settlex.fi">Visit project ↗</a> &nbsp;·&nbsp; <a href="https://www.youtube.com/watch?v=2CyxdCe9RD8">Watch demo ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://stake-overflow.vercel.app/"><img src="assets/projects/stakeoverflow.webp" width="100%" alt="StakeOverflow: knowledge that can't be taken down"></a>
+      <h3>StakeOverflow</h3>
+      <p>Stack Overflow on IPFS and Polygon, with karma-based reputation and crypto tips; funded by an IPFS/Filecoin microgrant.</p>
+      <p><sub>IPFS · REACT · ANT DESIGN · SOLIDITY · POLYGON</sub></p>
+      <a href="https://stake-overflow.vercel.app/">Visit project ↗</a> &nbsp;·&nbsp; <a href="https://github.com/Open-Sorcerer/StakeOverflow">View source ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://gssoc-2022.vercel.app/"><img src="assets/projects/gssoc.webp" width="100%" alt="GirlScript Summer of Code 2022 official website"></a>
+      <h3>GSSoC 2022 Official Website</h3>
+      <p>Official site of a national open-source programme, with a live leaderboard and on-chain certificates; 6,000+ contributors registered through it.</p>
+      <p><sub>NEXT.JS · TAILWIND CSS · CHAKRA UI · FIGMA · SOLIDITY</sub></p>
+      <a href="https://gssoc-2022.vercel.app/">Visit snapshot ↗</a> &nbsp;·&nbsp; <a href="https://github.com/Suvraneel/gssoc-website-new">View source ↗</a>
+    </td>
+  </tr>
 </table>
-</details>
--->
-
-<!--<details>
-  <summary> <b>  :maple_leaf: Website Performance </b></summary>
-<img src="https://metrics.lecoq.io/Suvraneel?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta">
-</details>-->
 
 <details>
-  <summary> <b>  🫀 GitHub Fam </b></summary>
-<img src="https://github.com/Suvraneel/Suvraneel/blob/master/metrics.plugin.people.followers.svg">
+  <summary><b>More projects</b> · NFTs, DAOs, games, ML and the odd music player</summary>
+  <br>
+
+| Project | What it is | Built with | Links |
+| :-- | :-- | :-- | :-- |
+| **NFT Haven** | Multi-chain DeFi dashboard and soulbound NFT minter on Polygon | React, Web3.js, Solidity, Moralis, Chainlink | [Live](https://nft-haven.vercel.app/) · [Code](https://github.com/Suvraneel/Instant-Soulbound-NFT-Minter) |
+| **EthCommerce** | Creators sell directly to their audience across chains, with data on IPFS and QuickNode alerts | Next.js 13, Solidity, IPFS, thirdweb, Hardhat, wagmi | [Live](https://ethcommerce.vercel.app/) · [Code](https://github.com/Open-Sorcerer/EthCommerce) |
+| **CrewS** | No-code tool for Data DAOs on FVM: proposals, on-chain voting and execution | Next.js, Solidity, FVM, IPFS | [Code](https://github.com/Open-Sorcerer/CrewS) |
+| **SoLingo** | Learn-to-earn: Solana Cookbook quizzes that award NFTs per module | Anchor, TypeScript, React, Solana | [Code](https://github.com/Open-Sorcerer/SoLingo) |
+| **Bounty Gunslinger** | NFT-gated game access you can trade on when you're done playing | React, Polygon, Solidity, Phaser | [Live](https://open-sorcerer-nft-game-token.vercel.app/) · [Code](https://github.com/Suvraneel/Bounty-Gunslinger) |
+| **JailBreak** | A 2D RPG built from scratch in stock Java, no engine or JavaFX | Java 17, OOP, sprites, threads | [Code](https://github.com/Suvraneel/JavaMonsterz) |
+| **CoWIN Clone** | MERN clone of cowin.gov.in with an API for beneficiaries, centres and slots | React, Redux, Express, MongoDB, Node.js | [Live](https://cowin-clone-ui.vercel.app/) · [Code](https://github.com/Suvraneel/cowin-clone-ui) |
+| **Meteorologyly** | Minimal weather dashboard: current conditions, forecasts and charts for any city | JavaScript, Chart.js, weather APIs | [Live](https://suvraneel.github.io/Meteorologyly/) · [Code](https://github.com/Suvraneel/Meteorologyly) |
+| **Stock trend prediction** | Short-term price trends for NSE equities with a 4-layer LSTM | Python, TensorFlow, Keras, BeautifulSoup | — |
+| **Diablo Music** | A dark, minimal music player for the nocturnal, local and online | Flutter, Dart, Firebase | [Code](https://github.com/Suvraneel/Diablo-Music) |
+
 </details>
 
-<details>
-<summary> <b>  :trophy: GitHub Achievements </b></summary>
-<img src="https://github.com/Suvraneel/Suvraneel/blob/master/metrics.plugin.achievements.svg">
-</details><br>
+<a href="https://suvraneel.github.io/work">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/brand/h-work-light.svg">
+    <img src="assets/brand/h-work.svg" width="100%" alt="05 Experience: Work">
+  </picture>
+</a>
 
-###### Show some ❤️ by ⭐ing some of the repos. I'd really appreciate it
+### Advanced App Engineering Sr. Analyst · Accenture
+<sub>2023 – PRESENT</sub>
+
+- **Java Spring Boot microservices** for a BI portal serving a global media client
+- **60% fewer support tickets** through better data validation and error handling
+- **30% faster Elasticsearch queries**
+
+#### Community & leadership
+
+| When | Role | What I did |
+| :-- | :-- | :-- |
+| Jun – Aug 2023 | **Organiser · Core Team**<br>Web3Conf India 2023 | Coordinated speakers, sponsors and media partners; helped convene 2,500+ attendees, 100+ speakers and 150+ companies and sponsors. |
+| Jan – Apr 2023 | **Program Manager**<br>HyperEdge Winter of Blockchain 2023 | Ran a blockchain learning programme for an 800+ member community; hosted 10+ sessions and workshops. |
+| Jan – Aug 2022 | **Technical Program Manager**<br>GirlScript Summer of Code 2022 | Led a 30-person team and the contributor workflow; built the official Next.js site for 6,000+ contributors; secured 10+ partnerships and $10k+ in sponsorship. |
+| Nov 2021 – Feb 2022 | **Full-stack Web Development Intern**<br>GEOGO TechSolutions | Built MERN apps and documented APIs, including a CoWIN vaccination-booking clone. |
+| Sep – Dec 2021 | **Supervisor & Mentor · C/C++**<br>GirlScript Winter of Contributing 2021 | Reviewed contributions to a ~900★ / 1.6k-fork repository; mentored 6,000+ participants; built GitHub Actions automation. |
+| Mar – Jun 2021 | **Open-source Contributor**<br>GirlScript Summer of Code 2021 | 14 merged pull requests across NeoAlgo and AlgoTree; top 100 of 7,000+ participants. |
+
+<br>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/4bio4arq8izb9sba4ly6al54v">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=4bio4arq8izb9sba4ly6al54v&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=1BFCD7&bar_color_cover=false&border_radius=22" width="420" alt="Now playing or recently played on Spotify">
+  </a>
+</p>
+
+<p align="center"><sub>
+  <a href="https://twitter.com/SuvraneelB">X</a> · <a href="https://leetcode.com/u/Suvraneel/">LeetCode</a> · <a href="https://www.codechef.com/users/suvraneel">CodeChef</a> · <a href="https://www.hackerrank.com/bsuvraneel">HackerRank</a> · <a href="https://www.freecodecamp.org/suvraneel">freeCodeCamp</a> · <a href="https://auth.geeksforgeeks.org/user/bsuvraneel/">GeeksforGeeks</a> · <a href="https://suvraneel.bio.link">more</a>
+</sub></p>
+
+<a href="https://suvraneel.github.io"><img src="assets/brand/footer.svg" width="100%" alt="Suvraneel"></a>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Suvraneel&color=1BFCD7&style=flat-square&label=lurkers" alt="Profile views">
+</p>

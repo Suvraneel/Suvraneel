@@ -1,0 +1,72 @@
+name: Profile cards
+
+# Renders the branded GitHub cards (assets/generated/*.svg) and the
+# "Recent activity" table in README.md. Runs every 6 hours, after any change to
+# the scripts, and on demand. Commits only when something actually changed.
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  push:
+    branches: [master]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/profile.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-readme
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+
+      - name: Render GitHub and LeetCode cards
+        id: stats
+        continue-on-error: true
+        env:
+          # The personal token reads contribution data across all of your public work.
+          # The built-in token is the fallback if it is missing or has expired.
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node scripts/build-stats.mjs
+
+      - name: Update recent activity
+        id: activity
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node scripts/update-activity.mjs
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/generated
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git commit -m "chore(profile): refresh cards and activity [skip ci]"
+          for attempt in 1 2 3; do
+            if git pull --rebase --autostash && git push; then exit 0; fi
+            git rebase --abort 2>/dev/null || true
+            sleep $((attempt * 5))
+          done
+          exit 1
+
+      - name: Report partial failures
+        if: steps.stats.outcome == 'failure' || steps.activity.outcome == 'failure'
+        run: |
+          echo "::warning::A refresh step failed (stats: ${{ steps.stats.outcome }}, activity: ${{ steps.activity.outcome }}). Previous cards were kept."
+          exit 1

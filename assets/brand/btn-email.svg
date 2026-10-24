@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="140" height="52" viewBox="0 0 140 52" role="img" aria-labelledby="t d" fill="none">
+<title id="t">Email</title><desc id="d"></desc>
+<style>.spin { animation: spin 6s linear infinite; transform-origin: 70px 26px; }
+@keyframes spin { to { transform: rotate(360deg); } }
+.sheen { animation: sheen 5.5s cubic-bezier(.65,0,.35,1) infinite; }
+@keyframes sheen { 0%, 55% { transform: translateX(-140px); } 100% { transform: translateX(280px); } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<defs><linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#8d9097"/><stop offset="11%" stop-color="#f3f4f7"/><stop offset="15%" stop-color="#e8eeff"/><stop offset="25%" stop-color="#55585e"/><stop offset="33%" stop-color="#1c1d20"/><stop offset="45%" stop-color="#c4c7ce"/><stop offset="52%" stop-color="#fdfdfe"/><stop offset="56%" stop-color="#fff0ea"/><stop offset="65%" stop-color="#66696f"/><stop offset="74%" stop-color="#202124"/><stop offset="86%" stop-color="#b3b6bd"/><stop offset="94%" stop-color="#eef0f4"/><stop offset="100%" stop-color="#8d9097"/></linearGradient>
+  <linearGradient id="inner" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#202020"/><stop offset="1" stop-color="#000"/></linearGradient>
+  <linearGradient id="gloss" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".16"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <clipPath id="pill"><rect width="140" height="52" rx="26"/></clipPath>
+  <clipPath id="core"><rect x="3" y="3" width="134" height="46" rx="23"/></clipPath>
+  <filter id="mono" color-interpolation-filters="sRGB"><feColorMatrix type="matrix" values=".3 .5 .2 0 .32  .3 .5 .2 0 .32  .3 .5 .2 0 .32  0 0 0 1 0"/></filter>
+</defs>
+<g clip-path="url(#pill)">
+  <rect class="spin" x="-70" y="-114" width="280" height="280" fill="url(#metal)"/>
+</g>
+<rect x="3" y="3" width="134" height="46" rx="23" fill="url(#inner)"/>
+<rect x="3.5" y="3.5" width="133" height="45" rx="22.5" stroke="rgba(255,255,255,0.12)"/>
+<g clip-path="url(#core)"><rect class="sheen" x="0" y="0" width="70" height="52" fill="url(#gloss)" transform="translate(-140 0)"/></g>
+<path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z" transform="translate(18 14)" fill="#fff"/><path d="M54.2 21L55.4 21L55.4 31.2L54.2 31.2ZM54.7 25.4L60.4 25.4L60.4 26.5L54.7 26.5ZM54.7 21L60.9 21L60.9 22.1L54.7 22.1ZM54.7 30.1L60.9 30.1L60.9 31.2L54.7 31.2ZM62.9 23.7L64.1 23.7L64.1 25.5L63.8 25.6Q64.1 25 64.5 24.5Q64.8 24.1 65.3 23.8Q65.8 23.6 66.5 23.6Q67.5 23.6 68.1 24.2Q68.7 24.9 68.7 26.2L68.7 31.2L67.5 31.2L67.5 26.3Q67.5 25.4 67.2 25Q66.8 24.5 65.9 24.5Q65 24.5 64.6 25.1Q64.1 25.6 64.1 26.7L64.1 31.2L62.9 31.2ZM70.5 24.5Q69.6 24.5 69.2 25.1Q68.7 25.6 68.7 26.7L68.3 25.6Q68.9 24.6 69.5 24.1Q70.1 23.6 71 23.6Q72.1 23.6 72.7 24.2Q73.3 24.9 73.3 26.2L73.3 31.2L72.1 31.2L72.1 26.3Q72.1 25.4 71.8 25Q71.4 24.5 70.5 24.5ZM75.2 29.4Q75.2 28.6 75.8 28.1Q76.4 27.5 77.3 27.3L80 26.5L80 27.3L77.6 28.1Q77 28.2 76.7 28.5Q76.4 28.8 76.4 29.3Q76.4 29.9 76.8 30.2Q77.1 30.5 77.8 30.5Q78.6 30.5 79.2 30Q79.8 29.5 79.8 28.5L79.8 26.3Q79.8 25.4 79.4 24.9Q79 24.5 78.2 24.5Q77.4 24.5 76.9 24.9Q76.5 25.2 76.4 25.9L75.2 25.9Q75.3 24.8 76.1 24.2Q77 23.6 78.2 23.6Q79.6 23.6 80.3 24.3Q81 25 81 26.3L81 31.2L79.9 31.2L79.8 29.4L80 29.6Q79.5 30.5 78.9 30.9Q78.4 31.4 77.5 31.4Q76.4 31.4 75.8 30.8Q75.2 30.2 75.2 29.4ZM83.3 23.7L84.5 23.7L84.5 31.2L83.3 31.2ZM83.3 20.6L83.3 22.3L84.5 22.3L84.5 20.6ZM86.8 20.4L88 20.4L88 30.2L89.1 30.2L89.1 31.2L86.8 31.2Z" fill="rgba(255,255,255,0.92)"/>
+<path d="M4 12L12 4M5.5 4H12V10.5" transform="translate(101.7 18)" stroke="#fff" stroke-opacity=".85" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
