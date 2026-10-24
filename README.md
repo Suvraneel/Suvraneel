@@ -83,10 +83,10 @@
 <!--END_SECTION:activity-->
 
 <details>
-  <summary><b>More from GitHub</b> · isometric calendar and followers</summary>
+  <summary><b>More from GitHub</b> · isometric calendar and community</summary>
   <br>
   <img src="assets/metrics/isocalendar.svg" width="100%" alt="Isometric contribution calendar">
-  <img src="assets/metrics/followers.svg" width="100%" alt="Followers">
+  <img src="assets/metrics/followers.svg" width="100%" alt="Community: people who follow my work on GitHub">
 </details>
 
 <a href="https://suvraneel.github.io/projects">
