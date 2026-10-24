@@ -1,0 +1,5 @@
+assets/generated/** linguist-generated=true
+assets/metrics/** linguist-generated=true
+assets/brand/** linguist-generated=true
+scripts/fonts/*.json linguist-generated=true
+scripts/lib/simple-icons.json linguist-generated=true

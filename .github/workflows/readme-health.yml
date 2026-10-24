@@ -1,0 +1,91 @@
+name: README health
+
+# Weekly check that every link and image in README.md still resolves, so a dead
+# widget is caught here instead of by a recruiter. Opens (or updates) one issue.
+on:
+  schedule:
+    - cron: "23 4 * * 1" # Mondays, 09:53 IST
+  pull_request:
+    paths: ["README.md"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Check links and images
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          fail: false
+          args: >-
+            --no-progress
+            --max-retries 3
+            --timeout 30
+            --accept 200,206,429
+            --exclude "^https?://([a-z]+\.)?linkedin\.com"
+            --exclude "^https?://(www\.)?(twitter|x)\.com"
+            --exclude "^https?://(www\.)?calendly\.com"
+            --exclude "^https?://(www\.)?leetcode\.com"
+            --exclude "^https?://(www\.)?hackerrank\.com"
+            --exclude "^https?://(www\.)?codechef\.com"
+            --exclude "^https?://([a-z]+\.)?geeksforgeeks\.org"
+            --exclude "^https?://komarev\.com"
+            --exclude "^https?://open\.spotify\.com"
+            --exclude "^https?://spotify-github-profile\.kittinanx\.com"
+            --root-dir "${{ github.workspace }}"
+            README.md
+
+      # The Spotify card answers 200 even when broken, so check that it is an image.
+      # Spotify refresh tokens now expire 6 months after you sign in.
+      - name: Check the Spotify card
+        id: spotify
+        run: |
+          url=$(grep -oE 'https://spotify-github-profile\.kittinanx\.com/api/view\?[^"]+' README.md | head -1 | sed 's/&amp;/\&/g')
+          if [ -z "$url" ]; then echo "broken=false" >> "$GITHUB_OUTPUT"; exit 0; fi
+          type=$(curl -sSL -o /dev/null -w '%{content_type}' --max-time 30 "$url" || true)
+          echo "Spotify card content type: ${type:-none}"
+          case "$type" in
+            image/svg*) echo "broken=false" >> "$GITHUB_OUTPUT" ;;
+            *)
+              echo "broken=true" >> "$GITHUB_OUTPUT"
+              mkdir -p lychee
+              printf '\n### Spotify card\n\nThe now-playing card is not returning an image. Spotify refresh tokens expire 6 months after you sign in, so reconnect at https://spotify-github-profile.kittinanx.com/api/login\n' >> lychee/out.md
+              ;;
+          esac
+
+      - name: Find an open health issue
+        id: existing
+        if: (steps.lychee.outputs.exit_code != 0 || steps.spotify.outputs.broken == 'true') && github.event_name != 'pull_request'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: echo "number=$(gh issue list --repo "$GITHUB_REPOSITORY" --label readme-health --state open --limit 1 --json number --jq '.[0].number // empty')" >> "$GITHUB_OUTPUT"
+
+      - name: Open or update the issue
+        if: (steps.lychee.outputs.exit_code != 0 || steps.spotify.outputs.broken == 'true') && github.event_name != 'pull_request'
+        uses: peter-evans/create-issue-from-file@v6
+        with:
+          title: "README: broken links or images"
+          content-filepath: ./lychee/out.md
+          labels: readme-health
+          issue-number: ${{ steps.existing.outputs.number }}
+
+      - name: Close the health issue once everything resolves
+        if: steps.lychee.outputs.exit_code == 0 && steps.spotify.outputs.broken != 'true' && github.event_name != 'pull_request'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          for n in $(gh issue list --repo "$GITHUB_REPOSITORY" --label readme-health --state open --json number --jq '.[].number'); do
+            gh issue close "$n" --repo "$GITHUB_REPOSITORY" --comment "All README links and images resolve again."
+          done
+
+      - name: Fail the PR check on broken links
+        if: steps.lychee.outputs.exit_code != 0 && github.event_name == 'pull_request'
+        run: exit 1

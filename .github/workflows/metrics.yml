@@ -1,0 +1,47 @@
+name: Metrics
+
+# lowlighter/metrics renders for the "More from GitHub" drawer in README.md.
+# (The achievements plugin was dropped: its last render was an "Unexpected error" card.)
+# Each render is independent, so one plugin failing never blocks the others.
+on:
+  schedule:
+    - cron: "41 19 * * *" # 01:11 IST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-readme-metrics
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Isometric calendar
+        continue-on-error: true
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Suvraneel
+          template: classic
+          base: ""
+          config_timezone: Asia/Calcutta
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      - name: Followers
+        continue-on-error: true
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/followers.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Suvraneel
+          base: ""
+          plugin_people: yes
+          plugin_people_size: 40
+          plugin_people_limit: 96
+          plugin_people_types: followers
