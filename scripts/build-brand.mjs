@@ -224,21 +224,18 @@ const activityIcon = (name, inner) =>
   `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="#12c4ab" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" color="#12c4ab" role="img" aria-label="${name}"><title>${name}</title>${inner}</svg>\n`;
 
 /* ---------------------------------------------------------------- footer */
-// The site's preloader: a ghost wordmark the texture fills, counting to 100.
+// The site's preloader: a ghost wordmark the texture fills.
 function footer() {
   const W = 1280;
   const H = 260;
   const size = 150;
   const t = text("spaceboards", "Suvraneel", { x: W / 2, y: 170, size, anchor: "middle" });
   const box = [W / 2 - t.width / 2, 170 - size * 0.75, t.width, size * 1.2];
-  const counter = text("spaceboards", "100", { x: W - 40, y: 236, size: 30, anchor: "end" });
   const body = `
 <rect width="${W}" height="${H}" rx="24" fill="#000"/>
 <rect x=".5" y=".5" width="${W - 1}" height="${H - 1}" rx="23.5" stroke="rgba(255,255,255,0.1)"/>
 ${textured({ id: "f", d: t.d, box, rise: 0.3 })}
-${p("tasa-text", "Suvraneel Bhuin · Software Engineer & Product Builder", { x: 40, y: 236, size: 15 }, "rgba(255,255,255,0.5)")}
-<path d="${counter.d}" fill="${C.accent}"/>
-${p("tasa-text", "/ 100", { x: W - 48 - counter.width, y: 236, size: 15, anchor: "end" }, "rgba(255,255,255,0.4)")}`;
+${p("tasa-text", "Suvraneel Bhuin · Software Engineer & Product Builder", { x: 40, y: 236, size: 15 }, "rgba(255,255,255,0.5)")}`;
   return svg({ width: W, height: H, title: "Suvraneel", desc: "Footer wordmark, after the portfolio's preloader.", body, style: TEXTURE_CSS });
 }
 
