@@ -77,11 +77,11 @@
 <!--START_SECTION:activity-->
 | | Activity | Repository | When |
 | :-: | :-- | :-- | --: |
-| <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 1 commit to `main` | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 24 Oct |
-| <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 5 commits to `main` | [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode) | 24 Oct |
-| <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 4 commits to `main` | [Suvraneel/gssoc-website-new](https://github.com/Suvraneel/gssoc-website-new) | 24 Oct |
-| <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 1 commit to `main` | [Open-Sorcerer/StakeOverflow](https://github.com/Open-Sorcerer/StakeOverflow) | 24 Oct |
-| <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 1 commit to `main` | [Suvraneel/Sheetah](https://github.com/Suvraneel/Sheetah) | 24 Oct |
+| <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 2 commits to `main` | [Open-Sorcerer/StakeOverflow](https://github.com/Open-Sorcerer/StakeOverflow) | 24 Oct |
+| <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 1 commit to `main` | [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode) | 24 Oct |
+| <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 2 commits to `main` | [Suvraneel/Radlet](https://github.com/Suvraneel/Radlet) | 25 Oct |
+| <img src="assets/brand/icons/merge.svg" width="16" height="16" alt="pull request"> | Merged PR [#2 Make the contract script executable, and its cancel check real](https://github.com/Suvraneel/Radlet/pull/2) | [Suvraneel/Radlet](https://github.com/Suvraneel/Radlet) | 25 Oct |
+| <img src="assets/brand/icons/pr.svg" width="16" height="16" alt="pull request"> | Opened PR [#2 Make the contract script executable, and its cancel check real](https://github.com/Suvraneel/Radlet/pull/2) | [Suvraneel/Radlet](https://github.com/Suvraneel/Radlet) | 25 Oct |
 <!--END_SECTION:activity-->
 
 <details>
