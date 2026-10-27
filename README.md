@@ -77,11 +77,11 @@
 <!--START_SECTION:activity-->
 | | Activity | Repository | When |
 | :-: | :-- | :-- | --: |
+| <img src="assets/brand/icons/merge.svg" width="16" height="16" alt="pull request"> | Merged PR [#34 About depth qa fixes](https://github.com/Suvraneel/Suvraneel.github.io/pull/34) | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 28 Oct |
+| <img src="assets/brand/icons/pr.svg" width="16" height="16" alt="pull request"> | Opened PR [#34 About depth qa fixes](https://github.com/Suvraneel/Suvraneel.github.io/pull/34) | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 28 Oct |
 | <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 1 commit to `main` | [Suvraneel/Radlet](https://github.com/Suvraneel/Radlet) | 26 Oct |
 | <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 19 commits to `brand-seo` | [Suvraneel/Radlet](https://github.com/Suvraneel/Radlet) | 25 Oct |
 | <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed to `main` | [Suvraneel/Radlet](https://github.com/Suvraneel/Radlet) | 25 Oct |
-| <img src="assets/brand/icons/pr.svg" width="16" height="16" alt="pull request"> | Closed PR [#4 (ImgBot) Optimize images](https://github.com/Suvraneel/Radlet/pull/4) | [Suvraneel/Radlet](https://github.com/Suvraneel/Radlet) | 26 Oct |
-| <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 1 commit to `main` | [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode) | 24 Oct |
 <!--END_SECTION:activity-->
 
 <details>
