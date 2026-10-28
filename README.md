@@ -77,11 +77,11 @@
 <!--START_SECTION:activity-->
 | | Activity | Repository | When |
 | :-: | :-- | :-- | --: |
+| <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed to `main` | [Suvraneel/Radlet](https://github.com/Suvraneel/Radlet) | 28 Oct |
 | <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 15 commits to `main` | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 28 Oct |
 | <img src="assets/brand/icons/merge.svg" width="16" height="16" alt="pull request"> | Merged PR [#5 Install prompts for installing additional dependencies at runti…](https://github.com/Suvraneel/Radlet/pull/5) | [Suvraneel/Radlet](https://github.com/Suvraneel/Radlet) | 28 Oct |
 | <img src="assets/brand/icons/pr.svg" width="16" height="16" alt="pull request"> | Opened PR [#5 Install prompts for installing additional dependencies at runti…](https://github.com/Suvraneel/Radlet/pull/5) | [Suvraneel/Radlet](https://github.com/Suvraneel/Radlet) | 28 Oct |
 | <img src="assets/brand/icons/merge.svg" width="16" height="16" alt="pull request"> | Merged PR [#34 About depth qa fixes](https://github.com/Suvraneel/Suvraneel.github.io/pull/34) | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 28 Oct |
-| <img src="assets/brand/icons/pr.svg" width="16" height="16" alt="pull request"> | Opened PR [#34 About depth qa fixes](https://github.com/Suvraneel/Suvraneel.github.io/pull/34) | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 28 Oct |
 <!--END_SECTION:activity-->
 
 <details>
