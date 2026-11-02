@@ -77,11 +77,11 @@
 <!--START_SECTION:activity-->
 | | Activity | Repository | When |
 | :-: | :-- | :-- | --: |
+| <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 4 commits to `main` | [Suvraneel/Radlet](https://github.com/Suvraneel/Radlet) | 31 Oct |
 | <img src="assets/brand/icons/star.svg" width="16" height="16" alt="star"> | Starred | [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | 31 Oct |
 | <img src="assets/brand/icons/star.svg" width="16" height="16" alt="star"> | Starred | [Shpigford/chops](https://github.com/Shpigford/chops) | 31 Oct |
 | <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed to `main` | [Suvraneel/Radlet](https://github.com/Suvraneel/Radlet) | 28 Oct |
 | <img src="assets/brand/icons/merge.svg" width="16" height="16" alt="pull request"> | Merged PR [#35 Design critique fixes](https://github.com/Suvraneel/Suvraneel.github.io/pull/35) | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 30 Oct |
-| <img src="assets/brand/icons/pr.svg" width="16" height="16" alt="pull request"> | Opened PR [#35 Design critique fixes](https://github.com/Suvraneel/Suvraneel.github.io/pull/35) | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 30 Oct |
 <!--END_SECTION:activity-->
 
 <details>
