@@ -77,11 +77,11 @@
 <!--START_SECTION:activity-->
 | | Activity | Repository | When |
 | :-: | :-- | :-- | --: |
+| <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 8 commits to `main` | [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode) | 3 Nov |
 | <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 6 commits to `main` | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 2 Nov |
 | <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed to `main` | [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode) | 2 Nov |
 | <img src="assets/brand/icons/merge.svg" width="16" height="16" alt="pull request"> | Merged PR [#36 About tablet split](https://github.com/Suvraneel/Suvraneel.github.io/pull/36) | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 2 Nov |
 | <img src="assets/brand/icons/pr.svg" width="16" height="16" alt="pull request"> | Opened PR [#36 About tablet split](https://github.com/Suvraneel/Suvraneel.github.io/pull/36) | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 2 Nov |
-| <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 4 commits to `main` | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 1 Nov |
 <!--END_SECTION:activity-->
 
 <details>
