@@ -77,11 +77,11 @@
 <!--START_SECTION:activity-->
 | | Activity | Repository | When |
 | :-: | :-- | :-- | --: |
-| <img src="assets/brand/icons/merge.svg" width="16" height="16" alt="pull request"> | Merged PR [#41 Projects bento](https://github.com/Suvraneel/Suvraneel.github.io/pull/41) | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 8 Nov |
-| <img src="assets/brand/icons/pr.svg" width="16" height="16" alt="pull request"> | Opened PR [#41 Projects bento](https://github.com/Suvraneel/Suvraneel.github.io/pull/41) | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 8 Nov |
-| <img src="assets/brand/icons/merge.svg" width="16" height="16" alt="pull request"> | Merged PR [#40 ✨ feat(projects): ranked bento with designed thumbnails, live f…](https://github.com/Suvraneel/Suvraneel.github.io/pull/40) | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 8 Nov |
-| <img src="assets/brand/icons/pr.svg" width="16" height="16" alt="pull request"> | Opened PR [#40 ✨ feat(projects): ranked bento with designed thumbnails, live f…](https://github.com/Suvraneel/Suvraneel.github.io/pull/40) | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 8 Nov |
-| <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed to `claude/suvraneel-mobile-experie…` | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 6 Nov |
+| <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 3 commits to `main` | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 8 Nov |
+| <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 6 commits to `projects-bento` | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 8 Nov |
+| <img src="assets/brand/icons/merge.svg" width="16" height="16" alt="pull request"> | Merged PR [#44 💄 Projects: new Monoma and SettleX footage; teasers play once](https://github.com/Suvraneel/Suvraneel.github.io/pull/44) | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 8 Nov |
+| <img src="assets/brand/icons/pr.svg" width="16" height="16" alt="pull request"> | Opened PR [#44 💄 Projects: new Monoma and SettleX footage; teasers play once](https://github.com/Suvraneel/Suvraneel.github.io/pull/44) | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 8 Nov |
+| <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 39 commits to `projects-bento` | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 8 Nov |
 <!--END_SECTION:activity-->
 
 <details>
