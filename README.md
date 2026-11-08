@@ -77,11 +77,11 @@
 <!--START_SECTION:activity-->
 | | Activity | Repository | When |
 | :-: | :-- | :-- | --: |
+| <img src="assets/brand/icons/pr.svg" width="16" height="16" alt="pull request"> | Opened PR [#40 ✨ feat(projects): ranked bento with designed thumbnails, live f…](https://github.com/Suvraneel/Suvraneel.github.io/pull/40) | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 8 Nov |
 | <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed to `claude/suvraneel-mobile-experie…` | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 6 Nov |
 | <img src="assets/brand/icons/merge.svg" width="16" height="16" alt="pull request"> | Merged PR [#39 Quick fixes, contact draft safety, and project deep links with…](https://github.com/Suvraneel/Suvraneel.github.io/pull/39) | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 6 Nov |
 | <img src="assets/brand/icons/pr.svg" width="16" height="16" alt="pull request"> | Opened PR [#39 Quick fixes, contact draft safety, and project deep links with…](https://github.com/Suvraneel/Suvraneel.github.io/pull/39) | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 6 Nov |
 | <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed to `claude/suvraneel-mobile-experie…` | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 5 Nov |
-| <img src="assets/brand/icons/merge.svg" width="16" height="16" alt="pull request"> | Merged PR [#38 Phones: skip About, resume on Home, trimmed hero, plant under W…](https://github.com/Suvraneel/Suvraneel.github.io/pull/38) | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 5 Nov |
 <!--END_SECTION:activity-->
 
 <details>
