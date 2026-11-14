@@ -77,9 +77,9 @@
 <!--START_SECTION:activity-->
 | | Activity | Repository | When |
 | :-: | :-- | :-- | --: |
+| <img src="assets/brand/icons/review.svg" width="16" height="16" alt="review"> | Reviewed [#11 Bump oxlint from 1.88.0 to 1.89.0](https://github.com/Suvraneel/Sheetah/pull/11) | [Suvraneel/Sheetah](https://github.com/Suvraneel/Sheetah) | 14 Nov |
+| <img src="assets/brand/icons/review.svg" width="16" height="16" alt="review"> | Reviewed [#10 Bump the codemirror group across 1 directory with 2 updates](https://github.com/Suvraneel/Sheetah/pull/10) | [Suvraneel/Sheetah](https://github.com/Suvraneel/Sheetah) | 14 Nov |
 | <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 2 commits to `main` | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 8 Nov |
-| <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 1 commit to `projects-bento` | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 8 Nov |
-| <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 3 commits to `main` | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 8 Nov |
 | <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 1 commit to `projects-bento` | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 8 Nov |
 | <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 3 commits to `main` | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 8 Nov |
 <!--END_SECTION:activity-->
