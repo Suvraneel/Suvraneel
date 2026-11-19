@@ -77,11 +77,11 @@
 <!--START_SECTION:activity-->
 | | Activity | Repository | When |
 | :-: | :-- | :-- | --: |
-| <img src="assets/brand/icons/merge.svg" width="16" height="16" alt="pull request"> | Merged PR [#45 ✨ Contact: a hand-signed sign-off that fits the first view](https://github.com/Suvraneel/Suvraneel.github.io/pull/45) | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 15 Nov |
-| <img src="assets/brand/icons/pr.svg" width="16" height="16" alt="pull request"> | Opened PR [#45 ✨ Contact: a hand-signed sign-off that fits the first view](https://github.com/Suvraneel/Suvraneel.github.io/pull/45) | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 15 Nov |
-| <img src="assets/brand/icons/review.svg" width="16" height="16" alt="review"> | Reviewed [#11 Bump oxlint from 1.88.0 to 1.89.0](https://github.com/Suvraneel/Sheetah/pull/11) | [Suvraneel/Sheetah](https://github.com/Suvraneel/Sheetah) | 14 Nov |
-| <img src="assets/brand/icons/review.svg" width="16" height="16" alt="review"> | Reviewed [#10 Bump the codemirror group across 1 directory with 2 updates](https://github.com/Suvraneel/Sheetah/pull/10) | [Suvraneel/Sheetah](https://github.com/Suvraneel/Sheetah) | 14 Nov |
-| <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 2 commits to `main` | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 8 Nov |
+| <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 7 commits to `main` | [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode) | 19 Nov |
+| <img src="assets/brand/icons/merge.svg" width="16" height="16" alt="pull request"> | Merged PR [#47 🔒 Next.js 16.4.6, past the 16.4.2 security advisories](https://github.com/Suvraneel/Suvraneel.github.io/pull/47) | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 19 Nov |
+| <img src="assets/brand/icons/merge.svg" width="16" height="16" alt="pull request"> | Merged PR [#46 ✨ Jury round: no-GPU dashboard, flood hovers, rail label, 404,…](https://github.com/Suvraneel/Suvraneel.github.io/pull/46) | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 19 Nov |
+| <img src="assets/brand/icons/pr.svg" width="16" height="16" alt="pull request"> | Opened PR [#47 🔒 Next.js 16.4.6, past the 16.4.2 security advisories](https://github.com/Suvraneel/Suvraneel.github.io/pull/47) | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 19 Nov |
+| <img src="assets/brand/icons/pr.svg" width="16" height="16" alt="pull request"> | Opened PR [#46 ✨ Jury round: no-GPU dashboard, flood hovers, rail label, 404,…](https://github.com/Suvraneel/Suvraneel.github.io/pull/46) | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 19 Nov |
 <!--END_SECTION:activity-->
 
 <details>
