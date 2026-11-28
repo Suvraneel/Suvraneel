@@ -77,11 +77,11 @@
 <!--START_SECTION:activity-->
 | | Activity | Repository | When |
 | :-: | :-- | :-- | --: |
+| <img src="assets/brand/icons/merge.svg" width="16" height="16" alt="pull request"> | Merged PR [#48 verify discord domain](https://github.com/Suvraneel/Suvraneel.github.io/pull/48) | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 28 Nov |
+| <img src="assets/brand/icons/pr.svg" width="16" height="16" alt="pull request"> | Opened PR [#48 verify discord domain](https://github.com/Suvraneel/Suvraneel.github.io/pull/48) | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 28 Nov |
 | <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 10 commits to `main` | [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode) | 19 Nov |
 | <img src="assets/brand/icons/push.svg" width="16" height="16" alt="push"> | Pushed 10 commits to `main` | [Suvraneel/LeetCode](https://github.com/Suvraneel/LeetCode) | 19 Nov |
 | <img src="assets/brand/icons/merge.svg" width="16" height="16" alt="pull request"> | Merged PR [#47 🔒 Next.js 16.4.6, past the 16.4.2 security advisories](https://github.com/Suvraneel/Suvraneel.github.io/pull/47) | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 19 Nov |
-| <img src="assets/brand/icons/merge.svg" width="16" height="16" alt="pull request"> | Merged PR [#46 ✨ Jury round: no-GPU dashboard, flood hovers, rail label, 404,…](https://github.com/Suvraneel/Suvraneel.github.io/pull/46) | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 19 Nov |
-| <img src="assets/brand/icons/pr.svg" width="16" height="16" alt="pull request"> | Opened PR [#47 🔒 Next.js 16.4.6, past the 16.4.2 security advisories](https://github.com/Suvraneel/Suvraneel.github.io/pull/47) | [Suvraneel/Suvraneel.github.io](https://github.com/Suvraneel/Suvraneel.github.io) | 19 Nov |
 <!--END_SECTION:activity-->
 
 <details>
